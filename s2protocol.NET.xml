@@ -1,0 +1,2298 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>s2protocol.NET</name>
+    </assembly>
+    <members>
+        <member name="T:s2protocol.NET.EngineException">
+             <summary>Engine startup Exception</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.EngineException.#ctor">
+             <summary>Engine startup Exception</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.EngineException.#ctor(System.String)">
+             <summary>Engine startup Exception</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.EngineException.#ctor(System.String,System.Exception)">
+             <summary>Engine startup Exception</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.EngineException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+             <summary>Engine startup Exception</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.DecodeException">
+             <summary>Engine startup Exception</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.DecodeException.#ctor">
+             <summary>decode exception</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.DecodeException.#ctor(System.String)">
+             <summary>decode exception</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.DecodeException.#ctor(System.String,System.Exception)">
+             <summary>decode exception</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.DecodeException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+             <summary>decode exception</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.AttributeEvents">
+             <summary>Record <c>AttributeEvents</c> Parsed replay AttributeEvents</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.AttributeEvents.#ctor(System.Int32,System.Int32,System.Collections.Generic.ICollection{s2protocol.NET.Models.AttributeEventScope})">
+             <summary>Record <c>AttributeEvents</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.AttributeEvents.Source">
+             <summary>AttributeEvent DataBuildNum</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.AttributeEvents.MapNameSpace">
+             <summary>AttributeEvent DataBuildNum</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.AttributeEvents.Scopes">
+             <summary>AttributeEvent Scopes</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.AttributeEventScope">
+             <summary>Record <c>AttributeEventScope</c> Parsed replay AttributeEvents scopes</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.AttributeEventScope.#ctor(System.Int32,System.Int32,System.Int32,System.Int32,System.String)">
+             <summary>Record <c>AttributeEventScope</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.AttributeEventScope.Scope">
+             <summary>AttributeEvent Scopes Scope</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.AttributeEventScope.SopeId">
+             <summary>AttributeEvent Scopes SopeId</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.AttributeEventScope.Namespace">
+             <summary>AttributeEvent Scopes Namespace</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.AttributeEventScope.Attrid">
+             <summary>AttributeEvent Scopes Attrid</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.AttributeEventScope.Value">
+             <summary>AttributeEvent Scopes Value</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.ChatMessageEvent">
+             <summary>Record <c>ChatMessageEvent</c> Parsed replay chat messages</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.ChatMessageEvent.#ctor(System.Int32,System.Int32,System.String,System.Int32)">
+             <summary>Record <c>ChatMessageEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.ChatMessageEvent.Recipient">
+             <summary>Message Recipient</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.ChatMessageEvent.UserId">
+             <summary>Message UserId</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.ChatMessageEvent.Message">
+             <summary>Message Message</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.ChatMessageEvent.Gameloop">
+             <summary>Message Gameloop</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.Details">
+             <summary>Record <c>Details</c> Parsed replay detail infos</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.Details.#ctor(System.Int32,System.Int32,System.String,System.String,System.Boolean,System.Int32,System.String,System.Boolean,System.String,System.Boolean,System.Boolean,System.Int64,System.Int64,System.String,System.Collections.Generic.ICollection{s2protocol.NET.Models.DetailsPlayer})">
+             <summary>Record <c>Details</c> Constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Details.CampaignIndex">
+             <summary>Replay CampaignIndex</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Details.DefaultDifficulty">
+             <summary>Replay DefaultDifficulty</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Details.Description">
+             <summary>Replay Description</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Details.Difficulty">
+             <summary>Replay Difficulty</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Details.DisableRecoverGame">
+             <summary>Replay DisableRecoverGame</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Details.GameSpeed">
+             <summary>Replay GameSpeed</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Details.ImageFilePath">
+             <summary>Replay ImageFilePath</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Details.IsBlizzardMap">
+             <summary>Replay IsBlizzardMap</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Details.MapFileName">
+             <summary>Replay MapFileName</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Details.MiniSave">
+             <summary>Replay MiniSave</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Details.RestartAsTransitionMap">
+             <summary>Replay RestartAsTransitionMap</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Details.TimeLocalOffset">
+             <summary>Replay TimeLocalOffset</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Details.TimeUTC">
+             <summary>Replay TimeUTC</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Details.DateTimeUTC">
+             <summary>Replay TimeUTC</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Details.Title">
+             <summary>Replay Title</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Details.Players">
+             <summary>Replay Players</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.DetailsPlayer">
+             <summary>Record <c>DetailsPlayer</c> Parsed replay player infos</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.DetailsPlayer.#ctor(s2protocol.NET.Models.PlayerColor,System.Int32,System.Int32,System.String,System.String,System.Int32,System.String,System.Int32,System.Int32,s2protocol.NET.Models.Toon,System.Int32)">
+             <summary>Record <c>DetailsPlayer</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.DetailsPlayer.Color">
+             <summary>Record <c>PlayerColor</c> Parsed replay player color infos</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.DetailsPlayer.Control">
+             <summary>Player Control</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.DetailsPlayer.Handicap">
+             <summary>Player Handicap</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.DetailsPlayer.Hero">
+             <summary>Player Hero</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.DetailsPlayer.Name">
+             <summary>Player Name (without clanTag)</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.DetailsPlayer.ClanName">
+             <summary>Player ClanName</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.DetailsPlayer.Observe">
+             <summary>Player Observe</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.DetailsPlayer.Race">
+             <summary>Player Race</summary>
+             <comment>language specific!</comment>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.DetailsPlayer.Result">
+             <summary>Player Result</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.DetailsPlayer.TeamId">
+             <summary>Player TeamId</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.DetailsPlayer.Toon">
+             <summary>Player Toon</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.DetailsPlayer.WorkingSetSlotId">
+             <summary>Player WorkingSetSlotId</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.Toon">
+             <summary>Record <c>Toon</c> Parsed replay player Toon infos</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.Toon.#ctor(System.Int32,System.String,System.Int32,System.Int32)">
+             <summary>Record <c>Toon</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Toon.Id">
+             <summary>Toon Id</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Toon.ProgramId">
+             <summary>Toon ProgramId</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Toon.Realm">
+             <summary>Toon Realm</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Toon.Region">
+             <summary>Toon Region</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.PlayerColor">
+             <summary>Record <c>PlayerColor</c> Parsed replay player color infos</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.PlayerColor.#ctor(System.Int32,System.Int32,System.Int32,System.Int32)">
+             <summary>Record <c>PlayerColor</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.PlayerColor.A">
+             <summary>Color A</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.PlayerColor.B">
+             <summary>Color B</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.PlayerColor.G">
+             <summary>Color G</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.PlayerColor.R">
+             <summary>Color R</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.GameEvents">
+             <summary>Record <c>GameEvents</c> GameEvents</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.GameEvents.#ctor(System.Collections.Generic.ICollection{s2protocol.NET.Models.GameEvent})">
+             <summary>Record <c>GameEvents</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameEvents.BaseGameEvents">
+             <summary>BaseGameEvents</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.GameEvents.GetGameEvents``1">
+             <summary>GetGameEvents of spcified Type</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.GameEvent">
+             <summary>Record <c>Event</c> Event baseclass</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.GameEvent.#ctor(System.Int32,System.Int32,System.String,System.Int32,System.Int32)">
+            <summary>Record <c>GameEvent</c> base constructor</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.GameEvent.#ctor(s2protocol.NET.Models.GameEvent)">
+            <summary>Record <c>GameEvent</c> base clone constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameEvent.UserId">
+             <summary>Event PlayerId</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameEvent.EventId">
+             <summary>Event EventId</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameEvent.EventType">
+             <summary>Event EventType</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameEvent.Bits">
+             <summary>Event Bits</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameEvent.Gameloop">
+             <summary>Event Gameloop</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.GameEventType">
+             <summary>Enum <c>EventType</c> Event type</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.SAchievementAwardedEvent">
+             <summary>Record <c>SAchievementAwardedEvent</c> SAchievementAwardedEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SAchievementAwardedEvent.#ctor(s2protocol.NET.Models.GameEvent,System.Int32)">
+             <summary>Record <c>SAchievementAwardedEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SAchievementAwardedEvent.AchievementLink">
+             <summary>Event Flags</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.SUserOptionsEvent">
+             <summary>Record <c>SUserOptionsEvent</c> SUserOptionsEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SUserOptionsEvent.#ctor(s2protocol.NET.Models.GameEvent,System.Boolean,System.Boolean,System.Boolean,System.String,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Int32,System.Int32,System.Boolean,System.Boolean,System.Int32,System.Boolean)">
+             <summary>Record <c>SUserOptionsEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUserOptionsEvent.TestCheatsEnabled">
+             <summary>Event TestCheatsEnabled</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUserOptionsEvent.MultiplayerCheatsEnabled">
+             <summary>Event MultiplayerCheatsEnabled</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUserOptionsEvent.GameFullyDownloaded">
+             <summary>Event GameFullyDownloaded</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUserOptionsEvent.HotkeyProfile">
+             <summary>Event HotkeyProfile</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUserOptionsEvent.UseGalaxyAsserts">
+             <summary>Event UseGalaxyAsserts</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUserOptionsEvent.DebugPauseEnabled">
+             <summary>Event DebugPauseEnabled</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUserOptionsEvent.CameraFollow">
+             <summary>Event CameraFollow</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUserOptionsEvent.IsMapToMapTransition">
+             <summary>Event IsMapToMapTransition</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUserOptionsEvent.BuildNum">
+             <summary>Event BuildNum</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUserOptionsEvent.VersionFlags">
+             <summary>Event VersionFlags</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUserOptionsEvent.DevelopmentCheatsEnabled">
+             <summary>Event DevelopmentCheatsEnabled</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUserOptionsEvent.PlatformMac">
+             <summary>Event PlatformMac</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUserOptionsEvent.BaseBuildNum">
+             <summary>Event BaseBuildNum</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUserOptionsEvent.SyncChecksummingEnabled">
+             <summary>Event SyncChecksummingEnabled</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.SBankKeyEvent">
+             <summary>Record <c>SBankKeyEvent</c> SBankKeyEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SBankKeyEvent.#ctor(s2protocol.NET.Models.GameEvent,System.String,System.String,System.Int32)">
+             <summary>Record <c>SBankKeyEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SBankKeyEvent.Name">
+             <summary>Event Type</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SBankKeyEvent.Data">
+             <summary>Event Data</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SBankKeyEvent.Type">
+             <summary>Event Type</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.SBankSectionEvent">
+             <summary>Record <c>SBankSectionEvent</c> SBankSectionEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SBankSectionEvent.#ctor(s2protocol.NET.Models.GameEvent,System.String)">
+             <summary>Record <c>SBankSectionEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SBankSectionEvent.Name">
+             <summary>Event Type</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.SBankSignatureEvent">
+             <summary>Record <c>SBankSignatureEvent</c> SBankSignatureEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SBankSignatureEvent.#ctor(s2protocol.NET.Models.GameEvent,System.String,System.Collections.Generic.ICollection{System.Int32})">
+             <summary>Record <c>SBankSignatureEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SBankSignatureEvent.ToonHandle">
+             <summary>Event ToonHandle</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SBankSignatureEvent.Signature">
+             <summary>Event Signature</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.SBankValueEvent">
+             <summary>Record <c>SBankValueEvent</c> SBankValueEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SBankValueEvent.#ctor(s2protocol.NET.Models.GameEvent,System.String,System.String,System.Int32)">
+             <summary>Record <c>SBankValueEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SBankValueEvent.Name">
+             <summary>Event Type</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SBankValueEvent.Data">
+             <summary>Event Data</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SBankValueEvent.Type">
+             <summary>Event Type</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.SCameraSaveEvent">
+             <summary>Record <c>SCameraSaveEvent</c> SCameraSaveEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SCameraSaveEvent.#ctor(s2protocol.NET.Models.GameEvent,System.Int32,System.Int64,System.Int64)">
+             <summary>Record <c>SCameraSaveEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SCameraSaveEvent.Which">
+             <summary>Event Which</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SCameraSaveEvent.TargetX">
+             <summary>Event TargetX</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SCameraSaveEvent.TargetY">
+             <summary>Event TargetY</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.SCameraUpdateEvent">
+             <summary>Record <c>SCameraUpdateEvent</c> SCameraUpdateEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SCameraUpdateEvent.#ctor(s2protocol.NET.Models.GameEvent,System.String,System.Nullable{System.Int32},System.Nullable{System.Int64},System.Nullable{System.Int64},System.Nullable{System.Int32},System.Nullable{System.Int32},System.Boolean)">
+             <summary>Record <c>SCameraUpdateEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SCameraUpdateEvent.Reason">
+             <summary>Event Reason</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SCameraUpdateEvent.Distance">
+             <summary>Event Distance</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SCameraUpdateEvent.TargetX">
+             <summary>Event TargetX</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SCameraUpdateEvent.TargetY">
+             <summary>Event TargetY</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SCameraUpdateEvent.Yaw">
+             <summary>Event Yaw</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SCameraUpdateEvent.Pitch">
+             <summary>Event Pitch</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SCameraUpdateEvent.Follow">
+             <summary>Event Follow</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.SCmdEvent">
+             <summary>Record <c>SCmdEvent</c> SCmdEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SCmdEvent.#ctor(s2protocol.NET.Models.GameEvent,System.Nullable{System.Int32},System.Int32,System.Int32,System.String,System.Nullable{System.Int64},System.Nullable{System.Int64},System.Nullable{System.Int64},System.Int32,System.Int32,System.Nullable{System.Int32})">
+             <summary>Record <c>SCmdEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SCmdEvent.UnitGroup">
+             <summary>Event UnitGroup</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SCmdEvent.AbilLink">
+             <summary>Event AbilLink</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SCmdEvent.AbilCmdIndex">
+             <summary>Event AbilCmdIndex</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SCmdEvent.AbilCmdData">
+             <summary>Event AbilCmdData</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SCmdEvent.TargetX">
+             <summary>Event TargetX</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SCmdEvent.TargetY">
+             <summary>Event TargetY</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SCmdEvent.TargetZ">
+             <summary>Event TargetZ</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SCmdEvent.CmdFlags">
+             <summary>Event CmdFlags</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SCmdEvent.Sequence">
+             <summary>Event Sequence</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SCmdEvent.OtherUnit">
+             <summary>Event OtherUnit</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.SCmdUpdateTargetPointEvent">
+             <summary>Record <c>SCmdUpdateTargetPointEvent</c> SCmdUpdateTargetPointEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SCmdUpdateTargetPointEvent.#ctor(s2protocol.NET.Models.GameEvent,System.Int64,System.Int64,System.Int64)">
+             <summary>Record <c>SCmdUpdateTargetPointEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SCmdUpdateTargetPointEvent.TargetX">
+             <summary>Event TargetX</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SCmdUpdateTargetPointEvent.TargetY">
+             <summary>Event TargetY</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SCmdUpdateTargetPointEvent.TargetZ">
+             <summary>Event TargetZ</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.SCmdUpdateTargetUnitEvent">
+             <summary>Record <c>SCmdUpdateTargetUnitEvent</c> SCmdUpdateTargetUnitEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SCmdUpdateTargetUnitEvent.#ctor(s2protocol.NET.Models.GameEvent,System.Int32,System.Int64,System.Int64,System.Int64,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
+             <summary>Record <c>SCmdUpdateTargetUnitEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SCmdUpdateTargetUnitEvent.SnapshotControlPlayerId">
+             <summary>Event Type</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SCmdUpdateTargetUnitEvent.SnapshotPointX">
+            <summary>Event SnapshotPointX</summary>
+               
+        </member>
+        <member name="P:s2protocol.NET.Models.SCmdUpdateTargetUnitEvent.SnapshotPointY">
+            <summary>Event SnapshotPointY</summary>
+               
+        </member>
+        <member name="P:s2protocol.NET.Models.SCmdUpdateTargetUnitEvent.SnapshotPointZ">
+            <summary>Event SnapshotPointZ</summary>
+               
+        </member>
+        <member name="P:s2protocol.NET.Models.SCmdUpdateTargetUnitEvent.SnapshotUpkeepPlayerId">
+            <summary>Event SnapshotUpkeepPlayerId</summary>
+               
+        </member>
+        <member name="P:s2protocol.NET.Models.SCmdUpdateTargetUnitEvent.Timer">
+            <summary>Event Timer</summary>
+               
+        </member>
+        <member name="P:s2protocol.NET.Models.SCmdUpdateTargetUnitEvent.TargetUnitFlags">
+            <summary>Event TargetUnitFlags</summary>
+               
+        </member>
+        <member name="P:s2protocol.NET.Models.SCmdUpdateTargetUnitEvent.SnapshotUnitLink">
+            <summary>Event SnapshotUnitLink</summary>
+               
+        </member>
+        <member name="P:s2protocol.NET.Models.SCmdUpdateTargetUnitEvent.Tag">
+            <summary>Event Tag</summary>
+               
+        </member>
+        <member name="T:s2protocol.NET.Models.SCommandManagerStateEvent">
+             <summary>Record <c>SCommandManagerStateEvent</c> SCommandManagerStateEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SCommandManagerStateEvent.#ctor(s2protocol.NET.Models.GameEvent,System.Int32,System.Nullable{System.Int32})">
+             <summary>Record <c>SCommandManagerStateEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SCommandManagerStateEvent.State">
+             <summary>Event State</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SCommandManagerStateEvent.Sequence">
+             <summary>Event Sequence</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.SControlGroupUpdateEvent">
+             <summary>Record <c>SControlGroupUpdateEvent</c> SControlGroupUpdateEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SControlGroupUpdateEvent.#ctor(s2protocol.NET.Models.GameEvent,System.Int32)">
+             <summary>Record <c>SControlGroupUpdateEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SControlGroupUpdateEvent.ControlGroupUpdate">
+             <summary>Event ControlGroupUpdate</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.SDecrementGameTimeRemainingEvent">
+             <summary>Record <c>SDecrementGameTimeRemainingEvent</c> SDecrementGameTimeRemainingEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SDecrementGameTimeRemainingEvent.#ctor(s2protocol.NET.Models.GameEvent,System.Int32)">
+             <summary>Record <c>SDecrementGameTimeRemainingEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SDecrementGameTimeRemainingEvent.DecrementSeconds">
+             <summary>Event DecrementSeconds</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.SGameUserLeaveEvent">
+             <summary>Record <c>SGameUserLeaveEvent</c> SGameUserLeaveEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SGameUserLeaveEvent.#ctor(s2protocol.NET.Models.GameEvent,System.Int32)">
+             <summary>Record <c>SGameUserLeaveEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SGameUserLeaveEvent.LeaveReason">
+             <summary>Event LeaveReason</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.SSelectionDeltaEvent">
+             <summary>Record <c>SSelectionDeltaEvent</c> SSelectionDeltaEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SSelectionDeltaEvent.#ctor(s2protocol.NET.Models.GameEvent,s2protocol.NET.Models.SelectionDeltaEventDelta,System.Int32)">
+             <summary>Record <c>SSelectionDeltaEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SSelectionDeltaEvent.Delta">
+             <summary>Event Type</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SSelectionDeltaEvent.ControlGroupId">
+             <summary>Event ControlGroupId</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.SelectionDeltaEventDelta">
+             <summary>Record <c>SelectionDeltaEventDelta</c> SelectionDeltaEventDelta</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SelectionDeltaEventDelta.#ctor(System.Collections.Generic.ICollection{System.Int32},System.Collections.Generic.ICollection{s2protocol.NET.Models.SelectionDeltaEventDeltaSubGroup},System.Collections.Generic.ICollection{System.Int32},System.Int32)">
+             <summary>Record <c>SelectionDeltaEventDelta</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SelectionDeltaEventDelta.AddUnitTags">
+             <summary>Event AddUnitTags</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SelectionDeltaEventDelta.AddSubgroups">
+             <summary>Event AddSubgroups</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SelectionDeltaEventDelta.ZeroIndices">
+             <summary>Event AddSubgroups</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SelectionDeltaEventDelta.SubgroupIndex">
+             <summary>Event SubgroupIndex</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.SelectionDeltaEventDeltaSubGroup">
+             <summary>Record <c>SelectionDeltaEventDeltaSubGroup</c> SelectionDeltaEventDeltaSubGroup</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SelectionDeltaEventDeltaSubGroup.#ctor(System.Int32,System.Int32,System.Int32,System.Int32)">
+             <summary>Record <c>SelectionDeltaEventDeltaSubGroup</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SelectionDeltaEventDeltaSubGroup.UnitLink">
+             <summary>Event UnitLink</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SelectionDeltaEventDeltaSubGroup.SubgroupPriority">
+             <summary>Event SubgroupPriority</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SelectionDeltaEventDeltaSubGroup.Count">
+             <summary>Event Count</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SelectionDeltaEventDeltaSubGroup.IntraSubgroupPriority">
+             <summary>Event IntraSubgroupPriority</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.SSetSyncLoadingTimeEvent">
+             <summary>Record <c>SSetSyncLoadingTimeEvent</c> SSetSyncLoadingTimeEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SSetSyncLoadingTimeEvent.#ctor(s2protocol.NET.Models.GameEvent,System.Int32)">
+             <summary>Record <c>SSetSyncLoadingTimeEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SSetSyncLoadingTimeEvent.SyncTime">
+             <summary>Event Type</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.SSetSyncPlayingTimeEvent">
+             <summary>Record <c>SSetSyncPlayingTimeEvent</c> SSetSyncPlayingTimeEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SSetSyncPlayingTimeEvent.#ctor(s2protocol.NET.Models.GameEvent,System.Int32)">
+             <summary>Record <c>SSetSyncPlayingTimeEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SSetSyncPlayingTimeEvent.SyncTime">
+             <summary>Event SyncTime</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.STriggerButtonPressedEvent">
+             <summary>Record <c>STriggerButtonPressedEvent</c> STriggerButtonPressedEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.STriggerButtonPressedEvent.#ctor(s2protocol.NET.Models.GameEvent,System.Int32)">
+             <summary>Record <c>STriggerButtonPressedEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerButtonPressedEvent.Button">
+             <summary>Event Button</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.STriggerChatMessageEvent">
+             <summary>Record <c>STriggerChatMessageEvent</c> STriggerChatMessageEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.STriggerChatMessageEvent.#ctor(s2protocol.NET.Models.GameEvent,System.String)">
+             <summary>Record <c>STriggerChatMessageEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerChatMessageEvent.ChatMessage">
+             <summary>Event Type</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.STriggerCutsceneBookmarkFiredEvent">
+             <summary>Record <c>STriggerCutsceneBookmarkFiredEvent</c> STriggerCutsceneBookmarkFiredEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.STriggerCutsceneBookmarkFiredEvent.#ctor(s2protocol.NET.Models.GameEvent,System.Int64,System.String)">
+             <summary>Record <c>STriggerCutsceneBookmarkFiredEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerCutsceneBookmarkFiredEvent.CutsceneId">
+             <summary>Event CutsceneId</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerCutsceneBookmarkFiredEvent.BookmarkName">
+             <summary>Event BookmarkName</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.STriggerCutsceneEndSceneFiredEvent">
+             <summary>Record <c>STriggerCutsceneEndSceneFiredEvent</c> STriggerCutsceneEndSceneFiredEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.STriggerCutsceneEndSceneFiredEvent.#ctor(s2protocol.NET.Models.GameEvent,System.Int64)">
+             <summary>Record <c>STriggerCutsceneEndSceneFiredEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerCutsceneEndSceneFiredEvent.CutsceneId">
+             <summary>Event CutsceneId</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.STriggerDialogControlEvent">
+             <summary>Record <c>STriggerDialogControlEvent</c> STriggerDialogControlEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.STriggerDialogControlEvent.#ctor(s2protocol.NET.Models.GameEvent,System.Int64,System.Nullable{System.Int32},System.String,System.Int64)">
+             <summary>Record <c>STriggerDialogControlEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerDialogControlEvent.ControlId">
+             <summary>Event Type</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerDialogControlEvent.MouseButton">
+             <summary>Event MouseButton</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerDialogControlEvent.TextChanged">
+             <summary>Event TextChanged</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerDialogControlEvent.EventTypeId">
+             <summary>Event EventType</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.STriggerGameMenuItemSelectedEvent">
+             <summary>Record <c>STriggerGameMenuItemSelectedEvent</c> STriggerGameMenuItemSelectedEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.STriggerGameMenuItemSelectedEvent.#ctor(s2protocol.NET.Models.GameEvent,System.Int64)">
+             <summary>Record <c>STriggerGameMenuItemSelectedEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerGameMenuItemSelectedEvent.GameMenuItemIndex">
+             <summary>Event GameMenuItemIndex</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.STriggerKeyPressedEvent">
+             <summary>Record <c>STriggerKeyPressedEvent</c> STriggerKeyPressedEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.STriggerKeyPressedEvent.#ctor(s2protocol.NET.Models.GameEvent,System.Int32,System.Int32)">
+             <summary>Record <c>STriggerKeyPressedEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerKeyPressedEvent.Flags">
+             <summary>Event Flags</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerKeyPressedEvent.Key">
+             <summary>Event Key</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.STriggerMouseClickedEvent">
+             <summary>Record <c>STriggerMouseClickedEvent</c> STriggerMouseClickedEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.STriggerMouseClickedEvent.#ctor(s2protocol.NET.Models.GameEvent,System.Boolean,System.Int32,System.Int32,System.Int64,System.Int64)">
+             <summary>Record <c>STriggerMouseClickedEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerMouseClickedEvent.Down">
+             <summary>Event Down</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerMouseClickedEvent.Button">
+            <summary>Event Button</summary>
+               
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerMouseClickedEvent.Flags">
+            <summary>Event Flags</summary>
+               
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerMouseClickedEvent.PosUIX">
+            <summary>Event PosUIX</summary>
+               
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerMouseClickedEvent.PosUIY">
+            <summary>Event PosUIY</summary>
+               
+        </member>
+        <member name="T:s2protocol.NET.Models.STriggerMouseMovedEvent">
+             <summary>Record <c>STriggerMouseMovedEvent</c> STriggerMouseMovedEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.STriggerMouseMovedEvent.#ctor(s2protocol.NET.Models.GameEvent,System.Int32,System.Int64,System.Int64)">
+             <summary>Record <c>STriggerMouseMovedEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerMouseMovedEvent.Flags">
+             <summary>Event Flags</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerMouseMovedEvent.PosUIX">
+             <summary>Event PosUIX</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerMouseMovedEvent.PosUIY">
+             <summary>Event PosUIY</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.STriggerPingEvent">
+             <summary>Record <c>STriggerPingEvent</c> STriggerPingEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.STriggerPingEvent.#ctor(s2protocol.NET.Models.GameEvent,System.Boolean,System.Int32,System.Boolean,System.Int64,System.Int32,System.Int64,System.Int64,System.Int64,System.Nullable{System.Int32},System.Int64,System.Int64,System.Nullable{System.Int32})">
+             <summary>Record <c>STriggerPingEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerPingEvent.PingedMinimap">
+             <summary>Event PingedMinimap</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerPingEvent.UnitLink">
+            <summary>Event UnitLink</summary>
+               
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerPingEvent.UnitIsUnderConstruction">
+            <summary>Event UnitIsUnderConstruction</summary>
+               
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerPingEvent.Option">
+            <summary>Event Option</summary>
+               
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerPingEvent.Unit">
+            <summary>Event Unit</summary>
+               
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerPingEvent.UnitX">
+            <summary>Event UnitX</summary>
+               
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerPingEvent.UnitY">
+            <summary>Event UnitY</summary>
+               
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerPingEvent.UnitZ">
+            <summary>Event UnitZ</summary>
+               
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerPingEvent.UnitControlPlayerId">
+            <summary>Event UnitControlPlayerId</summary>
+               
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerPingEvent.PointX">
+            <summary>Event PointX</summary>
+               
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerPingEvent.PointY">
+            <summary>Event PointY</summary>
+               
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerPingEvent.UnitUpkeepPlayerId">
+            <summary>Event UnitUpkeepPlayerId</summary>
+               
+        </member>
+        <member name="T:s2protocol.NET.Models.STriggerSoundLengthQueryEvent">
+             <summary>Record <c>STriggerSoundLengthQueryEvent</c> STriggerSoundLengthQueryEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.STriggerSoundLengthQueryEvent.#ctor(s2protocol.NET.Models.GameEvent,System.Int64,System.Int32)">
+             <summary>Record <c>STriggerSoundLengthQueryEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerSoundLengthQueryEvent.SoundHash">
+             <summary>Event SoundHash</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerSoundLengthQueryEvent.Length">
+             <summary>Event Length</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.STriggerSoundLengthSyncEvent">
+             <summary>Record <c>STriggerSoundLengthSyncEvent</c> STriggerSoundLengthSyncEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.STriggerSoundLengthSyncEvent.#ctor(s2protocol.NET.Models.GameEvent)">
+             <summary>Record <c>STriggerSoundLengthSyncEvent</c> constructor</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.STriggerSoundOffsetEvent">
+             <summary>Record <c>STriggerSoundOffsetEvent</c> STriggerSoundOffsetEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.STriggerSoundOffsetEvent.#ctor(s2protocol.NET.Models.GameEvent,System.Int32)">
+             <summary>Record <c>STriggerSoundOffsetEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerSoundOffsetEvent.Sound">
+             <summary>Event Sound</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.STriggerSoundtrackDoneEvent">
+             <summary>Record <c>STriggerSoundtrackDoneEvent</c> STriggerSoundtrackDoneEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.STriggerSoundtrackDoneEvent.#ctor(s2protocol.NET.Models.GameEvent,System.Int32)">
+             <summary>Record <c>STriggerSoundtrackDoneEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerSoundtrackDoneEvent.Soundtrack">
+             <summary>Event Down</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.STriggerTargetModeUpdateEvent">
+             <summary>Record <c>STriggerTargetModeUpdateEvent</c> STriggerTargetModeUpdateEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.STriggerTargetModeUpdateEvent.#ctor(s2protocol.NET.Models.GameEvent,System.Int32,System.Int32,System.Int32)">
+             <summary>Record <c>STriggerTargetModeUpdateEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerTargetModeUpdateEvent.AbilCmdIndex">
+             <summary>Event AbilCmdIndex</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerTargetModeUpdateEvent.AbilLink">
+             <summary>Event AbilLink</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerTargetModeUpdateEvent.State">
+             <summary>Event State</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.STriggerTransmissionCompleteEvent">
+             <summary>Record <c>STriggerTransmissionCompleteEvent</c> STriggerTransmissionCompleteEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.STriggerTransmissionCompleteEvent.#ctor(s2protocol.NET.Models.GameEvent,System.Int64)">
+             <summary>Record <c>STriggerTransmissionCompleteEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerTransmissionCompleteEvent.TransmissionId">
+             <summary>Event TransmissionId</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.STriggerTransmissionOffsetEvent">
+             <summary>Record <c>STriggerTransmissionOffsetEvent</c> STriggerTransmissionOffsetEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.STriggerTransmissionOffsetEvent.#ctor(s2protocol.NET.Models.GameEvent,System.Int32)">
+             <summary>Record <c>STriggerTransmissionOffsetEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.STriggerTransmissionOffsetEvent.AchievementLink">
+             <summary>Event Flags</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.SUnitClickEvent">
+             <summary>Record <c>SUnitClickEvent</c> SUnitClickEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SUnitClickEvent.#ctor(s2protocol.NET.Models.GameEvent,System.Int32)">
+             <summary>Record <c>SUnitClickEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitClickEvent.UnitTag">
+             <summary>Event TargetX</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.SUserFinishedLoadingSyncEvent">
+             <summary>Record <c>SUserFinishedLoadingSyncEvent</c> SUserFinishedLoadingSyncEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SUserFinishedLoadingSyncEvent.#ctor(s2protocol.NET.Models.GameEvent)">
+             <summary>Record <c>SUserFinishedLoadingSyncEvent</c> constructor</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.SBankFileEvent">
+             <summary>Record <c>SBankFileEvent</c> SBankFileEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SBankFileEvent.#ctor(s2protocol.NET.Models.GameEvent,System.String)">
+             <summary>Record <c>SBankFileEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SBankFileEvent.Name">
+             <summary>Event Type</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.UnknownGameEvent">
+             <summary>Record <c>UnknownGameEvent</c> UnknownGameEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.UnknownGameEvent.#ctor(s2protocol.NET.Models.GameEvent,System.String)">
+             <summary>Record <c>UnknownGameEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.UnknownGameEvent.EventTypeName">
+             <summary>EventTypeName</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.Header">
+             <summary>Record <c>Header</c> Parsed replay header infos</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.Header.#ctor(System.Int32,System.Int32,System.Boolean,System.Version,System.String,System.String,System.String,System.Int32,System.Int32,System.Int32,System.Int32)">
+             <summary>Record <c>Header</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Header.DataBuildNum">
+             <summary>Replay DataBuildNum</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Header.NgpdRootKey">
+             <summary>Replay NgpdRootKey</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Header.ElapsedGameLoops">
+             <summary>Replay ElapsedGameLoops</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Header.UseScaledTime">
+             <summary>Replay UseScaledTime</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Header.Version">
+             <summary>Replay version</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Header.Signature">
+             <summary>Replay signature</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Header.CompatibilityHash">
+             <summary>Replay CompatibilityHash</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Header.Type">
+             <summary>Replay Type</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Header.Flags">
+             <summary>Replay header version flags</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Header.Build">
+             <summary>Replay header version Build</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Header.BaseBuild">
+             <summary>Replay header version BaseBuild</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.Initdata">
+             <summary>Record <c>Initdata</c> Parsed replay Initdata (m_syncLobbyState)</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.Initdata.#ctor(System.Collections.Generic.ICollection{s2protocol.NET.Models.UserInitialData},s2protocol.NET.Models.LobbyState,s2protocol.NET.Models.GameDescription)">
+             <summary>Record <c>SyncLobbyState</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Initdata.UserInitialData">
+             <summary>InitData SyncLobbyState UserInitialData</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Initdata.LobbyState">
+             <summary>InitData SyncLobbyState LobbyState</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Initdata.GameDescription">
+             <summary>InitData SyncLobbyState GameDescription</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.UserInitialData">
+             <summary>Record <c>UserInitialData</c> Parsed UserInitialData</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.UserInitialData.#ctor(System.String,System.String,System.Int32,System.Nullable{System.Int32},System.String,System.Int64,System.Int32,System.String,System.Boolean,System.Boolean,System.Boolean,System.Int32,System.Boolean,System.String,System.String,System.Nullable{System.Int32},System.Int32,System.String,System.Nullable{System.Int64})">
+             <summary>Record <c>UserInitialData</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.UserInitialData.Mount">
+             <summary>InitData Mount</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.UserInitialData.Skin">
+             <summary>InitData Skin</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.UserInitialData.Observe">
+             <summary>InitData Observe</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.UserInitialData.TeamPreference">
+             <summary>InitData TeamPreference</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.UserInitialData.ToonHandle">
+             <summary>InitData ToonHandle</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.UserInitialData.CombinedRaceLevels">
+             <summary>InitData CombinedRaceLevels</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.UserInitialData.HighestLeague">
+             <summary>InitData HighestLeague</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.UserInitialData.ClanTag">
+             <summary>InitData ClanTag</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.UserInitialData.TestMap">
+             <summary>InitData TestMap</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.UserInitialData.TestAuto">
+             <summary>InitData TestAuto</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.UserInitialData.Examine">
+             <summary>InitData Examine</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.UserInitialData.TestType">
+             <summary>InitData TestType</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.UserInitialData.CustomInterface">
+             <summary>InitData CustomInterface</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.UserInitialData.ClanLogo">
+             <summary>InitData ClanLogo</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.UserInitialData.Name">
+             <summary>InitData Name</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.UserInitialData.RacePreference">
+             <summary>InitData RacePreference</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.UserInitialData.RandomSeed">
+             <summary>InitData RandomSeed</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.UserInitialData.Hero">
+             <summary>InitData Hero</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.UserInitialData.ScaledRating">
+             <summary>InitData ScaledRating</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.Slot">
+             <summary>Record <c>Slot</c> Parsed UserInitialData Slot</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.Slot.#ctor(System.Int32,System.String,System.Collections.Generic.ICollection{System.Int32},System.Nullable{System.Int32},System.String,System.Collections.Generic.ICollection{System.Int32},System.Int32,System.Int32,System.Collections.Generic.ICollection{System.Int32},System.Int32,System.Int32,System.Collections.Generic.ICollection{System.String},System.Int32,System.Nullable{System.Int32},System.Int32,System.Int32,System.Int32,System.Nullable{System.Int32},System.Nullable{System.Int32},System.String,System.String,System.String,System.Int32,System.Int32,System.Int32,System.Int32,System.Collections.Generic.ICollection{System.Int32},System.Nullable{System.Int32},System.Boolean,System.Int32,System.Collections.Generic.ICollection{System.Int32},System.Int32)">
+             <summary>Record <c>Slot</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Slot.ACEnemyRace">
+             <summary>InitData Slot ACEnemyRace</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Slot.ToonHandle">
+             <summary>InitData Slot ToonHandle</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Slot.RewardOverrides">
+             <summary>InitData Slot RewardOverrides</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Slot.UserId">
+             <summary>InitData Slot UserId</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Slot.Skin">
+             <summary>InitData Slot Skin</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Slot.CommanderMasteryTalents">
+             <summary>InitData Slot CommanderMasteryTalents</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Slot.AiBuild">
+             <summary>InitData Slot AiBuild</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Slot.TeamId">
+             <summary>InitData Slot TeamId</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Slot.Rewards">
+             <summary>InitData Slot Rewards</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Slot.CommanderLevel">
+             <summary>InitData Slot CommanderLevel</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Slot.LogoIndex">
+             <summary>InitData Slot LogoIndex</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Slot.Artifacts">
+             <summary>InitData Slot Artifacts</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Slot.Difficulty">
+             <summary>InitData Slot Difficulty</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Slot.TandemLeaderId">
+             <summary>InitData Slot TandemLeaderId</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Slot.CommanderMasteryLevel">
+             <summary>InitData Slot CommanderMasteryLevel</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Slot.TrophyId">
+             <summary>InitData Slot TrophyId</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Slot.BrutalPlusDifficulty">
+             <summary>InitData Slot BrutalPlusDifficulty</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Slot.RacePref">
+             <summary>InitData Slot RacePref</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Slot.TandemId">
+             <summary>InitData Slot TandemId</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Slot.Hero">
+             <summary>InitData Slot Hero</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Slot.Commander">
+             <summary>InitData Slot Commander</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Slot.Mount">
+             <summary>InitData Slot Mount</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Slot.Handicap">
+             <summary>InitData Slot Handicap</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Slot.Observe">
+             <summary>InitData Slot Observe</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Slot.ACEnemyWaveType">
+             <summary>InitData Slot ACEnemyWaveType</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Slot.Control">
+             <summary>InitData Slot Control</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Slot.Licenses">
+             <summary>InitData Slot Licenses</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Slot.ColorPref">
+             <summary>InitData Slot ColorPref</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Slot.HasSilencePenalty">
+             <summary>InitData Slot HasSilencePenalty</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Slot.WorkingSetSlotId">
+             <summary>InitData Slot WorkingSetSlotId</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Slot.RetryMutationIndexes">
+             <summary>InitData Slot RetryMutationIndexes</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Slot.SelectedCommanderPrestige">
+             <summary>InitData Slot SelectedCommanderPrestige</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.LobbyState">
+             <summary>Record <c>LobbyState</c> Parsed UserInitialData LobbyState</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.LobbyState.#ctor(System.Int32,System.Collections.Generic.ICollection{s2protocol.NET.Models.Slot},System.Int32,System.Boolean,System.Int32,System.Nullable{System.Int32},System.Int32,System.Int32,System.Int32,System.Int64,System.Int32)">
+             <summary>Record <c>LobbyState</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.LobbyState.MaxUsers">
+             <summary>InitData LobbyState MaxUsers</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.LobbyState.Slots">
+             <summary>InitData LobbyState Slots</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.LobbyState.DefaultDifficulty">
+             <summary>InitData LobbyState DefaultDifficulty</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.LobbyState.IsSinglePlayer">
+             <summary>InitData LobbyState IsSinglePlayer</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.LobbyState.Phase">
+             <summary>InitData LobbyState Phase</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.LobbyState.HostUserId">
+             <summary>InitData LobbyState HostUserId</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.LobbyState.MaxObservers">
+             <summary>InitData LobbyState MaxObservers</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.LobbyState.DefaultAIBuild">
+             <summary>InitData LobbyState DefaultAIBuild</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.LobbyState.PickedMapTag">
+             <summary>InitData LobbyState PickedMapTag</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.LobbyState.RandomSeed">
+             <summary>InitData LobbyState RandomSeed</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.LobbyState.GameDuration">
+             <summary>InitData LobbyState GameDuration</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.GameOptions">
+             <summary>Record <c>GameOptions</c> Parsed UserInitialData GameOptions</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.GameOptions.#ctor(System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Int32,System.Boolean,System.Boolean,System.Int32,System.Boolean,System.Boolean,System.Int64,System.Int32,System.Boolean,System.Boolean,System.Boolean)">
+             <summary>Record <c>GameOptions</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameOptions.Competitive">
+             <summary>InitData GameOptions Competitive</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameOptions.Practice">
+             <summary>InitData GameOptions Practice</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameOptions.LockTeams">
+             <summary>InitData GameOptions LockTeams</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameOptions.Amm">
+             <summary>InitData GameOptions Amm</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameOptions.BattleNet">
+             <summary>InitData GameOptions BattleNet</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameOptions.Fog">
+             <summary>InitData GameOptions Fog</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameOptions.NoVictoryOrDefeat">
+             <summary>InitData GameOptions NoVictoryOrDefeat</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameOptions.HeroDuplicatesAllowed">
+             <summary>InitData GameOptions HeroDuplicatesAllowed</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameOptions.UserDifficulty">
+             <summary>InitData GameOptions UserDifficulty</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameOptions.AdvancedSharedControl">
+             <summary>InitData GameOptions AdvancedSharedControl</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameOptions.Cooperative">
+             <summary>InitData GameOptions Cooperative</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameOptions.ClientDebugFlags">
+             <summary>InitData GameOptions ClientDebugFlags</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameOptions.Observers">
+             <summary>InitData GameOptions Observers</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameOptions.TeamsTogether">
+             <summary>InitData GameOptions TeamsTogether</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameOptions.RandomRaces">
+             <summary>InitData GameOptions RandomRaces</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameOptions.BuildCoachEnabled">
+             <summary>InitData GameOptions BuildCoachEnabled</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.SlotDescription">
+             <summary>Record <c>SlotDescription</c> Parsed UserInitialData SlotDescription</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SlotDescription.#ctor(System.Collections.Generic.KeyValuePair{System.Int32,System.Numerics.BigInteger},System.Collections.Generic.KeyValuePair{System.Int32,System.Numerics.BigInteger},System.Collections.Generic.KeyValuePair{System.Int32,System.Numerics.BigInteger},System.Collections.Generic.KeyValuePair{System.Int32,System.Numerics.BigInteger},System.Collections.Generic.KeyValuePair{System.Int32,System.Numerics.BigInteger},System.Collections.Generic.KeyValuePair{System.Int32,System.Numerics.BigInteger})">
+             <summary>Record <c>SlotDescription</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SlotDescription.AllowedRaces">
+             <summary>InitData SlotDescription AllowedRaces</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SlotDescription.AllowedColors">
+             <summary>InitData SlotDescription AllowedColors</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SlotDescription.AllowedAIBuilds">
+             <summary>InitData SlotDescription AllowedAIBuilds</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SlotDescription.AllowedDifficulty">
+             <summary>InitData SlotDescription AllowedDifficulty</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SlotDescription.AllowedObserveTypes">
+             <summary>InitData SlotDescription AllowedObserveTypes</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SlotDescription.AllowedControls">
+             <summary>InitData SlotDescription AllowedControls</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.GameDescription">
+             <summary>Record <c>GameDescription</c> Parsed UserInitialData GameDescription</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.GameDescription.#ctor(System.Int32,System.Int32,System.Boolean,System.Int32,System.Boolean,s2protocol.NET.Models.GameOptions,System.Int32,System.Boolean,System.String,System.Int32,System.Int32,System.Boolean,System.Int64,System.Int32,System.Boolean,System.Int32,System.Int64,System.Int64,System.Int32,System.Collections.Generic.ICollection{System.String},System.Int32,System.Int32,System.String,System.String,System.Collections.Generic.ICollection{s2protocol.NET.Models.SlotDescription},System.Int32,System.Int32,System.Boolean)">
+             <summary>Record <c>GameDescription</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameDescription.MaxRaces">
+             <summary>InitData GameDescription MaxRaces</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameDescription.MaxTeams">
+             <summary>InitData GameDescription MaxTeams</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameDescription.HasExtensionMod">
+             <summary>InitData GameDescription HasExtensionMod</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameDescription.MaxColors">
+             <summary>InitData GameDescription MaxColors</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameDescription.IsBlizzardMap">
+             <summary>InitData GameDescription IsBlizzardMap</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameDescription.GameOptions">
+             <summary>InitData GameDescription GameOptions</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameDescription.DefaultDifficulty">
+             <summary>InitData GameDescription DefaultDifficulty</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameDescription.IsCoopMode">
+             <summary>InitData GameDescription IsCoopMode</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameDescription.MapFileName">
+             <summary>InitData GameDescription MapFileName</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameDescription.DefaultAIBuild">
+             <summary>InitData GameDescription DefaultAIBuild</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameDescription.GameType">
+             <summary>InitData GameDescription GameType</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameDescription.HasNonBlizzardExtensionMod">
+             <summary>InitData GameDescription HasNonBlizzardExtensionMod</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameDescription.RandomValue">
+             <summary>InitData GameDescription RandomValue</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameDescription.MaxObservers">
+             <summary>InitData GameDescription MaxObservers</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameDescription.IsRealtimeMode">
+             <summary>InitData GameDescription IsRealtimeMode</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameDescription.MaxUsers">
+             <summary>InitData GameDescription MaxUsers</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameDescription.ModFileSyncChecksum">
+             <summary>InitData GameDescription ModFileSyncChecksum</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameDescription.MapFileSyncChecksum">
+             <summary>InitData GameDescription MapFileSyncChecksum</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameDescription.MaxPlayers">
+             <summary>InitData GameDescription MaxPlayers</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameDescription.CacheHandles">
+             <summary>InitData GameDescription CacheHandles</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameDescription.GameSpeed">
+             <summary>InitData GameDescription GameSpeed</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameDescription.MaxControls">
+             <summary>InitData GameDescription MaxControls</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameDescription.GameCacheName">
+             <summary>InitData GameDescription GameCacheName</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameDescription.MapAuthorName">
+             <summary>InitData GameDescription MapAuthorName</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameDescription.SlotDescriptions">
+             <summary>InitData GameDescription SlotDescriptions</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameDescription.MapSizeY">
+             <summary>InitData GameDescription MapSizeY</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameDescription.MapSizeX">
+             <summary>InitData GameDescription MapSizeX</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameDescription.IsPremadeFFA">
+             <summary>InitData GameDescription IsPremadeFFA</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.Metadata">
+             <summary>Record <c>Metadata</c> Parsed replay metadata infos</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.Metadata.#ctor(System.String,System.String,System.String,System.Int32,System.Version,System.Boolean,System.String,System.Collections.Generic.ICollection{s2protocol.NET.Models.MetadataPlayer})">
+             <summary>Record <c>Metadata</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Metadata.BaseBuild">
+             <summary>Replay BaseBuild</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Metadata.DataBuild">
+             <summary>Replay DataBuild</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Metadata.DataVersion">
+             <summary>Replay DataVersion</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Metadata.Duration">
+             <summary>Replay Duration</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Metadata.GameVersion">
+             <summary>Replay GameVersion</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Metadata.IsNotAvailable">
+             <summary>Replay IsNotAvailable</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Metadata.Title">
+             <summary>Replay Title</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.Metadata.Players">
+             <summary>Replay MetadataPlayers</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.MetadataPlayer">
+             <summary>Record <c>MetadataPlayer</c> Parsed replay player infos</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.MetadataPlayer.#ctor(System.Double,System.String,System.Int32,System.String,System.String)">
+             <summary>Record <c>MetadataPlayer</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.MetadataPlayer.APM">
+             <summary>Player APM</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.MetadataPlayer.AssignedRace">
+             <summary>Player AssignedRace</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.MetadataPlayer.PlayerID">
+             <summary>Player PlayerID</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.MetadataPlayer.Result">
+             <summary>Player Rsult</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.MetadataPlayer.SelectedRace">
+             <summary>Player SelectedRace</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.TrackerEvents">
+             <summary>Record <c>TrackerEvents</c> TrackerEvents</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.TrackerEvents.#ctor(s2protocol.NET.Models.SPlayerSetupEvent[],s2protocol.NET.Models.SPlayerStatsEvent[],s2protocol.NET.Models.SUnitBornEvent[],s2protocol.NET.Models.SUnitDiedEvent[],s2protocol.NET.Models.SUnitOwnerChangeEvent[],s2protocol.NET.Models.SUnitPositionsEvent[],s2protocol.NET.Models.SUnitTypeChangeEvent[],s2protocol.NET.Models.SUpgradeEvent[],s2protocol.NET.Models.SUnitInitEvent[],s2protocol.NET.Models.SUnitDoneEvent[])">
+             <summary>Record <c>TrackerEvents</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.TrackerEvents.SPlayerSetupEvents">
+             <summary>Event ControlPlayerId</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.TrackerEvents.SPlayerStatsEvents">
+             <summary>Event ControlPlayerId</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.TrackerEvents.SUnitBornEvents">
+             <summary>Event ControlPlayerId</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.TrackerEvents.SUnitDiedEvents">
+             <summary>Event ControlPlayerId</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.TrackerEvents.SUnitOwnerChangeEvents">
+             <summary>Event ControlPlayerId</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.TrackerEvents.SUnitPositionsEvents">
+             <summary>Event ControlPlayerId</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.TrackerEvents.SUnitTypeChangeEvents">
+             <summary>Event ControlPlayerId</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.TrackerEvents.SUpgradeEvents">
+             <summary>Event ControlPlayerId</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.TrackerEvents.SUnitInitEvents">
+             <summary>Event ControlPlayerId</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.TrackerEvents.SUnitDoneEvents">
+             <summary>Event ControlPlayerId</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.SPlayerSetupEvent">
+             <summary>Record <c>SPlayerSetupEvent</c> SPlayerSetupEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SPlayerSetupEvent.#ctor(s2protocol.NET.Models.TrackerEvent,System.Int32,System.Nullable{System.Int32},System.Int32)">
+             <summary>Record <c>SPlayerSetupEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SPlayerSetupEvent.Type">
+             <summary>Event Type</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SPlayerSetupEvent.UserId">
+             <summary>Event Gameloop</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SPlayerSetupEvent.SlotId">
+             <summary>Event SlotId</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.SPlayerStatsEvent">
+             <summary>Record <c>SPlayerStatsEvent</c> SPlayerStatsEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SPlayerStatsEvent.#ctor(s2protocol.NET.Models.TrackerEvent,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
+             <summary>Record <c>SPlayerStatsEvent</c> constructor</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.SUnitBornEvent">
+             <summary>Record <c>SUnitBornEvent</c> SUnitBornEvent</summary>
+             <comment>NNet.Replay.Tracker.SUnitBornEvent events appear for units that are created fully constructed.</comment>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SUnitBornEvent.#ctor(s2protocol.NET.Models.TrackerEvent,System.Int32,System.Int32,System.String,System.Nullable{System.Int32},System.Int32,System.Int32,System.Int32,System.Int32,System.String,System.Nullable{System.Int32})">
+             <summary>Record <c>SUnitBornEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitBornEvent.UnitIndex">
+             <summary>Event UnitIndex </summary>
+             <comment>Convert unit tag index, recycle pairs into unit tags (as seen in game events) with protocol.unit_tag(index, recycle)</comment>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitBornEvent.UnitTagIndex">
+             <summary>Event UnitTagIndex</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitBornEvent.UnitTagRecycle">
+             <summary>Event UnitTagRecycle</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitBornEvent.CreatorAbilityName">
+             <summary>Event CreatorAbilityName</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitBornEvent.CreatorUnitTagRecycle">
+             <summary>Event CreatorUnitTagRecycle</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitBornEvent.ControlPlayerId">
+             <summary>Event ControlPlayerId</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitBornEvent.Y">
+             <summary>Event Y</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitBornEvent.X">
+             <summary>Event X</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitBornEvent.UpkeepPlayerId">
+             <summary>Event UpkeepPlayerId</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitBornEvent.UnitTypeName">
+             <summary>Event UnitTypeName</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitBornEvent.CreatorUnitTagIndex">
+             <summary>Event CreatorUnitTagIndex</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitBornEvent.SUnitDiedEvent">
+             <summary>Event SUnitDiedEvent</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.SUnitDiedEvent">
+             <summary>Record <c>SUnitDiedEvent</c> SUnitDiedEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SUnitDiedEvent.#ctor(s2protocol.NET.Models.TrackerEvent,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Nullable{System.Int32},System.Nullable{System.Int32})">
+            <summary>Record <c>SUnitDiedEvent</c> constructor</summary>
+            <comment>You may receive a SUnitDiedEvent after either a UnitInit or UnitBorn event for the corresponding unit tag.</comment>
+            <comment>There's a known issue where revived units are not tracked, and placeholder units track death but not birth.</comment>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitDiedEvent.UnitIndex">
+            <summary>Event UnitIndex</summary>
+            <comment>Convert unit tag index, recycle pairs into unit tags (as seen in game events) with protocol.unit_tag(index, recycle)</comment>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitDiedEvent.UnitTagIndex">
+             <summary>Event UnitTagIndex</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitDiedEvent.UnitTagRecycle">
+             <summary>Event UnitTagRecycle</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitDiedEvent.KillerPlayerId">
+             <summary>Event ControlPlayerId</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitDiedEvent.Y">
+             <summary>Event Y</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitDiedEvent.X">
+             <summary>Event X</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitDiedEvent.KillerUnitTagRecycle">
+             <summary>Event KillerUnitTagRecycle</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitDiedEvent.KillerUnitTagIndex">
+             <summary>Event KillerUnitTagIndex</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitDiedEvent.KillerUnitInitEvent">
+             <summary>Event KillerUnitEvent - either SUnitBorn- or SUnitInitEvent</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitDiedEvent.KillerUnitBornEvent">
+             <summary>Event KillerUnitEvent - either SUnitBorn- or SUnitInitEvent</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.SUnitDoneEvent">
+             <summary>Record <c>SUnitDoneEvent</c> SUnitDoneEvent</summary>
+             <comment>NNet.Replay.Tracker.SUnitInitEvent events appear for units under construction. When complete you'll see a NNet.Replay.Tracker.SUnitDoneEvent with the same unit tag.</comment>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SUnitDoneEvent.#ctor(s2protocol.NET.Models.TrackerEvent,System.Int32,System.Int32)">
+             <summary>Record <c>SUnitDoneEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitDoneEvent.UnitIndex">
+            <summary>Event UnitIndex</summary>
+            <comment>Convert unit tag index, recycle pairs into unit tags (as seen in game events) with protocol.unit_tag(index, recycle)</comment>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitDoneEvent.UnitTagIndex">
+             <summary>Event UnitTagIndex</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitDoneEvent.UnitTagRecycle">
+             <summary>Event UnitTagRecycle</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.SUnitInitEvent">
+             <summary>Record <c>SUnitInitEvent</c> SUnitInitEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SUnitInitEvent.#ctor(s2protocol.NET.Models.TrackerEvent,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.String)">
+             <summary>Record <c>SUnitInitEvent</c> constructor</summary>
+             <comment>NNet.Replay.Tracker.SUnitInitEvent events appear for units under construction. When complete you'll see a NNet.Replay.Tracker.SUnitDoneEvent with the same unit tag.</comment>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitInitEvent.UnitIndex">
+            <summary>Event UnitIndex</summary>
+            <comment>Convert unit tag index, recycle pairs into unit tags (as seen in game events) with protocol.unit_tag(index, recycle)</comment>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitInitEvent.UnitTagIndex">
+             <summary>Event UnitTagIndex</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitInitEvent.UnitTagRecycle">
+             <summary>Event UnitTagRecycle</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitInitEvent.ControlPlayerId">
+             <summary>Event ControlPlayerId</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitInitEvent.Y">
+             <summary>Event Y</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitInitEvent.X">
+             <summary>Event X</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitInitEvent.UpkeepPlayerId">
+             <summary>Event UpkeepPlayerId</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitInitEvent.UnitTypeName">
+             <summary>Event UnitTypeName</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitInitEvent.SUnitDoneEvent">
+             <summary>Event SUnitDoneEvent</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitInitEvent.SUnitDiedEvent">
+             <summary>Event SUnitDiedEvent</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.SUnitOwnerChangeEvent">
+             <summary>Record <c>SUnitOwnerChangeEvent</c> SUnitOwnerChangeEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SUnitOwnerChangeEvent.#ctor(s2protocol.NET.Models.TrackerEvent,System.Int32,System.Int32,System.Int32,System.Int32)">
+             <summary>Record <c>SUnitOwnerChangeEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitOwnerChangeEvent.UnitIndex">
+            <summary>Event UnitIndex</summary>
+            <comment>Convert unit tag index, recycle pairs into unit tags (as seen in game events) with protocol.unit_tag(index, recycle)</comment>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitOwnerChangeEvent.UnitTagIndex">
+             <summary>Event UnitTagIndex</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitOwnerChangeEvent.UnitTagRecycle">
+             <summary>Event UnitTagRecycle</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitOwnerChangeEvent.ControlPlayerId">
+             <summary>Event ControlPlayerId</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitOwnerChangeEvent.UpkeepPlayerId">
+             <summary>Event UpkeepPlayerId</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.SUnitPositionsEvent">
+             <summary>Record <c>SUnitPositionsEvent</c> SUnitPositionsEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SUnitPositionsEvent.#ctor(s2protocol.NET.Models.TrackerEvent,System.Int32,System.Int32[])">
+            <summary>Record <c>SUnitPositionsEvent</c> constructor</summary>
+            <comment>Only units that have inflicted or taken damage are mentioned in unit position events, and they occur periodically with a limit of 256 units mentioned per event.</comment>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitPositionsEvent.FirstUnitIndex">
+             <summary>Event firstUnitIndex</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitPositionsEvent.UnitPositions">
+             <summary>Event Items</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitPositionsEvent.UnitIndex">
+             <summary>Event UnitIndex</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitPositionsEvent.X">
+             <summary>Event X</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitPositionsEvent.Y">
+             <summary>Event Y</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.UnitPosition">
+             <summary>Record <c>UnitPosition</c> SUnitPositionsEvent UnitPosition</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.UnitPosition.UnitIndex">
+             <summary>Event UnitIndex</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.UnitPosition.X">
+             <summary>Event X</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.UnitPosition.Y">
+             <summary>Event Y</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.SUnitTypeChangeEvent">
+             <summary>Record <c>SUnitTypeChangeEvent</c> SUnitTypeChangeEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SUnitTypeChangeEvent.#ctor(s2protocol.NET.Models.TrackerEvent,System.Int32,System.Int32,System.String)">
+             <summary>Record <c>SUnitTypeChangeEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitTypeChangeEvent.UnitIndex">
+            <summary>Event UnitIndex</summary>
+            <comment>Convert unit tag index, recycle pairs into unit tags (as seen in game events) with protocol.unit_tag(index, recycle)</comment>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitTypeChangeEvent.UnitTagIndex">
+             <summary>Event UnitTagIndex</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitTypeChangeEvent.UnitTagRecycle">
+             <summary>Event UnitTagRecycle</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitTypeChangeEvent.UnitTypeName">
+             <summary>Event UnitTypeName</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUnitTypeChangeEvent.SUnitDiedEvent">
+             <summary>Event SUnitDiedEvent</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.SUpgradeEvent">
+             <summary>Record <c>SUpgradeEvent</c> SUpgradeEvent</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.SUpgradeEvent.#ctor(s2protocol.NET.Models.TrackerEvent,System.Int32,System.String)">
+             <summary>Record <c>SUpgradeEvent</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUpgradeEvent.Count">
+             <summary>Event Count</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.SUpgradeEvent.UpgradeTypeName">
+             <summary>Event UpgradeTypeName</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.TrackerEvent">
+             <summary>Record <c>Event</c> Event baseclass</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.TrackerEvent.#ctor(System.Int32,System.Int32,System.String,System.Int32,System.Int32)">
+            <summary>Record <c>Event</c> base constructor</summary>
+            <comment>Tracker events are new in version 2.0.8, they do not exist in replays recorded with older versions of the game.</comment>
+            
+        </member>
+        <member name="M:s2protocol.NET.Models.TrackerEvent.#ctor(s2protocol.NET.Models.TrackerEvent)">
+            <summary>Record <c>Event</c> base clone constructor</summary>
+            <comment>Tracker events are new in version 2.0.8, they do not exist in replays recorded with older versions of the game.</comment>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.TrackerEvent.PlayerId">
+             <summary>Event PlayerId</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.TrackerEvent.EventId">
+             <summary>Event EventId</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.TrackerEvent.EventType">
+             <summary>Event EventType</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.TrackerEvent.Bits">
+             <summary>Event Bits</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.TrackerEvent.Gameloop">
+             <summary>Event Gameloop</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Models.TrackerEventType">
+             <summary>Enum <c>EventType</c> Event type</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.ReplayDecoder">
+             <summary>Class <c>ReplayDecoder</c> Starcaft2 replay decoding</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.ReplayDecoder.#ctor(System.String,System.Nullable{Microsoft.Extensions.Logging.LogLevel})">
+            <summary>Creates the decoder</summary>
+            <param name="appPath">The path to the executing assembly</param>
+            <example>Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location</example>
+            <param name="logLevel">Optional LogLevel</param>
+        </member>
+        <member name="M:s2protocol.NET.ReplayDecoder.DecodeParallel(System.Collections.Generic.ICollection{System.String},System.Int32,s2protocol.NET.ReplayDecoderOptions,System.Threading.CancellationToken)">
+            <summary>Decode Starcraft2 replay</summary>
+            <param name="replayPaths">The paths to the Starcraft2 replays</param>
+            /// <param name="threads">Number of parallelism</param>
+            <param name="options">Optional decoding options</param>
+            <param name="token">Optional CancellationToken</param>
+        </member>
+        <member name="M:s2protocol.NET.ReplayDecoder.DecodeAsync(System.String,s2protocol.NET.ReplayDecoderOptions,System.Threading.CancellationToken)">
+            <summary>Decode Starcraft2 replay</summary>
+            <param name="replayPath">The path to the Starcraft2 replay</param>
+            <param name="options">Optional decoding options</param>
+            <param name="token">Optional CancellationToken</param>
+        </member>
+        <member name="M:s2protocol.NET.ReplayDecoder.Dispose">
+             <summary>Shutting down Python engine and call GC.Collect()</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.ReplayDecoderOptions">
+            <summary>Decodeing Options</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.ReplayDecoderOptions.Initdata">
+            <summary>Decode Initdata (Player infos)</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.ReplayDecoderOptions.Details">
+            <summary>Decode Details (Game time, Player names)</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.ReplayDecoderOptions.Metadata">
+            <summary>Decode Metadata (APM, Race selected/assigned)</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.ReplayDecoderOptions.GameEvents">
+            <summary>Decode TrackerEvents</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.ReplayDecoderOptions.MessageEvents">
+            <summary>Decode MessageEvents</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.ReplayDecoderOptions.TrackerEvents">
+            <summary>Decode TrackerEvents</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.ReplayDecoderOptions.AttributeEvents">
+            <summary>Decode AttributeEvents</summary>
+            
+        </member>
+        <member name="T:s2protocol.NET.Sc2Replay">
+             <summary>Record <c>Sc2Replay</c> Starcaft2 replay model</summary>
+            
+        </member>
+        <member name="M:s2protocol.NET.Sc2Replay.#ctor(System.Object,System.String)">
+             <summary>Record <c>Sc2Replay</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Sc2Replay.FileName">
+             <summary>Replay FileName</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Sc2Replay.Header">
+             <summary>Replay Header infos</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Sc2Replay.Initdata">
+             <summary>Replay initdata</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Sc2Replay.Details">
+             <summary>Replay details infos</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Sc2Replay.Metadata">
+             <summary>Replay metadata infos</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Sc2Replay.ChatMessages">
+             <summary>Replay chat messages</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Sc2Replay.TrackerEvents">
+             <summary>Replay TrackerEvents</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Sc2Replay.GameEvents">
+             <summary>Replay GameEvents</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Sc2Replay.AttributeEvents">
+             <summary>Replay AttributeEvents</summary>
+            
+        </member>
+    </members>
+</doc>
