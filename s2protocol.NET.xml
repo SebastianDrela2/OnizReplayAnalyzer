@@ -2133,10 +2133,6 @@
              <summary>Event UnitTypeName</summary>
             
         </member>
-        <member name="P:s2protocol.NET.Models.SUnitTypeChangeEvent.SUnitDiedEvent">
-             <summary>Event SUnitDiedEvent</summary>
-            
-        </member>
         <member name="T:s2protocol.NET.Models.SUpgradeEvent">
              <summary>Record <c>SUpgradeEvent</c> SUpgradeEvent</summary>
             
