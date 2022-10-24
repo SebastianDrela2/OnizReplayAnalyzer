@@ -1,0 +1,98 @@
+Analyzed: Oh No It's Zombies Arctic Updated (597)
+
+Zombie Undecided
+ID : 0 PlayerName: Toxicpanda Race: Zerg
+ID : 1 PlayerName: rohana Race: Terran
+ID : 2 PlayerName: Frosky Race: Terran
+ID : 3 PlayerName: ZergWithHat Race: Terran
+ID : 4 PlayerName: MarFly Race: Terran
+ID : 5 PlayerName: GustavAldogg Race: Terran
+ID : 6 PlayerName: VioletFemmes Race: Terran
+ID : 7 PlayerName: Security Race: Infested Terran
+PURCHASES: 
+[00:651] Toxicpanda Spawned MassiveCocoon
+[02:091] Toxicpanda Spawned Hunter
+[02:781] Toxicpanda Spawned MassiveCocoon
+[03:767] Toxicpanda Placed/Upgraded ToxicNest
+[03:772] Toxicpanda Placed/Upgraded ToxicNest
+[03:778] Toxicpanda Placed/Upgraded ToxicNest
+[04:221] Toxicpanda Spawned Hunter
+[06:669] Toxicpanda Spawned MassiveCocoon
+[07:682] Toxicpanda Placed/Upgraded ToxicNest
+[07:692] Toxicpanda Placed/Upgraded ToxicNest
+[07:697] Toxicpanda Placed/Upgraded ToxicNest
+[08:109] Toxicpanda Spawned PrimalTownHallUprooted
+[09:485] Toxicpanda Bought BuildExtractorScienceLabs
+[09:485] Toxicpanda Placed/Upgraded AutomatedExtractor
+[10:363] Toxicpanda Spawned MassiveCocoon
+[11:474] Toxicpanda Bought CreepSpeed
+[11:803] Toxicpanda Spawned Anubalisk
+
+[00:588] rohana Unlocked AssaultRifle
+[01:382] rohana Placed/Upgraded MiningDroid
+[01:652] rohana Unlocked Shotgun
+[02:055] rohana Unlocked IncendiaryGrenade
+[05:233] rohana Unlocked BioMechanicalRepairDrone
+[05:679] rohana Placed/Upgraded HealingDrone
+[07:063] rohana Unlocked MotionSensor
+[07:237] rohana Placed/Upgraded SensorTower
+[08:983] rohana Placed/Upgraded SensorTower
+[09:688] rohana Placed/Upgraded MiningDroid
+
+[00:588] Frosky Unlocked AssaultRifle
+[00:667] Frosky Placed/Upgraded MiningDroid
+[00:711] Frosky Unlocked Shotgun
+[02:981] Frosky Unlocked AdvancedDroidEngines
+[04:902] Frosky Placed/Upgraded MiningDroid
+[06:733] Frosky Unlocked SpecOpsShotgun
+[07:647] Frosky Unlocked SuperStimpack
+[10:182] Frosky Placed/Upgraded MiningDroid
+
+[00:588] ZergWithHat Unlocked AssaultRifle
+[01:200] ZergWithHat Placed/Upgraded MiningDroid
+[01:325] ZergWithHat Unlocked ArcWelder
+[03:664] ZergWithHat Unlocked BioMechanicalRepairDrone
+[03:679] ZergWithHat Unlocked CombatAccelerationDrone
+[03:963] ZergWithHat Placed/Upgraded HealingDrone
+[04:965] ZergWithHat Placed/Upgraded HealingDrone
+[05:456] ZergWithHat Placed/Upgraded HealingDrone
+[05:667] ZergWithHat Placed/Upgraded HealingDrone
+[05:851] ZergWithHat Placed/Upgraded HealingDrone
+[06:137] ZergWithHat Unlocked MotionSensor
+[06:271] ZergWithHat Placed/Upgraded SensorTower
+
+[00:588] MarFly Unlocked AssaultRifle
+[00:667] MarFly Placed/Upgraded MiningDroid
+[00:817] MarFly Unlocked IncendiaryGrenade
+[05:161] MarFly Unlocked AdvancedDroidEngines
+[06:938] MarFly Unlocked HellfireRocketLauncher
+[06:956] MarFly Unlocked SpecOpsHellfireRocketLauncher
+[08:848] MarFly Placed/Upgraded MiningDroid
+[09:714] MarFly Unlocked Stimpack
+
+[00:588] GustavAldogg Unlocked AssaultRifle
+[00:710] GustavAldogg Placed/Upgraded MiningDroid
+[00:865] GustavAldogg Unlocked AdvancedDroidEngines
+[03:791] GustavAldogg Unlocked TurboDroidEngines
+[04:789] GustavAldogg Unlocked IncendiaryGrenade
+[06:864] GustavAldogg Unlocked SpecOpsAssaultRifle
+[08:698] GustavAldogg Unlocked OverloadWeapon
+[09:981] GustavAldogg Unlocked TitaniumBulletCasings
+[10:119] GustavAldogg Unlocked AIAssistant
+
+[00:588] VioletFemmes Unlocked AssaultRifle
+[01:337] VioletFemmes Unlocked AdvancedDroidEngines
+[04:997] VioletFemmes Unlocked Flamethrower
+[05:004] VioletFemmes Unlocked SpecOpsFlamethrower
+[07:292] VioletFemmes Unlocked BioMechanicalRepairDrone
+[07:382] VioletFemmes Unlocked CombatShield
+[09:185] VioletFemmes Unlocked HazmatSuit
+[09:186] VioletFemmes Unlocked ShieldSuit
+[09:186] VioletFemmes Unlocked AdvancedShieldSuit
+[09:186] VioletFemmes Unlocked CombatSuit
+[09:186] VioletFemmes Unlocked AdvancedCombatSuit
+[09:186] VioletFemmes Unlocked HazmatSuit
+[09:186] VioletFemmes Unlocked AdvancedHazmatSuit
+[09:186] VioletFemmes Unlocked HazmatSuit
+
+

@@ -1,0 +1,183 @@
+Analyzed: Oh No It's Zombies Arctic Updated (19)
+
+Zombie Undecided
+ID : 0 PlayerName: Frosky Race: Terran
+ID : 1 PlayerName: Twinmaner Race: Zerg
+ID : 2 PlayerName: Andderson Race: Terran
+ID : 3 PlayerName: ZaqazDeath Race: Terran
+ID : 4 PlayerName: space Race: Terran
+ID : 5 PlayerName: HornyHumplar Race: Terran
+ID : 6 PlayerName: Montronizon Race: Terran
+ID : 7 PlayerName: Security Race: Terran Tychus
+PURCHASES: 
+[00:588] Frosky Unlocked AssaultRifle
+[00:682] Frosky Placed MiningDroid
+[02:326] Frosky Unlocked AdvancedDroidEngines
+[03:666] Frosky Unlocked BeamRifle
+[05:677] Frosky Unlocked SpecOpsPlasmaRifle
+[12:364] Frosky Unlocked Stimpack
+[16:378] Frosky Unlocked IncendiaryGrenade
+[19:717] Frosky Unlocked CombatSuit
+[21:387] Frosky Unlocked Teleporter
+
+[00:000] Twinmaner Spawned Abomination
+[00:552] Twinmaner Bought PlayerNumber
+[00:750] Twinmaner Bought StrainDamage
+[02:632] Twinmaner Bought VirulentCreep
+[02:632] Twinmaner Bought VirulentCreep
+[06:235] Twinmaner Bought CreepSpeed
+[06:832] Twinmaner Bought StrainHealth
+[09:557] Twinmaner Bought PureStrainDamage
+[11:270] Twinmaner Bought DefilerStrain
+[11:312] Twinmaner Bought PureStrainHealth
+[14:660] Twinmaner Bought TankStrain
+[15:501] Twinmaner Bought StrainDamage
+[16:530] Twinmaner Bought StrainHealth
+[18:683] Twinmaner Bought PureStrainDamage
+[19:718] Twinmaner Bought ShieldSuit
+[19:718] Twinmaner Bought CombatSuit
+[19:718] Twinmaner Bought HazmatSuit
+[19:718] Twinmaner Bought CombatSuit
+[22:692] Twinmaner Spawned MassiveCocoon
+[23:281] Twinmaner Bought CreepSpeed
+[23:468] Twinmaner Bought DropshipsFueled
+[24:127] Twinmaner Bought SweepingInfestation
+[24:127] Twinmaner Bought UltimateInfestationResearched
+[24:132] Twinmaner Spawned InfestedAbomination
+[26:155] Twinmaner Spawned MassiveCocoon
+[30:213] Twinmaner Bought SpawnNydusWorm
+[30:405] Twinmaner Placed/Upgraded GreaterNydusWorm
+
+[00:588] Andderson Unlocked AssaultRifle
+[01:587] Andderson Unlocked Stimpack
+[01:696] Andderson Placed/Upgraded MiningDroid
+[03:649] Andderson Unlocked MedicShield
+[06:912] Andderson Unlocked SpecOpsAssaultRifle
+[09:648] Andderson Unlocked AdvancedDroidEngines
+[11:784] Andderson Unlocked BeamRifle
+[13:834] Andderson Unlocked TurboDroidEngines
+[15:828] Andderson Unlocked SpecOpsPlasmaRifle
+[16:435] Andderson Unlocked BioMechanicalRepairDrone
+[16:454] Andderson Unlocked SpecOpsBioMechanicalRepairDrone
+[17:028] Andderson Placed/Upgraded HealingDrone
+[17:790] Andderson Placed/Upgraded HealingDrone
+[18:594] Andderson Unlocked ForceFieldGrenade
+[19:487] Andderson Unlocked CorrosivePlasma
+[20:103] Andderson Placed/Upgraded HealingDrone
+[20:336] Andderson Placed/Upgraded HealingDrone
+[25:697] Andderson Placed/Upgraded HealingDrone
+[26:632] Andderson Unlocked EnergyPack
+[26:703] Andderson Unlocked OpticalVisor
+[26:864] Andderson Unlocked Teleporter
+[26:888] Andderson Unlocked SpecOpsTeleporter
+[27:276] Andderson Placed/Upgraded HealingDrone
+[27:800] Andderson Placed/Upgraded HealingDrone
+[29:798] Andderson Unlocked AutoTurret
+[30:214] Andderson Placed/Upgraded AutoTurret
+
+[00:588] ZaqazDeath Unlocked AssaultRifle
+[00:715] ZaqazDeath Placed/Upgraded MiningDroid
+[00:937] ZaqazDeath Unlocked CombatSuit
+[06:817] ZaqazDeath Unlocked SpecOpsAssaultRifle
+[06:926] ZaqazDeath Unlocked SuperStimpack
+[09:186] ZaqazDeath Unlocked TitaniumBulletCasings
+[12:695] ZaqazDeath Unlocked AdvancedCombatSuit
+[12:763] ZaqazDeath Unlocked CombatShield
+[12:773] ZaqazDeath Unlocked EnergyPack
+[12:790] ZaqazDeath Unlocked OpticalVisor
+[19:770] ZaqazDeath Unlocked AdvancedDroidEngines
+[20:388] ZaqazDeath Unlocked Stimpack
+[24:928] ZaqazDeath Unlocked SpecOpsSuperStimpack
+[27:433] ZaqazDeath Unlocked TurboDroidEngines
+[30:332] ZaqazDeath Unlocked ForceFieldGrenade
+[30:356] ZaqazDeath Unlocked SpecOpsForcefieldGrenade
+[30:638] ZaqazDeath Unlocked BioMechanicalRepairDrone
+[31:449] ZaqazDeath Placed/Upgraded HealingDrone
+
+[00:588] space Unlocked AssaultRifle
+[00:674] space Placed/Upgraded MiningDroid
+[00:938] space Bought ShieldSuit
+[00:938] space Bought CombatSuit
+[00:938] space Bought HazmatSuit
+[00:938] space Bought CombatSuit
+[04:433] space Unlocked SpecOpsAssaultRifle
+[06:837] space Unlocked AutoTargetingSystem
+[11:118] space Unlocked CloakingDevice
+[12:696] space Bought CombatSuit
+[18:432] space Unlocked Shieldsiotunlocked
+[27:155] space Unlocked BioMechanicalRepairDrone
+[27:394] space Placed/Upgraded HealingDrone
+[28:462] space Placed/Upgraded HealingDrone
+[30:630] space Placed/Upgraded HealingDrone
+
+[00:588] HornyHumplar Unlocked AssaultRifle
+[00:667] HornyHumplar Placed/Upgraded MiningDroid
+[02:521] HornyHumplar Unlocked AdvancedDroidEngines
+[04:331] HornyHumplar Unlocked Stimpack
+[06:006] HornyHumplar Unlocked Flamethrower
+[07:178] HornyHumplar Unlocked SpecOpsFlamethrower
+[08:275] HornyHumplar Unlocked BioMechanicalRepairDrone
+[08:813] HornyHumplar Placed/Upgraded HealingDrone
+[09:907] HornyHumplar Unlocked Shieldsiotunlocked
+[09:989] HornyHumplar Unlocked AIAssistant
+[10:509] HornyHumplar Placed/Upgraded HealingDrone
+[10:917] HornyHumplar Placed/Upgraded HealingDrone
+[11:214] HornyHumplar Unlocked FlashBang
+[11:260] HornyHumplar Unlocked SpecOpsFlashbang
+[12:603] HornyHumplar Unlocked CombatShield
+[13:890] HornyHumplar Unlocked TurboDroidEngines
+[14:590] HornyHumplar Placed/Upgraded HealingDrone
+[14:665] HornyHumplar Unlocked AdvancedShieldSuit
+[15:369] HornyHumplar Unlocked AutoTurret
+[16:121] HornyHumplar Unlocked ThermiteFilaments
+[17:238] HornyHumplar Unlocked HeavyTurret
+[18:365] HornyHumplar Placed/Upgraded AutoTurret
+[18:433] HornyHumplar Bought ShieldSuit
+[18:433] HornyHumplar Bought CombatSuit
+[18:433] HornyHumplar Bought HazmatSuit
+[18:433] HornyHumplar Bought ShieldSuit
+[19:472] HornyHumplar Placed/Upgraded AutoTurret
+[19:743] HornyHumplar Placed/Upgraded AutoTurret
+[20:062] HornyHumplar Placed/Upgraded HealingDrone
+[21:378] HornyHumplar Unlocked SuperHealingDrone
+[21:388] HornyHumplar Unlocked SpecOpsSuperHealingDrone
+[24:076] HornyHumplar Unlocked MiningCharge
+[24:082] HornyHumplar Unlocked AdvancedMiningCharge
+[24:109] HornyHumplar Placed/Upgraded NukePack
+[24:206] HornyHumplar Placed/Upgraded NukePack
+[24:765] HornyHumplar Placed/Upgraded AutoTurret
+[25:080] HornyHumplar Placed/Upgraded AutoTurret
+[25:719] HornyHumplar Placed/Upgraded AutoTurret
+[26:499] HornyHumplar Placed/Upgraded HealingDrone
+[27:007] HornyHumplar Placed/Upgraded HealingDrone
+[29:635] HornyHumplar Placed/Upgraded NukePack
+[29:782] HornyHumplar Placed/Upgraded NukePack
+[29:836] HornyHumplar Placed/Upgraded AutoTurret
+[31:560] HornyHumplar Placed/Upgraded HealingDrone
+[31:993] HornyHumplar Placed/Upgraded HealingDrone
+[32:389] HornyHumplar Placed/Upgraded HealingDrone
+
+[00:588] Montronizon Unlocked AssaultRifle
+[02:740] Montronizon Unlocked MotionSensor
+[04:419] Montronizon Unlocked Teleporter
+[09:908] Montronizon Bought ShieldSuit
+[09:908] Montronizon Bought CombatSuit
+[09:908] Montronizon Bought HazmatSuit
+[09:908] Montronizon Bought ShieldSuit
+[10:942] Montronizon Unlocked SpecOpsAssaultRifle
+[13:093] Montronizon Unlocked TitaniumBulletCasings
+[14:666] Montronizon Bought ShieldSuit
+[15:658] Montronizon Unlocked Stimpack
+[16:981] Montronizon Unlocked MedicShield
+[19:049] Montronizon Unlocked CombatSuit
+[19:056] Montronizon Unlocked AdvancedCombatSuit
+[21:619] Montronizon Unlocked AutoTurret
+[22:140] Montronizon Unlocked SpecOpsTurret
+[29:527] Montronizon Unlocked MiningCharge
+
+[19:050] Security Bought ShieldSuit
+[19:050] Security Bought CombatSuit
+[19:050] Security Bought HazmatSuit
+[19:050] Security Bought CombatSuit
+[19:057] Security Bought CombatSuit
+

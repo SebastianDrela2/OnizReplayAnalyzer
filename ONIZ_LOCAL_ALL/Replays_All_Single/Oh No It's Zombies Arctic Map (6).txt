@@ -1,0 +1,16 @@
+Analyzed: Oh No It's Zombies Arctic Map (6)
+
+Zombie Undecided
+ID : 0 PlayerName: Frosky Race: Zerg
+ID : 7 PlayerName: Security Race: Terran
+PURCHASES: 
+[00:586] Frosky Bought StrainSpeed
+[02:143] Frosky Spawned MassiveCocoon
+
+
+
+
+
+
+
+

@@ -1,0 +1,185 @@
+Analyzed: Oh No It's Zombies Arctic Updated (586)
+
+Zombie Win
+ID : 0 PlayerName: ZergWithHat Race: Terran
+ID : 1 PlayerName: Frosky Race: Terran
+ID : 2 PlayerName: Sylferian Race: Terran
+ID : 3 PlayerName: Tabender Race: Terran
+ID : 4 PlayerName: Drake Race: Terran
+ID : 5 PlayerName: TheKiwi Race: Terran
+ID : 6 PlayerName: Gafe Race: Zerg
+ID : 7 PlayerName: Security Race: Terran
+PURCHASES: 
+
+[00:588] Frosky Unlocked AssaultRifle
+[00:667] Frosky Placed/Upgraded MiningDroid
+[00:745] Frosky Unlocked SpecOpsAssaultRifle
+[02:559] Frosky Unlocked AutoTargetingSystem
+[03:371] Frosky Unlocked Stimpack
+[03:762] Frosky Unlocked ExplorationDroid
+[04:229] Frosky Placed/Upgraded ExplorationDroid
+[04:237] Frosky Placed/Upgraded ExplorationDroid
+[04:347] Frosky Placed/Upgraded ExplorationDroid
+[04:712] Frosky Unlocked CombatSuit
+[06:062] Frosky Unlocked AdvancedCombatSuit
+[06:126] Frosky Unlocked AIAssistant
+[07:809] Frosky Unlocked AutoTurret
+[08:449] Frosky Unlocked AdvancedDroidEngines
+[09:280] Frosky Placed/Upgraded AutoTurret
+[09:478] Frosky Placed/Upgraded AutoTurret
+[09:674] Frosky Placed/Upgraded AutoTurret
+[10:451] Frosky Placed/Upgraded AutoTurret
+[10:691] Frosky Placed/Upgraded AutoTurret
+[10:905] Frosky Unlocked BioMechanicalRepairDrone
+[10:931] Frosky Unlocked SpecOpsBioMechanicalRepairDrone
+[11:450] Frosky Placed/Upgraded HealingDrone
+[11:653] Frosky Unlocked HeavyTurret
+[12:108] Frosky Unlocked MedicShield
+[12:567] Frosky Placed/Upgraded AutoTurret
+[12:835] Frosky Placed/Upgraded AutoTurret
+[16:891] Frosky Placed/Upgraded MiningDroid
+[17:148] Frosky Placed/Upgraded AutoTurret
+[17:384] Frosky Placed/Upgraded AutoTurret
+[17:557] Frosky Placed/Upgraded AutoTurret
+[18:792] Frosky Placed/Upgraded AutoTurret
+[18:973] Frosky Placed/Upgraded AutoTurret
+[19:176] Frosky Unlocked IncendiaryGrenade
+[19:193] Frosky Unlocked SpecOpsIncendiaryGrenade
+[19:458] Frosky Placed/Upgraded AutoTurret
+[22:357] Frosky Unlocked HazmatSuit
+[28:439] Frosky Placed/Upgraded HealingDrone
+
+[00:588] Sylferian Unlocked AssaultRifle
+[00:820] Sylferian Placed/Upgraded MiningDroid
+[01:190] Sylferian Unlocked BeamRifle
+[01:943] Sylferian Unlocked OverloadWeapon
+[03:872] Sylferian Unlocked SpecOpsPlasmaRifle
+[03:908] Sylferian Unlocked PlasmaRifleMod3
+[04:423] Sylferian Unlocked EnergySuit
+[04:424] Sylferian Unlocked EnergySuit
+[04:713] Sylferian Bought ShieldSuit
+[04:713] Sylferian Bought CombatSuit
+[04:713] Sylferian Bought HazmatSuit
+[04:713] Sylferian Bought CombatSuit
+[05:608] Sylferian Unlocked CloakingDevice
+[06:063] Sylferian Bought CombatSuit
+[06:546] Sylferian Unlocked AdvancedEnergySuit
+[06:547] Sylferian Unlocked EnergySuit
+[06:547] Sylferian Unlocked AdvancedEnergySuit
+[08:651] Sylferian Unlocked SpecOpsCloakingDevice
+[08:725] Sylferian Unlocked OpticalVisor
+[08:777] Sylferian Unlocked QuantumBackpack
+[10:270] Sylferian Unlocked CombatShield
+[10:300] Sylferian Unlocked MedicShield
+[11:789] Sylferian Unlocked AdvancedDroidEngines
+[12:317] Sylferian Unlocked PsiDisrupter
+[14:370] Sylferian Placed/Upgraded PsiIndoctrinator
+[14:725] Sylferian Placed/Upgraded PsiIndoctrinator
+[15:014] Sylferian Unlocked FragGrenade
+[16:894] Sylferian Placed/Upgraded PsiIndoctrinator
+[17:379] Sylferian Unlocked SpecOpsPsiDisruptor
+[17:792] Sylferian Placed/Upgraded PsiIndoctrinator
+[18:852] Sylferian Placed/Upgraded MiningDroid
+[20:345] Sylferian Placed/Upgraded PsiIndoctrinator
+[22:358] Sylferian Bought ShieldSuit
+[22:358] Sylferian Bought CombatSuit
+[22:358] Sylferian Bought HazmatSuit
+[22:358] Sylferian Bought HazmatSuit
+[27:723] Sylferian Unlocked BioMechanicalRepairDrone
+[30:530] Sylferian Placed/Upgraded HealingDrone
+
+[00:588] Tabender Unlocked AssaultRifle
+[00:669] Tabender Placed/Upgraded MiningDroid
+[00:755] Tabender Unlocked AdvancedDroidEngines
+[02:039] Tabender Unlocked TurboDroidEngines
+[03:231] Tabender Unlocked HellfireRocketLauncher
+[03:807] Tabender Unlocked SpecOpsHellfireRocketLauncher
+[04:424] Tabender Bought ShieldSuit
+[04:424] Tabender Bought CombatSuit
+[04:424] Tabender Bought HazmatSuit
+[04:692] Tabender Unlocked OverloadWeapon
+[06:407] Tabender Unlocked CloakingDevice
+[08:001] Tabender Unlocked RocketLauncherMod3
+[08:055] Tabender Unlocked AIAssistant
+[08:190] Tabender Unlocked MotionSensor
+[08:409] Tabender Placed/Upgraded SensorTower
+[09:155] Tabender Placed/Upgraded SensorTower
+[09:532] Tabender Unlocked QuantumBackpack
+[09:537] Tabender Unlocked CombatShield
+[10:192] Tabender Unlocked SpecOpsCloakingDevice
+[12:590] Tabender Unlocked BeamRifle
+[12:598] Tabender Unlocked SpecOpsPlasmaRifle
+[12:647] Tabender Unlocked CorrosivePlasma
+[13:909] Tabender Unlocked AutoTurret
+[13:932] Tabender Unlocked FlameTurret
+[15:760] Tabender Unlocked BioMechanicalRepairDrone
+[15:786] Tabender Unlocked SpecOpsBioMechanicalRepairDrone
+[15:873] Tabender Placed/Upgraded HealingDrone
+[17:475] Tabender Placed/Upgraded HealingDrone
+[21:698] Tabender Unlocked MiningCharge
+[21:885] Tabender Placed/Upgraded NukePack
+[23:463] Tabender Placed/Upgraded NukePack
+[27:569] Tabender Placed/Upgraded NukePack
+
+[00:588] Drake Unlocked AssaultRifle
+[02:401] Drake Placed/Upgraded MiningDroid
+[02:850] Drake Unlocked SpecOpsAssaultRifle
+[02:886] Drake Unlocked AdvancedDroidEngines
+[05:433] Drake Unlocked Stimpack
+[05:491] Drake Unlocked BioMechanicalRepairDrone
+[05:628] Drake Placed/Upgraded HealingDrone
+[06:448] Drake Placed/Upgraded HealingDrone
+[07:601] Drake Unlocked FragGrenade
+[07:623] Drake Unlocked SpecOpsFragGrenade
+[07:703] Drake Unlocked EnergyPack
+[08:917] Drake Unlocked MotionSensor
+[09:395] Drake Placed/Upgraded SensorTower
+[10:497] Drake Placed/Upgraded SensorTower
+[11:029] Drake Placed/Upgraded SensorTower
+[11:328] Drake Unlocked Teleporter
+[11:970] Drake Unlocked SpecOpsBioMechanicalRepairDrone
+[12:003] Drake Placed/Upgraded HealingDrone
+[12:282] Drake Placed/Upgraded HealingDrone
+[14:146] Drake Placed/Upgraded HealingDrone
+[15:814] Drake Placed/Upgraded HealingDrone
+[16:542] Drake Unlocked CombatSuit
+[16:559] Drake Unlocked AdvancedCombatSuit
+[17:247] Drake Placed/Upgraded HealingDrone
+[18:784] Drake Placed/Upgraded HealingDrone
+[18:973] Drake Unlocked MiningCharge
+[19:045] Drake Placed/Upgraded NukePack
+[19:520] Drake Placed/Upgraded HealingDrone
+[24:577] Drake Placed/Upgraded HealingDrone
+[29:816] Drake Placed/Upgraded HealingDrone
+
+[16:543] TheKiwi Bought ShieldSuit
+[16:543] TheKiwi Bought CombatSuit
+[16:543] TheKiwi Bought HazmatSuit
+[16:543] TheKiwi Bought CombatSuit
+[16:560] TheKiwi Bought CombatSuit
+
+[00:867] Gafe Spawned MassiveCocoon
+[02:307] Gafe Spawned Hunter
+[05:099] Gafe Spawned MassiveCocoon
+[06:539] Gafe Spawned Hunter
+[10:499] Gafe Spawned MassiveCocoon
+[11:939] Gafe Spawned Anubalisk
+[14:726] Gafe Spawned MassiveCocoon
+[15:806] Gafe Spawned Underseer
+[18:244] Gafe Bought CreepSpeed
+[20:236] Gafe Bought VirulentCreep
+[20:711] Gafe Bought UnlockDropPods
+[20:734] Gafe Bought EvolveDropPods
+[20:900] Gafe Bought EvolveDropPods
+[23:315] Gafe Bought BuildExtractorProcessingFacilities
+[24:034] Gafe Bought SiphonFuel
+[25:637] Gafe Spawned MassiveCocoon
+[26:813] Gafe Bought DropshipsFueled
+[26:953] Gafe Bought SweepingInfestation
+[26:953] Gafe Bought UltimateInfestationResearched
+[27:077] Gafe Spawned Anubalisk
+[27:082] Gafe Bought ExtractorCostReductionProcessingFacilities
+[27:082] Gafe Bought BuildExtractorProcessingFacilities
+[27:745] Gafe Bought AdvancedInfestationGateControl
+
+

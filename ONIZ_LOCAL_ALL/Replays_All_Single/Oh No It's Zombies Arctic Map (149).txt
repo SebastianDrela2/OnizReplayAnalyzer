@@ -1,0 +1,30 @@
+Analyzed: Oh No It's Zombies Arctic Map (149)
+
+Zombie Loss
+ID : 0 PlayerName: Bman Race: Terran
+ID : 0 PlayerName: Renduras Race: Terran
+ID : 0 PlayerName: bonkybonky Race: Terran
+ID : 0 PlayerName: Frosky Race: Terran
+ID : 0 PlayerName: BARUNA Race: Terran
+ID : 0 PlayerName: eye Race: Terran
+ID : 0 PlayerName: SpicyWolf Race: Zerg
+ID : 0 PlayerName: Security Race: Infested Terran
+PURCHASES: 
+
+
+
+[00:572]  Unlocked AssaultRifle
+[00:980]  Unlocked CombatSuit
+[00:981]  Unlocked ShieldSuit
+[00:981]  Unlocked AdvancedShieldSuit
+[00:981]  Unlocked CombatSuit
+[00:981]  Unlocked AdvancedCombatSuit
+[00:981]  Unlocked HazmatSuit
+[00:981]  Unlocked AdvancedHazmatSuit
+[00:981]  Unlocked CombatSuit
+[01:012]  Unlocked Stimpack
+
+
+
+
+

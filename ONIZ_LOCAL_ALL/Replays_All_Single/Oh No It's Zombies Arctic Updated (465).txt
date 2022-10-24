@@ -1,0 +1,105 @@
+Analyzed: Oh No It's Zombies Arctic Updated (465)
+
+Zombie Win
+ID : 0 PlayerName: ZergWithHat Race: Terran
+ID : 1 PlayerName: Frosky Race: Zerg
+ID : 2 PlayerName: Snap Race: Terran
+ID : 3 PlayerName: dwarfplanet Race: Terran
+ID : 4 PlayerName: BurtMacklin Race: Terran
+ID : 5 PlayerName: lman Race: Terran
+ID : 6 PlayerName: GustavAldogg Race: Terran
+ID : 7 PlayerName: Security Race: Terran Tychus
+PURCHASES: 
+[00:588] ZergWithHat Unlocked AssaultRifle
+[01:227] ZergWithHat Unlocked BeamRifle
+[01:325] ZergWithHat Unlocked OverloadWeapon
+[02:281] ZergWithHat Placed MiningDroid
+[05:429] ZergWithHat Unlocked SpecOpsPlasmaRifle
+[05:515] ZergWithHat Unlocked ExplorationDroid
+[05:651] ZergWithHat Placed ExplorationDroid
+[05:838] ZergWithHat Placed ExplorationDroid
+[07:991] ZergWithHat Unlocked PlasmaRifleMod3
+[09:362] ZergWithHat Placed MiningDroid
+[11:023] ZergWithHat Placed ExplorationDroid
+
+[00:552] Frosky Bought PlayerNumber
+[01:032] Frosky Spawned MassiveCocoon
+[02:472] Frosky Spawned Hunter
+[04:454] Frosky Spawned MassiveCocoon
+[05:358] Frosky Bought CreepSpeed
+[05:894] Frosky Spawned PrimalTownHallUprooted
+[07:297] Frosky Bought StrainSpeed
+[07:930] Frosky Placed/Upgraded ToxicNest
+[07:940] Frosky Placed/Upgraded ToxicNest
+[09:884] Frosky Placed/Upgraded ToxicNest
+[09:886] Frosky Placed/Upgraded ToxicNest
+[09:922] Frosky Placed/Upgraded ToxicNest
+[09:997] Frosky Spawned MassiveCocoon
+[11:437] Frosky Spawned Anubalisk
+[11:975] Frosky Bought BuildExtractorManufacturingSector
+[11:975] Frosky Placed/Upgraded AutomatedExtractor
+[13:704] Frosky Bought CreepSpeed
+[14:887] Frosky Bought BuildExtractorProcessingFacilities
+[14:887] Frosky Placed/Upgraded AutomatedExtractor
+[15:390] Frosky Bought PureStrainSpeed
+[15:986] Frosky Bought HunterlingStrain
+[16:229] Frosky Placed/Upgraded Virophage
+[16:629] Frosky Spawned MassiveCocoon
+
+[00:588] Snap Unlocked AssaultRifle
+[00:667] Snap Placed/Upgraded MiningDroid
+[00:781] Snap Unlocked AdvancedDroidEngines
+[02:912] Snap Unlocked HellfireRocketLauncher
+[03:388] Snap Unlocked SpecOpsHellfireRocketLauncher
+[06:078] Snap Unlocked TurboDroidEngines
+[13:300] Snap Unlocked CloakingDevice
+[13:584] Snap Unlocked SpecOpsCloakingDevice
+
+[00:588] dwarfplanet Unlocked AssaultRifle
+[00:732] dwarfplanet Placed/Upgraded MiningDroid
+[00:768] dwarfplanet Unlocked AdvancedDroidEngines
+[02:956] dwarfplanet Unlocked BeamRifle
+[03:470] dwarfplanet Unlocked Stimpack
+[04:603] dwarfplanet Unlocked SpecOpsPlasmaRifle
+[06:064] dwarfplanet Unlocked MedicShield
+[08:672] dwarfplanet Unlocked SuperStimpack
+[08:708] dwarfplanet Unlocked TurboDroidEngines
+[16:070] dwarfplanet Unlocked CombatSuit
+
+[00:588] BurtMacklin Unlocked AssaultRifle
+[01:099] BurtMacklin Placed/Upgraded MiningDroid
+[01:243] BurtMacklin Unlocked Stimpack
+[16:071] BurtMacklin Bought ShieldSuit
+[16:071] BurtMacklin Bought CombatSuit
+[16:071] BurtMacklin Bought HazmatSuit
+[16:071] BurtMacklin Bought CombatSuit
+
+[00:588] lman Unlocked AssaultRifle
+[00:868] lman Placed/Upgraded MiningDroid
+[00:971] lman Unlocked AdvancedDroidEngines
+[02:789] lman Unlocked BeamRifle
+[04:070] lman Unlocked SpecOpsPlasmaRifle
+[06:692] lman Unlocked Shieldsiotunlocked
+[06:697] lman Unlocked AdvancedShieldSuit
+[07:521] lman Unlocked MedicShield
+[13:920] lman Unlocked AIAssistant
+
+[00:588] GustavAldogg Unlocked AssaultRifle
+[00:806] GustavAldogg Unlocked Stimpack
+[03:516] GustavAldogg Unlocked AdvancedDroidEngines
+[04:538] GustavAldogg Unlocked TurboDroidEngines
+[06:474] GustavAldogg Unlocked CombatSuit
+[06:693] GustavAldogg Bought ShieldSuit
+[06:693] GustavAldogg Bought CombatSuit
+[06:693] GustavAldogg Bought HazmatSuit
+[06:693] GustavAldogg Bought ShieldSuit
+[06:698] GustavAldogg Bought ShieldSuit
+[08:730] GustavAldogg Unlocked AdvancedCombatSuit
+[11:885] GustavAldogg Unlocked SpecOpsAssaultRifle
+
+[06:475] Security Bought ShieldSuit
+[06:475] Security Bought CombatSuit
+[06:475] Security Bought HazmatSuit
+[06:475] Security Bought CombatSuit
+[08:731] Security Bought CombatSuit
+

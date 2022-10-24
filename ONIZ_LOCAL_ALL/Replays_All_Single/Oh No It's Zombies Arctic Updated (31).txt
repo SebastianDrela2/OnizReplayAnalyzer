@@ -1,0 +1,192 @@
+Analyzed: Oh No It's Zombies Arctic Updated (31)
+
+Zombie Win
+ID : 0 PlayerName: Frosky Race: Zerg
+ID : 1 PlayerName: ScaledNerd Race: Terran
+ID : 2 PlayerName: eye Race: Terran
+ID : 3 PlayerName: Locofuzzball Race: Terran
+ID : 4 PlayerName: PãoDeForma Race: Terran
+ID : 5 PlayerName: crazycent Race: Terran
+ID : 6 PlayerName: Velociraptor Race: Terran
+ID : 7 PlayerName: Security Race: Terran Tychus
+PURCHASES: 
+[01:284] Frosky Bought CreepSpeed
+[04:857] Frosky Bought CreepSpeed
+[06:685] Frosky Bought StrainSpeed
+[08:316] Frosky Bought PureStrainSpeed
+[10:295] Frosky Bought StrainSpeed
+[12:924] Frosky Bought PureStrainSpeed
+[14:336] Frosky Bought StrainSpeed
+[15:968] Frosky Bought PureStrainSpeed
+[16:649] Frosky Bought StrainSpeed
+[17:700] Frosky Bought PureStrainSpeed
+[17:717] Frosky Bought StrainSpeed
+[19:790] Frosky Bought PureStrainSpeed
+[20:634] Frosky Bought HunterlingStrain
+[22:184] Frosky Bought HunterlingStrain
+[23:710] Frosky Bought HunterlingStrain
+[23:713] Frosky Bought HunterlingStrain
+[25:924] Frosky Bought VirulentCreep
+[27:523] Frosky Bought HunterlingStrain
+[29:350] Frosky Placed/Upgraded Virophage
+[29:627] Frosky Placed/Upgraded Virophage
+[31:541] Frosky Spawned MassiveCocoon
+[32:543] Frosky Spawned MassiveCocoon
+[32:981] Frosky Spawned InfestedAbomination
+[33:983] Frosky Spawned InfestedAbomination
+[34:636] Frosky Bought DropshipsFueled
+[39:168] Frosky Bought SpawnNydusWorm
+[39:407] Frosky Placed/Upgraded GreaterNydusWorm
+[39:688] Frosky Spawned RoyalCocoon
+[39:688] Frosky Bought SpawnHiveQueen
+[39:688] Frosky Bought UltimateInfestationResearched
+[40:407] Frosky Spawned QueenCoop
+
+[00:588] ScaledNerd Unlocked AssaultRifle
+[01:852] ScaledNerd Unlocked SpecOpsAssaultRifle
+[09:832] ScaledNerd Unlocked MedicShield
+[23:857] ScaledNerd Placed/Upgraded MiningDroid
+[26:900] ScaledNerd Unlocked PsiDisrupter
+[36:744] ScaledNerd Unlocked FragGrenade
+
+[00:588] eye Unlocked AssaultRifle
+[00:668] eye Placed/Upgraded MiningDroid
+[00:837] eye Unlocked AdvancedDroidEngines
+[05:819] eye Unlocked TurboDroidEngines
+[08:964] eye Unlocked SpecOpsAssaultRifle
+[09:085] eye Unlocked Bayonette
+[09:209] eye Unlocked Shieldsiotunlocked
+[09:210] eye Unlocked ShieldSuit
+[09:210] eye Unlocked AdvancedShieldSuit
+[09:210] eye Unlocked CombatSuit
+[09:210] eye Unlocked AdvancedCombatSuit
+[09:210] eye Unlocked HazmatSuit
+[09:210] eye Unlocked AdvancedHazmatSuit
+[09:210] eye Unlocked ShieldSuit
+[12:670] eye Unlocked CombatShield
+[15:481] eye Placed/Upgraded MiningDroid
+[24:102] eye Unlocked AdvancedShieldSuit
+[24:103] eye Unlocked ShieldSuit
+[24:103] eye Unlocked AdvancedShieldSuit
+[24:207] eye Unlocked CloakingDevice
+[24:326] eye Unlocked FlashBang
+[25:950] eye Unlocked Stimpack
+[26:969] eye Unlocked ExplorationDroid
+[27:017] eye Placed/Upgraded ExplorationDroid
+[27:807] eye Unlocked AIAssistant
+[27:913] eye Placed/Upgraded ExplorationDroid
+[29:963] eye Placed/Upgraded ExplorationDroid
+[35:193] eye Unlocked QuantumBackpack
+[35:288] eye Unlocked MiningCharge
+[40:654] eye Placed/Upgraded NukePack
+
+[00:588] Locofuzzball Unlocked AssaultRifle
+[00:711] Locofuzzball Placed/Upgraded MiningDroid
+[01:124] Locofuzzball Unlocked AdvancedDroidEngines
+[02:943] Locofuzzball Unlocked CombatSuit
+[02:944] Locofuzzball Unlocked ShieldSuit
+[02:944] Locofuzzball Unlocked AdvancedShieldSuit
+[02:944] Locofuzzball Unlocked CombatSuit
+[02:944] Locofuzzball Unlocked AdvancedCombatSuit
+[02:944] Locofuzzball Unlocked HazmatSuit
+[02:944] Locofuzzball Unlocked AdvancedHazmatSuit
+[02:944] Locofuzzball Unlocked CombatSuit
+[05:325] Locofuzzball Unlocked AdvancedCombatSuit
+[05:326] Locofuzzball Unlocked CombatSuit
+[05:326] Locofuzzball Unlocked AdvancedCombatSuit
+[05:474] Locofuzzball Unlocked HellfireRocketLauncher
+[08:082] Locofuzzball Unlocked SpecOpsHellfireRocketLauncher
+[08:262] Locofuzzball Unlocked ShockwaveMissiles
+[10:461] Locofuzzball Unlocked PsiDisrupter
+[12:402] Locofuzzball Unlocked MedicShield
+[12:529] Locofuzzball Placed/Upgraded PsiIndoctrinator
+[14:043] Locofuzzball Unlocked SpecOpsPsiDisruptor
+[14:056] Locofuzzball Unlocked BioMechanicalRepairDrone
+[16:894] Locofuzzball Placed/Upgraded PsiIndoctrinator
+[19:488] Locofuzzball Unlocked SuperStimpack
+[21:921] Locofuzzball Unlocked IncendiaryGrenade
+[21:948] Locofuzzball Unlocked SpecOpsIncendiaryGrenade
+[27:674] Locofuzzball Placed/Upgraded PsiIndoctrinator
+
+[00:588] PãoDeForma Unlocked AssaultRifle
+[00:676] PãoDeForma Placed/Upgraded MiningDroid
+[01:474] PãoDeForma Unlocked IncendiaryGrenade
+[01:759] PãoDeForma Unlocked SpecOpsIncendiaryGrenade
+[06:104] PãoDeForma Unlocked BeamRifle
+[10:477] PãoDeForma Unlocked Teleporter
+[10:630] PãoDeForma Unlocked CombatSuit
+[10:631] PãoDeForma Unlocked ShieldSuit
+[10:631] PãoDeForma Unlocked AdvancedShieldSuit
+[10:631] PãoDeForma Unlocked CombatSuit
+[10:631] PãoDeForma Unlocked AdvancedCombatSuit
+[10:631] PãoDeForma Unlocked HazmatSuit
+[10:631] PãoDeForma Unlocked AdvancedHazmatSuit
+[10:631] PãoDeForma Unlocked CombatSuit
+[10:650] PãoDeForma Unlocked AdvancedCombatSuit
+[10:651] PãoDeForma Unlocked CombatSuit
+[10:651] PãoDeForma Unlocked AdvancedCombatSuit
+[18:076] PãoDeForma Unlocked SpecOpsPlasmaRifle
+[19:838] PãoDeForma Unlocked AutoTurret
+[20:386] PãoDeForma Placed/Upgraded AutoTurret
+[20:589] PãoDeForma Placed/Upgraded AutoTurret
+[23:261] PãoDeForma Unlocked CorrosivePlasma
+[24:793] PãoDeForma Placed/Upgraded AutoTurret
+[25:188] PãoDeForma Placed/Upgraded AutoTurret
+[25:885] PãoDeForma Placed/Upgraded AutoTurret
+[26:760] PãoDeForma Placed/Upgraded AutoTurret
+[26:878] PãoDeForma Unlocked OverloadWeapon
+[27:127] PãoDeForma Unlocked OpticalVisor
+[27:227] PãoDeForma Placed/Upgraded AutoTurret
+[30:584] PãoDeForma Placed/Upgraded AutoTurret
+[33:120] PãoDeForma Placed/Upgraded AutoTurret
+[40:051] PãoDeForma Placed/Upgraded AutoTurret
+
+[00:588] crazycent Unlocked AssaultRifle
+[00:876] crazycent Placed/Upgraded MiningDroid
+[04:031] crazycent Unlocked Flamethrower
+[04:092] crazycent Unlocked SpecOpsFlamethrower
+[09:796] crazycent Unlocked OverloadWeapon
+[09:994] crazycent Unlocked IncendiaryGrenade
+[10:031] crazycent Unlocked SpecOpsIncendiaryGrenade
+[10:284] crazycent Unlocked CombatSuit
+[10:285] crazycent Unlocked ShieldSuit
+[10:285] crazycent Unlocked AdvancedShieldSuit
+[10:285] crazycent Unlocked CombatSuit
+[10:285] crazycent Unlocked AdvancedCombatSuit
+[10:285] crazycent Unlocked HazmatSuit
+[10:285] crazycent Unlocked AdvancedHazmatSuit
+[10:285] crazycent Unlocked CombatSuit
+[31:493] crazycent Unlocked BioMechanicalRepairDrone
+[31:724] crazycent Unlocked SpecOpsBioMechanicalRepairDrone
+[32:618] crazycent Placed/Upgraded HealingDrone
+[34:253] crazycent Placed/Upgraded HealingDrone
+
+[00:588] Velociraptor Unlocked AssaultRifle
+[00:741] Velociraptor Unlocked AdvancedDroidEngines
+[03:926] Velociraptor Unlocked TurboDroidEngines
+[06:214] Velociraptor Unlocked OverloadWeapon
+[08:831] Velociraptor Unlocked SpecOpsAssaultRifle
+[08:872] Velociraptor Unlocked TitaniumBulletCasings
+[11:928] Velociraptor Unlocked EnergySuit
+[11:929] Velociraptor Unlocked ShieldSuit
+[11:929] Velociraptor Unlocked AdvancedShieldSuit
+[11:929] Velociraptor Unlocked CombatSuit
+[11:929] Velociraptor Unlocked AdvancedCombatSuit
+[11:929] Velociraptor Unlocked HazmatSuit
+[11:929] Velociraptor Unlocked AdvancedHazmatSuit
+[11:929] Velociraptor Unlocked EnergySuit
+[11:938] Velociraptor Unlocked AdvancedEnergySuit
+[11:939] Velociraptor Unlocked EnergySuit
+[11:939] Velociraptor Unlocked AdvancedEnergySuit
+[11:990] Velociraptor Unlocked EnergyPack
+[15:243] Velociraptor Unlocked Teleporter
+[15:255] Velociraptor Unlocked SpecOpsTeleporter
+[20:929] Velociraptor Unlocked FlashBang
+[20:938] Velociraptor Unlocked SpecOpsFlashbang
+[26:567] Velociraptor Unlocked OpticalVisor
+[26:567] Velociraptor Unlocked CombatShield
+[31:390] Velociraptor Unlocked BioMechanicalRepairDrone
+[31:394] Velociraptor Unlocked SpecOpsBioMechanicalRepairDrone
+[35:394] Velociraptor Unlocked MiningCharge
+
+

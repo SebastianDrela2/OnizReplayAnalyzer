@@ -1,0 +1,130 @@
+Analyzed: Oh No It's Zombies Arctic Updated (307)
+
+Zombie Win
+ID : 0 PlayerName: Frosky Race: Zerg
+ID : 1 PlayerName: TheZergKing Race: Terran
+ID : 2 PlayerName: chickenparts Race: Terran
+ID : 3 PlayerName: bibinah Race: Terran
+ID : 4 PlayerName: Zeye Race: Terran
+ID : 5 PlayerName: Radovid Race: Terran
+ID : 6 PlayerName: MIGUELON Race: Terran
+ID : 7 PlayerName: Security Race: Terran
+PURCHASES: 
+[00:000] Frosky Spawned Abomination
+[00:630] Frosky Spawned MassiveCocoon
+[02:070] Frosky Spawned Hunter
+[07:511] Frosky Bought CreepSpeed
+[09:624] Frosky Placed/Upgraded ToxicNest
+[09:632] Frosky Placed/Upgraded ToxicNest
+[10:341] Frosky Bought CreepSpeed
+[12:291] Frosky Bought VirulentCreep
+[15:108] Frosky Bought SpawnNydusWorm
+[16:142] Frosky Placed/Upgraded NydusCanalCreeper
+[16:535] Frosky Placed/Upgraded GreaterNydusWorm
+[18:519] Frosky Placed/Upgraded ToxicNest
+[18:532] Frosky Placed/Upgraded ToxicNest
+[18:602] Frosky Bought StrainVolatile
+[18:612] Frosky Bought PureStrainVolatile
+
+[00:588] TheZergKing Unlocked AssaultRifle
+[00:667] TheZergKing Placed/Upgraded MiningDroid
+[02:317] TheZergKing Unlocked Flamethrower
+[03:665] TheZergKing Unlocked SpecOpsFlamethrower
+[05:937] TheZergKing Unlocked AdvancedDroidEngines
+[09:155] TheZergKing Unlocked TurboDroidEngines
+[10:141] TheZergKing Unlocked CryoFreeze
+[11:441] TheZergKing Unlocked Stimpack
+[13:541] TheZergKing Unlocked BioMechanicalRepairDrone
+[13:613] TheZergKing Placed/Upgraded HealingDrone
+[13:905] TheZergKing Placed/Upgraded MiningDroid
+[15:761] TheZergKing Placed/Upgraded HealingDrone
+
+[00:588] chickenparts Unlocked AssaultRifle
+[00:703] chickenparts Placed/Upgraded MiningDroid
+[00:765] chickenparts Unlocked FragGrenade
+[03:929] chickenparts Unlocked AdvancedDroidEngines
+[05:613] chickenparts Unlocked TurboDroidEngines
+[07:257] chickenparts Unlocked SpecOpsAssaultRifle
+[09:213] chickenparts Unlocked BioMechanicalRepairDrone
+[09:231] chickenparts Unlocked CombatAccelerationDrone
+[10:557] chickenparts Placed/Upgraded HealingDrone
+[11:395] chickenparts Unlocked TitaniumBulletCasings
+[11:699] chickenparts Unlocked MedicShield
+[12:094] chickenparts Placed/Upgraded HealingDrone
+[13:085] chickenparts Placed/Upgraded HealingDrone
+[14:228] chickenparts Placed/Upgraded HealingDrone
+[15:372] chickenparts Unlocked Teleporter
+[15:710] chickenparts Unlocked MotionSensor
+
+[00:588] bibinah Unlocked AssaultRifle
+[00:672] bibinah Placed/Upgraded MiningDroid
+[00:715] bibinah Unlocked AdvancedDroidEngines
+[02:976] bibinah Unlocked AutoTurret
+[03:164] bibinah Placed/Upgraded AutoTurret
+[03:469] bibinah Placed/Upgraded AutoTurret
+[03:655] bibinah Placed/Upgraded AutoTurret
+[04:299] bibinah Placed/Upgraded AutoTurret
+[04:877] bibinah Placed/Upgraded AutoTurret
+[05:181] bibinah Placed/Upgraded AutoTurret
+[05:868] bibinah Placed/Upgraded MiningDroid
+[06:384] bibinah Placed/Upgraded AutoTurret
+[09:417] bibinah Unlocked ArcWelder
+[10:115] bibinah Placed/Upgraded AutoTurret
+[10:527] bibinah Unlocked BioMechanicalRepairDrone
+[10:802] bibinah Placed/Upgraded HealingDrone
+[13:913] bibinah Placed/Upgraded AutoTurret
+[14:419] bibinah Unlocked HeavyTurret
+[14:864] bibinah Placed/Upgraded AutoTurret
+[15:082] bibinah Placed/Upgraded AutoTurret
+[15:392] bibinah Placed/Upgraded HealingDrone
+[16:403] bibinah Placed/Upgraded HealingDrone
+[17:732] bibinah Placed/Upgraded HealingDrone
+
+[00:588] Zeye Unlocked AssaultRifle
+[00:707] Zeye Placed/Upgraded MiningDroid
+[00:948] Zeye Unlocked AdvancedDroidEngines
+[04:070] Zeye Unlocked TurboDroidEngines
+[05:988] Zeye Unlocked BeamRifle
+[07:353] Zeye Unlocked SpecOpsPlasmaRifle
+[07:677] Zeye Unlocked CorrosivePlasma
+[09:479] Zeye Unlocked CombatSuit
+[09:480] Zeye Unlocked ShieldSuit
+[09:480] Zeye Unlocked AdvancedShieldSuit
+[09:480] Zeye Unlocked CombatSuit
+[09:480] Zeye Unlocked AdvancedCombatSuit
+[09:480] Zeye Unlocked HazmatSuit
+[09:480] Zeye Unlocked AdvancedHazmatSuit
+[09:480] Zeye Unlocked CombatSuit
+[09:885] Zeye Unlocked AdvancedCombatSuit
+[09:886] Zeye Unlocked CombatSuit
+[09:886] Zeye Unlocked AdvancedCombatSuit
+[12:054] Zeye Unlocked CloakingDevice
+[14:622] Zeye Unlocked SpecOpsCloakingDevice
+
+[00:588] Radovid Unlocked AssaultRifle
+[00:667] Radovid Placed/Upgraded MiningDroid
+[01:574] Radovid Unlocked FragGrenade
+[01:582] Radovid Unlocked SpecOpsFragGrenade
+[04:025] Radovid Unlocked Stimpack
+[05:656] Radovid Unlocked EnergySuit
+[05:657] Radovid Unlocked ShieldSuit
+[05:657] Radovid Unlocked AdvancedShieldSuit
+[05:657] Radovid Unlocked CombatSuit
+[05:657] Radovid Unlocked AdvancedCombatSuit
+[05:657] Radovid Unlocked HazmatSuit
+[05:657] Radovid Unlocked AdvancedHazmatSuit
+[05:657] Radovid Unlocked EnergySuit
+[07:606] Radovid Unlocked AdvancedEnergySuit
+[07:607] Radovid Unlocked EnergySuit
+[07:607] Radovid Unlocked AdvancedEnergySuit
+[11:286] Radovid Unlocked SpecOpsAssaultRifle
+[16:754] Radovid Unlocked PowerConverter
+
+[00:588] MIGUELON Unlocked AssaultRifle
+[04:627] MIGUELON Unlocked PsiDisrupter
+[04:723] MIGUELON Unlocked PsiDepressor
+[05:431] MIGUELON Unlocked IncendiaryGrenade
+[05:459] MIGUELON Unlocked SpecOpsIncendiaryGrenade
+[17:468] MIGUELON Unlocked FragGrenade
+
+

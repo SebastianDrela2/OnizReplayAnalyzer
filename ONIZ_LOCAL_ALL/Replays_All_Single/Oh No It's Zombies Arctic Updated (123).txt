@@ -1,0 +1,181 @@
+Analyzed: Oh No It's Zombies Arctic Updated (123)
+
+Zombie Win
+ID : 0 PlayerName: Frosky Race: Terran
+ID : 1 PlayerName: Zepherd Race: Zerg
+ID : 2 PlayerName: stale Race: Terran
+ID : 3 PlayerName: Mclovin Race: Terran
+ID : 4 PlayerName: tyler Race: Terran
+ID : 5 PlayerName: DemonPrince Race: Terran
+ID : 6 PlayerName: Trabin Race: Terran
+ID : 7 PlayerName: Security Race: MechaZerg
+PURCHASES: 
+[00:588] Frosky Unlocked AssaultRifle
+[00:675] Frosky Placed MiningDroid
+[00:715] Frosky Unlocked AdvancedDroidEngines
+[02:674] Frosky Unlocked TurboDroidEngines
+[04:721] Frosky Unlocked SpecOpsAssaultRifle
+[06:496] Frosky Unlocked TitaniumBulletCasings
+[08:204] Frosky Unlocked Stimpack
+[08:702] Frosky Unlocked CombatSuit
+[09:804] Frosky Unlocked AdvancedCombatSuit
+[10:277] Frosky Unlocked AutoTurret
+[11:714] Frosky Unlocked HeavyTurret
+[13:179] Frosky Placed AutoTurret
+[13:492] Frosky Placed AutoTurret
+[13:572] Frosky Unlocked BioMechanicalRepairDrone
+[13:690] Frosky Placed HealingDrone
+[15:244] Frosky Placed HealingDrone
+[24:027] Frosky Unlocked Teleporter
+[24:659] Frosky Unlocked QuantumBackpack
+[25:243] Frosky Placed HealingDrone
+[25:452] Frosky Placed AutoTurret
+[25:653] Frosky Placed AutoTurret
+
+[00:000] Zepherd Spawned Abomination
+[00:552] Zepherd Bought PlayerNumber
+[04:124] Zepherd Placed/Upgraded PrimalSunkenColony
+[04:125] Zepherd Bought SunkenColony
+[04:436] Zepherd Placed/Upgraded PrimalSunkenColony
+[04:437] Zepherd Bought SunkenColony
+[04:539] Zepherd Bought CreepSpeed
+[05:407] Zepherd Bought StrainDamage
+[05:506] Zepherd Bought BuildExtractorScienceLabs
+[05:506] Zepherd Placed/Upgraded AutomatedExtractor
+[05:702] Zepherd Bought SunkenColony
+[06:644] Zepherd Bought BuildExtractorScienceLabs
+[07:726] Zepherd Bought AdvancedInfestationContainment
+[07:756] Zepherd Bought SunkenColony
+[08:661] Zepherd Placed/Upgraded PrimalSunkenColony
+[08:662] Zepherd Bought SunkenColony
+[08:703] Zepherd Bought ShieldSuit
+[08:703] Zepherd Bought CombatSuit
+[08:703] Zepherd Bought HazmatSuit
+[08:703] Zepherd Bought CombatSuit
+[08:910] Zepherd Bought SunkenColony
+[08:910] Zepherd Placed/Upgraded PrimalSunkenColony
+[08:971] Zepherd Bought PureStrainDamage
+[09:805] Zepherd Bought CombatSuit
+[10:205] Zepherd Placed/Upgraded PrimalSunkenColony
+[10:206] Zepherd Bought SunkenColony
+[10:768] Zepherd Bought DefilerStrain
+[11:528] Zepherd Bought SunkenColony
+[11:543] Zepherd Bought SunkenColony
+[11:579] Zepherd Bought SunkenColony
+[11:787] Zepherd Bought StrainSpeed
+[12:157] Zepherd Bought PureStrainSpeed
+[12:403] Zepherd Placed/Upgraded LesserNydusWorm
+[12:404] Zepherd Bought GreaterNydus
+[13:670] Zepherd Bought HunterlingStrain
+[14:729] Zepherd Placed/Upgraded PrimalSunkenColony
+[14:730] Zepherd Bought SunkenColony
+[14:871] Zepherd Bought GreaterNydus
+[15:658] Zepherd Bought SunkenColony
+[15:662] Zepherd Placed/Upgraded PrimalSunkenColony
+[15:663] Zepherd Bought SunkenColony
+[15:738] Zepherd Bought BuildExtractorScienceLabs
+[15:738] Zepherd Placed/Upgraded AutomatedExtractor
+[16:118] Zepherd Placed/Upgraded LesserNydusWorm
+[16:119] Zepherd Bought GreaterNydus
+[16:645] Zepherd Bought SunkenColony
+[16:656] Zepherd Bought GreaterNydus
+[16:853] Zepherd Placed/Upgraded PrimalSunkenColony
+[16:854] Zepherd Bought SunkenColony
+[17:388] Zepherd Bought BuildExtractorProcessingFacilities
+[17:388] Zepherd Placed/Upgraded AutomatedExtractor
+[18:875] Zepherd Bought BuildExtractorManufacturingSector
+[18:875] Zepherd Placed/Upgraded AutomatedExtractor
+[19:385] Zepherd Bought SunkenColony
+[19:435] Zepherd Bought StrainSpeed
+[19:445] Zepherd Bought PureStrainSpeed
+[19:453] Zepherd Bought HunterlingStrain
+[20:327] Zepherd Bought StrainVolatile
+[20:337] Zepherd Bought PureStrainVolatile
+[20:347] Zepherd Bought KaboomerStrain
+[21:063] Zepherd Bought AdvancedInfestationSecurity
+[21:303] Zepherd Bought TrackHumans
+[21:601] Zepherd Bought StrainDamage
+[22:305] Zepherd Bought PureStrainDamage
+[22:480] Zepherd Bought DefilerStrain
+[22:988] Zepherd Bought DropshipsFueled
+[23:151] Zepherd Bought UltimateInfestationResearched
+[23:296] Zepherd Bought GreaterNydus
+[24:400] Zepherd Bought GreaterNydus
+[25:017] Zepherd Bought CreepSpeed
+[25:027] Zepherd Bought RegenerativeCreep
+[25:037] Zepherd Bought ConstructiveCreep
+[25:307] Zepherd Placed/Upgraded NydusCanalCreeper
+[25:534] Zepherd Placed/Upgraded NydusCanalCreeper
+[26:819] Zepherd Bought VirulentCreep
+[26:819] Zepherd Bought VirulentCreep
+
+[00:588] stale Unlocked AssaultRifle
+[00:686] stale Placed/Upgraded MiningDroid
+[00:954] stale Unlocked AdvancedDroidEngines
+[02:025] stale Unlocked Flamethrower
+
+[00:588] Mclovin Unlocked AssaultRifle
+[00:667] Mclovin Placed/Upgraded MiningDroid
+[01:073] Mclovin Unlocked SpecOpsAssaultRifle
+[03:638] Mclovin Unlocked AdvancedDroidEngines
+[12:104] Mclovin Unlocked SuperStimpack
+[12:117] Mclovin Unlocked SpecOpsSuperStimpack
+[12:727] Mclovin Unlocked CombatSuit
+[13:918] Mclovin Placed/Upgraded MiningDroid
+[17:087] Mclovin Unlocked AutoTargetingSystem
+[17:214] Mclovin Unlocked BioMechanicalRepairDrone
+[17:338] Mclovin Unlocked AdvancedCombatSuit
+[19:887] Mclovin Placed/Upgraded HealingDrone
+[23:824] Mclovin Placed/Upgraded HealingDrone
+[24:941] Mclovin Placed/Upgraded HealingDrone
+
+[00:588] tyler Unlocked AssaultRifle
+[00:692] tyler Placed/Upgraded MiningDroid
+[00:978] tyler Unlocked SpecOpsAssaultRifle
+[03:945] tyler Unlocked TitaniumBulletCasings
+[05:979] tyler Unlocked Shieldsiotunlocked
+[12:728] tyler Bought ShieldSuit
+[12:728] tyler Bought CombatSuit
+[12:728] tyler Bought HazmatSuit
+[12:728] tyler Bought CombatSuit
+[12:950] tyler Unlocked Teleporter
+[12:978] tyler Unlocked SpecOpsTeleporter
+[13:209] tyler Unlocked AdvancedShieldSuit
+[17:339] tyler Bought CombatSuit
+
+[00:588] DemonPrince Unlocked AssaultRifle
+[00:813] DemonPrince Placed/Upgraded MiningDroid
+[02:485] DemonPrince Unlocked SpecOpsAssaultRifle
+[05:980] DemonPrince Bought ShieldSuit
+[05:980] DemonPrince Bought CombatSuit
+[05:980] DemonPrince Bought HazmatSuit
+[05:980] DemonPrince Bought ShieldSuit
+[12:226] DemonPrince Unlocked CombatSuit
+[12:248] DemonPrince Unlocked AdvancedCombatSuit
+[12:507] DemonPrince Unlocked Teleporter
+[13:210] DemonPrince Bought ShieldSuit
+
+[00:588] Trabin Unlocked AssaultRifle
+[00:918] Trabin Unlocked AdvancedDroidEngines
+[01:019] Trabin Unlocked MedicShield
+[06:019] Trabin Unlocked SpecOpsAssaultRifle
+[06:732] Trabin Unlocked AutoTargetingSystem
+[09:969] Trabin Unlocked EnergyPack
+[09:988] Trabin Unlocked OpticalVisor
+[10:251] Trabin Unlocked SuperHealingDrone
+[10:284] Trabin Unlocked SpecOpsSuperHealingDrone
+[10:627] Trabin Unlocked HazmatSuit
+[12:227] Trabin Bought ShieldSuit
+[12:227] Trabin Bought CombatSuit
+[12:227] Trabin Bought HazmatSuit
+[12:227] Trabin Bought CombatSuit
+[12:249] Trabin Bought CombatSuit
+[14:234] Trabin Unlocked TurboDroidEngines
+[14:788] Trabin Unlocked AdvancedHazmatSuit
+
+[10:628] Security Bought ShieldSuit
+[10:628] Security Bought CombatSuit
+[10:628] Security Bought HazmatSuit
+[10:628] Security Bought HazmatSuit
+[14:789] Security Bought HazmatSuit
+

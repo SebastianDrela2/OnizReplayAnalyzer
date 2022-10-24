@@ -1,0 +1,159 @@
+Analyzed: Oh No It's Zombies Arctic Updated (373)
+
+Zombie Win
+ID : 0 PlayerName: Frosky Race: Zerg
+ID : 1 PlayerName: xXNoOneXx Race: Terran
+ID : 2 PlayerName: Evan Race: Terran
+ID : 3 PlayerName: King Race: Terran
+ID : 4 PlayerName: alank Race: Terran
+ID : 5 PlayerName: dwarfplanet Race: Terran
+ID : 6 PlayerName: hdsf Race: Terran
+ID : 7 PlayerName: Security Race: Terran Tychus
+PURCHASES: 
+[02:105] Frosky Spawned MassiveCocoon
+[03:545] Frosky Spawned Hunter
+[04:615] Frosky Spawned MassiveCocoon
+[05:719] Frosky Spawned MassiveCocoon
+[06:055] Frosky Spawned Hunter
+[06:666] Frosky Placed/Upgraded ToxicNest
+[06:666] Frosky Placed/Upgraded ToxicNest
+[06:679] Frosky Placed/Upgraded ToxicNest
+[07:159] Frosky Spawned Hunter
+[09:714] Frosky Bought CreepSpeed
+[11:330] Frosky Spawned MassiveCocoon
+[12:683] Frosky Placed/Upgraded ToxicNest
+[12:687] Frosky Placed/Upgraded ToxicNest
+[12:756] Frosky Spawned MassiveCocoon
+[12:770] Frosky Spawned Anubalisk
+[14:196] Frosky Spawned Anubalisk
+[14:480] Frosky Bought VirulentCreep
+[15:225] Frosky Spawned MassiveCocoon
+[16:174] Frosky Spawned MassiveCocoon
+[16:665] Frosky Spawned PrimalTownHallUprooted
+[17:614] Frosky Spawned PrimalTownHallUprooted
+[18:305] Frosky Bought CreepSpeed
+[19:467] Frosky Spawned MassiveCocoon
+[19:920] Frosky Placed/Upgraded NydusCanalCreeper
+[20:162] Frosky Spawned MassiveCocoon
+[20:907] Frosky Spawned Anubalisk
+[21:602] Frosky Spawned Anubalisk
+[22:224] Frosky Placed/Upgraded ToxicNest
+[22:230] Frosky Placed/Upgraded ToxicNest
+[22:281] Frosky Placed/Upgraded ToxicNest
+[22:348] Frosky Placed/Upgraded Virophage
+[22:758] Frosky Placed/Upgraded Virophage
+[23:899] Frosky Placed/Upgraded ToxicNest
+[23:908] Frosky Placed/Upgraded ToxicNest
+
+[00:588] xXNoOneXx Unlocked AssaultRifle
+[00:749] xXNoOneXx Placed/Upgraded MiningDroid
+[00:824] xXNoOneXx Unlocked Stimpack
+[02:562] xXNoOneXx Unlocked HellfireRocketLauncher
+[04:587] xXNoOneXx Unlocked AdvancedDroidEngines
+[06:838] xXNoOneXx Unlocked SpecOpsHellfireRocketLauncher
+[08:731] xXNoOneXx Unlocked TurboDroidEngines
+[09:524] xXNoOneXx Unlocked MedicShield
+[11:776] xXNoOneXx Placed/Upgraded MiningDroid
+[17:319] xXNoOneXx Unlocked RocketLauncherMod1
+[20:227] xXNoOneXx Placed/Upgraded MiningDroid
+
+[00:588] Evan Unlocked AssaultRifle
+[00:667] Evan Placed/Upgraded MiningDroid
+[00:729] Evan Unlocked AdvancedDroidEngines
+[03:184] Evan Unlocked TurboDroidEngines
+[04:609] Evan Unlocked MotionSensor
+[05:291] Evan Placed/Upgraded SensorTower
+[06:250] Evan Unlocked BioMechanicalRepairDrone
+[06:268] Evan Unlocked CombatAccelerationDrone
+[06:326] Evan Placed/Upgraded HealingDrone
+[07:773] Evan Placed/Upgraded HealingDrone
+[07:951] Evan Placed/Upgraded HealingDrone
+[09:213] Evan Placed/Upgraded SensorTower
+[09:745] Evan Unlocked Stimpack
+[11:047] Evan Placed/Upgraded HealingDrone
+[12:177] Evan Placed/Upgraded HealingDrone
+[13:136] Evan Unlocked CombatSuit
+[13:137] Evan Unlocked ShieldSuit
+[13:137] Evan Unlocked AdvancedShieldSuit
+[13:137] Evan Unlocked CombatSuit
+[13:137] Evan Unlocked AdvancedCombatSuit
+[13:137] Evan Unlocked HazmatSuit
+[13:137] Evan Unlocked AdvancedHazmatSuit
+[13:137] Evan Unlocked CombatSuit
+[13:199] Evan Unlocked MedicShield
+[16:188] Evan Unlocked SpecOpsAssaultRifle
+[17:774] Evan Unlocked AutoTargetingSystem
+[19:547] Evan Unlocked AdvancedCombatSuit
+[19:548] Evan Unlocked CombatSuit
+[19:548] Evan Unlocked AdvancedCombatSuit
+[19:994] Evan Unlocked PsiDisrupter
+[20:024] Evan Unlocked PsiDepressor
+[20:446] Evan Placed/Upgraded PsiIndoctrinator
+
+[00:588] King Unlocked AssaultRifle
+[00:685] King Placed/Upgraded MiningDroid
+[00:715] King Unlocked OverloadWeapon
+[02:398] King Unlocked AdvancedDroidEngines
+[05:907] King Unlocked SpecOpsAssaultRifle
+[08:023] King Unlocked TitaniumBulletCasings
+[08:845] King Unlocked AutoTurret
+[13:470] King Placed/Upgraded AutoTurret
+[13:873] King Placed/Upgraded AutoTurret
+[14:585] King Placed/Upgraded AutoTurret
+[16:232] King Unlocked Teleporter
+[17:508] King Placed/Upgraded MiningDroid
+[18:712] King Placed/Upgraded AutoTurret
+[19:970] King Unlocked EnergySuit
+[19:971] King Unlocked ShieldSuit
+[19:971] King Unlocked AdvancedShieldSuit
+[19:971] King Unlocked CombatSuit
+[19:971] King Unlocked AdvancedCombatSuit
+[19:971] King Unlocked HazmatSuit
+[19:971] King Unlocked AdvancedHazmatSuit
+[19:971] King Unlocked EnergySuit
+[20:195] King Placed/Upgraded AutoTurret
+[20:407] King Placed/Upgraded AutoTurret
+[21:587] King Unlocked AdvancedEnergySuit
+[21:588] King Unlocked EnergySuit
+[21:588] King Unlocked AdvancedEnergySuit
+[22:385] King Placed/Upgraded MiningDroid
+
+[00:588] alank Unlocked AssaultRifle
+[00:669] alank Placed/Upgraded MiningDroid
+[00:837] alank Unlocked HellfireRocketLauncher
+[00:903] alank Unlocked CombatShield
+[04:447] alank Unlocked AdvancedDroidEngines
+[04:561] alank Unlocked FragGrenade
+[10:631] alank Unlocked SpecOpsFragGrenade
+[11:124] alank Unlocked EnergyPack
+[17:515] alank Unlocked AIAssistant
+[19:280] alank Placed/Upgraded MiningDroid
+
+[00:588] dwarfplanet Unlocked AssaultRifle
+[00:735] dwarfplanet Placed/Upgraded MiningDroid
+[00:960] dwarfplanet Unlocked SpecOpsAssaultRifle
+[06:523] dwarfplanet Unlocked AdvancedDroidEngines
+[06:579] dwarfplanet Unlocked TurboDroidEngines
+[08:253] dwarfplanet Unlocked BeamRifle
+[09:054] dwarfplanet Unlocked MedicShield
+[09:077] dwarfplanet Unlocked AIAssistant
+[11:865] dwarfplanet Placed/Upgraded MiningDroid
+[15:012] dwarfplanet Unlocked HazmatSuit
+[15:013] dwarfplanet Unlocked ShieldSuit
+[15:013] dwarfplanet Unlocked AdvancedShieldSuit
+[15:013] dwarfplanet Unlocked CombatSuit
+[15:013] dwarfplanet Unlocked AdvancedCombatSuit
+[15:013] dwarfplanet Unlocked HazmatSuit
+[15:013] dwarfplanet Unlocked AdvancedHazmatSuit
+[15:013] dwarfplanet Unlocked HazmatSuit
+[15:032] dwarfplanet Unlocked AdvancedHazmatSuit
+[15:033] dwarfplanet Unlocked HazmatSuit
+[15:033] dwarfplanet Unlocked AdvancedHazmatSuit
+[17:218] dwarfplanet Unlocked Stimpack
+[17:322] dwarfplanet Unlocked CloakingDevice
+
+[00:588] hdsf Unlocked AssaultRifle
+[08:302] hdsf Unlocked SpecOpsAssaultRifle
+[17:410] hdsf Unlocked AutoTargetingSystem
+
+

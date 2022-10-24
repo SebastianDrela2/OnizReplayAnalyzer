@@ -1,0 +1,195 @@
+Analyzed: Oh No It's Zombies Arctic Updated (424)
+
+Zombie Undecided
+ID : 0 PlayerName: Toxicpanda Race: Terran
+ID : 1 PlayerName: Frosky Race: Terran
+ID : 2 PlayerName: PowerPiglet Race: Terran
+ID : 3 PlayerName: csiz Race: Terran
+ID : 4 PlayerName: ForFun Race: Terran
+ID : 5 PlayerName: Vip Race: Zerg
+ID : 6 PlayerName: YoYoYo Race: Terran
+ID : 7 PlayerName: Security Race: Protoss
+PURCHASES: 
+[00:588] Toxicpanda Unlocked AssaultRifle
+[00:711] Toxicpanda Placed/Upgraded MiningDroid
+[00:846] Toxicpanda Unlocked AdvancedDroidEngines
+[03:674] Toxicpanda Unlocked TurboDroidEngines
+[06:039] Toxicpanda Unlocked Stimpack
+[07:529] Toxicpanda Unlocked IncendiaryGrenade
+[08:085] Toxicpanda Unlocked BeamRifle
+[09:045] Toxicpanda Unlocked SpecOpsPlasmaRifle
+[10:649] Toxicpanda Placed/Upgraded MiningDroid
+[12:946] Toxicpanda Unlocked SuperStimpack
+[13:376] Toxicpanda Unlocked AIAssistant
+[14:480] Toxicpanda Unlocked HazmatSuit
+[16:463] Toxicpanda Unlocked CorrosivePlasma
+[16:974] Toxicpanda Unlocked BioMechanicalRepairDrone
+[17:146] Toxicpanda Placed/Upgraded HealingDrone
+[17:607] Toxicpanda Placed/Upgraded HealingDrone
+[18:105] Toxicpanda Unlocked MedicShield
+[20:312] Toxicpanda Unlocked OpticalVisor
+
+[00:588] Frosky Unlocked AssaultRifle
+[00:698] Frosky Placed/Upgraded MiningDroid
+[00:761] Frosky Unlocked Shotgun
+[03:529] Frosky Unlocked AdvancedDroidEngines
+[05:747] Frosky Unlocked SpecOpsShotgun
+[12:914] Frosky Unlocked HighPrecisionBeams
+[14:385] Frosky Placed/Upgraded MiningDroid
+[14:481] Frosky Bought ShieldSuit
+[14:481] Frosky Bought CombatSuit
+[14:481] Frosky Bought HazmatSuit
+[14:481] Frosky Bought HazmatSuit
+[17:436] Frosky Unlocked SuperStimpack
+[20:160] Frosky Unlocked BioMechanicalRepairDrone
+[20:211] Frosky Placed/Upgraded HealingDrone
+[21:650] Frosky Unlocked SpecOpsBioMechanicalRepairDrone
+
+[00:588] PowerPiglet Unlocked AssaultRifle
+[02:352] PowerPiglet Unlocked AdvancedDroidEngines
+[02:360] PowerPiglet Unlocked TurboDroidEngines
+[03:313] PowerPiglet Placed/Upgraded MiningDroid
+[04:974] PowerPiglet Unlocked HellfireRocketLauncher
+[06:512] PowerPiglet Unlocked SpecOpsHellfireRocketLauncher
+[08:616] PowerPiglet Unlocked BeamRifle
+[09:513] PowerPiglet Unlocked RocketLauncherMod1
+[10:244] PowerPiglet Unlocked RocketLauncherMod3
+[11:889] PowerPiglet Unlocked HazmatSuit
+[13:576] PowerPiglet Unlocked AdvancedHazmatSuit
+[15:071] PowerPiglet Unlocked Stimpack
+[15:966] PowerPiglet Unlocked AutoTurret
+
+[00:588] csiz Unlocked AssaultRifle
+[00:711] csiz Placed/Upgraded MiningDroid
+[00:780] csiz Unlocked AdvancedDroidEngines
+[02:553] csiz Unlocked FragGrenade
+[09:016] csiz Placed/Upgraded MiningDroid
+[10:420] csiz Unlocked SpecOpsFragGrenade
+[11:890] csiz Bought ShieldSuit
+[11:890] csiz Bought CombatSuit
+[11:890] csiz Bought HazmatSuit
+[11:890] csiz Bought HazmatSuit
+[13:183] csiz Unlocked SpecOpsAssaultRifle
+[13:577] csiz Bought HazmatSuit
+[14:145] csiz Unlocked HazmatSuit
+[15:125] csiz Unlocked AdvancedHazmatSuit
+[17:634] csiz Unlocked AutoTargetingSystem
+
+[00:588] ForFun Unlocked AssaultRifle
+[00:741] ForFun Unlocked Stimpack
+[02:009] ForFun Unlocked AdvancedDroidEngines
+[02:293] ForFun Placed MiningDroid
+[05:088] ForFun Unlocked TurboDroidEngines
+[11:609] ForFun Unlocked SpecOpsAssaultRifle
+[11:927] ForFun Unlocked TitaniumBulletCasings
+[12:822] ForFun Unlocked CombatSuit
+[14:105] ForFun Unlocked AdvancedCombatSuit
+[14:146] ForFun Bought ShieldSuit
+[14:146] ForFun Bought CombatSuit
+[14:146] ForFun Bought HazmatSuit
+[14:146] ForFun Bought HazmatSuit
+[15:126] ForFun Bought HazmatSuit
+[15:629] ForFun Unlocked MedicShield
+[15:638] ForFun Unlocked AIAssistant
+[17:965] ForFun Unlocked OverloadWeapon
+[17:997] ForFun Unlocked EnergyPack
+
+[00:552] Vip Bought PlayerNumber
+[00:795] Vip Spawned MassiveCocoon
+[01:333] Vip Bought SunkenColony
+[01:333] Vip Placed/Upgraded PrimalSunkenColony
+[02:235] Vip Spawned Hunter
+[03:343] Vip Bought SunkenColony
+[03:507] Vip Spawned MassiveCocoon
+[04:947] Vip Spawned Hunter
+[05:019] Vip Placed/Upgraded ToxicNest
+[05:035] Vip Placed/Upgraded ToxicNest
+[05:050] Vip Placed/Upgraded ToxicNest
+[05:481] Vip Placed/Upgraded ToxicNest
+[05:496] Vip Placed/Upgraded ToxicNest
+[05:515] Vip Placed/Upgraded ToxicNest
+[05:704] Vip Bought CreepSpeed
+[06:236] Vip Placed/Upgraded ToxicNest
+[07:014] Vip Placed/Upgraded PrimalSunkenColony
+[07:015] Vip Bought SunkenColony
+[07:263] Vip Placed/Upgraded PrimalSunkenColony
+[07:264] Vip Bought SunkenColony
+[08:293] Vip Spawned MassiveCocoon
+[08:975] Vip Bought BuildExtractorProcessingFacilities
+[08:975] Vip Placed/Upgraded AutomatedExtractor
+[09:304] Vip Placed/Upgraded ToxicNest
+[09:308] Vip Placed/Upgraded ToxicNest
+[09:327] Vip Placed/Upgraded ToxicNest
+[09:481] Vip Placed/Upgraded PrimalSunkenColony
+[09:482] Vip Bought SunkenColony
+[09:733] Vip Spawned Hunter
+[09:913] Vip Bought SunkenColony
+[09:970] Vip Bought SunkenColony
+[10:768] Vip Placed/Upgraded NydusCanalCreeper
+[12:216] Vip Placed/Upgraded NydusCanalCreeper
+[12:641] Vip Placed/Upgraded NydusCanalCreeper
+[12:823] Vip Bought ShieldSuit
+[12:823] Vip Bought CombatSuit
+[12:823] Vip Bought HazmatSuit
+[12:823] Vip Bought CombatSuit
+[13:708] Vip Bought VirulentCreep
+[13:708] Vip Bought VirulentCreep
+[13:743] Vip Placed/Upgraded NydusCanalCreeper
+[14:106] Vip Bought CombatSuit
+[14:183] Vip Bought VirulentCreep
+[14:183] Vip Bought VirulentCreep
+[15:093] Vip Bought AdvancedPowerInfestation
+[16:048] Vip Bought BuildExtractorScienceLabs
+[16:048] Vip Placed/Upgraded AutomatedExtractor
+[16:110] Vip Placed/Upgraded NydusCanalCreeper
+[17:090] Vip Placed/Upgraded ToxicNest
+[17:096] Vip Placed/Upgraded ToxicNest
+[17:106] Vip Placed/Upgraded ToxicNest
+[17:415] Vip Bought SpawnNydusWorm
+[17:428] Vip Placed/Upgraded GreaterNydusWorm
+[18:443] Vip Placed/Upgraded ToxicNest
+[18:583] Vip Placed/Upgraded NydusCanalCreeper
+[18:824] Vip Bought SunkenColony
+[18:824] Vip Placed/Upgraded PrimalSunkenColony
+[19:222] Vip Bought SunkenColony
+[19:602] Vip Placed/Upgraded PrimalSunkenColony
+[19:603] Vip Bought SunkenColony
+[19:668] Vip Bought UnlockDropPods
+[20:239] Vip Bought SunkenColony
+[20:513] Vip Placed/Upgraded NydusCanalCreeper
+[20:550] Vip Placed/Upgraded Virophage
+[20:655] Vip Bought BuildExtractorScienceLabs
+[20:691] Vip Bought AdvancedInfestationSecurity
+[20:700] Vip Bought TrackHumans
+[21:005] Vip Bought EvolveDropPods
+[21:008] Vip Bought EvolveDropPods
+[21:283] Vip Bought EvolveDropPods
+[21:287] Vip Bought EvolveDropPods
+[21:698] Vip Placed/Upgraded NydusCanalCreeper
+[22:120] Vip Spawned MassiveCocoon
+[22:298] Vip Placed/Upgraded LesserNydusWorm
+[22:299] Vip Bought GreaterNydus
+[22:457] Vip Placed/Upgraded Virophage
+
+[00:588] YoYoYo Unlocked AssaultRifle
+[00:745] YoYoYo Unlocked AdvancedDroidEngines
+[03:674] YoYoYo Unlocked TurboDroidEngines
+[05:431] YoYoYo Unlocked Shotgun
+[07:895] YoYoYo Unlocked SuperStimpack
+[08:615] YoYoYo Unlocked SpecOpsShotgun
+[11:553] YoYoYo Unlocked Stimpack
+[11:612] YoYoYo Unlocked CombatShield
+[11:632] YoYoYo Unlocked QuantumBackpack
+[11:640] YoYoYo Unlocked OpticalVisor
+[13:215] YoYoYo Unlocked BioMechanicalRepairDrone
+[14:183] YoYoYo Bought HazmatSuit
+[14:388] YoYoYo Unlocked HazmatSuit
+[14:393] YoYoYo Unlocked AdvancedHazmatSuit
+[17:771] YoYoYo Unlocked MiningCharge
+
+[14:389] Security Bought ShieldSuit
+[14:389] Security Bought CombatSuit
+[14:389] Security Bought HazmatSuit
+[14:389] Security Bought HazmatSuit
+[14:394] Security Bought HazmatSuit
+

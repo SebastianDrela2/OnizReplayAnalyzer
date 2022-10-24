@@ -1,0 +1,133 @@
+Analyzed: Oh No It's Zombies Arctic Updated (79)
+
+Zombie Win
+Zombie Undecided
+ID : 0 PlayerName: JMM Race: Terran
+ID : 1 PlayerName: Trabin Race: Terran
+ID : 2 PlayerName: Vertigo Race: Terran
+ID : 3 PlayerName: tyler Race: Terran
+ID : 4 PlayerName: flanksaber Race: Terran
+ID : 5 PlayerName: Moscowabunga Race: Terran
+ID : 6 PlayerName: Frosky Race: Zerg
+ID : 7 PlayerName: Security Race: Zerg
+PURCHASES: 
+[00:588] JMM Unlocked AssaultRifle
+[00:973] JMM Placed/Upgraded MiningDroid
+[02:163] JMM Unlocked OverloadWeapon
+[04:675] JMM Unlocked SpecOpsAssaultRifle
+[07:398] JMM Unlocked TitaniumBulletCasings
+[09:927] JMM Unlocked PowerConverter
+[10:470] JMM Unlocked MiningCharge
+[10:538] JMM Placed/Upgraded NukePack
+[12:920] JMM Unlocked FlashBang
+[12:927] JMM Unlocked SpecOpsFlashbang
+[14:365] JMM Placed/Upgraded NukePack
+[16:136] JMM Placed/Upgraded NukePack
+[20:981] JMM Unlocked Shieldsiotunlocked
+[21:001] JMM Unlocked AdvancedShieldSuit
+[21:774] JMM Unlocked BioMechanicalRepairDrone
+[22:698] JMM Placed/Upgraded HealingDrone
+
+[00:588] Trabin Unlocked AssaultRifle
+[00:792] Trabin Placed/Upgraded MiningDroid
+[00:860] Trabin Unlocked AdvancedDroidEngines
+[13:660] Trabin Placed/Upgraded MiningDroid
+[20:982] Trabin Bought ShieldSuit
+[20:982] Trabin Bought CombatSuit
+[20:982] Trabin Bought HazmatSuit
+[20:982] Trabin Bought ShieldSuit
+[21:002] Trabin Bought ShieldSuit
+
+[00:588] Vertigo Unlocked AssaultRifle
+[00:856] Vertigo Placed/Upgraded MiningDroid
+[03:152] Vertigo Unlocked AdvancedDroidEngines
+[03:448] Vertigo Unlocked Stimpack
+[07:167] Vertigo Unlocked SpecOpsAssaultRifle
+[13:126] Vertigo Unlocked TitaniumBulletCasings
+[13:468] Vertigo Unlocked CombatSuit
+[18:766] Vertigo Unlocked MedicShield
+[19:327] Vertigo Unlocked SuperStimpack
+
+[00:588] tyler Unlocked AssaultRifle
+[00:747] tyler Placed/Upgraded MiningDroid
+[03:043] tyler Unlocked HellfireRocketLauncher
+[13:469] tyler Bought ShieldSuit
+[13:469] tyler Bought CombatSuit
+[13:469] tyler Bought HazmatSuit
+[13:469] tyler Bought CombatSuit
+
+[00:588] flanksaber Unlocked AssaultRifle
+
+[00:588] Moscowabunga Unlocked AssaultRifle
+[00:751] Moscowabunga Placed/Upgraded MiningDroid
+[00:883] Moscowabunga Unlocked AdvancedDroidEngines
+[03:718] Moscowabunga Unlocked AutoTurret
+[03:946] Moscowabunga Placed/Upgraded AutoTurret
+[04:128] Moscowabunga Placed/Upgraded AutoTurret
+[04:420] Moscowabunga Placed/Upgraded AutoTurret
+[05:091] Moscowabunga Placed/Upgraded AutoTurret
+[06:286] Moscowabunga Placed/Upgraded AutoTurret
+[07:060] Moscowabunga Unlocked BioMechanicalRepairDrone
+[07:331] Moscowabunga Placed/Upgraded HealingDrone
+[08:990] Moscowabunga Unlocked RechargeDrone
+[09:706] Moscowabunga Placed/Upgraded HealingDrone
+[10:048] Moscowabunga Placed/Upgraded HealingDrone
+[10:709] Moscowabunga Unlocked SpecOpsBioMechanicalRepairDrone
+[11:542] Moscowabunga Placed/Upgraded HealingDrone
+[12:621] Moscowabunga Unlocked FlameTurret
+[13:915] Moscowabunga Placed/Upgraded AutoTurret
+[14:264] Moscowabunga Unlocked ArcWelder
+[14:568] Moscowabunga Placed/Upgraded AutoTurret
+[15:360] Moscowabunga Placed/Upgraded AutoTurret
+[17:086] Moscowabunga Placed/Upgraded AutoTurret
+[18:568] Moscowabunga Placed/Upgraded AutoTurret
+[19:095] Moscowabunga Placed/Upgraded AutoTurret
+[19:971] Moscowabunga Placed/Upgraded AutoTurret
+[20:206] Moscowabunga Placed/Upgraded AutoTurret
+
+
+[00:552] Security Bought PlayerNumber
+[01:378] Security Bought CreepSpeed
+[01:379] Security Bought CreepSpeed
+[05:487] Security Bought CreepSpeed
+[05:488] Security Bought CreepSpeed
+[07:898] Security Bought StrainSpeed
+[07:899] Security Bought StrainSpeed
+[08:872] Security Bought StrainSpeed
+[08:873] Security Bought StrainSpeed
+[09:533] Security Bought PureStrainSpeed
+[09:534] Security Bought PureStrainSpeed
+[10:818] Security Bought PureStrainSpeed
+[10:819] Security Bought PureStrainSpeed
+[12:212] Security Bought StrainSpeed
+[12:213] Security Bought StrainSpeed
+[13:002] Security Bought PureStrainSpeed
+[13:003] Security Bought PureStrainSpeed
+[14:066] Security Bought StrainSpeed
+[14:067] Security Bought StrainSpeed
+[15:559] Security Bought PureStrainSpeed
+[15:560] Security Bought PureStrainSpeed
+[16:160] Security Bought GateControlInfested
+[16:920] Security Bought StrainSpeed
+[16:921] Security Bought StrainSpeed
+[17:994] Security Bought SunkenColony
+[18:234] Security Bought SunkenColony
+[18:579] Security Bought PureStrainSpeed
+[18:580] Security Bought PureStrainSpeed
+[19:059] Security Bought SunkenColony
+[19:083] Security Bought SunkenColony
+[19:186] Security Bought HunterlingStrain
+[19:187] Security Bought HunterlingStrain
+[19:801] Security Bought HunterlingStrain
+[19:802] Security Bought HunterlingStrain
+[21:619] Security Bought HunterlingStrain
+[21:620] Security Bought HunterlingStrain
+[22:160] Security Bought SecurityMainframeInfested
+[22:168] Security Bought InfestationLevel5
+[22:298] Security Bought HunterlingStrain
+[22:299] Security Bought HunterlingStrain
+[22:995] Security Bought HunterlingStrain
+[22:996] Security Bought HunterlingStrain
+[23:756] Security Bought VirulentCreep
+[23:757] Security Bought VirulentCreep
+

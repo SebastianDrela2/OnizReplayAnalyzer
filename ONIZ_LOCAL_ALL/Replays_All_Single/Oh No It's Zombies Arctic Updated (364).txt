@@ -1,0 +1,193 @@
+Analyzed: Oh No It's Zombies Arctic Updated (364)
+
+Zombie Undecided
+ID : 0 PlayerName: Frosky Race: Terran
+ID : 1 PlayerName: Gafe Race: Zerg
+ID : 2 PlayerName: Oglethorpe Race: Terran
+ID : 3 PlayerName: llllllllllll Race: Terran
+ID : 4 PlayerName: Nehemir Race: Terran
+ID : 5 PlayerName: Criaarr Race: Terran
+ID : 6 PlayerName: King Race: Terran
+ID : 7 PlayerName: Security Race: 
+PURCHASES: 
+[00:588] Frosky Unlocked AssaultRifle
+[00:679] Frosky Placed MiningDroid
+[00:737] Frosky Unlocked Shotgun
+[03:410] Frosky Unlocked AdvancedDroidEngines
+[04:304] Frosky Unlocked ExplorationDroid
+[04:330] Frosky Placed ExplorationDroid
+[04:386] Frosky Placed ExplorationDroid
+[04:523] Frosky Placed ExplorationDroid
+[07:480] Frosky Unlocked BioMechanicalRepairDrone
+[07:534] Frosky Unlocked SpecOpsShotgun
+[08:289] Frosky Placed HealingDrone
+[11:553] Frosky Placed HealingDrone
+[12:621] Frosky Placed HealingDrone
+[14:648] Frosky Unlocked Stimpack
+[17:231] Frosky Unlocked ConcussiveBeams
+[17:289] Frosky Placed HealingDrone
+[19:690] Frosky Placed HealingDrone
+[20:651] Frosky Unlocked CombatSuit
+[24:808] Frosky Placed HealingDrone
+[25:644] Frosky Placed HealingDrone
+
+[00:552] Gafe Bought PlayerNumber
+[00:682] Gafe Spawned MassiveCocoon
+[01:762] Gafe Spawned Underseer
+[02:690] Gafe Bought UnlockDropPods
+[03:371] Gafe Bought EvolveDropPods
+[04:409] Gafe Bought EvolveDropPods
+[06:326] Gafe Bought EvolveDropPods
+[06:331] Gafe Bought EvolveDropPods
+[06:333] Gafe Bought EvolveDropPods
+[06:336] Gafe Bought EvolveDropPods
+[09:126] Gafe Spawned MassiveCocoon
+[11:199] Gafe Bought StrainVolatile
+[12:997] Gafe Bought PureStrainVolatile
+[14:415] Gafe Placed/Upgraded PrimalSunkenColony
+[14:416] Gafe Bought SunkenColony
+[14:692] Gafe Bought SunkenColony
+[15:878] Gafe Bought AdvancedInfestationContainment
+[15:946] Gafe Bought StrainSpeed
+[15:956] Gafe Bought PureStrainSpeed
+[17:544] Gafe Placed/Upgraded Virophage
+[19:425] Gafe Bought VirulentCreep
+[19:425] Gafe Bought VirulentCreep
+[20:652] Gafe Bought ShieldSuit
+[20:652] Gafe Bought CombatSuit
+[20:652] Gafe Bought HazmatSuit
+[20:652] Gafe Bought CombatSuit
+[20:855] Gafe Placed/Upgraded PrimalSunkenColony
+[20:856] Gafe Bought SunkenColony
+[21:051] Gafe Bought SunkenColony
+[21:356] Gafe Placed/Upgraded Virophage
+[22:568] Gafe Placed/Upgraded PrimalSunkenColony
+[22:569] Gafe Bought SunkenColony
+[23:468] Gafe Bought DropshipsFueled
+[23:870] Gafe Bought CreepSpeed
+[23:922] Gafe Spawned RoyalCocoon
+[23:922] Gafe Bought SpawnHiveQueen
+[23:922] Gafe Bought UltimateInfestationResearched
+[24:486] Gafe Bought AdvancedInfestationGateControl
+[24:641] Gafe Spawned QueenCoop
+[25:070] Gafe Placed/Upgraded NydusCanalCreeper
+[27:835] Gafe Bought SpawnNydusWorm
+[28:277] Gafe Placed/Upgraded GreaterNydusWorm
+[29:307] Gafe Bought HunterlingStrain
+[29:320] Gafe Bought KaboomerStrain
+
+[00:588] Oglethorpe Unlocked AssaultRifle
+[00:838] Oglethorpe Placed/Upgraded MiningDroid
+[01:955] Oglethorpe Unlocked SpecOpsAssaultRifle
+[04:278] Oglethorpe Unlocked TitaniumBulletCasings
+[05:808] Oglethorpe Unlocked Stimpack
+[07:747] Oglethorpe Unlocked AdvancedDroidEngines
+[10:868] Oglethorpe Unlocked TurboDroidEngines
+[12:418] Oglethorpe Placed/Upgraded MiningDroid
+[12:493] Oglethorpe Unlocked MedicShield
+[12:512] Oglethorpe Unlocked OpticalVisor
+[13:560] Oglethorpe Placed/Upgraded MiningDroid
+[15:978] Oglethorpe Placed/Upgraded MiningDroid
+[16:177] Oglethorpe Unlocked EnergySuit
+[16:178] Oglethorpe Unlocked EnergySuit
+[16:652] Oglethorpe Unlocked AdvancedEnergySuit
+[16:653] Oglethorpe Unlocked EnergySuit
+[16:653] Oglethorpe Unlocked AdvancedEnergySuit
+[17:737] Oglethorpe Unlocked MotionSensor
+[18:005] Oglethorpe Placed/Upgraded SensorTower
+[19:889] Oglethorpe Unlocked AutoTargetingSystem
+[22:653] Oglethorpe Unlocked PsiDisrupter
+[22:841] Oglethorpe Placed/Upgraded PsiIndoctrinator
+[27:984] Oglethorpe Placed/Upgraded PsiIndoctrinator
+[28:571] Oglethorpe Placed/Upgraded PsiIndoctrinator
+[28:818] Oglethorpe Unlocked PsiDepressor
+[29:885] Oglethorpe Unlocked BioMechanicalRepairDrone
+[29:893] Oglethorpe Unlocked SpecOpsBioMechanicalRepairDrone
+
+[00:588] llllllllllll Unlocked AssaultRifle
+[00:701] llllllllllll Placed/Upgraded MiningDroid
+[00:763] llllllllllll Unlocked AdvancedDroidEngines
+[02:898] llllllllllll Unlocked TurboDroidEngines
+[05:811] llllllllllll Unlocked Stimpack
+[07:608] llllllllllll Unlocked Flamethrower
+[07:690] llllllllllll Unlocked MedicShield
+[08:919] llllllllllll Unlocked SpecOpsFlamethrower
+[10:585] llllllllllll Unlocked Shieldsiotunlocked
+[11:382] llllllllllll Unlocked MotionSensor
+[11:778] llllllllllll Placed/Upgraded SensorTower
+[12:595] llllllllllll Placed/Upgraded SensorTower
+[13:835] llllllllllll Unlocked AdvancedShieldSuit
+[13:921] llllllllllll Unlocked CombatShield
+[15:379] llllllllllll Placed/Upgraded MiningDroid
+[15:672] llllllllllll Placed/Upgraded SensorTower
+[16:023] llllllllllll Placed/Upgraded SensorTower
+[16:178] llllllllllll Bought ShieldSuit
+[16:178] llllllllllll Bought CombatSuit
+[16:178] llllllllllll Bought HazmatSuit
+[16:668] llllllllllll Unlocked LongRangeIncinerators
+[18:215] llllllllllll Unlocked BioMechanicalRepairDrone
+[18:293] llllllllllll Unlocked EnergyPack
+[18:435] llllllllllll Placed/Upgraded HealingDrone
+[18:615] llllllllllll Placed/Upgraded HealingDrone
+[22:729] llllllllllll Placed/Upgraded HealingDrone
+[24:014] llllllllllll Placed/Upgraded HealingDrone
+[25:017] llllllllllll Unlocked SpecOpsBioMechanicalRepairDrone
+[26:028] llllllllllll Placed/Upgraded MiningDroid
+[26:596] llllllllllll Placed/Upgraded SensorTower
+[26:645] llllllllllll Placed/Upgraded HealingDrone
+[27:623] llllllllllll Placed/Upgraded HealingDrone
+[28:949] llllllllllll Placed/Upgraded HealingDrone
+[29:151] llllllllllll Placed/Upgraded HealingDrone
+[29:692] llllllllllll Placed/Upgraded HealingDrone
+
+[00:588] Nehemir Unlocked AssaultRifle
+[03:646] Nehemir Placed/Upgraded MiningDroid
+[03:897] Nehemir Unlocked SpecOpsAssaultRifle
+[03:942] Nehemir Unlocked AutoTargetingSystem
+[04:644] Nehemir Unlocked Stimpack
+[07:675] Nehemir Unlocked MedicShield
+[07:768] Nehemir Unlocked CombatSuit
+[10:586] Nehemir Bought ShieldSuit
+[10:586] Nehemir Bought CombatSuit
+[10:586] Nehemir Bought HazmatSuit
+[10:586] Nehemir Bought ShieldSuit
+[12:486] Nehemir Unlocked AdvancedCombatSuit
+[12:672] Nehemir Unlocked CloakingDevice
+[13:776] Nehemir Unlocked FragGrenade
+[13:836] Nehemir Bought ShieldSuit
+[22:581] Nehemir Unlocked SpecOpsFragGrenade
+[22:738] Nehemir Unlocked AutoTurret
+[22:878] Nehemir Placed/Upgraded AutoTurret
+[24:632] Nehemir Placed/Upgraded AutoTurret
+[30:057] Nehemir Placed/Upgraded AutoTurret
+
+[00:588] Criaarr Unlocked AssaultRifle
+[03:570] Criaarr Placed/Upgraded MiningDroid
+[04:424] Criaarr Unlocked AdvancedDroidEngines
+[04:477] Criaarr Unlocked TurboDroidEngines
+[04:641] Criaarr Placed/Upgraded MiningDroid
+[05:854] Criaarr Placed/Upgraded MiningDroid
+[07:769] Criaarr Bought ShieldSuit
+[07:769] Criaarr Bought CombatSuit
+[07:769] Criaarr Bought HazmatSuit
+[07:769] Criaarr Bought CombatSuit
+[08:981] Criaarr Placed/Upgraded MiningDroid
+[12:487] Criaarr Bought CombatSuit
+[19:016] Criaarr Placed/Upgraded MiningDroid
+
+[00:588] King Unlocked AssaultRifle
+[01:077] King Unlocked OverloadWeapon
+[02:026] King Unlocked AdvancedDroidEngines
+[04:858] King Unlocked SpecOpsAssaultRifle
+[06:656] King Unlocked TitaniumBulletCasings
+[09:331] King Unlocked PsiDisrupter
+[10:937] King Unlocked BioMechanicalRepairDrone
+[15:636] King Unlocked AutoTurret
+[18:047] King Unlocked EnergySuit
+[18:048] King Unlocked EnergySuit
+[24:245] King Unlocked Teleporter
+
+[18:048] Security Bought ShieldSuit
+[18:048] Security Bought CombatSuit
+[18:048] Security Bought HazmatSuit
+

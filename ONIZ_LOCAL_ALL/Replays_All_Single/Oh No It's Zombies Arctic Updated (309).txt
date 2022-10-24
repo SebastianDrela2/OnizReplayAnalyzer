@@ -1,0 +1,123 @@
+Analyzed: Oh No It's Zombies Arctic Updated (309)
+
+Zombie Win
+Zombie Undecided
+ID : 0 PlayerName: ROY Race: Terran
+ID : 1 PlayerName: GoldenNinja Race: Terran
+ID : 2 PlayerName: chickenparts Race: Terran
+ID : 3 PlayerName: xxxpro Race: Terran
+ID : 4 PlayerName: Mycroft Race: Terran
+ID : 5 PlayerName: Frosky Race: Zerg
+ID : 6 PlayerName: WildMutant Race: Terran
+ID : 7 PlayerName: Security Race: Zerg
+PURCHASES: 
+[00:588] ROY Unlocked AssaultRifle
+[00:911] ROY Placed/Upgraded MiningDroid
+[00:984] ROY Unlocked AdvancedDroidEngines
+[01:511] ROY Unlocked FragGrenade
+[03:856] ROY Unlocked ExplorationDroid
+[03:939] ROY Placed/Upgraded ExplorationDroid
+[03:950] ROY Placed/Upgraded ExplorationDroid
+[05:907] ROY Unlocked SpecOpsAssaultRifle
+[07:856] ROY Unlocked AutoTargetingSystem
+[08:163] ROY Placed/Upgraded ExplorationDroid
+[09:762] ROY Unlocked BioMechanicalRepairDrone
+[09:871] ROY Placed/Upgraded HealingDrone
+[10:954] ROY Placed/Upgraded HealingDrone
+[11:368] ROY Unlocked OverloadWeapon
+[17:517] ROY Placed/Upgraded HealingDrone
+
+[00:588] GoldenNinja Unlocked AssaultRifle
+[00:743] GoldenNinja Placed/Upgraded MiningDroid
+[02:196] GoldenNinja Unlocked SpecOpsAssaultRifle
+[04:062] GoldenNinja Unlocked AutoTargetingSystem
+[08:986] GoldenNinja Unlocked Stimpack
+
+[00:588] chickenparts Unlocked AssaultRifle
+[01:169] chickenparts Placed/Upgraded MiningDroid
+[01:223] chickenparts Unlocked AdvancedDroidEngines
+[02:115] chickenparts Unlocked FragGrenade
+[03:610] chickenparts Unlocked MotionSensor
+[03:732] chickenparts Placed/Upgraded SensorTower
+[04:378] chickenparts Placed/Upgraded SensorTower
+[05:240] chickenparts Placed/Upgraded SensorTower
+[06:111] chickenparts Placed/Upgraded SensorTower
+[07:390] chickenparts Unlocked SpecOpsAssaultRifle
+[08:890] chickenparts Unlocked PsiDisrupter
+[09:022] chickenparts Placed/Upgraded PsiIndoctrinator
+[10:854] chickenparts Placed/Upgraded PsiIndoctrinator
+[10:911] chickenparts Unlocked BioMechanicalRepairDrone
+[14:394] chickenparts Placed/Upgraded HealingDrone
+[15:544] chickenparts Unlocked TitaniumBulletCasings
+
+[00:588] xxxpro Unlocked AssaultRifle
+[00:869] xxxpro Placed/Upgraded MiningDroid
+[01:114] xxxpro Unlocked FragGrenade
+[01:122] xxxpro Unlocked SpecOpsFragGrenade
+[04:407] xxxpro Unlocked SpecOpsAssaultRifle
+[07:159] xxxpro Unlocked AutoTargetingSystem
+[08:420] xxxpro Unlocked CombatShield
+[08:427] xxxpro Unlocked EnergyPack
+[10:377] xxxpro Unlocked AIAssistant
+[10:564] xxxpro Unlocked PsiDisrupter
+[11:571] xxxpro Placed/Upgraded PsiIndoctrinator
+[14:599] xxxpro Placed/Upgraded PsiIndoctrinator
+
+[00:588] Mycroft Unlocked AssaultRifle
+[00:672] Mycroft Placed/Upgraded MiningDroid
+[00:906] Mycroft Unlocked BioMechanicalRepairDrone
+[00:927] Mycroft Unlocked CombatAccelerationDrone
+[02:718] Mycroft Placed/Upgraded HealingDrone
+[02:926] Mycroft Placed/Upgraded HealingDrone
+[03:217] Mycroft Placed/Upgraded HealingDrone
+[03:875] Mycroft Placed/Upgraded HealingDrone
+[04:066] Mycroft Placed/Upgraded HealingDrone
+[06:794] Mycroft Unlocked AdvancedDroidEngines
+[10:135] Mycroft Unlocked TurboDroidEngines
+[11:676] Mycroft Placed/Upgraded HealingDrone
+[12:491] Mycroft Placed/Upgraded HealingDrone
+[12:688] Mycroft Placed/Upgraded HealingDrone
+[12:925] Mycroft Placed/Upgraded HealingDrone
+[15:150] Mycroft Unlocked HazmatSuit
+[15:166] Mycroft Unlocked AdvancedHazmatSuit
+[15:802] Mycroft Unlocked Shotgun
+
+[05:415] Frosky Placed/Upgraded ToxicNest
+[05:423] Frosky Placed/Upgraded ToxicNest
+[05:513] Frosky Placed/Upgraded NydusCanalCreeper
+[10:407] Frosky Placed/Upgraded NydusCanalCreeper
+[11:580] Frosky Placed/Upgraded ToxicNest
+[11:593] Frosky Placed/Upgraded ToxicNest
+[12:845] Frosky Placed/Upgraded ToxicNest
+[12:863] Frosky Placed/Upgraded ToxicNest
+[13:794] Frosky Placed/Upgraded ToxicNest
+[13:800] Frosky Placed/Upgraded ToxicNest
+[15:151] Frosky Bought ShieldSuit
+[15:151] Frosky Bought CombatSuit
+[15:151] Frosky Bought HazmatSuit
+[15:151] Frosky Bought HazmatSuit
+[15:169] Frosky Bought HazmatSuit
+[16:147] Frosky Placed/Upgraded ToxicNest
+[16:160] Frosky Placed/Upgraded ToxicNest
+
+[00:588] WildMutant Unlocked AssaultRifle
+[00:721] WildMutant Unlocked AdvancedDroidEngines
+[03:467] WildMutant Unlocked TurboDroidEngines
+[05:963] WildMutant Unlocked SpecOpsAssaultRifle
+[07:050] WildMutant Unlocked BioMechanicalRepairDrone
+[07:309] WildMutant Unlocked CombatAccelerationDrone
+[10:860] WildMutant Unlocked Bayonette
+[10:947] WildMutant Unlocked CombatShield
+[11:987] WildMutant Unlocked Stimpack
+
+[00:552] Security Bought PlayerNumber
+[00:628] Security Spawned MassiveCocoon
+[02:068] Security Spawned Hunter
+[04:873] Security Bought CreepSpeed
+[09:387] Security Bought CreepSpeed
+[11:202] Security Bought VirulentCreep
+[11:202] Security Bought VirulentCreep
+[13:206] Security Bought StrainSpeed
+[13:916] Security Bought StrainSpeed
+[16:343] Security Bought StrainHealth
+

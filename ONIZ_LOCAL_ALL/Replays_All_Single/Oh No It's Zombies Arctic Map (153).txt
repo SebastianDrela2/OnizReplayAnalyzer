@@ -1,0 +1,52 @@
+Analyzed: Oh No It's Zombies Arctic Map (153)
+
+ID : 0 PlayerName: Toxicpanda Race: Terran
+ID : 1 PlayerName: Frosky Race: Terran
+ID : 7 PlayerName: Security Race: Terran Mengsk
+PURCHASES: 
+[00:000] Toxicpanda Spawned Abomination
+[00:572] Toxicpanda Unlocked AssaultRifle
+[00:651] Toxicpanda Placed/Upgraded MiningDroid
+[00:757] Toxicpanda Unlocked Stimpack
+[02:198] Toxicpanda Unlocked CloakingDevice
+[02:205] Toxicpanda Unlocked SpecOpsCloakingDevice
+[02:245] Toxicpanda Unlocked AIAssistant
+[02:258] Toxicpanda Unlocked MedicShield
+[02:297] Toxicpanda Unlocked HazmatSuit
+[02:298] Toxicpanda Unlocked ShieldSuit
+[02:298] Toxicpanda Unlocked AdvancedShieldSuit
+[02:298] Toxicpanda Unlocked CombatSuit
+[02:298] Toxicpanda Unlocked AdvancedCombatSuit
+[02:298] Toxicpanda Unlocked HazmatSuit
+[02:298] Toxicpanda Unlocked AdvancedHazmatSuit
+[02:298] Toxicpanda Unlocked HazmatSuit
+[02:301] Toxicpanda Unlocked AdvancedHazmatSuit
+[02:302] Toxicpanda Unlocked HazmatSuit
+[02:302] Toxicpanda Unlocked AdvancedHazmatSuit
+[28:910] Toxicpanda Placed/Upgraded MiningDroid
+[31:294] Toxicpanda Bought DropshipsFueled
+
+[00:572] Frosky Unlocked AssaultRifle
+[00:747] Frosky Unlocked Stimpack
+[00:770] Frosky Unlocked CombatSuit
+[00:771] Frosky Unlocked ShieldSuit
+[00:771] Frosky Unlocked AdvancedShieldSuit
+[00:771] Frosky Unlocked CombatSuit
+[00:771] Frosky Unlocked AdvancedCombatSuit
+[00:771] Frosky Unlocked HazmatSuit
+[00:771] Frosky Unlocked AdvancedHazmatSuit
+[00:771] Frosky Unlocked CombatSuit
+[00:775] Frosky Unlocked AdvancedCombatSuit
+[00:776] Frosky Unlocked CombatSuit
+[00:776] Frosky Unlocked AdvancedCombatSuit
+[02:714] Frosky Unlocked AIAssistant
+[18:830] Frosky Placed/Upgraded MiningDroid
+[22:622] Frosky Unlocked SuperHealingDrone
+[22:682] Frosky Unlocked SpecOpsSuperHealingDrone
+
+
+
+
+
+
+

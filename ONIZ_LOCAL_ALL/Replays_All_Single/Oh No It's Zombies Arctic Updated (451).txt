@@ -1,0 +1,177 @@
+Analyzed: Oh No It's Zombies Arctic Updated (451)
+
+Zombie Undecided
+ID : 0 PlayerName: Casual Race: Zerg
+ID : 1 PlayerName: GunsOfEskimo Race: Terran
+ID : 2 PlayerName: timbit Race: Terran
+ID : 3 PlayerName: Frosky Race: Terran
+ID : 4 PlayerName: xxxpro Race: Terran
+ID : 5 PlayerName: NipsPerKing Race: Terran
+ID : 6 PlayerName: ContraBaby Race: Terran
+ID : 7 PlayerName: Security Race: Primal Zerg
+PURCHASES: 
+[00:656] Casual Spawned MassiveCocoon
+[01:286] Casual Placed/Upgraded PrimalSunkenColony
+[01:287] Casual Bought SunkenColony
+[02:096] Casual Spawned PrimalTownHallUprooted
+[03:232] Casual Bought SunkenColony
+[03:495] Casual Bought SunkenColony
+[03:495] Casual Placed/Upgraded PrimalSunkenColony
+[03:778] Casual Placed/Upgraded PrimalSunkenColony
+[03:779] Casual Bought SunkenColony
+[04:164] Casual Spawned MassiveCocoon
+[05:261] Casual Placed/Upgraded PrimalSunkenColony
+[05:262] Casual Bought SunkenColony
+[05:604] Casual Spawned PrimalTownHallUprooted
+[05:789] Casual Bought SunkenColony
+[06:043] Casual Bought SunkenColony
+[06:518] Casual Bought CreepSpeed
+[06:985] Casual Placed/Upgraded LesserNydusWorm
+[06:986] Casual Bought GreaterNydus
+[07:351] Casual Placed/Upgraded PrimalSunkenColony
+[07:352] Casual Bought SunkenColony
+[08:010] Casual Placed/Upgraded PrimalSunkenColony
+[08:011] Casual Bought SunkenColony
+[08:264] Casual Spawned MassiveCocoon
+[08:618] Casual Bought SunkenColony
+[08:638] Casual Placed/Upgraded NydusCanalCreeper
+[09:142] Casual Bought AdvancedInfestationContainment
+[09:704] Casual Spawned PrimalTownHallUprooted
+[09:979] Casual Placed/Upgraded PrimalSunkenColony
+[09:980] Casual Bought SunkenColony
+[10:081] Casual Bought SunkenColony
+[10:665] Casual Bought VirulentCreep
+[10:754] Casual Spawned MassiveCocoon
+[11:123] Casual Bought RegenerativeCreep
+[11:695] Casual Bought SunkenColony
+[11:695] Casual Placed/Upgraded PrimalSunkenColony
+[11:834] Casual Spawned Underseer
+[12:318] Casual Bought ConstructiveCreep
+[13:120] Casual Bought UnlockDropPods
+[13:776] Casual Bought AdvancedInfestationSecurity
+[14:090] Casual Placed/Upgraded PrimalSunkenColony
+[14:091] Casual Bought SunkenColony
+[14:272] Casual Placed/Upgraded LesserNydusWorm
+[14:273] Casual Bought GreaterNydus
+[14:558] Casual Bought SunkenColony
+[15:364] Casual Placed/Upgraded PrimalSunkenColony
+[15:365] Casual Bought SunkenColony
+[15:408] Casual Bought EvolveDropPods
+[15:416] Casual Bought EvolveDropPods
+[15:519] Casual Bought GreaterNydus
+[16:303] Casual Placed/Upgraded LesserNydusWorm
+[16:304] Casual Bought GreaterNydus
+[16:931] Casual Bought SiphonFuel
+[17:512] Casual Placed/Upgraded PrimalSunkenColony
+[17:513] Casual Bought SunkenColony
+[18:185] Casual Bought BuildExtractorExcavationZone
+[18:185] Casual Placed/Upgraded AutomatedExtractor
+
+[00:588] GunsOfEskimo Unlocked AssaultRifle
+[00:698] GunsOfEskimo Placed/Upgraded MiningDroid
+[01:117] GunsOfEskimo Unlocked AdvancedDroidEngines
+[07:318] GunsOfEskimo Unlocked TurboDroidEngines
+[07:401] GunsOfEskimo Unlocked SpecOpsAssaultRifle
+[12:199] GunsOfEskimo Unlocked CombatSuit
+[12:200] GunsOfEskimo Unlocked ShieldSuit
+[12:200] GunsOfEskimo Unlocked AdvancedShieldSuit
+[12:200] GunsOfEskimo Unlocked CombatSuit
+[12:200] GunsOfEskimo Unlocked AdvancedCombatSuit
+[12:200] GunsOfEskimo Unlocked HazmatSuit
+[12:200] GunsOfEskimo Unlocked AdvancedHazmatSuit
+[12:200] GunsOfEskimo Unlocked CombatSuit
+[12:222] GunsOfEskimo Unlocked AdvancedCombatSuit
+[12:223] GunsOfEskimo Unlocked CombatSuit
+[12:223] GunsOfEskimo Unlocked AdvancedCombatSuit
+[12:426] GunsOfEskimo Unlocked TitaniumBulletCasings
+[12:737] GunsOfEskimo Unlocked OverloadWeapon
+[12:885] GunsOfEskimo Unlocked Teleporter
+[15:946] GunsOfEskimo Unlocked AutoTurret
+[15:969] GunsOfEskimo Unlocked HeavyTurret
+
+[00:588] timbit Unlocked AssaultRifle
+[00:667] timbit Placed/Upgraded MiningDroid
+[00:891] timbit Unlocked AdvancedDroidEngines
+[03:254] timbit Unlocked MedicShield
+[07:089] timbit Unlocked Flamethrower
+[07:096] timbit Unlocked SpecOpsFlamethrower
+[08:222] timbit Unlocked ThermiteFilaments
+[10:708] timbit Unlocked Shieldsiotunlocked
+[10:709] timbit Unlocked ShieldSuit
+[10:709] timbit Unlocked AdvancedShieldSuit
+[10:709] timbit Unlocked CombatSuit
+[10:709] timbit Unlocked AdvancedCombatSuit
+[10:709] timbit Unlocked HazmatSuit
+[10:709] timbit Unlocked AdvancedHazmatSuit
+[10:709] timbit Unlocked ShieldSuit
+[10:715] timbit Unlocked AdvancedShieldSuit
+[10:716] timbit Unlocked ShieldSuit
+[10:716] timbit Unlocked AdvancedShieldSuit
+[12:559] timbit Unlocked Stimpack
+[13:109] timbit Unlocked Teleporter
+[17:562] timbit Unlocked SpecOpsTeleporter
+[17:588] timbit Unlocked TurboDroidEngines
+[17:603] timbit Unlocked MiningCharge
+[17:696] timbit Unlocked AdvancedMiningCharge
+
+[00:588] Frosky Unlocked AssaultRifle
+[00:667] Frosky Placed/Upgraded MiningDroid
+[00:784] Frosky Unlocked Shotgun
+[03:733] Frosky Unlocked AdvancedDroidEngines
+[05:515] Frosky Unlocked Stimpack
+
+[00:588] xxxpro Unlocked AssaultRifle
+[00:669] xxxpro Placed/Upgraded MiningDroid
+[02:576] xxxpro Unlocked SpecOpsAssaultRifle
+[04:613] xxxpro Unlocked AutoTargetingSystem
+[14:521] xxxpro Unlocked Stimpack
+[14:578] xxxpro Unlocked FragGrenade
+[14:865] xxxpro Unlocked SpecOpsFragGrenade
+[16:847] xxxpro Unlocked EnergySuit
+[16:848] xxxpro Unlocked ShieldSuit
+[16:848] xxxpro Unlocked AdvancedShieldSuit
+[16:848] xxxpro Unlocked CombatSuit
+[16:848] xxxpro Unlocked AdvancedCombatSuit
+[16:848] xxxpro Unlocked HazmatSuit
+[16:848] xxxpro Unlocked AdvancedHazmatSuit
+[16:848] xxxpro Unlocked EnergySuit
+[16:857] xxxpro Unlocked AdvancedEnergySuit
+[16:858] xxxpro Unlocked EnergySuit
+[16:858] xxxpro Unlocked AdvancedEnergySuit
+
+[00:588] NipsPerKing Unlocked AssaultRifle
+[00:892] NipsPerKing Placed/Upgraded MiningDroid
+[01:115] NipsPerKing Unlocked BeamRifle
+[04:861] NipsPerKing Unlocked OverloadWeapon
+[04:924] NipsPerKing Unlocked AutoTurret
+[06:532] NipsPerKing Placed/Upgraded AutoTurret
+[06:802] NipsPerKing Placed/Upgraded AutoTurret
+[07:125] NipsPerKing Placed/Upgraded AutoTurret
+[10:686] NipsPerKing Unlocked BioMechanicalRepairDrone
+[10:703] NipsPerKing Unlocked CombatAccelerationDrone
+[11:761] NipsPerKing Placed/Upgraded HealingDrone
+[12:710] NipsPerKing Placed/Upgraded HealingDrone
+[12:910] NipsPerKing Placed/Upgraded HealingDrone
+[14:200] NipsPerKing Unlocked CombatSuit
+[14:201] NipsPerKing Unlocked ShieldSuit
+[14:201] NipsPerKing Unlocked AdvancedShieldSuit
+[14:201] NipsPerKing Unlocked CombatSuit
+[14:201] NipsPerKing Unlocked AdvancedCombatSuit
+[14:201] NipsPerKing Unlocked HazmatSuit
+[14:201] NipsPerKing Unlocked AdvancedHazmatSuit
+[14:201] NipsPerKing Unlocked CombatSuit
+[15:564] NipsPerKing Placed/Upgraded HealingDrone
+[16:043] NipsPerKing Placed/Upgraded HealingDrone
+[16:345] NipsPerKing Placed/Upgraded HealingDrone
+[17:808] NipsPerKing Placed/Upgraded MiningDroid
+[17:991] NipsPerKing Placed/Upgraded HealingDrone
+[18:714] NipsPerKing Placed/Upgraded HealingDrone
+
+[00:588] ContraBaby Unlocked AssaultRifle
+[01:095] ContraBaby Unlocked FragGrenade
+[01:104] ContraBaby Unlocked SpecOpsFragGrenade
+[07:334] ContraBaby Unlocked AdvancedDroidEngines
+[07:346] ContraBaby Unlocked TurboDroidEngines
+[08:920] ContraBaby Unlocked Stimpack
+
+

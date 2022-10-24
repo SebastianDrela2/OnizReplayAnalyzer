@@ -1,0 +1,151 @@
+Analyzed: Oh No It's Zombies Arctic Map (57)
+
+Zombie Win
+ID : 0 PlayerName: Frosky Race: Terran
+ID : 1 PlayerName: Democules Race: Terran
+ID : 2 PlayerName: qwsakixs Race: Terran
+ID : 3 PlayerName: Dinem Race: Terran
+ID : 4 PlayerName: mranderson Race: Terran
+ID : 5 PlayerName: Partisan Race: Terran
+ID : 6 PlayerName: YAAAAY Race: Zerg
+ID : 7 PlayerName: Security Race: Terran Tychus
+PURCHASES: 
+[00:572] Frosky Unlocked AssaultRifle
+[00:653] Frosky Placed/Upgraded MiningDroid
+[00:834] Frosky Unlocked ArcWelder
+
+[00:572] Democules Unlocked AssaultRifle
+[00:758] Democules Placed/Upgraded MiningDroid
+[00:983] Democules Unlocked CombatSuit
+[02:113] Democules Unlocked Stimpack
+[03:864] Democules Unlocked MedicShield
+[07:239] Democules Unlocked SpecOpsAssaultRifle
+[11:338] Democules Unlocked AdvancedCombatSuit
+[16:736] Democules Unlocked AutoTargetingSystem
+[27:621] Democules Unlocked ForceFieldGrenade
+[31:801] Democules Unlocked SpecOpsForcefieldGrenade
+
+[00:572] qwsakixs Unlocked AssaultRifle
+[00:651] qwsakixs Placed/Upgraded MiningDroid
+[00:771] qwsakixs Unlocked Stimpack
+[00:984] qwsakixs Bought ShieldSuit
+[00:984] qwsakixs Bought CombatSuit
+[00:984] qwsakixs Bought HazmatSuit
+[00:984] qwsakixs Bought CombatSuit
+[05:012] qwsakixs Unlocked HellfireRocketLauncher
+[05:029] qwsakixs Unlocked SpecOpsHellfireRocketLauncher
+[08:738] qwsakixs Placed/Upgraded MiningDroid
+[10:127] qwsakixs Unlocked MedicShield
+[11:339] qwsakixs Bought CombatSuit
+[13:238] qwsakixs Unlocked ShockwaveMissiles
+[13:284] qwsakixs Unlocked HazmatSuit
+[14:643] qwsakixs Unlocked AdvancedHazmatSuit
+[16:383] qwsakixs Unlocked CloakingDevice
+[19:441] qwsakixs Unlocked SpecOpsCloakingDevice
+[22:669] qwsakixs Unlocked ExplorationDroid
+[22:696] qwsakixs Placed/Upgraded ExplorationDroid
+[22:866] qwsakixs Placed/Upgraded ExplorationDroid
+[27:399] qwsakixs Unlocked MiningCharge
+[31:814] qwsakixs Placed/Upgraded NukePack
+[33:889] qwsakixs Placed/Upgraded NukePack
+
+[00:572] Dinem Unlocked AssaultRifle
+[00:710] Dinem Placed/Upgraded MiningDroid
+[01:522] Dinem Unlocked SpecOpsAssaultRifle
+[03:673] Dinem Unlocked BioMechanicalRepairDrone
+[03:710] Dinem Unlocked SpecOpsBioMechanicalRepairDrone
+[04:702] Dinem Placed/Upgraded HealingDrone
+[05:007] Dinem Placed/Upgraded HealingDrone
+[06:379] Dinem Placed/Upgraded HealingDrone
+[13:285] Dinem Bought ShieldSuit
+[13:285] Dinem Bought CombatSuit
+[13:285] Dinem Bought HazmatSuit
+[13:285] Dinem Bought HazmatSuit
+[14:644] Dinem Bought HazmatSuit
+[20:752] Dinem Placed/Upgraded MiningDroid
+[29:642] Dinem Placed/Upgraded HealingDrone
+[30:621] Dinem Unlocked FlashBang
+
+[00:572] mranderson Unlocked AssaultRifle
+[00:659] mranderson Placed/Upgraded MiningDroid
+[00:865] mranderson Unlocked FragGrenade
+[00:882] mranderson Unlocked SpecOpsFragGrenade
+[05:405] mranderson Unlocked Shotgun
+[06:572] mranderson Unlocked SpecOpsShotgun
+[07:929] mranderson Unlocked HighPrecisionBeams
+[14:110] mranderson Placed/Upgraded MiningDroid
+[18:008] mranderson Unlocked Stimpack
+[19:487] mranderson Unlocked Shieldsiotunlocked
+[34:500] mranderson Unlocked AdvancedShieldSuit
+
+[00:572] Partisan Unlocked AssaultRifle
+[00:667] Partisan Placed/Upgraded MiningDroid
+[01:207] Partisan Unlocked IncendiaryGrenade
+[01:213] Partisan Unlocked SpecOpsIncendiaryGrenade
+[05:560] Partisan Unlocked SpecOpsAssaultRifle
+[05:619] Partisan Unlocked MedicShield
+[08:845] Partisan Placed/Upgraded MiningDroid
+[10:238] Partisan Unlocked AdvancedDroidEngines
+[12:524] Partisan Unlocked SuperStimpack
+[16:596] Partisan Unlocked Stimpack
+[16:671] Partisan Unlocked OpticalVisor
+[19:136] Partisan Placed/Upgraded MiningDroid
+[19:488] Partisan Bought ShieldSuit
+[19:488] Partisan Bought CombatSuit
+[19:488] Partisan Bought HazmatSuit
+[19:488] Partisan Bought ShieldSuit
+[22:071] Partisan Unlocked TitaniumBulletCasings
+[34:501] Partisan Bought ShieldSuit
+
+[00:568] YAAAAY Bought PlayerNumber
+[01:463] YAAAAY Spawned MassiveCocoon
+[02:846] YAAAAY Bought SunkenColony
+[02:903] YAAAAY Spawned Hunter
+[04:682] YAAAAY Bought SunkenColony
+[06:308] YAAAAY Spawned MassiveCocoon
+[07:388] YAAAAY Spawned Underseer
+[08:165] YAAAAY Bought SpawnNydusWorm
+[09:046] YAAAAY Bought SunkenColony
+[09:669] YAAAAY Bought VirulentCreep
+[09:669] YAAAAY Bought VirulentCreep
+[12:368] YAAAAY Bought CreepSpeed
+[13:275] YAAAAY Bought SunkenColony
+[13:882] YAAAAY Bought SunkenColony
+[14:708] YAAAAY Spawned MassiveCocoon
+[14:772] YAAAAY Spawned MassiveCocoon
+[16:246] YAAAAY Bought BuildExtractorExcavationZone
+[16:464] YAAAAY Bought UnlockDropPods
+[16:544] YAAAAY Bought EvolveDropPods
+[17:284] YAAAAY Bought EvolveDropPods
+[17:288] YAAAAY Bought EvolveDropPods
+[17:291] YAAAAY Bought EvolveDropPods
+[17:759] YAAAAY Bought EvolveDropPods
+[19:327] YAAAAY Bought CreepSpeed
+[20:258] YAAAAY Bought ConstructiveCreep
+[20:471] YAAAAY Bought BuildExtractorExcavationZone
+[20:881] YAAAAY Bought EvolveDropPods
+[23:071] YAAAAY Bought StrainSpeed
+[23:075] YAAAAY Bought StrainSpeed
+[23:780] YAAAAY Bought PureStrainSpeed
+[24:880] YAAAAY Bought SunkenColony
+[25:762] YAAAAY Bought BuildExtractorScienceLabs
+[27:045] YAAAAY Bought BuildExtractorManufacturingSector
+[27:068] YAAAAY Bought BuildExtractorExcavationZone
+[27:098] YAAAAY Bought SunkenColony
+[29:037] YAAAAY Bought BuildExtractorProcessingFacilities
+[29:053] YAAAAY Bought SiphonFuel
+[29:523] YAAAAY Spawned MassiveCocoon
+[30:963] YAAAAY Spawned InfestedAbomination
+[30:975] YAAAAY Bought DropshipsFueled
+[31:320] YAAAAY Bought SweepingInfestation
+[31:320] YAAAAY Bought UltimateInfestationResearched
+[31:327] YAAAAY Bought BuildExtractorExcavationZone
+[31:802] YAAAAY Bought StrainSpeed
+[33:610] YAAAAY Bought StrainSpeed
+[33:613] YAAAAY Bought StrainSpeed
+[34:714] YAAAAY Bought PureStrainSpeed
+[34:742] YAAAAY Bought PureStrainSpeed
+[35:507] YAAAAY Bought PureStrainSpeed
+[35:705] YAAAAY Bought PureStrainSpeed
+
+

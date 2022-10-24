@@ -1,0 +1,81 @@
+Analyzed: Oh No It's Zombies Arctic Updated (76)
+
+Zombie Win
+ID : 0 PlayerName: Frosky Race: Zerg
+ID : 1 PlayerName: BlueTiger Race: Terran
+ID : 2 PlayerName: Vearesarion Race: Terran
+ID : 3 PlayerName: Tiphone Race: Terran
+ID : 4 PlayerName: JOENG Race: Terran
+ID : 5 PlayerName: Pizzacarl Race: Terran
+ID : 6 PlayerName: Yello Race: Terran
+ID : 7 PlayerName: Security Race: Terran
+PURCHASES: 
+[01:784] Frosky Bought CreepSpeed
+[04:695] Frosky Bought CreepSpeed
+[07:697] Frosky Bought StrainSpeed
+[07:740] Frosky Bought StrainSpeed
+[09:367] Frosky Bought PureStrainSpeed
+[09:890] Frosky Bought PureStrainSpeed
+[11:443] Frosky Bought StrainSpeed
+[12:157] Frosky Bought PureStrainSpeed
+[13:772] Frosky Bought StrainSpeed
+[15:024] Frosky Bought PureStrainSpeed
+[15:873] Frosky Bought StrainSpeed
+[17:321] Frosky Bought PureStrainSpeed
+[18:119] Frosky Bought HunterlingStrain
+[18:531] Frosky Bought HunterlingStrain
+[20:372] Frosky Bought HunterlingStrain
+[21:762] Frosky Bought HunterlingStrain
+[22:863] Frosky Bought HunterlingStrain
+
+[00:588] BlueTiger Unlocked AssaultRifle
+[06:151] BlueTiger Placed/Upgraded MiningDroid
+
+[00:588] Vearesarion Unlocked AssaultRifle
+[00:784] Vearesarion Placed/Upgraded MiningDroid
+[01:167] Vearesarion Unlocked CombatSuit
+[01:168] Vearesarion Unlocked ShieldSuit
+[01:168] Vearesarion Unlocked AdvancedShieldSuit
+[01:168] Vearesarion Unlocked CombatSuit
+[01:168] Vearesarion Unlocked AdvancedCombatSuit
+[01:168] Vearesarion Unlocked HazmatSuit
+[01:168] Vearesarion Unlocked AdvancedHazmatSuit
+[01:168] Vearesarion Unlocked CombatSuit
+[01:275] Vearesarion Unlocked MedicShield
+[10:008] Vearesarion Unlocked AdvancedCombatSuit
+[10:009] Vearesarion Unlocked CombatSuit
+[10:009] Vearesarion Unlocked AdvancedCombatSuit
+[10:076] Vearesarion Unlocked SpecOpsAssaultRifle
+[10:172] Vearesarion Unlocked AutoTargetingSystem
+[10:417] Vearesarion Unlocked EnergyPack
+[10:543] Vearesarion Unlocked OpticalVisor
+[10:680] Vearesarion Unlocked Teleporter
+[10:700] Vearesarion Unlocked SpecOpsTeleporter
+[12:832] Vearesarion Unlocked OverloadWeapon
+[14:899] Vearesarion Unlocked PsiDisrupter
+[15:033] Vearesarion Unlocked SpecOpsPsiDisruptor
+[15:586] Vearesarion Placed/Upgraded PsiIndoctrinator
+[18:479] Vearesarion Placed/Upgraded PsiIndoctrinator
+[21:578] Vearesarion Placed/Upgraded PsiIndoctrinator
+
+[00:588] Tiphone Unlocked AssaultRifle
+[00:784] Tiphone Unlocked Shotgun
+[00:821] Tiphone Placed/Upgraded MiningDroid
+[03:256] Tiphone Unlocked SpecOpsShotgun
+[05:970] Tiphone Unlocked SuperStimpack
+
+[00:588] JOENG Unlocked AssaultRifle
+[00:903] JOENG Placed/Upgraded MiningDroid
+[01:032] JOENG Unlocked BeamRifle
+[03:654] JOENG Unlocked Stimpack
+
+[00:588] Pizzacarl Unlocked AssaultRifle
+[00:713] Pizzacarl Placed/Upgraded MiningDroid
+[00:827] Pizzacarl Unlocked AdvancedDroidEngines
+
+[00:588] Yello Unlocked AssaultRifle
+[00:819] Yello Unlocked FragGrenade
+[00:859] Yello Unlocked SpecOpsFragGrenade
+[03:935] Yello Unlocked Stimpack
+
+

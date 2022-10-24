@@ -1,0 +1,152 @@
+Analyzed: Oh No It's Zombies Arctic Map (181)
+
+Zombie Undecided
+ID : 0 PlayerName: Frosky Race: Terran
+ID : 1 PlayerName: MarFly Race: Terran
+ID : 2 PlayerName: devidog Race: Zerg
+ID : 3 PlayerName: Pandameme Race: Terran
+ID : 4 PlayerName: Noobmaster Race: Terran
+ID : 5 PlayerName: Kel Race: Terran
+ID : 6 PlayerName: Tagar Race: Terran
+ID : 7 PlayerName: Security Race: Infested Terran
+PURCHASES: 
+[00:572] Frosky Unlocked AssaultRifle
+[00:651] Frosky Placed/Upgraded MiningDroid
+[00:702] Frosky Unlocked IncendiaryGrenade
+[03:172] Frosky Unlocked SpecOpsAssaultRifle
+[04:967] Frosky Unlocked TitaniumBulletCasings
+[08:724] Frosky Unlocked Stimpack
+[10:736] Frosky Unlocked BioMechanicalRepairDrone
+[11:498] Frosky Unlocked AdvancedDroidEngines
+[11:933] Frosky Placed/Upgraded HealingDrone
+[13:032] Frosky Placed/Upgraded HealingDrone
+[13:703] Frosky Placed/Upgraded HealingDrone
+[14:562] Frosky Unlocked CombatSuit
+[14:861] Frosky Placed/Upgraded HealingDrone
+[15:964] Frosky Unlocked SuperStimpack
+
+[00:572] MarFly Unlocked AssaultRifle
+[00:660] MarFly Placed MiningDroid
+[00:898] MarFly Unlocked Stimpack
+[02:136] MarFly Unlocked IncendiaryGrenade
+[06:723] MarFly Unlocked BeamRifle
+[06:735] MarFly Unlocked SpecOpsPlasmaRifle
+[09:519] MarFly Unlocked SuperStimpack
+[12:933] MarFly Placed MiningDroid
+[13:140] MarFly Unlocked BioMechanicalRepairDrone
+[13:971] MarFly Placed HealingDrone
+[14:563] MarFly Bought ShieldSuit
+[14:563] MarFly Bought CombatSuit
+[14:563] MarFly Bought HazmatSuit
+[14:563] MarFly Bought CombatSuit
+[19:349] MarFly Placed MiningDroid
+
+[00:568] devidog Bought PlayerNumber
+[00:829] devidog Placed/Upgraded PrimalSunkenColony
+[00:830] devidog Bought SunkenColony
+[02:683] devidog Spawned MassiveCocoon
+[04:123] devidog Spawned Anubalisk
+[04:130] devidog Bought SunkenColony
+[04:984] devidog Placed/Upgraded LocustNest
+[05:224] devidog Placed/Upgraded LocustNest
+[05:597] devidog Spawned MassiveCocoon
+[07:037] devidog Spawned Anubalisk
+[07:603] devidog Spawned MassiveCocoon
+[08:409] devidog Placed/Upgraded LocustNest
+[08:650] devidog Placed/Upgraded LocustNest
+[08:902] devidog Spawned MassiveCocoon
+[09:043] devidog Spawned PrimalTownHallUprooted
+[09:876] devidog Placed/Upgraded LocustNest
+[09:982] devidog Spawned Underseer
+[11:251] devidog Spawned MassiveCocoon
+[12:576] devidog Placed/Upgraded LesserNydusWorm
+[12:577] devidog Bought GreaterNydus
+[12:691] devidog Spawned PrimalTownHallUprooted
+[12:819] devidog Bought UnlockDropPods
+[15:970] devidog Bought AdvancedInfestationContainment
+[17:451] devidog Bought SpawnNydusWorm
+[17:466] devidog Placed/Upgraded GreaterNydusWorm
+[18:413] devidog Bought BuildExtractorProcessingFacilities
+[18:413] devidog Placed/Upgraded AutomatedExtractor
+[18:436] devidog Bought BuildExtractorScienceLabs
+[18:436] devidog Placed/Upgraded AutomatedExtractor
+[18:984] devidog Spawned MassiveCocoon
+[19:072] devidog Placed/Upgraded Virophage
+[19:755] devidog Placed/Upgraded LesserNydusWorm
+[19:756] devidog Bought GreaterNydus
+[20:060] devidog Spawned MassiveCocoon
+[20:238] devidog Bought BuildExtractorManufacturingSector
+[20:238] devidog Placed/Upgraded AutomatedExtractor
+[20:424] devidog Spawned InfestedAbomination
+
+[00:572] Pandameme Unlocked AssaultRifle
+[00:673] Pandameme Placed/Upgraded MiningDroid
+[00:748] Pandameme Unlocked AdvancedDroidEngines
+[02:097] Pandameme Unlocked OverloadWeapon
+[04:961] Pandameme Unlocked SpecOpsAssaultRifle
+[06:913] Pandameme Unlocked AutoTargetingSystem
+[09:390] Pandameme Unlocked TurboDroidEngines
+[10:495] Pandameme Unlocked HazmatSuit
+[11:204] Pandameme Unlocked BioMechanicalRepairDrone
+[12:828] Pandameme Unlocked MotionSensor
+[13:099] Pandameme Placed/Upgraded MiningDroid
+[13:763] Pandameme Placed/Upgraded SensorTower
+[17:064] Pandameme Unlocked AdvancedHazmatSuit
+[17:189] Pandameme Unlocked FlashBang
+[18:537] Pandameme Unlocked SpecOpsFlashbang
+[18:656] Pandameme Unlocked AutoTurret
+[18:688] Pandameme Unlocked PowerConverter
+[19:002] Pandameme Placed/Upgraded HealingDrone
+[19:398] Pandameme Placed/Upgraded HealingDrone
+[19:818] Pandameme Placed/Upgraded HealingDrone
+
+[00:572] Noobmaster Unlocked AssaultRifle
+[00:684] Noobmaster Placed/Upgraded MiningDroid
+[00:934] Noobmaster Unlocked AdvancedDroidEngines
+[03:869] Noobmaster Unlocked TurboDroidEngines
+[05:491] Noobmaster Unlocked CombatShield
+[05:537] Noobmaster Unlocked MedicShield
+[05:714] Noobmaster Unlocked EnergyPack
+[05:772] Noobmaster Unlocked OpticalVisor
+[10:496] Noobmaster Bought ShieldSuit
+[10:496] Noobmaster Bought CombatSuit
+[10:496] Noobmaster Bought HazmatSuit
+[10:496] Noobmaster Bought HazmatSuit
+[17:065] Noobmaster Bought HazmatSuit
+
+[00:572] Kel Unlocked AssaultRifle
+[00:651] Kel Placed/Upgraded MiningDroid
+[01:698] Kel Unlocked AutoTurret
+[02:222] Kel Placed/Upgraded AutoTurret
+[02:486] Kel Placed/Upgraded AutoTurret
+[02:734] Kel Placed/Upgraded AutoTurret
+[03:875] Kel Unlocked ArcWelder
+[06:735] Kel Unlocked FlameTurret
+[06:763] Kel Unlocked HeavyTurret
+[06:976] Kel Placed/Upgraded AutoTurret
+[09:776] Kel Unlocked Stimpack
+[10:253] Kel Unlocked QuantumBackpack
+[11:810] Kel Unlocked BioMechanicalRepairDrone
+[11:911] Kel Unlocked SpecOpsBioMechanicalRepairDrone
+[12:026] Kel Placed/Upgraded HealingDrone
+[14:249] Kel Unlocked AdvancedDroidEngines
+[14:253] Kel Unlocked TurboDroidEngines
+[14:853] Kel Placed/Upgraded AutoTurret
+[15:472] Kel Unlocked SpecOpsArcWelder
+[15:675] Kel Placed/Upgraded AutoTurret
+[16:037] Kel Placed/Upgraded AutoTurret
+[16:412] Kel Placed/Upgraded AutoTurret
+[16:654] Kel Placed/Upgraded AutoTurret
+[16:769] Kel Placed/Upgraded AutoTurret
+[16:881] Kel Placed/Upgraded AutoTurret
+[17:148] Kel Placed/Upgraded AutoTurret
+
+[00:572] Tagar Unlocked AssaultRifle
+[13:422] Tagar Unlocked IncendiaryGrenade
+[13:582] Tagar Unlocked SpecOpsIncendiaryGrenade
+[13:607] Tagar Unlocked FragGrenade
+[13:782] Tagar Unlocked ForceFieldGrenade
+[18:093] Tagar Unlocked CombatShield
+[18:246] Tagar Unlocked MedicShield
+
+

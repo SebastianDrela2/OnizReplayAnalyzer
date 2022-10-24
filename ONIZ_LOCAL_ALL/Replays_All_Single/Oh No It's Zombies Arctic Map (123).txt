@@ -1,0 +1,198 @@
+Analyzed: Oh No It's Zombies Arctic Map (123)
+
+Zombie Win
+ID : 0 PlayerName: Chaosnoble Race: Terran
+ID : 1 PlayerName: Yello Race: Zerg
+ID : 2 PlayerName: funkymonkeee Race: Terran
+ID : 3 PlayerName: devidog Race: Terran
+ID : 4 PlayerName: meTT Race: Terran
+ID : 5 PlayerName: Mech Race: Terran
+ID : 6 PlayerName: Frosky Race: Terran
+ID : 7 PlayerName: Security Race: MechaZerg
+PURCHASES: 
+[00:572] Chaosnoble Unlocked AssaultRifle
+[00:747] Chaosnoble Placed MiningDroid
+[03:474] Chaosnoble Unlocked HellfireRocketLauncher
+[03:589] Chaosnoble Unlocked Shieldsiotunlocked
+[04:175] Chaosnoble Unlocked SpecOpsHellfireRocketLauncher
+[11:502] Chaosnoble Placed MiningDroid
+[12:824] Chaosnoble Unlocked ShockwaveMissiles
+[17:192] Chaosnoble Unlocked SuperStimpack
+[18:617] Chaosnoble Unlocked IncendiaryGrenade
+[20:795] Chaosnoble Placed MiningDroid
+[22:569] Chaosnoble Unlocked AdvancedShieldSuit
+[26:022] Chaosnoble Unlocked MedicShield
+[29:569] Chaosnoble Unlocked OverloadWeapon
+
+[00:568] Yello Bought PlayerNumber
+[00:752] Yello Placed/Upgraded PrimalSunkenColony
+[00:753] Yello Bought SunkenColony
+[02:644] Yello Spawned MassiveCocoon
+[02:650] Yello Spawned MassiveCocoon
+[02:653] Yello Spawned MassiveCocoon
+[02:657] Yello Spawned MassiveCocoon
+[03:074] Yello Placed/Upgraded LocustNest
+[03:590] Yello Bought ShieldSuit
+[03:590] Yello Bought CombatSuit
+[03:590] Yello Bought HazmatSuit
+[03:590] Yello Bought ShieldSuit
+[03:724] Yello Spawned Underseer
+[03:730] Yello Spawned Underseer
+[03:733] Yello Spawned Underseer
+[03:738] Yello Spawned Underseer
+[03:928] Yello Placed/Upgraded LocustNest
+[07:832] Yello Placed/Upgraded LocustNest
+[08:615] Yello Placed/Upgraded LocustNest
+[08:856] Yello Spawned MassiveCocoon
+[08:879] Yello Spawned MassiveCocoon
+[08:883] Yello Spawned MassiveCocoon
+[08:887] Yello Spawned MassiveCocoon
+[09:891] Yello Bought StrainHealth
+[09:901] Yello Bought PureStrainHealth
+[09:936] Yello Spawned Underseer
+[09:959] Yello Spawned Underseer
+[09:963] Yello Spawned Underseer
+[11:608] Yello Spawned MassiveCocoon
+[11:614] Yello Spawned MassiveCocoon
+[11:621] Yello Spawned MassiveCocoon
+[11:624] Yello Spawned MassiveCocoon
+[11:970] Yello Placed/Upgraded LocustNest
+[12:225] Yello Placed/Upgraded LocustNest
+[12:632] Yello Placed/Upgraded PrimalSunkenColony
+[12:633] Yello Bought SunkenColony
+[12:688] Yello Spawned Underseer
+[12:694] Yello Spawned Underseer
+[12:701] Yello Spawned Underseer
+[12:704] Yello Spawned Underseer
+[13:747] Yello Bought TankStrain
+[14:880] Yello Bought BuildExtractorScienceLabs
+[14:880] Yello Placed/Upgraded AutomatedExtractor
+[16:569] Yello Placed/Upgraded NydusCanalCreeper
+[16:971] Yello Placed/Upgraded NydusCanalCreeper
+[17:170] Yello Bought SunkenColony
+[17:398] Yello Bought SpawnNydusWorm
+[17:569] Yello Placed/Upgraded GreaterNydusWorm
+[18:344] Yello Placed/Upgraded PrimalSunkenColony
+[18:345] Yello Bought SunkenColony
+[18:530] Yello Bought SunkenColony
+[18:547] Yello Bought SunkenColony
+[18:547] Yello Placed/Upgraded PrimalSunkenColony
+[18:585] Yello Bought StrainVolatile
+[19:941] Yello Bought SiphonFuel
+[20:006] Yello Bought BuildExtractorProcessingFacilities
+[20:006] Yello Placed/Upgraded AutomatedExtractor
+[20:340] Yello Bought BuildExtractorExcavationZone
+[20:340] Yello Placed/Upgraded AutomatedExtractor
+[20:947] Yello Bought SunkenColony
+[21:617] Yello Placed/Upgraded Virophage
+[21:781] Yello Placed/Upgraded Virophage
+[22:229] Yello Bought BuildExtractorExcavationZone
+[22:415] Yello Spawned MassiveCocoon
+[22:424] Yello Spawned MassiveCocoon
+[22:570] Yello Bought ShieldSuit
+[22:632] Yello Bought AdvancedInfestationContainment
+[23:495] Yello Spawned Underseer
+[23:504] Yello Spawned Underseer
+[24:283] Yello Bought SiphonFuel
+[24:658] Yello Bought BuildExtractorManufacturingSector
+[24:658] Yello Placed/Upgraded AutomatedExtractor
+[27:121] Yello Bought AdvancedPowerInfestation
+[27:356] Yello Bought SiphonFuel
+[27:687] Yello Placed/Upgraded PrimalSunkenColony
+[27:688] Yello Bought SunkenColony
+[27:918] Yello Bought SunkenColony
+[28:381] Yello Bought StrainHealth
+[28:394] Yello Bought PureStrainHealth
+[28:410] Yello Bought TankStrain
+[28:697] Yello Spawned MassiveCocoon
+[28:713] Yello Spawned MassiveCocoon
+[28:814] Yello Spawned MassiveCocoon
+[28:983] Yello Placed/Upgraded LocustNest
+[29:409] Yello Placed/Upgraded Virophage
+[29:894] Yello Spawned Underseer
+[29:903] Yello Placed/Upgraded NydusCanalCreeper
+[30:137] Yello Spawned InfestedAbomination
+[30:153] Yello Spawned InfestedAbomination
+
+[00:572] funkymonkeee Unlocked AssaultRifle
+[01:624] funkymonkeee Placed/Upgraded MiningDroid
+[13:437] funkymonkeee Unlocked CombatShield
+[13:592] funkymonkeee Unlocked Stimpack
+[14:062] funkymonkeee Placed/Upgraded MiningDroid
+[18:554] funkymonkeee Unlocked Flamethrower
+[20:294] funkymonkeee Unlocked DefensiveMatrix
+[21:100] funkymonkeee Unlocked SpecOpsFlamethrower
+
+[00:572] devidog Unlocked AssaultRifle
+[00:651] devidog Placed/Upgraded MiningDroid
+[00:781] devidog Unlocked AdvancedDroidEngines
+[03:765] devidog Unlocked Flamethrower
+[05:004] devidog Unlocked SpecOpsFlamethrower
+[07:328] devidog Unlocked BioMechanicalRepairDrone
+[07:424] devidog Placed/Upgraded MiningDroid
+[08:065] devidog Placed/Upgraded HealingDrone
+[08:651] devidog Placed/Upgraded HealingDrone
+[08:963] devidog Placed/Upgraded HealingDrone
+[10:775] devidog Placed/Upgraded HealingDrone
+[10:932] devidog Unlocked Shieldsiotunlocked
+[10:941] devidog Unlocked AdvancedShieldSuit
+[11:620] devidog Placed/Upgraded HealingDrone
+[11:810] devidog Placed/Upgraded HealingDrone
+[18:080] devidog Unlocked SuperHealingDrone
+[18:394] devidog Placed/Upgraded HealingDrone
+[23:181] devidog Placed/Upgraded HealingDrone
+[23:981] devidog Placed/Upgraded HealingDrone
+[27:810] devidog Placed/Upgraded HealingDrone
+
+[00:572] meTT Unlocked AssaultRifle
+[00:692] meTT Placed/Upgraded MiningDroid
+[00:837] meTT Unlocked AdvancedDroidEngines
+[04:126] meTT Unlocked ExplorationDroid
+[04:141] meTT Placed/Upgraded ExplorationDroid
+[04:149] meTT Placed/Upgraded ExplorationDroid
+[04:922] meTT Unlocked FragGrenade
+[04:931] meTT Unlocked SpecOpsFragGrenade
+[07:918] meTT Unlocked HellfireRocketLauncher
+[08:138] meTT Placed/Upgraded ExplorationDroid
+[09:709] meTT Unlocked Stimpack
+[10:743] meTT Placed/Upgraded ExplorationDroid
+[10:933] meTT Bought ShieldSuit
+[10:933] meTT Bought CombatSuit
+[10:933] meTT Bought HazmatSuit
+[10:933] meTT Bought ShieldSuit
+[10:942] meTT Bought ShieldSuit
+[11:011] meTT Unlocked SpecOpsHellfireRocketLauncher
+[12:432] meTT Unlocked ShockwaveMissiles
+[12:999] meTT Placed/Upgraded ExplorationDroid
+[13:509] meTT Unlocked EnergySuit
+[13:510] meTT Unlocked EnergySuit
+[23:714] meTT Placed/Upgraded MiningDroid
+[23:902] meTT Unlocked AdvancedEnergySuit
+[23:903] meTT Unlocked EnergySuit
+[23:903] meTT Unlocked AdvancedEnergySuit
+[24:836] meTT Unlocked BioMechanicalRepairDrone
+[24:945] meTT Placed/Upgraded HealingDrone
+
+[00:572] Mech Unlocked AssaultRifle
+[01:418] Mech Placed/Upgraded MiningDroid
+[03:584] Mech Unlocked PsiDisrupter
+[04:108] Mech Unlocked Shieldsiotunlocked
+[13:145] Mech Placed/Upgraded MiningDroid
+[13:510] Mech Bought ShieldSuit
+[13:510] Mech Bought CombatSuit
+[13:510] Mech Bought HazmatSuit
+[13:952] Mech Unlocked Flamethrower
+[19:749] Mech Placed/Upgraded MiningDroid
+[24:450] Mech Unlocked MedicShield
+
+[00:572] Frosky Unlocked AssaultRifle
+[00:853] Frosky Unlocked ArcWelder
+[01:937] Frosky Unlocked BioMechanicalRepairDrone
+[01:950] Frosky Unlocked CombatAccelerationDrone
+[04:109] Frosky Bought ShieldSuit
+[04:109] Frosky Bought CombatSuit
+[04:109] Frosky Bought HazmatSuit
+[04:109] Frosky Bought ShieldSuit
+[13:109] Frosky Unlocked AdvancedDroidEngines
+
+

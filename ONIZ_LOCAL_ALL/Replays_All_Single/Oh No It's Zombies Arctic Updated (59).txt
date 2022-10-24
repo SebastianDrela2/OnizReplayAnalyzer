@@ -1,0 +1,176 @@
+Analyzed: Oh No It's Zombies Arctic Updated (59)
+
+Zombie Loss
+ID : 0 PlayerName: yoloLife Race: Terran
+ID : 1 PlayerName: RammusSaidOK Race: Zerg
+ID : 2 PlayerName: mari Race: Terran
+ID : 3 PlayerName: Frosky Race: Terran
+ID : 4 PlayerName: RyK Race: Terran
+ID : 5 PlayerName: leo Race: Terran
+ID : 6 PlayerName: BMxGosuxNVT Race: Terran
+ID : 7 PlayerName: Security Race: MechaZerg
+PURCHASES: 
+[00:588] yoloLife Unlocked AssaultRifle
+[00:725] yoloLife Placed MiningDroid
+[00:867] yoloLife Unlocked ArcWelder
+[01:787] yoloLife Unlocked Stimpack
+[03:048] yoloLife Unlocked AdvancedDroidEngines
+[04:951] yoloLife Unlocked TurboDroidEngines
+[07:257] yoloLife Unlocked MotionSensor
+[07:262] yoloLife Unlocked AdvancedMotionSensor
+[07:997] yoloLife Placed SensorTower
+[08:473] yoloLife Placed SensorTower
+[09:236] yoloLife Unlocked PsiDisrupter
+[10:279] yoloLife Placed PsiIndoctrinator
+[12:808] yoloLife Unlocked BioMechanicalRepairDrone
+[12:832] yoloLife Unlocked SpecOpsBioMechanicalRepairDrone
+[13:593] yoloLife Placed MiningDroid
+[14:992] yoloLife Placed SensorTower
+[15:606] yoloLife Unlocked PsiDepressor
+[16:028] yoloLife Placed PsiIndoctrinator
+[16:802] yoloLife Unlocked AutoTurret
+[16:811] yoloLife Unlocked SpecOpsTurret
+[16:890] yoloLife Unlocked QuantumBackpack
+[17:135] yoloLife Placed AutoTurret
+[18:141] yoloLife Placed HealingDrone
+[18:279] yoloLife Placed HealingDrone
+[18:881] yoloLife Placed HealingDrone
+[19:565] yoloLife Placed AutoTurret
+[19:753] yoloLife Placed AutoTurret
+[29:616] yoloLife Placed HealingDrone
+
+[00:552] RammusSaidOK Bought PlayerNumber
+[01:797] RammusSaidOK Bought CreepSpeed
+[03:432] RammusSaidOK Bought StrainSpeed
+[04:244] RammusSaidOK Bought PureStrainSpeed
+[06:943] RammusSaidOK Bought HunterlingStrain
+[09:311] RammusSaidOK Bought StrainHealth
+[11:644] RammusSaidOK Bought PureStrainHealth
+[13:497] RammusSaidOK Bought TankStrain
+[15:502] RammusSaidOK Bought AdvancedInfestationContainment
+[16:092] RammusSaidOK Bought BuildExtractorScienceLabs
+[16:092] RammusSaidOK Placed/Upgraded AutomatedExtractor
+[16:964] RammusSaidOK Bought StrainSpeed
+[17:953] RammusSaidOK Placed/Upgraded Virophage
+[18:741] RammusSaidOK Bought PureStrainSpeed
+[20:592] RammusSaidOK Bought HunterlingStrain
+[21:625] RammusSaidOK Bought DropshipsFueled
+[21:690] RammusSaidOK Spawned RoyalCocoon
+[21:690] RammusSaidOK Bought SpawnHiveQueen
+[21:690] RammusSaidOK Bought UltimateInfestationResearched
+[22:409] RammusSaidOK Spawned QueenCoop
+[22:976] RammusSaidOK Bought CreepSpeed
+[24:176] RammusSaidOK Bought StrainHealth
+[24:740] RammusSaidOK Bought VirulentCreep
+[24:740] RammusSaidOK Bought VirulentCreep
+[25:594] RammusSaidOK Bought PureStrainHealth
+[26:312] RammusSaidOK Bought TankStrain
+[27:307] RammusSaidOK Bought StrainHealth
+[28:798] RammusSaidOK Bought PureStrainHealth
+[30:523] RammusSaidOK Bought RegenerativeCreep
+
+[00:588] mari Unlocked AssaultRifle
+[00:667] mari Placed/Upgraded MiningDroid
+[01:117] mari Unlocked IncendiaryGrenade
+[01:127] mari Unlocked SpecOpsIncendiaryGrenade
+[04:090] mari Unlocked Shotgun
+[05:120] mari Unlocked SpecOpsShotgun
+[07:741] mari Unlocked Shieldsiotunlocked
+[08:610] mari Placed/Upgraded MiningDroid
+[11:872] mari Unlocked Stimpack
+[13:211] mari Unlocked IncendiaryBullets
+[13:581] mari Placed/Upgraded MiningDroid
+[16:211] mari Unlocked SuperStimpack
+[16:399] mari Unlocked MiningCharge
+[18:976] mari Placed/Upgraded MiningDroid
+[22:079] mari Placed/Upgraded MiningDroid
+[22:511] mari Placed/Upgraded NukePack
+[23:812] mari Placed/Upgraded NukePack
+[26:991] mari Unlocked AIAssistant
+[27:001] mari Unlocked EnergyPack
+[27:083] mari Unlocked BioMechanicalRepairDrone
+[28:289] mari Placed/Upgraded HealingDrone
+[28:666] mari Placed/Upgraded NukePack
+
+[00:588] Frosky Unlocked AssaultRifle
+[00:667] Frosky Placed/Upgraded MiningDroid
+[00:724] Frosky Unlocked AdvancedDroidEngines
+[06:525] Frosky Unlocked TurboDroidEngines
+[07:734] Frosky Unlocked SpecOpsAssaultRifle
+[07:742] Frosky Bought ShieldSuit
+[07:742] Frosky Bought CombatSuit
+[07:742] Frosky Bought HazmatSuit
+[07:742] Frosky Bought ShieldSuit
+[09:330] Frosky Unlocked TitaniumBulletCasings
+[10:199] Frosky Unlocked CombatSuit
+[11:095] Frosky Unlocked AdvancedCombatSuit
+[15:998] Frosky Placed/Upgraded MiningDroid
+[17:185] Frosky Unlocked AutoTurret
+[17:429] Frosky Placed/Upgraded AutoTurret
+[27:978] Frosky Placed/Upgraded AutoTurret
+
+[00:588] RyK Unlocked AssaultRifle
+[00:667] RyK Placed/Upgraded MiningDroid
+[00:909] RyK Unlocked AdvancedDroidEngines
+[04:357] RyK Unlocked Flamethrower
+[05:190] RyK Unlocked SpecOpsFlamethrower
+[07:007] RyK Unlocked LongRangeIncinerators
+[07:069] RyK Unlocked BioMechanicalRepairDrone
+[09:483] RyK Unlocked Teleporter
+[10:200] RyK Bought ShieldSuit
+[10:200] RyK Bought CombatSuit
+[10:200] RyK Bought HazmatSuit
+[10:200] RyK Bought CombatSuit
+[10:250] RyK Placed/Upgraded HealingDrone
+[11:096] RyK Bought CombatSuit
+[11:388] RyK Unlocked CombatShield
+[11:673] RyK Unlocked OverloadWeapon
+[13:191] RyK Placed/Upgraded HealingDrone
+[16:985] RyK Placed/Upgraded MiningDroid
+[17:273] RyK Placed/Upgraded HealingDrone
+[18:210] RyK Placed/Upgraded HealingDrone
+[18:413] RyK Placed/Upgraded HealingDrone
+[22:130] RyK Placed/Upgraded MiningDroid
+[26:029] RyK Unlocked MiningCharge
+[26:084] RyK Placed/Upgraded NukePack
+[26:251] RyK Placed/Upgraded NukePack
+[27:668] RyK Placed/Upgraded NukePack
+[27:969] RyK Placed/Upgraded HealingDrone
+[29:160] RyK Placed/Upgraded NukePack
+
+[00:588] leo Unlocked AssaultRifle
+[00:924] leo Placed/Upgraded MiningDroid
+[02:003] leo Unlocked SpecOpsAssaultRifle
+[05:403] leo Unlocked AutoTargetingSystem
+[12:447] leo Placed/Upgraded MiningDroid
+[13:928] leo Unlocked CombatSuit
+[14:072] leo Unlocked AdvancedCombatSuit
+[14:394] leo Unlocked CombatShield
+[15:281] leo Unlocked AIAssistant
+[16:327] leo Unlocked Teleporter
+[25:399] leo Unlocked SpecOpsTeleporter
+[25:531] leo Unlocked QuantumBackpack
+
+[00:588] BMxGosuxNVT Unlocked AssaultRifle
+[02:968] BMxGosuxNVT Unlocked SpecOpsAssaultRifle
+[04:371] BMxGosuxNVT Unlocked SuperStimpack
+[06:385] BMxGosuxNVT Unlocked Stimpack
+[08:173] BMxGosuxNVT Unlocked BioMechanicalRepairDrone
+[09:516] BMxGosuxNVT Unlocked CombatSuit
+[12:957] BMxGosuxNVT Unlocked AutoTurret
+[13:929] BMxGosuxNVT Bought ShieldSuit
+[13:929] BMxGosuxNVT Bought CombatSuit
+[13:929] BMxGosuxNVT Bought HazmatSuit
+[13:929] BMxGosuxNVT Bought CombatSuit
+[14:073] BMxGosuxNVT Bought CombatSuit
+[15:452] BMxGosuxNVT Unlocked SpecOpsBioMechanicalRepairDrone
+[19:654] BMxGosuxNVT Unlocked TitaniumBulletCasings
+[20:634] BMxGosuxNVT Unlocked AIAssistant
+[21:506] BMxGosuxNVT Unlocked AdvancedCombatSuit
+
+[09:517] Security Bought ShieldSuit
+[09:517] Security Bought CombatSuit
+[09:517] Security Bought HazmatSuit
+[09:517] Security Bought CombatSuit
+[21:507] Security Bought CombatSuit
+

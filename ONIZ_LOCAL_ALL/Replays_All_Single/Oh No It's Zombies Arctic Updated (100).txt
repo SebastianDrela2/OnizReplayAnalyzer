@@ -1,0 +1,28 @@
+Analyzed: Oh No It's Zombies Arctic Updated (100)
+
+Zombie Undecided
+ID : 0 PlayerName: Frosky Race: Zerg
+ID : 7 PlayerName: Security Race: MechaZerg
+PURCHASES: 
+[00:806] Frosky Spawned MassiveCocoon
+[02:380] Frosky Bought StrainDamage
+[04:225] Frosky Bought StrainDamage
+[05:170] Frosky Bought StrainDamage
+[07:143] Frosky Bought StrainDamage
+[08:915] Frosky Bought PureStrainDamage
+[10:294] Frosky Bought PureStrainDamage
+[11:476] Frosky Bought PureStrainDamage
+[12:689] Frosky Bought PureStrainDamage
+[14:448] Frosky Bought DefilerStrain
+[14:984] Frosky Bought DefilerStrain
+[16:143] Frosky Bought DefilerStrain
+[16:678] Frosky Bought DefilerStrain
+[17:873] Frosky Bought StrainDamage
+
+
+
+
+
+
+
+

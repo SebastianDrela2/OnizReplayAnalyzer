@@ -1,0 +1,152 @@
+Analyzed: Oh No It's Zombies Arctic Updated (63)
+
+Zombie Win
+ID : 0 PlayerName: Frosky Race: Terran
+ID : 1 PlayerName: BMxGosuxNVT Race: Terran
+ID : 2 PlayerName: Sarnith Race: Terran
+ID : 3 PlayerName: KelthuzadxD Race: Zerg
+ID : 4 PlayerName: GHOST Race: Terran
+ID : 5 PlayerName: Rio Race: Terran
+ID : 6 PlayerName: Happypanda Race: Terran
+ID : 7 PlayerName: Security Race: Protoss
+PURCHASES: 
+[00:588] Frosky Unlocked AssaultRifle
+[00:667] Frosky Placed/Upgraded MiningDroid
+[00:824] Frosky Unlocked IncendiaryGrenade
+[02:691] Frosky Unlocked AdvancedDroidEngines
+[05:069] Frosky Unlocked BeamRifle
+[07:371] Frosky Unlocked TurboDroidEngines
+[08:832] Frosky Unlocked Stimpack
+[11:730] Frosky Unlocked CombatSuit
+[17:898] Frosky Unlocked AdvancedCombatSuit
+
+[00:588] BMxGosuxNVT Unlocked AssaultRifle
+[00:763] BMxGosuxNVT Placed/Upgraded MiningDroid
+[01:907] BMxGosuxNVT Unlocked SpecOpsAssaultRifle
+[04:904] BMxGosuxNVT Unlocked Stimpack
+[06:578] BMxGosuxNVT Unlocked BioMechanicalRepairDrone
+[07:472] BMxGosuxNVT Placed/Upgraded HealingDrone
+[07:919] BMxGosuxNVT Placed/Upgraded HealingDrone
+[08:307] BMxGosuxNVT Unlocked AutoTurret
+[08:362] BMxGosuxNVT Placed/Upgraded AutoTurret
+[11:142] BMxGosuxNVT Placed/Upgraded AutoTurret
+[11:337] BMxGosuxNVT Placed/Upgraded AutoTurret
+[11:528] BMxGosuxNVT Placed/Upgraded AutoTurret
+[11:731] BMxGosuxNVT Bought ShieldSuit
+[11:731] BMxGosuxNVT Bought CombatSuit
+[11:731] BMxGosuxNVT Bought HazmatSuit
+[11:731] BMxGosuxNVT Bought CombatSuit
+[11:770] BMxGosuxNVT Placed/Upgraded AutoTurret
+[11:963] BMxGosuxNVT Placed/Upgraded AutoTurret
+[12:294] BMxGosuxNVT Placed/Upgraded AutoTurret
+[13:325] BMxGosuxNVT Unlocked SpecOpsBioMechanicalRepairDrone
+[13:432] BMxGosuxNVT Placed/Upgraded HealingDrone
+[17:899] BMxGosuxNVT Bought CombatSuit
+[17:925] BMxGosuxNVT Unlocked PsiDisrupter
+[20:470] BMxGosuxNVT Placed/Upgraded HealingDrone
+
+[00:588] Sarnith Unlocked AssaultRifle
+[00:667] Sarnith Placed MiningDroid
+[01:115] Sarnith Unlocked AdvancedDroidEngines
+[04:495] Sarnith Unlocked SpecOpsAssaultRifle
+[05:698] Sarnith Unlocked MotionSensor
+[06:073] Sarnith Placed SensorTower
+[08:318] Sarnith Unlocked SuperStimpack
+[09:087] Sarnith Placed SensorTower
+[11:922] Sarnith Placed MiningDroid
+[19:023] Sarnith Unlocked PsiDisrupter
+[19:089] Sarnith Placed PsiIndoctrinator
+[21:918] Sarnith Unlocked AutoTurret
+[22:091] Sarnith Placed AutoTurret
+[22:885] Sarnith Placed AutoTurret
+[23:264] Sarnith Unlocked BioMechanicalRepairDrone
+[23:317] Sarnith Unlocked RechargeDrone
+[24:169] Sarnith Placed HealingDrone
+
+[00:552] KelthuzadxD Bought PlayerNumber
+[00:808] KelthuzadxD Spawned MassiveCocoon
+[02:248] KelthuzadxD Spawned PrimalTownHallUprooted
+[03:224] KelthuzadxD Spawned MassiveCocoon
+[04:664] KelthuzadxD Spawned PrimalTownHallUprooted
+[05:552] KelthuzadxD Spawned MassiveCocoon
+[06:740] KelthuzadxD Spawned MassiveCocoon
+[06:992] KelthuzadxD Spawned Hunter
+[07:602] KelthuzadxD Placed/Upgraded ToxicNest
+[08:180] KelthuzadxD Spawned PrimalTownHallUprooted
+[08:998] KelthuzadxD Spawned MassiveCocoon
+[10:438] KelthuzadxD Spawned PrimalTownHallUprooted
+[10:671] KelthuzadxD Bought BuildExtractorProcessingFacilities
+[10:671] KelthuzadxD Placed/Upgraded AutomatedExtractor
+[11:685] KelthuzadxD Placed/Upgraded ToxicNest
+[11:837] KelthuzadxD Bought VirulentCreep
+[11:837] KelthuzadxD Bought VirulentCreep
+[13:036] KelthuzadxD Bought CreepSpeed
+[13:762] KelthuzadxD Placed/Upgraded ToxicNest
+[13:908] KelthuzadxD Bought BuildExtractorManufacturingSector
+[13:908] KelthuzadxD Placed/Upgraded AutomatedExtractor
+[14:346] KelthuzadxD Bought ExtractorCostReductionManufacturingSector
+[14:346] KelthuzadxD Bought BuildExtractorManufacturingSector
+[14:871] KelthuzadxD Placed/Upgraded ToxicNest
+[14:922] KelthuzadxD Bought BuildExtractorExcavationZone
+[14:922] KelthuzadxD Placed/Upgraded AutomatedExtractor
+[15:482] KelthuzadxD Placed/Upgraded ToxicNest
+[15:551] KelthuzadxD Bought AdvancedInfestationSecurity
+[15:636] KelthuzadxD Bought TrackHumans
+[16:228] KelthuzadxD Placed/Upgraded ToxicNest
+[17:881] KelthuzadxD Bought AdvancedInfestationContainment
+[18:883] KelthuzadxD Placed/Upgraded ToxicNest
+[20:192] KelthuzadxD Placed/Upgraded NydusCanalCreeper
+[20:225] KelthuzadxD Bought BuildExtractorScienceLabs
+[20:225] KelthuzadxD Placed/Upgraded AutomatedExtractor
+[20:628] KelthuzadxD Bought SiphonFuel
+[21:874] KelthuzadxD Bought VirulentCreep
+[21:874] KelthuzadxD Bought VirulentCreep
+[22:833] KelthuzadxD Bought TrackHumans
+[23:068] KelthuzadxD Bought ConstructiveCreep
+[23:845] KelthuzadxD Bought AdvancedPowerInfestation
+[23:881] KelthuzadxD Bought AdvancedInfestationGateControl
+[24:432] KelthuzadxD Bought TrackHumans
+
+[00:588] GHOST Unlocked AssaultRifle
+[00:668] GHOST Placed/Upgraded MiningDroid
+[00:922] GHOST Unlocked Flamethrower
+[03:689] GHOST Unlocked SpecOpsFlamethrower
+[05:757] GHOST Unlocked Shieldsiotunlocked
+[08:045] GHOST Unlocked DefensiveMatrix
+[13:847] GHOST Unlocked LongRangeIncinerators
+[14:026] GHOST Unlocked CombatShield
+[14:524] GHOST Unlocked SuperHealingDrone
+[14:748] GHOST Unlocked EnergyPack
+[17:934] GHOST Unlocked PsiDisrupter
+[18:021] GHOST Unlocked SpecOpsPsiDisruptor
+[18:164] GHOST Unlocked AdvancedShieldSuit
+[18:701] GHOST Placed/Upgraded SuperHealingDrone
+
+[00:588] Rio Unlocked AssaultRifle
+[00:695] Rio Placed/Upgraded MiningDroid
+[01:001] Rio Unlocked AdvancedDroidEngines
+[04:564] Rio Unlocked BioMechanicalRepairDrone
+[04:623] Rio Unlocked TurboDroidEngines
+[05:758] Rio Bought ShieldSuit
+[05:758] Rio Bought CombatSuit
+[05:758] Rio Bought HazmatSuit
+[05:758] Rio Bought ShieldSuit
+[05:834] Rio Unlocked CombatAccelerationDrone
+[06:106] Rio Placed/Upgraded HealingDrone
+[06:581] Rio Placed/Upgraded HealingDrone
+[07:245] Rio Placed/Upgraded HealingDrone
+[07:960] Rio Placed/Upgraded HealingDrone
+[09:521] Rio Unlocked PsiDisrupter
+[09:779] Rio Unlocked SpecOpsPsiDisruptor
+[10:188] Rio Placed/Upgraded PsiIndoctrinator
+[11:535] Rio Placed/Upgraded HealingDrone
+[13:402] Rio Placed/Upgraded HealingDrone
+[14:267] Rio Placed/Upgraded MiningDroid
+[14:677] Rio Placed/Upgraded HealingDrone
+[16:719] Rio Placed/Upgraded PsiIndoctrinator
+[18:165] Rio Bought ShieldSuit
+
+[00:588] Happypanda Unlocked AssaultRifle
+[11:689] Happypanda Unlocked SpecOpsAssaultRifle
+
+

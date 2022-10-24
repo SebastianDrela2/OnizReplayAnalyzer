@@ -1,0 +1,48 @@
+Analyzed: Oh No It's Zombies Arctic Map (23)
+
+Zombie Undecided
+ID : 0 PlayerName: Frosky Race: Zerg
+ID : 7 PlayerName: Security Race: Terran Mengsk
+PURCHASES: 
+[01:148] Frosky Bought ConstructiveCreep
+[01:223] Frosky Placed/Upgraded NydusCanalCreeper
+[02:471] Frosky Placed/Upgraded PrimalSunkenColony
+[02:472] Frosky Bought SunkenColony
+[02:886] Frosky Placed/Upgraded NydusCanalCreeper
+[03:763] Frosky Bought ConstructiveCreep
+[04:639] Frosky Placed/Upgraded PrimalSunkenColony
+[04:640] Frosky Bought SunkenColony
+[05:049] Frosky Placed/Upgraded NydusCanalCreeper
+[05:703] Frosky Placed/Upgraded NydusCanalCreeper
+[06:087] Frosky Placed/Upgraded NydusCanalCreeper
+[06:743] Frosky Placed/Upgraded NydusCanalCreeper
+[07:621] Frosky Placed/Upgraded NydusCanalCreeper
+[08:138] Frosky Placed/Upgraded PrimalSunkenColony
+[08:139] Frosky Bought SunkenColony
+[08:298] Frosky Placed/Upgraded NydusCanalCreeper
+[09:226] Frosky Placed/Upgraded NydusCanalCreeper
+[09:528] Frosky Bought SunkenColony
+[10:487] Frosky Bought RegenerativeCreep
+[11:732] Frosky Placed/Upgraded PrimalSunkenColony
+[11:733] Frosky Bought SunkenColony
+[12:675] Frosky Bought BuildExtractorExcavationZone
+[12:675] Frosky Placed/Upgraded AutomatedExtractor
+[16:898] Frosky Spawned MassiveCocoon
+[17:978] Frosky Spawned Underseer
+[18:262] Frosky Placed/Upgraded PrimalSunkenColony
+[18:263] Frosky Bought SunkenColony
+[23:741] Frosky Bought VirulentCreep
+[28:043] Frosky Placed/Upgraded NydusCanalCreeper
+[28:255] Frosky Placed/Upgraded NydusCanalCreeper
+[28:522] Frosky Placed/Upgraded NydusCanalCreeper
+[35:614] Frosky Bought DropshipsFueled
+[36:265] Frosky Placed/Upgraded PrimalSunkenColony
+[36:266] Frosky Bought SunkenColony
+
+
+
+
+
+
+
+

@@ -1,0 +1,202 @@
+Analyzed: Oh No It's Zombies Arctic Updated (37)
+
+Zombie Loss
+ID : 0 PlayerName: KHAOTIC Race: Terran
+ID : 1 PlayerName: RyK Race: Terran
+ID : 2 PlayerName: Frosky Race: Zerg
+ID : 3 PlayerName: eye Race: Terran
+ID : 4 PlayerName: Ryan Race: Terran
+ID : 5 PlayerName: BLACKBLACK Race: Terran
+ID : 6 PlayerName: Marcelo Race: Terran
+ID : 7 PlayerName: Security Race: Terran Tychus
+PURCHASES: 
+[00:588] KHAOTIC Unlocked AssaultRifle
+[01:353] KHAOTIC Placed/Upgraded MiningDroid
+[01:415] KHAOTIC Unlocked HellfireRocketLauncher
+[01:443] KHAOTIC Unlocked ForceFieldGrenade
+[04:356] KHAOTIC Unlocked Stimpack
+[06:599] KHAOTIC Unlocked AdvancedDroidEngines
+[16:080] KHAOTIC Unlocked SpecOpsHellfireRocketLauncher
+[16:112] KHAOTIC Unlocked ShockwaveMissiles
+[16:170] KHAOTIC Unlocked TurboDroidEngines
+[18:513] KHAOTIC Unlocked SpecOpsForcefieldGrenade
+[18:743] KHAOTIC Unlocked Shieldsiotunlocked
+[18:748] KHAOTIC Unlocked AdvancedShieldSuit
+[20:236] KHAOTIC Unlocked MiningCharge
+[20:336] KHAOTIC Placed/Upgraded NukePack
+[21:949] KHAOTIC Unlocked AdvancedMiningCharge
+[23:194] KHAOTIC Placed/Upgraded MiningDroid
+[23:324] KHAOTIC Unlocked MedicShield
+[24:518] KHAOTIC Unlocked PsiDisrupter
+[27:153] KHAOTIC Placed/Upgraded PsiIndoctrinator
+[28:405] KHAOTIC Unlocked SpecOpsPsiDisruptor
+[29:260] KHAOTIC Placed/Upgraded NukePack
+[30:799] KHAOTIC Placed/Upgraded PsiIndoctrinator
+[31:589] KHAOTIC Placed/Upgraded PsiIndoctrinator
+[31:832] KHAOTIC Placed/Upgraded NukePack
+[33:652] KHAOTIC Placed/Upgraded NukePack
+[34:666] KHAOTIC Placed/Upgraded NukePack
+
+[00:588] RyK Unlocked AssaultRifle
+[00:667] RyK Placed MiningDroid
+[00:787] RyK Unlocked AdvancedDroidEngines
+[03:618] RyK Unlocked TurboDroidEngines
+[04:571] RyK Unlocked MotionSensor
+[06:188] RyK Placed SensorTower
+[07:282] RyK Unlocked BioMechanicalRepairDrone
+[07:318] RyK Unlocked CombatAccelerationDrone
+[07:388] RyK Placed HealingDrone
+[07:573] RyK Placed HealingDrone
+[08:509] RyK Placed HealingDrone
+[09:764] RyK Placed SensorTower
+[12:161] RyK Unlocked SpecOpsAssaultRifle
+[18:744] RyK Bought ShieldSuit
+[18:744] RyK Bought CombatSuit
+[18:744] RyK Bought HazmatSuit
+[18:744] RyK Bought ShieldSuit
+[18:749] RyK Bought ShieldSuit
+
+[00:552] Frosky Bought PlayerNumber
+[01:290] Frosky Bought CreepSpeed
+[05:333] Frosky Bought CreepSpeed
+[07:902] Frosky Bought VirulentCreep
+[07:902] Frosky Bought VirulentCreep
+[10:079] Frosky Bought StrainSpeed
+[11:022] Frosky Bought BuildExtractorExcavationZone
+[11:022] Frosky Placed/Upgraded AutomatedExtractor
+[12:894] Frosky Bought PureStrainSpeed
+[13:421] Frosky Bought StrainSpeed
+[15:198] Frosky Bought PureStrainSpeed
+[15:520] Frosky Bought StrainSpeed
+[15:972] Frosky Bought BuildExtractorExcavationZone
+[16:677] Frosky Bought PureStrainSpeed
+[16:965] Frosky Bought StrainSpeed
+[18:333] Frosky Bought PureStrainSpeed
+[19:339] Frosky Bought HunterlingStrain
+[20:017] Frosky Bought HunterlingStrain
+[23:911] Frosky Bought HunterlingStrain
+[23:913] Frosky Bought HunterlingStrain
+[24:637] Frosky Bought RegenerativeCreep
+[26:971] Frosky Bought StrainSpeed
+[29:009] Frosky Bought PureStrainSpeed
+[29:964] Frosky Bought DropshipsFueled
+[30:754] Frosky Bought UltimateInfestationResearched
+[31:571] Frosky Bought UnlockDropPods
+[32:386] Frosky Bought GreaterNydus
+[32:894] Frosky Bought GreaterNydus
+[33:908] Frosky Bought SpawnNydusWorm
+[34:016] Frosky Placed/Upgraded GreaterNydusWorm
+[35:707] Frosky Bought EvolveDropPods
+[35:718] Frosky Bought ConstructiveCreep
+[36:993] Frosky Bought GreaterNydus
+[37:582] Frosky Bought GreaterNydus
+[37:825] Frosky Bought GreaterNydus
+[38:088] Frosky Bought GreaterNydus
+[38:744] Frosky Bought GreaterNydus
+
+[00:588] eye Unlocked AssaultRifle
+[00:729] eye Placed/Upgraded MiningDroid
+[02:668] eye Unlocked AdvancedDroidEngines
+[04:874] eye Unlocked TurboDroidEngines
+[06:728] eye Unlocked Stimpack
+[06:818] eye Unlocked MedicShield
+[08:361] eye Placed/Upgraded MiningDroid
+[08:558] eye Unlocked AutoTurret
+[09:576] eye Unlocked FlameTurret
+[10:015] eye Unlocked QuantumBackpack
+[10:250] eye Placed/Upgraded AutoTurret
+[11:283] eye Unlocked AIAssistant
+[11:699] eye Placed/Upgraded AutoTurret
+[14:234] eye Unlocked BeamRifle
+[14:247] eye Unlocked SpecOpsPlasmaRifle
+[14:478] eye Unlocked HazmatSuit
+[17:429] eye Unlocked PsiDisrupter
+[17:472] eye Unlocked PsiDepressor
+[18:502] eye Unlocked BioMechanicalRepairDrone
+[18:520] eye Unlocked SpecOpsBioMechanicalRepairDrone
+[20:215] eye Placed/Upgraded AutoTurret
+[22:051] eye Unlocked LongRangeScope
+[22:274] eye Unlocked FlashBang
+[22:368] eye Unlocked SpecOpsFlashbang
+[22:724] eye Placed/Upgraded HealingDrone
+[22:975] eye Placed/Upgraded AutoTurret
+[24:185] eye Placed/Upgraded AutoTurret
+[24:580] eye Unlocked AdvancedHazmatSuit
+[24:827] eye Placed/Upgraded AutoTurret
+[25:463] eye Placed/Upgraded HealingDrone
+[26:169] eye Unlocked ExplorationDroid
+[26:450] eye Unlocked AdvancedExplorationDroid
+[26:511] eye Placed/Upgraded ExplorationDroid
+[27:151] eye Placed/Upgraded HealingDrone
+[27:489] eye Placed/Upgraded AutoTurret
+[28:661] eye Placed/Upgraded AutoTurret
+[29:138] eye Placed/Upgraded ExplorationDroid
+[30:597] eye Unlocked CloakingDevice
+[31:518] eye Placed/Upgraded HealingDrone
+[32:042] eye Placed/Upgraded AutoTurret
+[34:379] eye Placed/Upgraded PsiIndoctrinator
+
+[00:588] Ryan Unlocked AssaultRifle
+[00:759] Ryan Placed/Upgraded MiningDroid
+[05:004] Ryan Unlocked AdvancedDroidEngines
+[05:063] Ryan Unlocked TurboDroidEngines
+[08:358] Ryan Unlocked SpecOpsAssaultRifle
+[10:230] Ryan Unlocked TitaniumBulletCasings
+[10:395] Ryan Unlocked OverloadWeapon
+[14:479] Ryan Bought ShieldSuit
+[14:479] Ryan Bought CombatSuit
+[14:479] Ryan Bought HazmatSuit
+[14:479] Ryan Bought HazmatSuit
+[17:900] Ryan Unlocked MedicShield
+[18:317] Ryan Unlocked CombatSuit
+[18:363] Ryan Unlocked AdvancedCombatSuit
+[18:490] Ryan Unlocked ForceFieldGrenade
+[18:529] Ryan Unlocked SpecOpsForcefieldGrenade
+[18:946] Ryan Unlocked Teleporter
+[19:037] Ryan Unlocked SpecOpsTeleporter
+[22:846] Ryan Unlocked AutoTurret
+[22:995] Ryan Unlocked FlameTurret
+[24:004] Ryan Placed/Upgraded AutoTurret
+[24:228] Ryan Placed/Upgraded AutoTurret
+[24:581] Ryan Bought HazmatSuit
+[24:936] Ryan Placed/Upgraded AutoTurret
+
+[00:588] BLACKBLACK Unlocked AssaultRifle
+[03:763] BLACKBLACK Placed/Upgraded MiningDroid
+[16:534] BLACKBLACK Unlocked Stimpack
+[16:725] BLACKBLACK Unlocked Shotgun
+[18:318] BLACKBLACK Bought ShieldSuit
+[18:318] BLACKBLACK Bought CombatSuit
+[18:318] BLACKBLACK Bought HazmatSuit
+[18:318] BLACKBLACK Bought CombatSuit
+[18:364] BLACKBLACK Bought CombatSuit
+[24:062] BLACKBLACK Placed/Upgraded MiningDroid
+[27:497] BLACKBLACK Unlocked ExplorationDroid
+[27:531] BLACKBLACK Unlocked AdvancedExplorationDroid
+[27:705] BLACKBLACK Placed/Upgraded MiningDroid
+[33:760] BLACKBLACK Unlocked AutoTurret
+[33:816] BLACKBLACK Unlocked HeavyTurret
+[38:318] BLACKBLACK Placed/Upgraded AutoTurret
+
+[00:588] Marcelo Unlocked AssaultRifle
+[02:916] Marcelo Unlocked AdvancedDroidEngines
+[05:582] Marcelo Unlocked HellfireRocketLauncher
+[06:432] Marcelo Unlocked ForceFieldGrenade
+[08:739] Marcelo Unlocked SpecOpsHellfireRocketLauncher
+[08:898] Marcelo Unlocked MiningCharge
+[10:674] Marcelo Unlocked SuperStimpack
+[18:674] Marcelo Unlocked IncendiaryGrenade
+[18:707] Marcelo Unlocked SpecOpsIncendiaryGrenade
+[18:825] Marcelo Unlocked TurboDroidEngines
+[19:067] Marcelo Unlocked Stimpack
+[21:788] Marcelo Unlocked BioMechanicalRepairDrone
+[21:937] Marcelo Unlocked SpecOpsBioMechanicalRepairDrone
+[22:089] Marcelo Unlocked CombatSuit
+[26:607] Marcelo Unlocked MotionSensor
+[26:636] Marcelo Unlocked AdvancedMotionSensor
+
+[22:090] Security Bought ShieldSuit
+[22:090] Security Bought CombatSuit
+[22:090] Security Bought HazmatSuit
+[22:090] Security Bought CombatSuit
+

@@ -1,0 +1,206 @@
+Analyzed: Oh No It's Zombies Arctic Updated (145)
+
+Zombie Win
+ID : 0 PlayerName: Frosky Race: Terran
+ID : 1 PlayerName: Cruel Race: Zerg
+ID : 2 PlayerName: TheZergKing Race: Terran
+ID : 3 PlayerName: tim Race: Terran
+ID : 4 PlayerName: pdot Race: Terran
+ID : 5 PlayerName: kaocowgomoo Race: Terran
+ID : 6 PlayerName: gaks Race: Terran
+ID : 7 PlayerName: Security Race: 
+PURCHASES: 
+[00:588] Frosky Unlocked AssaultRifle
+[00:667] Frosky Placed MiningDroid
+[00:758] Frosky Unlocked Shotgun
+[03:584] Frosky Unlocked AdvancedDroidEngines
+[06:273] Frosky Unlocked SpecOpsShotgun
+[07:273] Frosky Unlocked TurboDroidEngines
+[10:185] Frosky Unlocked ConcussiveBeams
+[11:103] Frosky Unlocked Stimpack
+[12:068] Frosky Unlocked CombatSuit
+[13:656] Frosky Unlocked AutoTurret
+[18:331] Frosky Placed AutoTurret
+[19:056] Frosky Placed AutoTurret
+[21:232] Frosky Placed AutoTurret
+
+[00:552] Cruel Bought PlayerNumber
+[00:808] Cruel Spawned MassiveCocoon
+[01:461] Cruel Placed/Upgraded PrimalSunkenColony
+[01:462] Cruel Bought SunkenColony
+[01:711] Cruel Bought SunkenColony
+[02:248] Cruel Spawned Hunter
+[09:895] Cruel Bought CreepSpeed
+[10:202] Cruel Bought CreepSpeed
+[12:069] Cruel Bought ShieldSuit
+[12:069] Cruel Bought CombatSuit
+[12:069] Cruel Bought HazmatSuit
+[12:069] Cruel Bought CombatSuit
+[13:241] Cruel Bought VirulentCreep
+[13:241] Cruel Bought VirulentCreep
+[13:618] Cruel Placed/Upgraded ToxicNest
+[13:620] Cruel Placed/Upgraded ToxicNest
+[13:626] Cruel Placed/Upgraded ToxicNest
+[14:857] Cruel Placed/Upgraded ToxicNest
+[14:898] Cruel Placed/Upgraded ToxicNest
+[15:387] Cruel Bought BuildExtractorManufacturingSector
+[15:387] Cruel Placed/Upgraded AutomatedExtractor
+[15:393] Cruel Bought BuildExtractorScienceLabs
+[15:393] Cruel Placed/Upgraded AutomatedExtractor
+[16:114] Cruel Bought StrainSpeed
+[16:417] Cruel Bought ExtractorCostReductionManufacturingSector
+[16:417] Cruel Bought BuildExtractorManufacturingSector
+[16:637] Cruel Placed/Upgraded ToxicNest
+[16:663] Cruel Placed/Upgraded ToxicNest
+[16:724] Cruel Placed/Upgraded ToxicNest
+[17:272] Cruel Bought PureStrainSpeed
+[17:590] Cruel Placed/Upgraded ToxicNest
+[17:638] Cruel Placed/Upgraded ToxicNest
+[18:172] Cruel Placed/Upgraded Virophage
+[18:474] Cruel Placed/Upgraded ToxicNest
+[18:620] Cruel Placed/Upgraded ToxicNest
+[18:761] Cruel Placed/Upgraded PrimalSunkenColony
+[18:762] Cruel Bought SunkenColony
+[18:840] Cruel Placed/Upgraded Virophage
+[19:002] Cruel Bought SunkenColony
+[19:002] Cruel Placed/Upgraded PrimalSunkenColony
+[20:085] Cruel Placed/Upgraded ToxicNest
+[20:085] Cruel Placed/Upgraded ToxicNest
+[20:295] Cruel Bought HunterlingStrain
+[21:350] Cruel Bought SunkenColony
+[21:350] Cruel Bought SunkenColony
+[21:554] Cruel Placed/Upgraded NydusCanalCreeper
+[22:806] Cruel Placed/Upgraded LesserNydusWorm
+[22:807] Cruel Bought GreaterNydus
+[23:177] Cruel Bought BuildExtractorProcessingFacilities
+[23:177] Cruel Placed/Upgraded AutomatedExtractor
+[23:911] Cruel Placed/Upgraded ToxicNest
+[23:915] Cruel Placed/Upgraded ToxicNest
+[23:921] Cruel Placed/Upgraded ToxicNest
+[24:114] Cruel Bought ConstructiveCreep
+[24:192] Cruel Placed/Upgraded LesserNydusWorm
+[24:193] Cruel Bought GreaterNydus
+[25:469] Cruel Placed/Upgraded NydusCanalCreeper
+[26:507] Cruel Placed/Upgraded LesserNydusWorm
+[26:508] Cruel Bought GreaterNydus
+[26:894] Cruel Bought StrainHealth
+[26:905] Cruel Bought PureStrainHealth
+[26:923] Cruel Bought TankStrain
+[26:943] Cruel Bought StrainVolatile
+[28:276] Cruel Placed/Upgraded NydusCanalCreeper
+[28:428] Cruel Bought DropshipsFueled
+[29:216] Cruel Bought SpawnNydusWorm
+[30:128] Cruel Bought PureStrainVolatile
+[30:143] Cruel Bought KaboomerStrain
+[30:577] Cruel Bought SweepingInfestation
+[30:577] Cruel Bought UltimateInfestationResearched
+[30:850] Cruel Placed/Upgraded GreaterNydusWorm
+[31:092] Cruel Spawned MassiveCocoon
+[31:745] Cruel Placed/Upgraded NydusCanalCreeper
+[31:992] Cruel Spawned MassiveCocoon
+[32:195] Cruel Bought UnlockDropPods
+
+[00:588] TheZergKing Unlocked AssaultRifle
+[00:667] TheZergKing Placed/Upgraded MiningDroid
+[01:011] TheZergKing Unlocked MiningCharge
+[02:074] TheZergKing Unlocked AdvancedDroidEngines
+[03:214] TheZergKing Placed/Upgraded NukePack
+[05:849] TheZergKing Unlocked TurboDroidEngines
+[06:742] TheZergKing Placed/Upgraded NukePack
+[09:216] TheZergKing Unlocked BeamRifle
+[10:192] TheZergKing Placed/Upgraded NukePack
+[10:620] TheZergKing Unlocked BioMechanicalRepairDrone
+[10:649] TheZergKing Unlocked CombatAccelerationDrone
+[11:388] TheZergKing Placed/Upgraded HealingDrone
+[12:006] TheZergKing Placed/Upgraded HealingDrone
+[13:301] TheZergKing Placed/Upgraded NukePack
+[13:722] TheZergKing Placed/Upgraded HealingDrone
+[14:930] TheZergKing Unlocked Stimpack
+[16:395] TheZergKing Placed/Upgraded HealingDrone
+[18:331] TheZergKing Placed/Upgraded NukePack
+[19:106] TheZergKing Placed/Upgraded HealingDrone
+[19:451] TheZergKing Placed/Upgraded NukePack
+[19:621] TheZergKing Placed/Upgraded NukePack
+[20:447] TheZergKing Unlocked FlashBang
+[28:003] TheZergKing Placed/Upgraded HealingDrone
+[28:989] TheZergKing Placed/Upgraded HealingDrone
+[30:882] TheZergKing Placed/Upgraded NukePack
+[30:927] TheZergKing Placed/Upgraded HealingDrone
+
+[00:588] tim Unlocked AssaultRifle
+[00:672] tim Placed/Upgraded MiningDroid
+[01:093] tim Unlocked FragGrenade
+[02:294] tim Unlocked Stimpack
+[04:168] tim Unlocked AdvancedDroidEngines
+[06:915] tim Unlocked Flamethrower
+[07:002] tim Unlocked SpecOpsFlamethrower
+[09:187] tim Placed/Upgraded MiningDroid
+[10:882] tim Unlocked SuperStimpack
+[11:132] tim Unlocked CryoFreeze
+[13:362] tim Unlocked TurboDroidEngines
+[16:178] tim Unlocked HazmatSuit
+[16:697] tim Unlocked AdvancedHazmatSuit
+[17:544] tim Unlocked SpecOpsSuperStimpack
+[21:534] tim Unlocked MiningCharge
+[31:092] tim Placed/Upgraded NukePack
+
+[00:588] pdot Unlocked AssaultRifle
+[00:714] pdot Placed/Upgraded MiningDroid
+[00:847] pdot Unlocked AdvancedDroidEngines
+[04:419] pdot Unlocked TurboDroidEngines
+[07:778] pdot Unlocked BeamRifle
+[07:804] pdot Unlocked SpecOpsPlasmaRifle
+[11:033] pdot Unlocked OverloadWeapon
+[11:175] pdot Unlocked CombatSuit
+[11:232] pdot Unlocked AdvancedCombatSuit
+[12:907] pdot Unlocked LongRangeScope
+[13:299] pdot Unlocked CombatShield
+[14:223] pdot Unlocked EnergyPack
+[14:361] pdot Unlocked OpticalVisor
+[14:775] pdot Unlocked PsiDisrupter
+[16:179] pdot Bought ShieldSuit
+[16:179] pdot Bought CombatSuit
+[16:179] pdot Bought HazmatSuit
+[16:179] pdot Bought HazmatSuit
+[16:647] pdot Placed/Upgraded PsiIndoctrinator
+[16:698] pdot Bought HazmatSuit
+[20:755] pdot Unlocked SpecOpsPsiDisruptor
+[21:453] pdot Placed/Upgraded PsiIndoctrinator
+[24:931] pdot Placed/Upgraded PsiIndoctrinator
+[26:711] pdot Placed/Upgraded PsiIndoctrinator
+
+[00:588] kaocowgomoo Unlocked AssaultRifle
+[00:906] kaocowgomoo Placed/Upgraded MiningDroid
+[02:950] kaocowgomoo Unlocked SpecOpsAssaultRifle
+[05:684] kaocowgomoo Unlocked AutoTargetingSystem
+[08:217] kaocowgomoo Unlocked Shieldsiotunlocked
+[09:437] kaocowgomoo Unlocked AdvancedShieldSuit
+[10:446] kaocowgomoo Unlocked MotionSensor
+[10:669] kaocowgomoo Placed/Upgraded SensorTower
+[11:176] kaocowgomoo Bought ShieldSuit
+[11:176] kaocowgomoo Bought CombatSuit
+[11:176] kaocowgomoo Bought HazmatSuit
+[11:176] kaocowgomoo Bought CombatSuit
+[11:233] kaocowgomoo Bought CombatSuit
+[11:566] kaocowgomoo Placed/Upgraded SensorTower
+[13:124] kaocowgomoo Placed/Upgraded SensorTower
+[18:638] kaocowgomoo Unlocked MedicShield
+[18:957] kaocowgomoo Unlocked IncendiaryGrenade
+[23:601] kaocowgomoo Placed/Upgraded SensorTower
+[28:927] kaocowgomoo Placed/Upgraded MiningDroid
+[30:697] kaocowgomoo Unlocked MiningCharge
+[30:765] kaocowgomoo Placed/Upgraded NukePack
+
+[00:588] gaks Unlocked AssaultRifle
+[00:891] gaks Unlocked AdvancedDroidEngines
+[03:903] gaks Unlocked MotionSensor
+[06:114] gaks Unlocked ForceFieldGrenade
+[06:121] gaks Unlocked SpecOpsForcefieldGrenade
+[08:218] gaks Bought ShieldSuit
+[08:218] gaks Bought CombatSuit
+[08:218] gaks Bought HazmatSuit
+[08:218] gaks Bought ShieldSuit
+[08:764] gaks Unlocked SpecOpsAssaultRifle
+[09:438] gaks Bought ShieldSuit
+
+

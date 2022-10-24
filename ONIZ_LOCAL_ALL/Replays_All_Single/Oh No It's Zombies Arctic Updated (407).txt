@@ -1,0 +1,193 @@
+Analyzed: Oh No It's Zombies Arctic Updated (407)
+
+Zombie Undecided
+ID : 0 PlayerName: Frosky Race: Terran
+ID : 1 PlayerName: Sojourne Race: Zerg
+ID : 2 PlayerName: Yello Race: Terran
+ID : 3 PlayerName: Dhmon Race: Terran
+ID : 4 PlayerName: TheFear Race: Terran
+ID : 5 PlayerName: LordZuratho Race: Terran
+ID : 6 PlayerName: SmittyWerben Race: Terran
+ID : 7 PlayerName: Security Race: MechaZerg
+PURCHASES: 
+[00:588] Frosky Unlocked AssaultRifle
+
+[00:000] Sojourne Spawned Abomination
+[00:552] Sojourne Bought PlayerNumber
+[02:321] Sojourne Placed/Upgraded PrimalSunkenColony
+[02:322] Sojourne Bought SunkenColony
+[02:769] Sojourne Bought UnlockDropPods
+[03:639] Sojourne Bought EvolveDropPods
+[04:476] Sojourne Placed/Upgraded PrimalSunkenColony
+[04:477] Sojourne Bought SunkenColony
+[04:516] Sojourne Bought EvolveDropPods
+[05:801] Sojourne Bought EvolveDropPods
+[05:804] Sojourne Bought EvolveDropPods
+[06:281] Sojourne Bought SunkenColony
+[06:505] Sojourne Bought SunkenColony
+[06:505] Sojourne Placed/Upgraded PrimalSunkenColony
+[07:572] Sojourne Spawned MassiveCocoon
+[08:074] Sojourne Bought SunkenColony
+[08:525] Sojourne Bought SunkenColony
+[08:617] Sojourne Bought BuildExtractorScienceLabs
+[08:617] Sojourne Placed/Upgraded AutomatedExtractor
+[08:652] Sojourne Spawned Underseer
+[08:689] Sojourne Placed/Upgraded PrimalSunkenColony
+[08:690] Sojourne Bought SunkenColony
+[09:868] Sojourne Bought EvolveDropPods
+[09:882] Sojourne Bought EvolveDropPods
+[10:297] Sojourne Bought SunkenColony
+[11:058] Sojourne Bought CreepSpeed
+[11:410] Sojourne Bought BuildExtractorScienceLabs
+[11:464] Sojourne Bought SunkenColony
+[11:464] Sojourne Placed/Upgraded PrimalSunkenColony
+[12:843] Sojourne Bought StrainDamage
+[13:020] Sojourne Bought PureStrainDamage
+[13:818] Sojourne Placed/Upgraded PrimalSunkenColony
+[13:819] Sojourne Bought SunkenColony
+[13:851] Sojourne Bought SunkenColony
+[15:703] Sojourne Bought StrainHealth
+[17:884] Sojourne Bought BuildExtractorProcessingFacilities
+[17:884] Sojourne Placed/Upgraded AutomatedExtractor
+[18:074] Sojourne Placed/Upgraded Virophage
+[18:345] Sojourne Placed/Upgraded PrimalSunkenColony
+[18:346] Sojourne Bought SunkenColony
+[19:967] Sojourne Bought BuildExtractorScienceLabs
+[19:967] Sojourne Placed/Upgraded AutomatedExtractor
+[20:425] Sojourne Bought AdvancedInfestationContainment
+[21:252] Sojourne Bought SunkenColony
+[21:879] Sojourne Bought VirulentCreep
+[21:879] Sojourne Bought VirulentCreep
+[22:531] Sojourne Bought SiphonFuel
+[22:794] Sojourne Placed/Upgraded Virophage
+[22:854] Sojourne Bought ExtractorCostReductionProcessingFacilities
+[22:854] Sojourne Bought BuildExtractorProcessingFacilities
+[23:088] Sojourne Bought BuildExtractorExcavationZone
+[23:088] Sojourne Placed/Upgraded AutomatedExtractor
+[23:122] Sojourne Bought BuildExtractorManufacturingSector
+[23:122] Sojourne Placed/Upgraded AutomatedExtractor
+[23:614] Sojourne Spawned MassiveCocoon
+[24:138] Sojourne Bought ExtractorCostReductionManufacturingSector
+[24:138] Sojourne Bought BuildExtractorManufacturingSector
+[24:495] Sojourne Placed/Upgraded NydusCanalCreeper
+[24:694] Sojourne Spawned Underseer
+
+[00:588] Yello Unlocked AssaultRifle
+[00:667] Yello Placed/Upgraded MiningDroid
+[00:945] Yello Unlocked AdvancedDroidEngines
+[02:894] Yello Unlocked FragGrenade
+[02:907] Yello Unlocked SpecOpsFragGrenade
+[06:586] Yello Unlocked TurboDroidEngines
+[06:640] Yello Unlocked EnergySuit
+[06:641] Yello Unlocked EnergySuit
+[07:287] Yello Unlocked BioMechanicalRepairDrone
+[07:406] Yello Placed/Upgraded HealingDrone
+[09:120] Yello Unlocked Stimpack
+[09:891] Yello Placed/Upgraded HealingDrone
+[11:917] Yello Unlocked ExplorationDroid
+[11:934] Yello Placed/Upgraded ExplorationDroid
+[11:951] Yello Placed/Upgraded ExplorationDroid
+[12:164] Yello Unlocked AdvancedEnergySuit
+[12:165] Yello Unlocked EnergySuit
+[12:165] Yello Unlocked AdvancedEnergySuit
+[12:605] Yello Placed/Upgraded ExplorationDroid
+[13:829] Yello Placed/Upgraded HealingDrone
+[15:168] Yello Unlocked HellfireRocketLauncher
+[16:520] Yello Unlocked SpecOpsHellfireRocketLauncher
+[16:596] Yello Unlocked ShockwaveMissiles
+[17:520] Yello Placed/Upgraded HealingDrone
+[17:568] Yello Placed/Upgraded ExplorationDroid
+[18:450] Yello Placed/Upgraded HealingDrone
+[18:782] Yello Placed/Upgraded HealingDrone
+[19:185] Yello Placed/Upgraded HealingDrone
+[19:493] Yello Unlocked MiningCharge
+[20:232] Yello Placed/Upgraded ExplorationDroid
+[20:408] Yello Unlocked AdvancedMiningCharge
+[21:383] Yello Placed/Upgraded NukePack
+[21:857] Yello Placed/Upgraded NukePack
+[22:135] Yello Unlocked EnergyPack
+[23:685] Yello Placed/Upgraded NukePack
+[24:162] Yello Placed/Upgraded HealingDrone
+[24:762] Yello Placed/Upgraded NukePack
+
+[00:588] Dhmon Unlocked AssaultRifle
+[00:915] Dhmon Placed/Upgraded MiningDroid
+[01:075] Dhmon Unlocked AdvancedDroidEngines
+[03:148] Dhmon Unlocked Flamethrower
+[04:989] Dhmon Unlocked SpecOpsFlamethrower
+[05:481] Dhmon Unlocked MedicShield
+[06:641] Dhmon Bought ShieldSuit
+[06:641] Dhmon Bought CombatSuit
+[06:641] Dhmon Bought HazmatSuit
+[06:789] Dhmon Placed/Upgraded MiningDroid
+[08:915] Dhmon Placed/Upgraded MiningDroid
+[10:902] Dhmon Unlocked Stimpack
+[13:715] Dhmon Unlocked PsiDisrupter
+[13:936] Dhmon Unlocked SpecOpsPsiDisruptor
+[14:042] Dhmon Placed/Upgraded PsiIndoctrinator
+[16:172] Dhmon Unlocked CombatSuit
+
+[00:588] TheFear Unlocked AssaultRifle
+[00:667] TheFear Placed/Upgraded MiningDroid
+[04:273] TheFear Unlocked SpecOpsAssaultRifle
+[04:342] TheFear Unlocked AutoTargetingSystem
+[06:969] TheFear Unlocked AIAssistant
+[07:161] TheFear Unlocked CombatSuit
+[09:103] TheFear Placed/Upgraded MiningDroid
+[12:196] TheFear Unlocked MotionSensor
+[12:764] TheFear Placed/Upgraded SensorTower
+[14:895] TheFear Unlocked BioMechanicalRepairDrone
+[15:055] TheFear Unlocked Stimpack
+[16:173] TheFear Bought ShieldSuit
+[16:173] TheFear Bought CombatSuit
+[16:173] TheFear Bought HazmatSuit
+[16:173] TheFear Bought CombatSuit
+[17:436] TheFear Placed/Upgraded HealingDrone
+
+[00:588] LordZuratho Unlocked AssaultRifle
+[01:002] LordZuratho Placed/Upgraded MiningDroid
+[02:910] LordZuratho Unlocked BeamRifle
+[05:000] LordZuratho Unlocked SpecOpsPlasmaRifle
+[05:146] LordZuratho Unlocked FragGrenade
+[07:162] LordZuratho Bought ShieldSuit
+[07:162] LordZuratho Bought CombatSuit
+[07:162] LordZuratho Bought HazmatSuit
+[07:162] LordZuratho Bought CombatSuit
+[08:820] LordZuratho Unlocked LongRangeScope
+[11:223] LordZuratho Unlocked AIAssistant
+[11:302] LordZuratho Unlocked MedicShield
+[15:789] LordZuratho Unlocked SuperHealingDrone
+[15:880] LordZuratho Unlocked SpecOpsSuperHealingDrone
+[18:361] LordZuratho Unlocked CombatSuit
+[18:439] LordZuratho Unlocked AdvancedCombatSuit
+[19:986] LordZuratho Unlocked QuantumBackpack
+[24:419] LordZuratho Placed/Upgraded MiningDroid
+[24:906] LordZuratho Unlocked BioMechanicalRepairDrone
+
+[00:588] SmittyWerben Unlocked AssaultRifle
+[00:770] SmittyWerben Unlocked AdvancedDroidEngines
+[02:739] SmittyWerben Unlocked TurboDroidEngines
+[04:742] SmittyWerben Unlocked Flamethrower
+[06:396] SmittyWerben Unlocked SpecOpsFlamethrower
+[07:607] SmittyWerben Unlocked ThermiteFilaments
+[08:248] SmittyWerben Unlocked Shieldsiotunlocked
+[09:385] SmittyWerben Unlocked AdvancedShieldSuit
+[12:341] SmittyWerben Unlocked CombatShield
+[13:738] SmittyWerben Unlocked AIAssistant
+[14:208] SmittyWerben Unlocked MotionSensor
+[16:093] SmittyWerben Unlocked Stimpack
+[18:242] SmittyWerben Unlocked SuperStimpack
+[18:362] SmittyWerben Bought ShieldSuit
+[18:362] SmittyWerben Bought CombatSuit
+[18:362] SmittyWerben Bought HazmatSuit
+[18:362] SmittyWerben Bought CombatSuit
+[18:440] SmittyWerben Bought CombatSuit
+[20:326] SmittyWerben Unlocked SpecOpsSuperStimpack
+[20:398] SmittyWerben Unlocked PsiDisrupter
+
+[08:249] Security Bought ShieldSuit
+[08:249] Security Bought CombatSuit
+[08:249] Security Bought HazmatSuit
+[08:249] Security Bought ShieldSuit
+[09:386] Security Bought ShieldSuit
+

@@ -1,0 +1,25 @@
+Analyzed: Oh No It's Zombies Arctic Map (10)
+
+Zombie Undecided
+ID : 0 PlayerName: Frosky Race: Zerg
+ID : 7 PlayerName: Security Race: Terran
+PURCHASES: 
+[00:584] Frosky Bought StrainHealth
+[02:097] Frosky Bought PureStrainHealth
+[03:561] Frosky Bought TankStrain
+[04:646] Frosky Bought StrainSpeed
+[06:227] Frosky Bought StrainDamage
+[07:990] Frosky Bought PureStrainDamage
+[09:145] Frosky Bought PureStrainSpeed
+[09:933] Frosky Bought HunterlingStrain
+[11:439] Frosky Bought DefilerStrain
+[13:822] Frosky Bought StrainSpeed
+[14:493] Frosky Bought PureStrainSpeed
+
+
+
+
+
+
+
+

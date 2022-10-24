@@ -1,0 +1,16 @@
+Analyzed: Oh No It's Zombies Arctic Map (204)
+
+ID : 0 PlayerName: Frosky Race: Terran
+ID : 7 PlayerName: Security Race: Terran Horner
+PURCHASES: 
+[00:572] Frosky Unlocked AssaultRifle
+[00:795] Frosky Unlocked SuperHealingDrone
+[00:808] Frosky Unlocked SpecOpsSuperHealingDrone
+
+
+
+
+
+
+
+

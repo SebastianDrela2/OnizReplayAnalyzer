@@ -1,0 +1,124 @@
+Analyzed: Oh No It's Zombies Arctic Updated (206)
+
+Zombie Undecided
+ID : 0 PlayerName: Yello Race: Terran
+ID : 1 PlayerName: foolsidol Race: Terran
+ID : 2 PlayerName: Frosky Race: Terran
+ID : 3 PlayerName: Rayner Race: Terran
+ID : 4 PlayerName: KelthuzadxD Race: Zerg
+ID : 5 PlayerName: LightThorn Race: Terran
+ID : 6 PlayerName: Pecha Race: Terran
+ID : 7 PlayerName: Security Race: Infested Terran
+PURCHASES: 
+[00:588] Yello Unlocked AssaultRifle
+[00:917] Yello Placed/Upgraded MiningDroid
+[01:190] Yello Unlocked SuperStimpack
+[05:531] Yello Unlocked AdvancedDroidEngines
+[05:893] Yello Unlocked EnergySuit
+[05:894] Yello Unlocked EnergySuit
+[07:245] Yello Unlocked HellfireRocketLauncher
+[08:576] Yello Placed/Upgraded MiningDroid
+[10:484] Yello Unlocked MotionSensor
+[10:623] Yello Placed/Upgraded SensorTower
+[11:776] Yello Placed/Upgraded SensorTower
+[12:115] Yello Unlocked ExplorationDroid
+[12:154] Yello Placed/Upgraded ExplorationDroid
+[13:993] Yello Placed/Upgraded ExplorationDroid
+[15:188] Yello Unlocked BioMechanicalRepairDrone
+[16:523] Yello Placed/Upgraded HealingDrone
+
+[00:588] foolsidol Unlocked AssaultRifle
+[00:667] foolsidol Placed/Upgraded MiningDroid
+[00:812] foolsidol Unlocked Stimpack
+[04:758] foolsidol Unlocked AdvancedDroidEngines
+[05:894] foolsidol Bought ShieldSuit
+[05:894] foolsidol Bought CombatSuit
+[05:894] foolsidol Bought HazmatSuit
+[07:852] foolsidol Unlocked TurboDroidEngines
+[09:342] foolsidol Unlocked SpecOpsAssaultRifle
+[11:012] foolsidol Unlocked AutoTargetingSystem
+[11:870] foolsidol Unlocked SuperStimpack
+[14:690] foolsidol Unlocked PsiDisrupter
+[14:780] foolsidol Placed/Upgraded PsiIndoctrinator
+
+[00:588] Frosky Unlocked AssaultRifle
+[00:668] Frosky Placed/Upgraded MiningDroid
+[00:730] Frosky Unlocked AdvancedDroidEngines
+[03:861] Frosky Unlocked TurboDroidEngines
+[06:043] Frosky Unlocked SpecOpsAssaultRifle
+[07:213] Frosky Placed/Upgraded MiningDroid
+[08:382] Frosky Unlocked TitaniumBulletCasings
+[10:091] Frosky Unlocked Stimpack
+[11:098] Frosky Unlocked CombatSuit
+[11:801] Frosky Unlocked AdvancedCombatSuit
+[13:949] Frosky Unlocked MedicShield
+[14:274] Frosky Unlocked AutoTurret
+[14:290] Frosky Unlocked FlameTurret
+[15:185] Frosky Placed/Upgraded MiningDroid
+[16:386] Frosky Placed/Upgraded AutoTurret
+[16:862] Frosky Placed/Upgraded AutoTurret
+
+[00:588] Rayner Unlocked AssaultRifle
+[06:123] Rayner Placed MiningDroid
+[08:733] Rayner Unlocked CombatShield
+[09:027] Rayner Unlocked MedicShield
+[09:407] Rayner Unlocked SpecOpsAssaultRifle
+[11:099] Rayner Bought ShieldSuit
+[11:099] Rayner Bought CombatSuit
+[11:099] Rayner Bought HazmatSuit
+[11:099] Rayner Bought CombatSuit
+[11:802] Rayner Bought CombatSuit
+
+[00:000] KelthuzadxD Spawned Abomination
+[00:552] KelthuzadxD Bought PlayerNumber
+[00:683] KelthuzadxD Spawned MassiveCocoon
+[01:339] KelthuzadxD Placed/Upgraded PrimalSunkenColony
+[01:340] KelthuzadxD Bought SunkenColony
+[02:123] KelthuzadxD Spawned PrimalTownHallUprooted
+[03:844] KelthuzadxD Spawned MassiveCocoon
+[04:102] KelthuzadxD Bought SunkenColony
+[04:172] KelthuzadxD Spawned MassiveCocoon
+[05:284] KelthuzadxD Spawned PrimalTownHallUprooted
+[05:612] KelthuzadxD Spawned PrimalTownHallUprooted
+[05:962] KelthuzadxD Spawned MassiveCocoon
+[07:402] KelthuzadxD Spawned PrimalTownHallUprooted
+[08:740] KelthuzadxD Bought CreepSpeed
+[11:026] KelthuzadxD Bought BuildExtractorProcessingFacilities
+[11:026] KelthuzadxD Placed/Upgraded AutomatedExtractor
+[11:933] KelthuzadxD Bought VirulentCreep
+[11:933] KelthuzadxD Bought VirulentCreep
+[12:848] KelthuzadxD Bought AdvancedPowerInfestation
+[13:270] KelthuzadxD Bought BuildExtractorScienceLabs
+[13:270] KelthuzadxD Placed/Upgraded AutomatedExtractor
+[14:249] KelthuzadxD Bought BuildExtractorScienceLabs
+[14:422] KelthuzadxD Bought AdvancedInfestationContainment
+[15:313] KelthuzadxD Bought CreepSpeed
+[17:050] KelthuzadxD Bought BuildExtractorExcavationZone
+[17:050] KelthuzadxD Placed/Upgraded AutomatedExtractor
+[17:063] KelthuzadxD Bought SiphonFuel
+
+[00:588] LightThorn Unlocked AssaultRifle
+[00:696] LightThorn Placed/Upgraded MiningDroid
+[00:787] LightThorn Unlocked Stimpack
+[03:606] LightThorn Unlocked AdvancedDroidEngines
+[06:036] LightThorn Unlocked HellfireRocketLauncher
+[07:968] LightThorn Unlocked CombatSuit
+[08:738] LightThorn Placed/Upgraded MiningDroid
+[15:791] LightThorn Unlocked AutoTurret
+[15:882] LightThorn Placed/Upgraded AutoTurret
+[16:559] LightThorn Placed/Upgraded AutoTurret
+
+[00:588] Pecha Unlocked AssaultRifle
+[01:501] Pecha Unlocked Flamethrower
+[03:589] Pecha Unlocked SpecOpsFlamethrower
+[05:156] Pecha Unlocked LongRangeIncinerators
+[07:120] Pecha Unlocked Stimpack
+[07:969] Pecha Bought ShieldSuit
+[07:969] Pecha Bought CombatSuit
+[07:969] Pecha Bought HazmatSuit
+[07:969] Pecha Bought CombatSuit
+[09:616] Pecha Unlocked AdvancedDroidEngines
+[10:976] Pecha Unlocked BioMechanicalRepairDrone
+[12:473] Pecha Unlocked TurboDroidEngines
+
+

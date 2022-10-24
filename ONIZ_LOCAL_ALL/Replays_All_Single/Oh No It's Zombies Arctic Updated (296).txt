@@ -1,0 +1,58 @@
+Analyzed: Oh No It's Zombies Arctic Updated (296)
+
+Zombie Undecided
+ID : 0 PlayerName: Frosky Race: Terran
+ID : 1 PlayerName: Yello Race: Terran
+ID : 2 PlayerName: FuriusGame Race: Terran
+ID : 3 PlayerName: ForFun Race: Terran
+ID : 4 PlayerName: Throne Race: Zerg
+ID : 5 PlayerName: Yuno Race: Terran
+ID : 6 PlayerName: csiz Race: Terran
+ID : 7 PlayerName: Security Race: Protoss
+PURCHASES: 
+[00:588] Frosky Unlocked AssaultRifle
+[00:669] Frosky Placed/Upgraded MiningDroid
+[01:630] Frosky Unlocked ArcWelder
+[02:628] Frosky Unlocked BioMechanicalRepairDrone
+[03:667] Frosky Unlocked CombatAccelerationDrone
+[03:723] Frosky Placed/Upgraded HealingDrone
+[03:951] Frosky Placed/Upgraded HealingDrone
+[04:979] Frosky Placed/Upgraded HealingDrone
+[05:110] Frosky Placed/Upgraded HealingDrone
+[05:269] Frosky Placed/Upgraded HealingDrone
+[08:122] Frosky Placed/Upgraded HealingDrone
+[08:351] Frosky Placed/Upgraded HealingDrone
+
+[00:588] Yello Unlocked AssaultRifle
+
+[00:588] FuriusGame Unlocked AssaultRifle
+[06:689] FuriusGame Placed/Upgraded MiningDroid
+
+[00:588] ForFun Unlocked AssaultRifle
+[00:682] ForFun Placed MiningDroid
+[03:257] ForFun Unlocked Stimpack
+[04:879] ForFun Unlocked SpecOpsAssaultRifle
+[06:324] ForFun Placed MiningDroid
+
+[00:552] Throne Bought PlayerNumber
+[00:663] Throne Bought StrainSpeed
+[01:781] Throne Bought PureStrainSpeed
+[03:310] Throne Bought HunterlingStrain
+[05:011] Throne Spawned MassiveCocoon
+[06:451] Throne Spawned Anubalisk
+[07:490] Throne Spawned MassiveCocoon
+[07:620] Throne Placed/Upgraded PrimalSunkenColony
+[07:621] Throne Bought SunkenColony
+
+[00:588] Yuno Unlocked AssaultRifle
+[00:667] Yuno Placed/Upgraded MiningDroid
+[02:948] Yuno Unlocked FragGrenade
+[02:953] Yuno Unlocked SpecOpsFragGrenade
+[06:155] Yuno Unlocked Stimpack
+
+[00:588] csiz Unlocked AssaultRifle
+[00:873] csiz Unlocked MedicShield
+[03:718] csiz Unlocked SpecOpsAssaultRifle
+[05:885] csiz Unlocked AutoTargetingSystem
+
+

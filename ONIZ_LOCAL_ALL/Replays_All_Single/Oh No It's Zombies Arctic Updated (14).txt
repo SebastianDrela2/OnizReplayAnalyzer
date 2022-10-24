@@ -1,0 +1,199 @@
+Analyzed: Oh No It's Zombies Arctic Updated (14)
+
+Zombie Win
+ID : 0 PlayerName: bonkybonky Race: Zerg
+ID : 1 PlayerName: Frosky Race: Terran
+ID : 2 PlayerName: RyK Race: Terran
+ID : 3 PlayerName: FireFurry Race: Terran
+ID : 4 PlayerName: SuperFlanker Race: Terran
+ID : 5 PlayerName: Manweslover Race: Terran
+ID : 6 PlayerName: Swarmlord Race: Terran
+ID : 7 PlayerName: Security Race: Infested Terran
+PURCHASES: 
+[00:000] bonkybonky Spawned Abomination
+[00:750] bonkybonky Spawned MassiveCocoon
+[03:170] bonkybonky Bought StrainSpeed
+[04:805] bonkybonky Bought StrainSpeed
+[07:751] bonkybonky Placed/Upgraded LesserNydusWorm
+[07:752] bonkybonky Bought GreaterNydus
+[08:086] bonkybonky Bought PureStrainSpeed
+[10:127] bonkybonky Bought AdvancedInfestationContainment
+[10:825] bonkybonky Bought BuildExtractorScienceLabs
+[10:825] bonkybonky Placed/Upgraded AutomatedExtractor
+[11:392] bonkybonky Bought GreaterNydus
+[11:958] bonkybonky Bought CreepSpeed
+[12:348] bonkybonky Bought VirulentCreep
+[13:072] bonkybonky Bought BuildExtractorProcessingFacilities
+[13:072] bonkybonky Placed/Upgraded AutomatedExtractor
+[13:611] bonkybonky Bought StrainSpeed
+[14:213] bonkybonky Placed/Upgraded NydusCanalCreeper
+[14:318] bonkybonky Bought BuildExtractorScienceLabs
+[14:630] bonkybonky Bought HunterlingStrain
+[15:891] bonkybonky Bought StrainSpeed
+[17:104] bonkybonky Bought PureStrainSpeed
+[17:449] bonkybonky Placed/Upgraded NydusCanalCreeper
+[19:399] bonkybonky Bought BuildExtractorExcavationZone
+[19:399] bonkybonky Placed/Upgraded AutomatedExtractor
+[19:584] bonkybonky Placed/Upgraded Virophage
+[19:616] bonkybonky Placed/Upgraded Virophage
+[19:699] bonkybonky Bought SiphonFuel
+[20:779] bonkybonky Bought StrainSpeed
+[21:742] bonkybonky Bought BuildExtractorScienceLabs
+[21:742] bonkybonky Placed/Upgraded AutomatedExtractor
+[22:181] bonkybonky Bought BuildExtractorManufacturingSector
+[22:181] bonkybonky Placed/Upgraded AutomatedExtractor
+[23:366] bonkybonky Unlocked HazmatSuit
+[23:366] bonkybonky Bought VirulentCreep
+[23:960] bonkybonky Bought SiphonFuel
+[24:313] bonkybonky Bought PureStrainSpeed
+[24:804] bonkybonky Bought PureStrainSpeed
+[25:210] bonkybonky Bought PureStrainSpeed
+[25:412] bonkybonky Placed/Upgraded NydusCanalCreeper
+[25:665] bonkybonky Placed/Upgraded PrimalSunkenColony
+[25:666] bonkybonky Bought SunkenColony
+[26:246] bonkybonky Bought SunkenColony
+[26:589] bonkybonky Bought HunterlingStrain
+[26:949] bonkybonky Bought HunterlingStrain
+[27:786] bonkybonky Bought ConstructiveCreep
+[28:438] bonkybonky Bought HunterlingStrain
+[29:120] bonkybonky Placed/Upgraded NydusCanalCreeper
+[29:280] bonkybonky Placed/Upgraded NydusCanalCreeper
+[29:303] bonkybonky Bought HunterlingStrain
+[29:636] bonkybonky Placed/Upgraded PrimalSunkenColony
+[29:637] bonkybonky Bought SunkenColony
+[30:518] bonkybonky Bought RegenerativeCreep
+[30:782] bonkybonky Bought DropshipsFueled
+[30:880] bonkybonky Bought UltimateInfestationResearched
+[30:929] bonkybonky Bought AdvancedInfestationSecurity
+[30:939] bonkybonky Bought AdvancedPowerInfestation
+[30:983] bonkybonky Spawned MassiveCocoon
+[31:006] bonkybonky Spawned MassiveCocoon
+[31:023] bonkybonky Spawned MassiveCocoon
+[31:072] bonkybonky Spawned MassiveCocoon
+[31:094] bonkybonky Spawned MassiveCocoon
+[31:475] bonkybonky Spawned MassiveCocoon
+[31:798] bonkybonky Spawned MassiveCocoon
+[32:121] bonkybonky Spawned MassiveCocoon
+
+[00:588] Frosky Unlocked AssaultRifle
+[00:684] Frosky Placed/Upgraded MiningDroid
+[01:076] Frosky Unlocked AdvancedDroidEngines
+[03:058] Frosky Unlocked TurboDroidEngines
+[04:491] Frosky Unlocked SpecOpsAssaultRifle
+[07:142] Frosky Unlocked TitaniumBulletCasings
+[12:295] Frosky Unlocked CombatShield
+[12:615] Frosky Unlocked Shieldsiotunlocked
+[12:616] Frosky Unlocked ShieldSuit
+[12:616] Frosky Unlocked AdvancedShieldSuit
+[12:616] Frosky Unlocked CombatSuit
+[12:616] Frosky Unlocked AdvancedCombatSuit
+[12:616] Frosky Unlocked HazmatSuit
+[12:616] Frosky Unlocked AdvancedHazmatSuit
+[12:616] Frosky Unlocked ShieldSuit
+
+[00:588] RyK Unlocked AssaultRifle
+[00:806] RyK Placed/Upgraded MiningDroid
+[01:170] RyK Unlocked AdvancedDroidEngines
+[03:545] RyK Unlocked SpecOpsAssaultRifle
+[04:704] RyK Unlocked Stimpack
+[06:856] RyK Unlocked AutoTargetingSystem
+[09:510] RyK Unlocked MedicShield
+[09:618] RyK Unlocked Shieldsiotunlocked
+[09:619] RyK Unlocked ShieldSuit
+[09:619] RyK Unlocked AdvancedShieldSuit
+[09:619] RyK Unlocked CombatSuit
+[09:619] RyK Unlocked AdvancedCombatSuit
+[09:619] RyK Unlocked HazmatSuit
+[09:619] RyK Unlocked AdvancedHazmatSuit
+[09:619] RyK Unlocked ShieldSuit
+[09:638] RyK Unlocked AdvancedShieldSuit
+[09:639] RyK Unlocked ShieldSuit
+[09:639] RyK Unlocked AdvancedShieldSuit
+[12:209] RyK Unlocked BeamRifle
+[12:228] RyK Unlocked SpecOpsPlasmaRifle
+[15:435] RyK Placed/Upgraded MiningDroid
+[17:423] RyK Unlocked CorrosivePlasma
+[22:828] RyK Unlocked Teleporter
+
+[00:588] FireFurry Unlocked AssaultRifle
+[00:748] FireFurry Unlocked Shotgun
+[00:820] FireFurry Placed/Upgraded MiningDroid
+[02:523] FireFurry Unlocked MedicShield
+[02:614] FireFurry Unlocked AdvancedDroidEngines
+[04:263] FireFurry Unlocked Stimpack
+[05:068] FireFurry Unlocked SpecOpsShotgun
+[07:178] FireFurry Unlocked BioMechanicalRepairDrone
+[07:255] FireFurry Placed/Upgraded HealingDrone
+[07:865] FireFurry Placed/Upgraded HealingDrone
+[08:377] FireFurry Unlocked IncendiaryBullets
+[09:389] FireFurry Unlocked PsiDisrupter
+[10:638] FireFurry Placed/Upgraded PsiIndoctrinator
+[11:291] FireFurry Placed/Upgraded HealingDrone
+[11:498] FireFurry Placed/Upgraded HealingDrone
+[11:646] FireFurry Unlocked MiningCharge
+[15:536] FireFurry Placed/Upgraded NukePack
+[15:885] FireFurry Placed/Upgraded MiningDroid
+[16:222] FireFurry Placed/Upgraded HealingDrone
+[16:630] FireFurry Placed/Upgraded HealingDrone
+[17:341] FireFurry Placed/Upgraded HealingDrone
+[18:311] FireFurry Placed/Upgraded NukePack
+[20:896] FireFurry Unlocked HazmatSuit
+[20:897] FireFurry Unlocked ShieldSuit
+[20:897] FireFurry Unlocked AdvancedShieldSuit
+[20:897] FireFurry Unlocked CombatSuit
+[20:897] FireFurry Unlocked AdvancedCombatSuit
+[20:897] FireFurry Unlocked HazmatSuit
+[20:897] FireFurry Unlocked AdvancedHazmatSuit
+[20:897] FireFurry Unlocked HazmatSuit
+[22:249] FireFurry Placed/Upgraded HealingDrone
+[24:957] FireFurry Placed/Upgraded HealingDrone
+
+[00:588] SuperFlanker Unlocked AssaultRifle
+[01:125] SuperFlanker Placed/Upgraded MiningDroid
+[01:315] SuperFlanker Unlocked AdvancedDroidEngines
+[01:746] SuperFlanker Unlocked Shieldsiotunlocked
+[01:747] SuperFlanker Unlocked ShieldSuit
+[01:747] SuperFlanker Unlocked AdvancedShieldSuit
+[01:747] SuperFlanker Unlocked CombatSuit
+[01:747] SuperFlanker Unlocked AdvancedCombatSuit
+[01:747] SuperFlanker Unlocked HazmatSuit
+[01:747] SuperFlanker Unlocked AdvancedHazmatSuit
+[01:747] SuperFlanker Unlocked ShieldSuit
+[03:990] SuperFlanker Unlocked HellfireRocketLauncher
+[04:793] SuperFlanker Unlocked SpecOpsHellfireRocketLauncher
+[05:897] SuperFlanker Unlocked AIAssistant
+[07:796] SuperFlanker Unlocked QuantumBackpack
+[07:893] SuperFlanker Unlocked TurboDroidEngines
+[13:692] SuperFlanker Unlocked RocketLauncherMod3
+[13:965] SuperFlanker Unlocked SuperStimpack
+[14:587] SuperFlanker Unlocked ForceFieldGrenade
+
+
+[00:588] Swarmlord Unlocked AssaultRifle
+[00:968] Swarmlord Unlocked AdvancedDroidEngines
+[02:354] Swarmlord Unlocked TurboDroidEngines
+[03:844] Swarmlord Unlocked FragGrenade
+[03:853] Swarmlord Unlocked SpecOpsFragGrenade
+[04:632] Swarmlord Unlocked EnergySuit
+[04:633] Swarmlord Unlocked ShieldSuit
+[04:633] Swarmlord Unlocked AdvancedShieldSuit
+[04:633] Swarmlord Unlocked CombatSuit
+[04:633] Swarmlord Unlocked AdvancedCombatSuit
+[04:633] Swarmlord Unlocked HazmatSuit
+[04:633] Swarmlord Unlocked AdvancedHazmatSuit
+[04:633] Swarmlord Unlocked EnergySuit
+[05:831] Swarmlord Unlocked AIAssistant
+[05:891] Swarmlord Unlocked AdvancedEnergySuit
+[05:892] Swarmlord Unlocked EnergySuit
+[05:892] Swarmlord Unlocked AdvancedEnergySuit
+[07:492] Swarmlord Unlocked QuantumBackpack
+[07:509] Swarmlord Unlocked CombatShield
+[08:432] Swarmlord Unlocked PowerConverter
+[09:674] Swarmlord Unlocked SpecOpsPowerConverter
+[10:515] Swarmlord Unlocked MotionSensor
+[12:413] Swarmlord Unlocked AdvancedMotionSensor
+[14:472] Swarmlord Unlocked ExplorationDroid
+[14:485] Swarmlord Unlocked AdvancedExplorationDroid
+[28:125] Swarmlord Unlocked BeamRifle
+
+

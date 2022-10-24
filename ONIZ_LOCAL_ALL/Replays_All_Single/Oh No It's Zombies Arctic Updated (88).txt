@@ -1,0 +1,194 @@
+Analyzed: Oh No It's Zombies Arctic Updated (88)
+
+Zombie Win
+ID : 0 PlayerName: flanksaber Race: Terran
+ID : 1 PlayerName: SteirylSleiy Race: Terran
+ID : 2 PlayerName: Frosky Race: Zerg
+ID : 3 PlayerName: pylonkiller Race: Terran
+ID : 4 PlayerName: Revenge Race: Terran
+ID : 5 PlayerName: Manatee Race: Terran
+ID : 6 PlayerName: DementorFury Race: Terran
+ID : 7 PlayerName: Security Race: Infested Terran
+PURCHASES: 
+[00:588] flanksaber Unlocked AssaultRifle
+[01:178] flanksaber Unlocked SpecOpsAssaultRifle
+[01:210] flanksaber Placed/Upgraded MiningDroid
+[04:514] flanksaber Unlocked AdvancedDroidEngines
+[05:446] flanksaber Unlocked TitaniumBulletCasings
+[07:519] flanksaber Unlocked TurboDroidEngines
+[09:661] flanksaber Unlocked SuperStimpack
+[09:736] flanksaber Unlocked MedicShield
+[09:736] flanksaber Unlocked OpticalVisor
+[11:285] flanksaber Unlocked SpecOpsSuperStimpack
+[12:624] flanksaber Unlocked Stimpack
+[13:384] flanksaber Unlocked ForceFieldGrenade
+[14:256] flanksaber Unlocked SpecOpsForcefieldGrenade
+[14:439] flanksaber Unlocked CombatSuit
+[15:776] flanksaber Unlocked AutoTurret
+[16:142] flanksaber Unlocked FlameTurret
+[22:921] flanksaber Placed/Upgraded AutoTurret
+
+[00:588] SteirylSleiy Unlocked AssaultRifle
+[00:696] SteirylSleiy Placed MiningDroid
+[00:821] SteirylSleiy Unlocked Stimpack
+[02:254] SteirylSleiy Unlocked HellfireRocketLauncher
+[03:161] SteirylSleiy Unlocked AdvancedDroidEngines
+[04:933] SteirylSleiy Unlocked SpecOpsHellfireRocketLauncher
+[06:995] SteirylSleiy Unlocked BioMechanicalRepairDrone
+[07:004] SteirylSleiy Unlocked SpecOpsBioMechanicalRepairDrone
+[07:027] SteirylSleiy Placed HealingDrone
+[07:611] SteirylSleiy Unlocked ShockwaveMissiles
+[10:493] SteirylSleiy Placed HealingDrone
+[10:664] SteirylSleiy Unlocked Teleporter
+[11:170] SteirylSleiy Unlocked ExplorationDroid
+[11:249] SteirylSleiy Placed ExplorationDroid
+[11:262] SteirylSleiy Placed ExplorationDroid
+[11:425] SteirylSleiy Placed ExplorationDroid
+[11:868] SteirylSleiy Placed MiningDroid
+[12:158] SteirylSleiy Placed HealingDrone
+[12:471] SteirylSleiy Placed HealingDrone
+[14:440] SteirylSleiy Bought ShieldSuit
+[14:440] SteirylSleiy Bought CombatSuit
+[14:440] SteirylSleiy Bought HazmatSuit
+[14:440] SteirylSleiy Bought CombatSuit
+[14:771] SteirylSleiy Unlocked TurboDroidEngines
+[15:099] SteirylSleiy Unlocked EnergySuit
+[15:100] SteirylSleiy Unlocked EnergySuit
+[16:170] SteirylSleiy Placed HealingDrone
+[18:933] SteirylSleiy Unlocked MotionSensor
+[19:118] SteirylSleiy Placed SensorTower
+[19:481] SteirylSleiy Unlocked QuantumBackpack
+[19:504] SteirylSleiy Unlocked CombatShield
+[19:765] SteirylSleiy Placed HealingDrone
+[19:962] SteirylSleiy Placed HealingDrone
+[20:227] SteirylSleiy Placed HealingDrone
+[20:885] SteirylSleiy Placed HealingDrone
+[20:968] SteirylSleiy Unlocked AutoTurret
+[21:200] SteirylSleiy Unlocked SpecOpsTurret
+[23:119] SteirylSleiy Unlocked AdvancedEnergySuit
+[23:120] SteirylSleiy Unlocked EnergySuit
+[23:120] SteirylSleiy Unlocked AdvancedEnergySuit
+[27:093] SteirylSleiy Placed HealingDrone
+[27:411] SteirylSleiy Placed HealingDrone
+
+[00:552] Frosky Bought PlayerNumber
+[03:517] Frosky Bought CreepSpeed
+[05:470] Frosky Bought CreepSpeed
+[08:374] Frosky Bought StrainSpeed
+[09:622] Frosky Bought StrainSpeed
+[11:483] Frosky Bought PureStrainSpeed
+[13:798] Frosky Bought PureStrainSpeed
+[15:100] Frosky Bought ShieldSuit
+[15:100] Frosky Bought CombatSuit
+[15:100] Frosky Bought HazmatSuit
+[15:269] Frosky Bought StrainSpeed
+[17:025] Frosky Bought PureStrainSpeed
+[18:708] Frosky Bought HunterlingStrain
+[19:348] Frosky Bought HunterlingStrain
+[21:217] Frosky Bought HunterlingStrain
+[21:706] Frosky Bought StrainSpeed
+[23:002] Frosky Bought PureStrainSpeed
+[23:384] Frosky Bought HunterlingStrain
+[24:815] Frosky Bought StrainSpeed
+[26:246] Frosky Bought AdvancedInfestationContainment
+[27:989] Frosky Bought VirulentCreep
+[27:989] Frosky Bought VirulentCreep
+
+[00:588] pylonkiller Unlocked AssaultRifle
+[02:221] pylonkiller Unlocked BeamRifle
+[02:529] pylonkiller Unlocked MedicShield
+[02:631] pylonkiller Unlocked Shieldsiotunlocked
+[03:185] pylonkiller Placed/Upgraded MiningDroid
+[04:619] pylonkiller Unlocked SpecOpsPlasmaRifle
+[08:761] pylonkiller Unlocked PlasmaRifleMod3
+[11:665] pylonkiller Unlocked OverloadWeapon
+[23:411] pylonkiller Unlocked AdvancedShieldSuit
+[23:513] pylonkiller Unlocked IncendiaryGrenade
+[23:522] pylonkiller Unlocked SpecOpsIncendiaryGrenade
+[23:604] pylonkiller Unlocked PsiDisrupter
+[23:621] pylonkiller Unlocked SpecOpsPsiDisruptor
+[24:570] pylonkiller Unlocked AutoTurret
+
+[00:588] Revenge Unlocked AssaultRifle
+[00:699] Revenge Placed/Upgraded MiningDroid
+[02:632] Revenge Bought ShieldSuit
+[02:632] Revenge Bought CombatSuit
+[02:632] Revenge Bought HazmatSuit
+[02:632] Revenge Bought ShieldSuit
+[02:644] Revenge Unlocked SpecOpsAssaultRifle
+[02:854] Revenge Unlocked CombatSuit
+[06:851] Revenge Unlocked TitaniumBulletCasings
+[06:928] Revenge Unlocked AutoTargetingSystem
+[08:219] Revenge Unlocked AdvancedCombatSuit
+[11:315] Revenge Unlocked Shieldsiotunlocked
+[11:365] Revenge Unlocked AdvancedShieldSuit
+[11:704] Revenge Unlocked AIAssistant
+[15:839] Revenge Unlocked Stimpack
+[17:156] Revenge Unlocked AdvancedDroidEngines
+[21:891] Revenge Unlocked TurboDroidEngines
+[21:943] Revenge Unlocked MotionSensor
+[23:412] Revenge Bought ShieldSuit
+[24:644] Revenge Placed/Upgraded SensorTower
+[24:764] Revenge Unlocked FragGrenade
+
+[00:588] Manatee Unlocked AssaultRifle
+[01:708] Manatee Placed/Upgraded MiningDroid
+[02:855] Manatee Bought ShieldSuit
+[02:855] Manatee Bought CombatSuit
+[02:855] Manatee Bought HazmatSuit
+[02:855] Manatee Bought CombatSuit
+[02:884] Manatee Unlocked SpecOpsAssaultRifle
+[03:569] Manatee Unlocked CombatSuit
+[05:537] Manatee Unlocked AdvancedDroidEngines
+[07:034] Manatee Unlocked AutoTargetingSystem
+[08:220] Manatee Bought CombatSuit
+[08:305] Manatee Unlocked TitaniumBulletCasings
+[11:316] Manatee Bought ShieldSuit
+[11:316] Manatee Bought CombatSuit
+[11:316] Manatee Bought HazmatSuit
+[11:316] Manatee Bought ShieldSuit
+[11:366] Manatee Bought ShieldSuit
+[11:378] Manatee Unlocked Bayonette
+[11:665] Manatee Unlocked AdvancedCombatSuit
+[11:832] Manatee Unlocked HazmatSuit
+[15:261] Manatee Unlocked Shieldsiotunlocked
+[15:504] Manatee Unlocked AdvancedShieldSuit
+[15:715] Manatee Unlocked Stimpack
+[16:023] Manatee Bought ShieldSuit
+[16:023] Manatee Bought CombatSuit
+[16:023] Manatee Bought HazmatSuit
+[16:023] Manatee Bought AdvancedCombatSuit
+[16:140] Manatee Unlocked MedicShield
+[16:992] Manatee Bought ShieldSuit
+[16:992] Manatee Bought CombatSuit
+[16:992] Manatee Bought HazmatSuit
+[16:992] Manatee Bought AdvancedShieldSuit
+[18:602] Manatee Placed/Upgraded MiningDroid
+[21:655] Manatee Unlocked BioMechanicalRepairDrone
+[21:747] Manatee Unlocked SpecOpsBioMechanicalRepairDrone
+[23:173] Manatee Placed/Upgraded MiningDroid
+[23:582] Manatee Unlocked ForceFieldGrenade
+[23:674] Manatee Unlocked SpecOpsForcefieldGrenade
+[26:588] Manatee Placed/Upgraded HealingDrone
+[27:186] Manatee Placed/Upgraded HealingDrone
+
+[03:570] DementorFury Bought ShieldSuit
+[03:570] DementorFury Bought CombatSuit
+[03:570] DementorFury Bought HazmatSuit
+[03:570] DementorFury Bought CombatSuit
+[11:666] DementorFury Bought CombatSuit
+[11:833] DementorFury Bought ShieldSuit
+[11:833] DementorFury Bought CombatSuit
+[11:833] DementorFury Bought HazmatSuit
+[11:833] DementorFury Bought HazmatSuit
+[11:873] DementorFury Bought ShieldSuit
+[11:873] DementorFury Bought CombatSuit
+[11:873] DementorFury Bought HazmatSuit
+[11:873] DementorFury Bought AdvancedCombatSuit
+[15:262] DementorFury Bought ShieldSuit
+[15:262] DementorFury Bought CombatSuit
+[15:262] DementorFury Bought HazmatSuit
+[15:262] DementorFury Bought ShieldSuit
+[15:505] DementorFury Bought ShieldSuit
+
+

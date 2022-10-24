@@ -1,0 +1,192 @@
+Analyzed: Oh No It's Zombies Arctic Updated (280)
+
+Zombie Undecided
+Zombie Loss
+ID : 0 PlayerName: Salem Race: Zerg
+ID : 1 PlayerName: Kira Race: Terran
+ID : 2 PlayerName: BCman Race: Terran
+ID : 3 PlayerName: Frosky Race: Zerg
+ID : 4 PlayerName: TheTouchkg Race: Terran
+ID : 5 PlayerName: Chaosweeds Race: Terran
+ID : 6 PlayerName: Elele Race: Terran
+ID : 7 PlayerName: Security Race: 
+PURCHASES: 
+
+[00:588] Kira Unlocked AssaultRifle
+[00:769] Kira Placed/Upgraded MiningDroid
+[02:121] Kira Unlocked SpecOpsAssaultRifle
+[03:634] Kira Unlocked SuperStimpack
+[05:128] Kira Unlocked AdvancedDroidEngines
+[06:828] Kira Unlocked TurboDroidEngines
+[08:443] Kira Unlocked Shieldsiotunlocked
+[08:487] Kira Unlocked AutoTurret
+[09:665] Kira Unlocked SpecOpsTurret
+[10:381] Kira Unlocked AIAssistant
+[11:966] Kira Placed/Upgraded AutoTurret
+[12:772] Kira Unlocked MotionSensor
+[13:142] Kira Placed/Upgraded SensorTower
+[14:644] Kira Placed/Upgraded AutoTurret
+[15:292] Kira Unlocked Stimpack
+[16:578] Kira Unlocked MiningCharge
+[17:410] Kira Placed/Upgraded NukePack
+[20:132] Kira Unlocked SpecOpsSuperStimpack
+[23:758] Kira Unlocked AdvancedShieldSuit
+[23:945] Kira Unlocked EnergyPack
+[23:952] Kira Unlocked CombatShield
+[24:728] Kira Placed/Upgraded SensorTower
+[27:439] Kira Placed/Upgraded SensorTower
+[27:821] Kira Placed/Upgraded NukePack
+[31:374] Kira Placed/Upgraded AutoTurret
+
+[00:588] BCman Unlocked AssaultRifle
+[00:680] BCman Placed MiningDroid
+[00:798] BCman Unlocked Flamethrower
+[02:631] BCman Unlocked AdvancedDroidEngines
+[04:552] BCman Unlocked Stimpack
+[05:838] BCman Unlocked BioMechanicalRepairDrone
+[05:918] BCman Placed HealingDrone
+[06:607] BCman Placed HealingDrone
+[08:381] BCman Unlocked SpecOpsFlamethrower
+[08:444] BCman Bought ShieldSuit
+[08:444] BCman Bought CombatSuit
+[08:444] BCman Bought HazmatSuit
+[08:444] BCman Bought ShieldSuit
+[08:625] BCman Unlocked CryoFreeze
+[09:242] BCman Placed MiningDroid
+[11:224] BCman Placed HealingDrone
+[12:243] BCman Unlocked HazmatSuit
+[12:304] BCman Unlocked AdvancedHazmatSuit
+[13:896] BCman Unlocked MedicShield
+[14:567] BCman Placed HealingDrone
+[14:974] BCman Placed HealingDrone
+[15:954] BCman Placed HealingDrone
+[18:833] BCman Placed MiningDroid
+[19:313] BCman Placed HealingDrone
+[20:096] BCman Placed HealingDrone
+[21:164] BCman Unlocked Teleporter
+[21:953] BCman Placed HealingDrone
+[23:759] BCman Bought ShieldSuit
+[24:169] BCman Placed HealingDrone
+[24:382] BCman Unlocked SpecOpsBioMechanicalRepairDrone
+[28:115] BCman Placed HealingDrone
+[29:898] BCman Placed HealingDrone
+
+[00:552] Frosky Bought PlayerNumber
+[00:588] Frosky Unlocked AssaultRifle
+[00:667] Frosky Placed/Upgraded MiningDroid
+[00:739] Frosky Unlocked Shotgun
+[01:563] Frosky Spawned MassiveCocoon
+[02:602] Frosky Unlocked AdvancedDroidEngines
+[03:003] Frosky Spawned Hunter
+[04:617] Frosky Bought CreepSpeed
+[07:861] Frosky Bought CreepSpeed
+[09:338] Frosky Bought VirulentCreep
+[09:338] Frosky Bought VirulentCreep
+[11:582] Frosky Spawned MassiveCocoon
+[12:244] Frosky Bought ShieldSuit
+[12:244] Frosky Bought CombatSuit
+[12:244] Frosky Bought HazmatSuit
+[12:244] Frosky Bought HazmatSuit
+[12:305] Frosky Bought HazmatSuit
+[13:022] Frosky Spawned Lurker
+[15:348] Frosky Spawned MassiveCocoon
+[16:264] Frosky Spawned MassiveCocoon
+[16:788] Frosky Spawned InfestedAbomination
+[17:704] Frosky Spawned Hunter
+[21:709] Frosky Bought UnlockDropPods
+[21:771] Frosky Bought EvolveDropPods
+[21:774] Frosky Bought EvolveDropPods
+[21:778] Frosky Bought EvolveDropPods
+[21:781] Frosky Bought EvolveDropPods
+[22:188] Frosky Bought DropshipsFueled
+[23:369] Frosky Bought StrainHealth
+[24:084] Frosky Placed/Upgraded ToxicNest
+[24:092] Frosky Placed/Upgraded ToxicNest
+[24:579] Frosky Spawned MassiveCocoon
+[25:634] Frosky Bought EvolveDropPods
+[25:637] Frosky Bought EvolveDropPods
+[28:892] Frosky Bought UltimateInfestationResearched
+[28:955] Frosky Bought SpawnNydusWorm
+[29:035] Frosky Placed/Upgraded GreaterNydusWorm
+[29:116] Frosky Bought GreaterNydus
+
+[00:588] TheTouchkg Unlocked AssaultRifle
+[00:698] TheTouchkg Placed/Upgraded MiningDroid
+[02:176] TheTouchkg Unlocked SpecOpsAssaultRifle
+[04:341] TheTouchkg Unlocked AutoTurret
+[04:522] TheTouchkg Unlocked CombatSuit
+[05:386] TheTouchkg Placed/Upgraded AutoTurret
+[05:607] TheTouchkg Placed/Upgraded AutoTurret
+[06:922] TheTouchkg Unlocked IncendiaryGrenade
+[07:431] TheTouchkg Unlocked AIAssistant
+[07:500] TheTouchkg Unlocked QuantumBackpack
+[09:337] TheTouchkg Unlocked AutoTargetingSystem
+[10:587] TheTouchkg Placed/Upgraded AutoTurret
+[11:126] TheTouchkg Placed/Upgraded AutoTurret
+[11:463] TheTouchkg Placed/Upgraded AutoTurret
+[11:767] TheTouchkg Placed/Upgraded AutoTurret
+[12:814] TheTouchkg Unlocked SpecOpsIncendiaryGrenade
+[12:959] TheTouchkg Unlocked Teleporter
+[14:169] TheTouchkg Unlocked AdvancedCombatSuit
+[14:829] TheTouchkg Placed/Upgraded AutoTurret
+[15:635] TheTouchkg Placed/Upgraded AutoTurret
+[16:604] TheTouchkg Placed/Upgraded AutoTurret
+[16:833] TheTouchkg Placed/Upgraded AutoTurret
+[17:699] TheTouchkg Unlocked HeavyTurret
+[17:817] TheTouchkg Unlocked AdvancedDroidEngines
+[19:222] TheTouchkg Placed/Upgraded AutoTurret
+[19:701] TheTouchkg Placed/Upgraded AutoTurret
+[20:502] TheTouchkg Placed/Upgraded AutoTurret
+[22:556] TheTouchkg Unlocked MedicShield
+[27:805] TheTouchkg Placed/Upgraded AutoTurret
+[28:230] TheTouchkg Placed/Upgraded AutoTurret
+
+[00:588] Chaosweeds Unlocked AssaultRifle
+[04:523] Chaosweeds Bought ShieldSuit
+[04:523] Chaosweeds Bought CombatSuit
+[04:523] Chaosweeds Bought HazmatSuit
+[04:523] Chaosweeds Bought CombatSuit
+[05:183] Chaosweeds Placed/Upgraded MiningDroid
+[06:851] Chaosweeds Unlocked AdvancedDroidEngines
+[08:476] Chaosweeds Unlocked TurboDroidEngines
+[10:034] Chaosweeds Unlocked SpecOpsAssaultRifle
+[10:352] Chaosweeds Unlocked AutoTargetingSystem
+[12:091] Chaosweeds Unlocked CombatSuit
+[12:829] Chaosweeds Unlocked AdvancedCombatSuit
+[13:447] Chaosweeds Unlocked Stimpack
+[14:170] Chaosweeds Bought CombatSuit
+[15:304] Chaosweeds Unlocked MedicShield
+[15:314] Chaosweeds Unlocked AIAssistant
+[15:337] Chaosweeds Unlocked EnergyPack
+[18:960] Chaosweeds Placed/Upgraded MiningDroid
+[19:225] Chaosweeds Unlocked CloakingDevice
+[19:238] Chaosweeds Unlocked SpecOpsCloakingDevice
+[21:581] Chaosweeds Unlocked ForceFieldGrenade
+[21:588] Chaosweeds Unlocked SpecOpsForcefieldGrenade
+[23:664] Chaosweeds Placed/Upgraded MiningDroid
+[25:180] Chaosweeds Unlocked BeamRifle
+[25:557] Chaosweeds Unlocked SpecOpsPlasmaRifle
+[28:853] Chaosweeds Unlocked PlasmaRifleMod3
+
+[00:588] Elele Unlocked AssaultRifle
+[00:781] Elele Unlocked AdvancedDroidEngines
+[04:116] Elele Unlocked SpecOpsAssaultRifle
+[04:624] Elele Unlocked AutoTargetingSystem
+[06:871] Elele Unlocked TurboDroidEngines
+[10:234] Elele Unlocked Flamethrower
+[10:254] Elele Unlocked SpecOpsFlamethrower
+[10:300] Elele Unlocked CryoFreeze
+[10:911] Elele Unlocked BioMechanicalRepairDrone
+[12:056] Elele Unlocked CombatAccelerationDrone
+[12:092] Elele Bought ShieldSuit
+[12:092] Elele Bought CombatSuit
+[12:092] Elele Bought HazmatSuit
+[12:092] Elele Bought CombatSuit
+[12:830] Elele Bought CombatSuit
+[15:381] Elele Unlocked PsiDisrupter
+[15:417] Elele Unlocked SpecOpsPsiDisruptor
+[21:917] Elele Unlocked Teleporter
+[21:928] Elele Unlocked SpecOpsTeleporter
+[22:858] Elele Unlocked MiningCharge
+
+

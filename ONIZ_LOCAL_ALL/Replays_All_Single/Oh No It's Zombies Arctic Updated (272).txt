@@ -1,0 +1,206 @@
+Analyzed: Oh No It's Zombies Arctic Updated (272)
+
+Zombie Win
+Zombie Undecided
+ID : 0 PlayerName: Derplord Race: Terran
+ID : 1 PlayerName: GoldenNinja Race: Terran
+ID : 2 PlayerName: Problematic Race: Terran
+ID : 3 PlayerName: FantomGhost Race: Terran
+ID : 4 PlayerName: ArrImapirate Race: Terran
+ID : 5 PlayerName: Frosky Race: Zerg
+ID : 6 PlayerName: CKCritter Race: Terran
+ID : 7 PlayerName: Security Race: Zerg
+PURCHASES: 
+[00:588] Derplord Unlocked AssaultRifle
+[00:914] Derplord Placed/Upgraded MiningDroid
+[01:163] Derplord Unlocked AdvancedDroidEngines
+[03:798] Derplord Unlocked HellfireRocketLauncher
+[05:061] Derplord Unlocked SpecOpsHellfireRocketLauncher
+[08:890] Derplord Placed/Upgraded MiningDroid
+[10:687] Derplord Unlocked RocketLauncherMod1
+[12:862] Derplord Unlocked Flamethrower
+[14:342] Derplord Unlocked CombatShield
+[14:352] Derplord Unlocked EnergyPack
+[16:630] Derplord Unlocked Shieldsiotunlocked
+[17:179] Derplord Unlocked AdvancedShieldSuit
+[21:705] Derplord Unlocked AIAssistant
+[22:084] Derplord Unlocked CloakingDevice
+[22:150] Derplord Unlocked SpecOpsCloakingDevice
+[26:300] Derplord Unlocked BioMechanicalRepairDrone
+[27:623] Derplord Placed/Upgraded HealingDrone
+[27:818] Derplord Placed/Upgraded HealingDrone
+[28:108] Derplord Placed/Upgraded HealingDrone
+[28:702] Derplord Placed/Upgraded HealingDrone
+[28:967] Derplord Placed/Upgraded HealingDrone
+[29:310] Derplord Unlocked AutoTurret
+[29:454] Derplord Placed/Upgraded AutoTurret
+[29:789] Derplord Placed/Upgraded AutoTurret
+[31:419] Derplord Placed/Upgraded AutoTurret
+
+[00:588] GoldenNinja Unlocked AssaultRifle
+[01:259] GoldenNinja Unlocked SpecOpsAssaultRifle
+[01:310] GoldenNinja Placed/Upgraded MiningDroid
+[04:468] GoldenNinja Unlocked AutoTargetingSystem
+[05:197] GoldenNinja Unlocked Stimpack
+[08:833] GoldenNinja Unlocked MedicShield
+[10:277] GoldenNinja Unlocked Shieldsiotunlocked
+[11:399] GoldenNinja Unlocked AdvancedShieldSuit
+[13:016] GoldenNinja Unlocked SuperStimpack
+[16:631] GoldenNinja Bought ShieldSuit
+[16:631] GoldenNinja Bought CombatSuit
+[16:631] GoldenNinja Bought HazmatSuit
+[16:631] GoldenNinja Bought ShieldSuit
+[16:812] GoldenNinja Unlocked SpecOpsSuperStimpack
+[17:180] GoldenNinja Bought ShieldSuit
+[19:507] GoldenNinja Unlocked AutoTurret
+[20:454] GoldenNinja Unlocked HeavyTurret
+[21:563] GoldenNinja Unlocked FragGrenade
+[22:551] GoldenNinja Unlocked SpecOpsFragGrenade
+[27:696] GoldenNinja Placed/Upgraded AutoTurret
+[29:433] GoldenNinja Placed/Upgraded AutoTurret
+[30:196] GoldenNinja Placed/Upgraded AutoTurret
+
+[00:588] Problematic Unlocked AssaultRifle
+[00:702] Problematic Placed/Upgraded MiningDroid
+[02:588] Problematic Unlocked SpecOpsAssaultRifle
+[05:094] Problematic Unlocked AdvancedDroidEngines
+[06:837] Problematic Unlocked TitaniumBulletCasings
+[08:209] Problematic Unlocked Shieldsiotunlocked
+[09:845] Problematic Unlocked Stimpack
+[10:278] Problematic Bought ShieldSuit
+[10:278] Problematic Bought CombatSuit
+[10:278] Problematic Bought HazmatSuit
+[10:278] Problematic Bought ShieldSuit
+[10:899] Problematic Unlocked AdvancedShieldSuit
+[11:400] Problematic Bought ShieldSuit
+[12:783] Problematic Unlocked AutoTurret
+[13:800] Problematic Unlocked FlameTurret
+[14:421] Problematic Placed/Upgraded AutoTurret
+[15:803] Problematic Placed/Upgraded AutoTurret
+[16:891] Problematic Placed/Upgraded AutoTurret
+[17:768] Problematic Placed/Upgraded AutoTurret
+[19:634] Problematic Placed/Upgraded AutoTurret
+[19:996] Problematic Placed/Upgraded AutoTurret
+[20:195] Problematic Placed/Upgraded AutoTurret
+[26:447] Problematic Unlocked BioMechanicalRepairDrone
+[26:520] Problematic Unlocked SpecOpsBioMechanicalRepairDrone
+[26:619] Problematic Placed/Upgraded HealingDrone
+[26:980] Problematic Placed/Upgraded HealingDrone
+[27:555] Problematic Placed/Upgraded HealingDrone
+[28:433] Problematic Placed/Upgraded HealingDrone
+[28:811] Problematic Placed/Upgraded HealingDrone
+[31:724] Problematic Placed/Upgraded HealingDrone
+[32:115] Problematic Placed/Upgraded HealingDrone
+[32:412] Problematic Placed/Upgraded HealingDrone
+
+[00:588] FantomGhost Unlocked AssaultRifle
+[00:686] FantomGhost Placed/Upgraded MiningDroid
+[00:785] FantomGhost Unlocked AdvancedDroidEngines
+[03:518] FantomGhost Unlocked SpecOpsAssaultRifle
+[04:482] FantomGhost Unlocked MedicShield
+[06:127] FantomGhost Unlocked Stimpack
+[08:191] FantomGhost Unlocked PsiDisrupter
+[08:210] FantomGhost Bought ShieldSuit
+[08:210] FantomGhost Bought CombatSuit
+[08:210] FantomGhost Bought HazmatSuit
+[08:210] FantomGhost Bought ShieldSuit
+[08:939] FantomGhost Placed/Upgraded PsiIndoctrinator
+[10:900] FantomGhost Bought ShieldSuit
+[14:218] FantomGhost Placed/Upgraded MiningDroid
+[17:104] FantomGhost Placed/Upgraded PsiIndoctrinator
+[18:821] FantomGhost Placed/Upgraded PsiIndoctrinator
+[19:126] FantomGhost Unlocked CombatSuit
+[20:690] FantomGhost Unlocked SpecOpsPsiDisruptor
+[21:357] FantomGhost Placed/Upgraded PsiIndoctrinator
+[23:738] FantomGhost Unlocked TitaniumBulletCasings
+[25:438] FantomGhost Placed/Upgraded PsiIndoctrinator
+[27:374] FantomGhost Placed/Upgraded PsiIndoctrinator
+
+[00:588] ArrImapirate Unlocked AssaultRifle
+[00:839] ArrImapirate Placed/Upgraded MiningDroid
+[02:225] ArrImapirate Unlocked AdvancedDroidEngines
+[05:449] ArrImapirate Unlocked TurboDroidEngines
+[06:579] ArrImapirate Unlocked MotionSensor
+[07:879] ArrImapirate Unlocked ArcWelder
+[08:559] ArrImapirate Placed/Upgraded SensorTower
+[10:316] ArrImapirate Unlocked SpecOpsArcWelder
+[11:377] ArrImapirate Unlocked AutoTurret
+[11:404] ArrImapirate Unlocked FlameTurret
+[13:825] ArrImapirate Placed/Upgraded SensorTower
+[14:320] ArrImapirate Placed/Upgraded AutoTurret
+[14:417] ArrImapirate Placed/Upgraded AutoTurret
+[14:885] ArrImapirate Unlocked MiningCharge
+[14:904] ArrImapirate Unlocked AdvancedMiningCharge
+[16:483] ArrImapirate Placed/Upgraded NukePack
+[16:669] ArrImapirate Placed/Upgraded NukePack
+[16:865] ArrImapirate Placed/Upgraded AutoTurret
+[17:164] ArrImapirate Placed/Upgraded AutoTurret
+[18:914] ArrImapirate Unlocked BeamRifle
+[19:127] ArrImapirate Bought ShieldSuit
+[19:127] ArrImapirate Bought CombatSuit
+[19:127] ArrImapirate Bought HazmatSuit
+[19:127] ArrImapirate Bought CombatSuit
+[20:290] ArrImapirate Unlocked SpecOpsPlasmaRifle
+[21:151] ArrImapirate Unlocked LongRangeScope
+[21:996] ArrImapirate Placed/Upgraded AutoTurret
+[23:548] ArrImapirate Unlocked OverloadWeapon
+[25:638] ArrImapirate Unlocked PsiDisrupter
+[25:715] ArrImapirate Placed/Upgraded PsiIndoctrinator
+[25:984] ArrImapirate Placed/Upgraded AutoTurret
+[26:083] ArrImapirate Placed/Upgraded AutoTurret
+[26:455] ArrImapirate Placed/Upgraded AutoTurret
+[27:507] ArrImapirate Unlocked PsiDepressor
+[28:020] ArrImapirate Placed/Upgraded NukePack
+[28:209] ArrImapirate Placed/Upgraded NukePack
+[28:612] ArrImapirate Placed/Upgraded NukePack
+[29:540] ArrImapirate Placed/Upgraded AutoTurret
+[30:153] ArrImapirate Placed/Upgraded AutoTurret
+
+[10:005] Frosky Placed/Upgraded ToxicNest
+[10:014] Frosky Placed/Upgraded ToxicNest
+[15:898] Frosky Placed/Upgraded NydusCanalCreeper
+[16:335] Frosky Placed/Upgraded Virophage
+[19:671] Frosky Placed/Upgraded Virophage
+[22:054] Frosky Placed/Upgraded Virophage
+[30:136] Frosky Placed/Upgraded GreaterNydusWorm
+[30:637] Frosky Placed/Upgraded NydusCanalCreeper
+[31:895] Frosky Placed/Upgraded NydusCanalCreeper
+
+[00:588] CKCritter Unlocked AssaultRifle
+[04:106] CKCritter Unlocked Stimpack
+[04:260] CKCritter Unlocked CombatShield
+[07:745] CKCritter Unlocked Teleporter
+[14:125] CKCritter Unlocked Shieldsiotunlocked
+[14:162] CKCritter Unlocked AdvancedShieldSuit
+[19:137] CKCritter Unlocked SpecOpsAssaultRifle
+[20:519] CKCritter Unlocked TitaniumBulletCasings
+[24:182] CKCritter Unlocked EnergyPack
+[24:261] CKCritter Unlocked AIAssistant
+[24:987] CKCritter Unlocked SpecOpsTeleporter
+[29:612] CKCritter Unlocked FragGrenade
+
+[00:552] Security Bought PlayerNumber
+[01:208] Security Spawned MassiveCocoon
+[02:648] Security Spawned Hunter
+[05:190] Security Bought CreepSpeed
+[09:304] Security Bought CreepSpeed
+[11:387] Security Bought StrainSpeed
+[11:870] Security Bought StrainSpeed
+[14:008] Security Bought VirulentCreep
+[14:008] Security Bought VirulentCreep
+[14:126] Security Bought ShieldSuit
+[14:126] Security Bought CombatSuit
+[14:126] Security Bought HazmatSuit
+[14:126] Security Bought ShieldSuit
+[14:163] Security Bought ShieldSuit
+[17:676] Security Bought StrainHealth
+[18:384] Security Bought PureStrainHealth
+[21:114] Security Bought PureStrainSpeed
+[23:590] Security Bought StrainVolatile
+[26:140] Security Bought SpawnNydusWorm
+[27:148] Security Bought DropshipsFueled
+[27:409] Security Bought SweepingInfestation
+[27:409] Security Bought UltimateInfestationResearched
+[27:869] Security Spawned MassiveCocoon
+[28:788] Security Bought AdvancedInfestationContainment
+

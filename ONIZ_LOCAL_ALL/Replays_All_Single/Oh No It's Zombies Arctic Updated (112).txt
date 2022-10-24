@@ -1,0 +1,166 @@
+Analyzed: Oh No It's Zombies Arctic Updated (112)
+
+Zombie Win
+ID : 0 PlayerName: Kirby Race: Zerg
+ID : 1 PlayerName: gaks Race: Terran
+ID : 2 PlayerName: Frosky Race: Terran
+ID : 3 PlayerName: Kakashi Race: Terran
+ID : 4 PlayerName: stardawn Race: Terran
+ID : 5 PlayerName: Qywu Race: Terran
+ID : 6 PlayerName: BullDozer Race: Terran
+ID : 7 PlayerName: Security Race: Terran Tychus
+PURCHASES: 
+[00:790] Kirby Spawned MassiveCocoon
+[02:230] Kirby Spawned Hunter
+[02:246] Kirby Bought StrainVolatile
+[04:440] Kirby Bought CreepSpeed
+[06:462] Kirby Bought PureStrainVolatile
+[09:145] Kirby Bought KaboomerStrain
+[16:019] Kirby Bought SpawnNydusWorm
+[16:229] Kirby Bought StrainSpeed
+[18:278] Kirby Spawned MassiveCocoon
+[18:500] Kirby Bought PureStrainSpeed
+[20:616] Kirby Bought HunterlingStrain
+[23:346] Kirby Bought AdvancedInfestationSecurity
+[23:357] Kirby Bought AdvancedInfestationGateControl
+[23:451] Kirby Bought StrainSpeed
+[23:591] Kirby Placed/Upgraded GreaterNydusWorm
+[23:618] Kirby Bought TrackHumans
+[23:839] Kirby Bought BuildExtractorManufacturingSector
+[23:839] Kirby Placed/Upgraded AutomatedExtractor
+
+[00:588] gaks Unlocked AssaultRifle
+[00:979] gaks Placed/Upgraded MiningDroid
+[01:092] gaks Unlocked AdvancedDroidEngines
+[05:690] gaks Unlocked SpecOpsAssaultRifle
+[06:111] gaks Unlocked AutoTargetingSystem
+[08:548] gaks Unlocked TurboDroidEngines
+[11:365] gaks Unlocked ForceFieldGrenade
+[13:752] gaks Unlocked EnergySuit
+[13:753] gaks Unlocked ShieldSuit
+[13:753] gaks Unlocked AdvancedShieldSuit
+[13:753] gaks Unlocked CombatSuit
+[13:753] gaks Unlocked AdvancedCombatSuit
+[13:753] gaks Unlocked HazmatSuit
+[13:753] gaks Unlocked AdvancedHazmatSuit
+[13:753] gaks Unlocked EnergySuit
+[13:801] gaks Unlocked AdvancedEnergySuit
+[13:802] gaks Unlocked EnergySuit
+[13:802] gaks Unlocked AdvancedEnergySuit
+[14:011] gaks Unlocked SuperStimpack
+[17:048] gaks Unlocked SpecOpsSuperStimpack
+
+[00:588] Frosky Unlocked AssaultRifle
+[00:667] Frosky Placed/Upgraded MiningDroid
+[00:754] Frosky Unlocked AdvancedDroidEngines
+[04:201] Frosky Unlocked SpecOpsAssaultRifle
+[05:872] Frosky Unlocked Stimpack
+[07:285] Frosky Unlocked MotionSensor
+[07:457] Frosky Placed/Upgraded SensorTower
+[08:837] Frosky Placed/Upgraded SensorTower
+[10:831] Frosky Unlocked TitaniumBulletCasings
+[12:970] Frosky Unlocked CombatSuit
+[12:971] Frosky Unlocked ShieldSuit
+[12:971] Frosky Unlocked AdvancedShieldSuit
+[12:971] Frosky Unlocked CombatSuit
+[12:971] Frosky Unlocked AdvancedCombatSuit
+[12:971] Frosky Unlocked HazmatSuit
+[12:971] Frosky Unlocked AdvancedHazmatSuit
+[12:971] Frosky Unlocked CombatSuit
+[13:762] Frosky Unlocked AdvancedCombatSuit
+[13:763] Frosky Unlocked CombatSuit
+[13:763] Frosky Unlocked AdvancedCombatSuit
+[21:384] Frosky Unlocked AutoTurret
+[22:842] Frosky Placed/Upgraded MiningDroid
+[24:181] Frosky Placed/Upgraded AutoTurret
+[24:253] Frosky Unlocked HeavyTurret
+[24:387] Frosky Unlocked QuantumBackpack
+
+[00:588] Kakashi Unlocked AssaultRifle
+[01:337] Kakashi Unlocked SpecOpsAssaultRifle
+[06:942] Kakashi Placed/Upgraded MiningDroid
+[09:753] Kakashi Unlocked Stimpack
+[15:238] Kakashi Unlocked CombatSuit
+[15:239] Kakashi Unlocked ShieldSuit
+[15:239] Kakashi Unlocked AdvancedShieldSuit
+[15:239] Kakashi Unlocked CombatSuit
+[15:239] Kakashi Unlocked AdvancedCombatSuit
+[15:239] Kakashi Unlocked HazmatSuit
+[15:239] Kakashi Unlocked AdvancedHazmatSuit
+[15:239] Kakashi Unlocked CombatSuit
+[15:275] Kakashi Unlocked AdvancedCombatSuit
+[15:276] Kakashi Unlocked CombatSuit
+[15:276] Kakashi Unlocked AdvancedCombatSuit
+[17:483] Kakashi Unlocked CombatShield
+[17:592] Kakashi Unlocked SuperStimpack
+[17:683] Kakashi Unlocked BioMechanicalRepairDrone
+[20:847] Kakashi Placed/Upgraded HealingDrone
+[21:374] Kakashi Placed/Upgraded HealingDrone
+[22:186] Kakashi Placed/Upgraded HealingDrone
+
+[00:588] stardawn Unlocked AssaultRifle
+[01:027] stardawn Unlocked AdvancedDroidEngines
+[01:101] stardawn Placed/Upgraded MiningDroid
+[04:862] stardawn Unlocked SpecOpsAssaultRifle
+[05:046] stardawn Unlocked MotionSensor
+[06:480] stardawn Placed/Upgraded SensorTower
+[08:345] stardawn Placed/Upgraded SensorTower
+[09:883] stardawn Unlocked AutoTargetingSystem
+[11:137] stardawn Unlocked Shieldsiotunlocked
+[11:138] stardawn Unlocked ShieldSuit
+[11:138] stardawn Unlocked AdvancedShieldSuit
+[11:138] stardawn Unlocked CombatSuit
+[11:138] stardawn Unlocked AdvancedCombatSuit
+[11:138] stardawn Unlocked HazmatSuit
+[11:138] stardawn Unlocked AdvancedHazmatSuit
+[11:138] stardawn Unlocked ShieldSuit
+[11:168] stardawn Unlocked AdvancedShieldSuit
+[11:169] stardawn Unlocked ShieldSuit
+[11:169] stardawn Unlocked AdvancedShieldSuit
+[13:227] stardawn Unlocked OverloadWeapon
+
+[00:588] Qywu Unlocked AssaultRifle
+[00:786] Qywu Placed/Upgraded MiningDroid
+[03:925] Qywu Unlocked HellfireRocketLauncher
+[04:034] Qywu Unlocked MedicShield
+[05:864] Qywu Unlocked Stimpack
+[11:200] Qywu Unlocked CombatSuit
+[11:201] Qywu Unlocked ShieldSuit
+[11:201] Qywu Unlocked AdvancedShieldSuit
+[11:201] Qywu Unlocked CombatSuit
+[11:201] Qywu Unlocked AdvancedCombatSuit
+[11:201] Qywu Unlocked HazmatSuit
+[11:201] Qywu Unlocked AdvancedHazmatSuit
+[11:201] Qywu Unlocked CombatSuit
+[11:209] Qywu Unlocked AdvancedCombatSuit
+[11:210] Qywu Unlocked CombatSuit
+[11:210] Qywu Unlocked AdvancedCombatSuit
+[13:604] Qywu Unlocked AutoTurret
+[14:060] Qywu Unlocked HeavyTurret
+[15:131] Qywu Placed/Upgraded AutoTurret
+[17:060] Qywu Unlocked QuantumBackpack
+[17:159] Qywu Unlocked AIAssistant
+[17:428] Qywu Placed/Upgraded AutoTurret
+[18:255] Qywu Placed/Upgraded AutoTurret
+[19:791] Qywu Placed/Upgraded AutoTurret
+
+[00:588] BullDozer Unlocked AssaultRifle
+[00:883] BullDozer Unlocked AdvancedDroidEngines
+[02:966] BullDozer Unlocked MedicShield
+[03:853] BullDozer Unlocked Stimpack
+[05:672] BullDozer Unlocked CombatSuit
+[05:673] BullDozer Unlocked ShieldSuit
+[05:673] BullDozer Unlocked AdvancedShieldSuit
+[05:673] BullDozer Unlocked CombatSuit
+[05:673] BullDozer Unlocked AdvancedCombatSuit
+[05:673] BullDozer Unlocked HazmatSuit
+[05:673] BullDozer Unlocked AdvancedHazmatSuit
+[05:673] BullDozer Unlocked CombatSuit
+[10:172] BullDozer Unlocked AIAssistant
+[10:315] BullDozer Unlocked AdvancedCombatSuit
+[10:316] BullDozer Unlocked CombatSuit
+[10:316] BullDozer Unlocked AdvancedCombatSuit
+[10:787] BullDozer Unlocked EnergyPack
+[12:622] BullDozer Unlocked BeamRifle
+
+

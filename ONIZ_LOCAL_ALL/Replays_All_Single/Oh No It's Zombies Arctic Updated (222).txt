@@ -1,0 +1,58 @@
+Analyzed: Oh No It's Zombies Arctic Updated (222)
+
+Zombie Undecided
+ID : 0 PlayerName: Frosky Race: Terran
+ID : 1 PlayerName: BATTLE Race: Terran
+ID : 2 PlayerName: bloodhaund Race: Terran
+ID : 3 PlayerName: blackcat Race: Zerg
+ID : 4 PlayerName: BTOOO Race: Terran
+ID : 5 PlayerName: HongKonger Race: Terran
+ID : 6 PlayerName: zhuthepig Race: Terran
+ID : 7 PlayerName: Security Race: Primal Zerg
+PURCHASES: 
+[00:588] Frosky Unlocked AssaultRifle
+[00:680] Frosky Placed/Upgraded MiningDroid
+[00:875] Frosky Unlocked AdvancedDroidEngines
+[03:486] Frosky Unlocked TurboDroidEngines
+
+[00:588] BATTLE Unlocked AssaultRifle
+[00:729] BATTLE Placed/Upgraded MiningDroid
+[00:957] BATTLE Unlocked Shotgun
+[02:986] BATTLE Unlocked SpecOpsShotgun
+[04:961] BATTLE Unlocked SuperStimpack
+[06:094] BATTLE Unlocked ExplorationDroid
+[06:117] BATTLE Placed/Upgraded ExplorationDroid
+[06:201] BATTLE Placed/Upgraded ExplorationDroid
+[07:116] BATTLE Placed/Upgraded ExplorationDroid
+
+[00:588] bloodhaund Unlocked AssaultRifle
+
+[00:552] blackcat Bought PlayerNumber
+[00:900] blackcat Spawned MassiveCocoon
+[02:340] blackcat Spawned Hunter
+[03:119] blackcat Spawned MassiveCocoon
+[04:559] blackcat Spawned Hunter
+[06:372] blackcat Bought CreepSpeed
+[07:056] blackcat Spawned MassiveCocoon
+
+[00:588] BTOOO Unlocked AssaultRifle
+[00:700] BTOOO Placed/Upgraded MiningDroid
+[00:794] BTOOO Unlocked AdvancedDroidEngines
+[02:965] BTOOO Unlocked FragGrenade
+[02:982] BTOOO Unlocked SpecOpsFragGrenade
+[07:349] BTOOO Unlocked TurboDroidEngines
+
+[00:588] HongKonger Unlocked AssaultRifle
+[00:707] HongKonger Placed/Upgraded MiningDroid
+[00:888] HongKonger Unlocked IncendiaryGrenade
+[02:542] HongKonger Unlocked AdvancedDroidEngines
+[04:469] HongKonger Unlocked TurboDroidEngines
+[06:044] HongKonger Unlocked Stimpack
+[07:801] HongKonger Unlocked MedicShield
+
+[00:588] zhuthepig Unlocked AssaultRifle
+[01:034] zhuthepig Unlocked ArcWelder
+[02:658] zhuthepig Unlocked BioMechanicalRepairDrone
+[02:714] zhuthepig Unlocked CombatAccelerationDrone
+
+
