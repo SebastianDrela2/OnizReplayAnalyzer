@@ -1,0 +1,22 @@
+michaelmms HumanWinsNormal 3
+michaelmms ZombieRank 0
+michaelmms VespeneHarvested 7700
+michaelmms HumansRescued 8
+michaelmms SecurityForcesKilled 235
+michaelmms ZombiesKilled 1551
+michaelmms PlayedRankedMode5.0 1
+michaelmms FuelDiverted 9
+michaelmms HumanRank 1
+michaelmms NumberOfTimesCaptured 23
+michaelmms TurretsBuilt 25
+michaelmms ZombieWins 0
+michaelmms GamesLeft 5
+michaelmms GamesPlayedAsHuman 13
+michaelmms GamesPlayedAsZombie 1
+michaelmms HumansCaptured 3
+K/D Ratio 119,31
+Average Marine Winrate 23%
+Average Zombie Winrate 0%
+Average Security Kills Per Game 235
+Average Deaths PerGame 1,77
+Average Infestation Class Class 3

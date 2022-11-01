@@ -1,0 +1,23 @@
+Eroi HumanWinsNormal 5
+Eroi LeftLastGameAsZombie 0
+Eroi ZombieRank 0
+Eroi VespeneHarvested 18000
+Eroi HumansRescued 7
+Eroi SecurityForcesKilled 442
+Eroi ZombiesKilled 4221
+Eroi FuelDiverted 12
+Eroi PlayedRankedMode5.0 1
+Eroi HumanRank 10
+Eroi NumberOfTimesCaptured 7
+Eroi TurretsBuilt 47
+Eroi ZombieWins 1
+Eroi GamesLeft 3
+Eroi GamesPlayedAsHuman 9
+Eroi GamesPlayedAsZombie 1
+Eroi HumansCaptured 21
+K/D Ratio 469
+Average Marine Winrate 56,00000000000001%
+Average Zombie Winrate 100%
+Average Security Kills Per Game 442
+Average Deaths PerGame 0,78
+Average Infestation Class Class 5

@@ -1,0 +1,21 @@
+Quiet HumanWinsNormal 1
+Quiet ZombieRank 0
+Quiet VespeneHarvested 2300
+Quiet HumansRescued 1
+Quiet SecurityForcesKilled 0
+Quiet ZombiesKilled 620
+Quiet FuelDiverted 2
+Quiet HumanRank 0
+Quiet NumberOfTimesCaptured 0
+Quiet TurretsBuilt 0
+Quiet ZombieWins 0
+Quiet GamesLeft 1
+Quiet GamesPlayedAsHuman 2
+Quiet GamesPlayedAsZombie 0
+Quiet HumansCaptured 0
+K/D Ratio 310
+Average Marine Winrate 50%
+Average Zombie Winrate NaN%
+Average Security Kills Per Game NaN
+Average Deaths PerGame 0
+Average Infestation Class Class 1

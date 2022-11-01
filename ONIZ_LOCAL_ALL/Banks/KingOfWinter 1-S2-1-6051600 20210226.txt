@@ -1,0 +1,22 @@
+KingOfWinter HumanWinsNormal 58
+KingOfWinter ZombieRank 0
+KingOfWinter VespeneHarvested 291200
+KingOfWinter HumansRescued 78
+KingOfWinter SecurityForcesKilled 309
+KingOfWinter ZombiesKilled 58377
+KingOfWinter FuelDiverted 184
+KingOfWinter PlayedRankedMode5.0 1
+KingOfWinter HumanRank 14
+KingOfWinter NumberOfTimesCaptured 143
+KingOfWinter TurretsBuilt 351
+KingOfWinter ZombieWins 0
+KingOfWinter GamesLeft 3
+KingOfWinter GamesPlayedAsHuman 110
+KingOfWinter GamesPlayedAsZombie 1
+KingOfWinter HumansCaptured 5
+K/D Ratio 530,7
+Average Marine Winrate 53%
+Average Zombie Winrate 0%
+Average Security Kills Per Game 309
+Average Deaths PerGame 1,3
+Average Infestation Class Class 4

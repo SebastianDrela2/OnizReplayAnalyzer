@@ -1,0 +1,25 @@
+Unknown HumanWinsNormal 71
+Unknown LeftLastGameAsZombie 0
+Unknown ZombieRank 0
+Unknown PlayedRankedMode 1
+Unknown VespeneHarvested 290100
+Unknown HumansRescued 180
+Unknown SecurityForcesKilled 55300
+Unknown ZombiesKilled 98870
+Unknown FuelDiverted 123
+Unknown PlayedRankedMode5.0 1
+Unknown HumanRank 1
+Unknown NumberOfTimesCaptured 438
+Unknown TurretsBuilt 1404
+Unknown ZombieWins 37
+Unknown GamesLeft 1
+Unknown GamesPlayedAsHuman 174
+Unknown GamesPlayedAsZombie 119
+Unknown HumansCaptured 906
+Unknown PlayedRankedMode2.0 1
+K/D Ratio 568,22
+Average Marine Winrate 41%
+Average Zombie Winrate 31%
+Average Security Kills Per Game 465
+Average Deaths PerGame 2,52
+Average Infestation Class Class 5

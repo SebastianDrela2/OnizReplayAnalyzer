@@ -1,0 +1,21 @@
+Jugganaught HumanWinsNormal 4
+Jugganaught ZombieRank 0
+Jugganaught VespeneHarvested 39600
+Jugganaught HumansRescued 7
+Jugganaught SecurityForcesKilled 0
+Jugganaught ZombiesKilled 6092
+Jugganaught FuelDiverted 60
+Jugganaught HumanRank 5
+Jugganaught NumberOfTimesCaptured 21
+Jugganaught TurretsBuilt 118
+Jugganaught ZombieWins 0
+Jugganaught GamesLeft 0
+Jugganaught GamesPlayedAsHuman 9
+Jugganaught GamesPlayedAsZombie 0
+Jugganaught HumansCaptured 0
+K/D Ratio 676,89
+Average Marine Winrate 44%
+Average Zombie Winrate NaN%
+Average Security Kills Per Game NaN
+Average Deaths PerGame 2,33
+Average Infestation Class Class 1

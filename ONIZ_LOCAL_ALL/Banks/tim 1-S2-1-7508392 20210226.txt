@@ -1,0 +1,22 @@
+tim HumanWinsNormal 9
+tim LeftLastGameAsZombie 0
+tim ZombieRank 0
+tim VespeneHarvested 50900
+tim HumansRescued 6
+tim SecurityForcesKilled 0
+tim ZombiesKilled 8519
+tim FuelDiverted 6
+tim HumanRank 10
+tim NumberOfTimesCaptured 25
+tim TurretsBuilt 24
+tim ZombieWins 0
+tim GamesLeft 0
+tim GamesPlayedAsHuman 16
+tim GamesPlayedAsZombie 0
+tim HumansCaptured 0
+K/D Ratio 532,44
+Average Marine Winrate 56,00000000000001%
+Average Zombie Winrate NaN%
+Average Security Kills Per Game NaN
+Average Deaths PerGame 1,56
+Average Infestation Class Class 1

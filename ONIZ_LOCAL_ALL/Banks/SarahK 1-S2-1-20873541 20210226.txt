@@ -1,0 +1,21 @@
+SarahK HumanWinsNormal 1
+SarahK ZombieRank 0
+SarahK VespeneHarvested 10900
+SarahK HumansRescued 1
+SarahK SecurityForcesKilled 0
+SarahK ZombiesKilled 1969
+SarahK FuelDiverted 29
+SarahK HumanRank 0
+SarahK NumberOfTimesCaptured 4
+SarahK TurretsBuilt 17
+SarahK ZombieWins 0
+SarahK GamesLeft 0
+SarahK GamesPlayedAsHuman 3
+SarahK GamesPlayedAsZombie 0
+SarahK HumansCaptured 0
+K/D Ratio 656,33
+Average Marine Winrate 33%
+Average Zombie Winrate NaN%
+Average Security Kills Per Game NaN
+Average Deaths PerGame 1,33
+Average Infestation Class Class 1
