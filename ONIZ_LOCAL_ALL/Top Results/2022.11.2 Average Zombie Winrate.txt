@@ -1,0 +1,502 @@
+Average Zombie Winrate
+----------------------------------------------------------
+ #1 Zombie BullDozer 1-S2-1-5326669 20210917 Winrate: 117%
+ #2 Zombie Chalas 1-S2-1-7275034 20211002 Winrate: 112%
+ #3 Zombie GustavAldogg 1-S2-1-6465018 20221006 Winrate: 100%
+ #4 Zombie PartimeHero 1-S2-1-10486870 20221029 Winrate: 100%
+ #5 Zombie TIgIIxIIRbXB 1-S2-1-4987210 20211211 Winrate: 100%
+ #6 Zombie AIzombie 1-S2-1-12284576 20221029 Winrate: 95%
+ #7 Zombie Sonder 1-S2-1-12024020 20221014 Winrate: 94%
+ #8 Zombie Yuno 1-S2-1-12280284 20211013 Winrate: 93%
+ #9 Zombie knight 1-S2-1-12297869 20220113 Winrate: 90%
+ #10 Zombie Kitty 1-S2-1-12395435 20220912 Winrate: 88%
+ #11 Zombie Marine 1-S2-1-3821732 20211010 Winrate: 88%
+ #12 Zombie Sneakyyeww 1-S2-1-11380277 20211221 Winrate: 88%
+ #13 Zombie Doosie 1-S2-1-12243210 20220824 Winrate: 87%
+ #14 Zombie LaGenTia 1-S2-1-12139027 20220819 Winrate: 83%
+ #15 Zombie lonesurvivor 1-S2-1-8681235 20211223 Winrate: 83%
+ #16 Zombie ReaperWolf 1-S2-1-1279083 20220824 Winrate: 83%
+ #17 Zombie Iridium 1-S2-1-7789861 20210913 Winrate: 82%
+ #18 Zombie nerdsrule 1-S2-1-996414 20211113 Winrate: 81%
+ #19 Zombie Gura 1-S2-1-12585722 20220825 Winrate: 80%
+ #20 Zombie justdoit 1-S2-1-12150700 20220101 Winrate: 80%
+ #21 Zombie Radovid 1-S2-1-12190273 20211230 Winrate: 80%
+ #22 Zombie shawn 1-S2-1-5642405 20220905 Winrate: 80%
+ #23 Zombie RyK 1-S2-1-1985786 20211204 Winrate: 79%
+ #24 Zombie LingtOng 1-S2-1-12555135 20220825 Winrate: 78%
+ #25 Zombie Alany 1-S2-1-8121678 20211120 Winrate: 77%
+ #26 Zombie KelthuzadxD 1-S2-1-5739319 20220104 Winrate: 77%
+ #27 Zombie Evan 1-S2-1-7878532 20211126 Winrate: 75%
+ #28 Zombie NoBPLAYER 1-S2-1-11911032 20220905 Winrate: 75%
+ #29 Zombie Lullaby 1-S2-1-10733871 20211215 Winrate: 74%
+ #30 Zombie Okummokum 1-S2-1-826112 20210912 Winrate: 74%
+ #31 Zombie Atom 1-S2-1-7780400 20211231 Winrate: 73%
+ #32 Zombie foolsidol 1-S2-1-9837849 20211009 Winrate: 73%
+ #33 Zombie ZergWithHat 1-S2-1-6824136 20220109 Winrate: 73%
+ #34 Zombie bonkybonky 1-S2-1-5477562 20220826 Winrate: 72%
+ #35 Zombie RunningRat 1-S2-1-2480714 20211128 Winrate: 72%
+ #36 Zombie Apollo 1-S2-1-4653046 20211203 Winrate: 71%
+ #37 Zombie ClydeBOT 1-S2-1-10494409 20211223 Winrate: 71%
+ #38 Zombie Pernatey 1-S2-1-11251870 20210828 Winrate: 71%
+ #39 Zombie wydjaz 1-S2-1-10627230 20220804 Winrate: 71%
+ #40 Zombie Jmsslayer 1-S2-1-5604041 20220804 Winrate: 70%
+ #41 Zombie Bman 1-S2-1-7327435 20220826 Winrate: 69%
+ #42 Zombie Bread 1-S2-1-4587347 20221029 Winrate: 69%
+ #43 Zombie GDP 1-S2-1-8579734 20220106 Winrate: 69%
+ #44 Zombie ProDem 1-S2-1-5777751 20221014 Winrate: 69%
+ #45 Zombie taibeo 1-S2-1-12320520 20221022 Winrate: 69%
+ #46 Zombie Talik 1-S2-1-11757759 20210924 Winrate: 69%
+ #47 Zombie Zepherd 1-S2-1-1409377 20220122 Winrate: 69%
+ #48 Zombie krazeyo 1-S2-1-7801625 20221030 Winrate: 68%
+ #49 Zombie OtherHydra 1-S2-1-9622381 20210918 Winrate: 68%
+ #50 Zombie Sojourne 1-S2-1-20496472 20211216 Winrate: 68%
+ #51 Zombie Chulleyboy 1-S2-1-3270554 20210225 Winrate: 67%
+ #52 Zombie ForFun 1-S2-2-623221 20211211 Winrate: 67%
+ #53 Zombie Kelsoo 1-S2-1-3493884 20210917 Winrate: 67%
+ #54 Zombie shadowstorm 1-S2-1-11885274 20211214 Winrate: 67%
+ #55 Zombie marekow 1-S2-1-12168881 20221008 Winrate: 66%
+ #56 Zombie NoobMaster 1-S2-1-12601417 20221022 Winrate: 66%
+ #57 Zombie Roxadar 1-S2-1-12653202 20221029 Winrate: 66%
+ #58 Zombie Meliodas 1-S2-1-10726802 20220106 Winrate: 65%
+ #59 Zombie Might 1-S2-1-12309198 20211222 Winrate: 65%
+ #60 Zombie Song 1-S2-1-10638212 20210918 Winrate: 65%
+ #61 Zombie Almonds 1-S2-1-920460 20210828 Winrate: 64%
+ #62 Zombie Azaz 1-S2-1-11079733 20211223 Winrate: 64%
+ #63 Zombie Juhani 1-S2-1-4579652 20220108 Winrate: 64%
+ #64 Zombie Juuggernaut 1-S2-2-350939 20211204 Winrate: 64%
+ #65 Zombie Labia 1-S2-1-12370849 20220824 Winrate: 64%
+ #66 Zombie RantorRaveTV 1-S2-1-915366 20210918 Winrate: 64%
+ #67 Zombie treename 1-S2-1-8348841 20220809 Winrate: 64%
+ #68 Zombie Azure 1-S2-1-12207838 20210922 Winrate: 63%
+ #69 Zombie dathong 1-S2-1-8433335 20221029 Winrate: 63%
+ #70 Zombie King 1-S2-1-11604441 20221022 Winrate: 63%
+ #71 Zombie mari 1-S2-1-12239428 20211001 Winrate: 63%
+ #72 Zombie TheSandman 1-S2-1-10447997 20211211 Winrate: 63%
+ #73 Zombie TheZergKing 1-S2-1-5523782 20220103 Winrate: 63%
+ #74 Zombie FireFurry 1-S2-1-10778621 20210913 Winrate: 62%
+ #75 Zombie Kaedin 1-S2-1-6143640 20210829 Winrate: 62%
+ #76 Zombie Kel 1-S2-1-10796213 20221030 Winrate: 62%
+ #77 Zombie lman 1-S2-1-2743924 20211221 Winrate: 62%
+ #78 Zombie NBDY 1-S2-1-2307136 20220108 Winrate: 62%
+ #79 Zombie Alex 1-S2-1-6651881 20211009 Winrate: 61%
+ #80 Zombie Ascherit 1-S2-1-6613842 20221022 Winrate: 61%
+ #81 Zombie BARUNA 1-S2-1-9664296 20221005 Winrate: 61%
+ #82 Zombie Moscowabunga 1-S2-1-903024 20210919 Winrate: 61%
+ #83 Zombie Spheres 1-S2-1-8630693 20220910 Winrate: 61%
+ #84 Zombie Velociraptor 1-S2-1-9733819 20211009 Winrate: 61%
+ #85 Zombie chroneo 1-S2-1-11896909 20211007 Winrate: 60%
+ #86 Zombie Grazx 1-S2-1-2399863 20211113 Winrate: 60%
+ #87 Zombie IOpenUSA 1-S2-1-8449339 20211219 Winrate: 60%
+ #88 Zombie JuiceNugget 1-S2-1-6428890 20220101 Winrate: 60%
+ #89 Zombie limitcalm 1-S2-1-12309031 20211126 Winrate: 60%
+ #90 Zombie BlueMorpho 1-S2-1-2839490 20211214 Winrate: 59%
+ #91 Zombie cobra 1-S2-1-2192552 20211130 Winrate: 59%
+ #92 Zombie devidog 1-S2-1-11656377 20221028 Winrate: 59%
+ #93 Zombie Frosky 1-S2-1-10180166 20221030 Winrate: 59%
+ #94 Zombie Montronizon 1-S2-1-10260767 20211219 Winrate: 59%
+ #95 Zombie FanaticFoe 1-S2-1-714318 20221017 Winrate: 58%
+ #96 Zombie HornyHumplar 1-S2-1-8018306 20211212 Winrate: 58%
+ #97 Zombie stevo 1-S2-1-600024 20221025 Winrate: 58%
+ #98 Zombie TalentedArc 1-S2-1-10328932 20220103 Winrate: 58%
+ #99 Zombie Ecthelion 1-S2-1-4132982 20211009 Winrate: 57%
+ #100 Zombie MacNCheese 1-S2-1-517372 20220106 Winrate: 57%
+ #101 Zombie ONXY 1-S2-1-12239390 20221005 Winrate: 57%
+ #102 Zombie Paybacker 1-S2-1-8112992 20220825 Winrate: 57%
+ #103 Zombie PrimeSTEMI 1-S2-1-20266162 20211128 Winrate: 57%
+ #104 Zombie RammusSaidOK 1-S2-1-3315073 20211214 Winrate: 57%
+ #105 Zombie sirfluffkin 1-S2-1-20044168 20210918 Winrate: 57%
+ #106 Zombie TheCatMaster 1-S2-1-10360989 20210916 Winrate: 57%
+ #107 Zombie TopHatTom 1-S2-1-8403899 20211230 Winrate: 57%
+ #108 Zombie tugak 1-S2-1-11200875 20220809 Winrate: 57%
+ #109 Zombie BardBard 1-S2-1-12339028 20221029 Winrate: 56%
+ #110 Zombie csiz 1-S2-1-10398530 20221029 Winrate: 56%
+ #111 Zombie fenix 1-S2-1-5412175 20211202 Winrate: 56%
+ #112 Zombie Oglethorpe 1-S2-1-1107352 20211227 Winrate: 56%
+ #113 Zombie YAAAAY 1-S2-1-12226597 20220106 Winrate: 56%
+ #114 Zombie Chuck 1-S2-1-847333 20221008 Winrate: 55%
+ #115 Zombie Partisan 1-S2-1-4381068 20221028 Winrate: 55%
+ #116 Zombie SKYTOSS 1-S2-1-11417663 20220106 Winrate: 55%
+ #117 Zombie Skytrooper 1-S2-1-11435964 20220812 Winrate: 55%
+ #118 Zombie yduwg 1-S2-1-10878723 20220824 Winrate: 55%
+ #119 Zombie BuckNasty 1-S2-1-539125 20220820 Winrate: 54%
+ #120 Zombie CaptanKrunch 1-S2-1-2897701 20211212 Winrate: 54%
+ #121 Zombie GreyWanderer 1-S2-1-688870 20211231 Winrate: 54%
+ #122 Zombie UneducatedT 1-S2-1-11074644 20211130 Winrate: 54%
+ #123 Zombie DeATH 1-S2-1-12231593 20221025 Winrate: 53%
+ #124 Zombie qssxc 1-S2-1-11864696 20220910 Winrate: 53%
+ #125 Zombie Steiryl 1-S2-1-7116405 20220113 Winrate: 53%
+ #126 Zombie Ahanax 1-S2-1-20036596 20221027 Winrate: 52%
+ #127 Zombie kronos 1-S2-1-10064601 20211223 Winrate: 52%
+ #128 Zombie ninja 1-S2-1-12467321 20221029 Winrate: 52%
+ #129 Zombie qwsakixs 1-S2-1-8718148 20220106 Winrate: 52%
+ #130 Zombie VandalCrow 1-S2-1-9743649 20220106 Winrate: 52%
+ #131 Zombie MrLoaf 1-S2-1-2433926 20220809 Winrate: 51%
+ #132 Zombie Yello 1-S2-1-12225560 20220905 Winrate: 51%
+ #133 Zombie Aiax 1-S2-1-4172685 20220825 Winrate: 50%
+ #134 Zombie CallMePala 1-S2-1-11892306 20220812 Winrate: 50%
+ #135 Zombie Dalas 1-S2-1-1353049 20211218 Winrate: 50%
+ #136 Zombie eye 1-S2-1-2784947 20220826 Winrate: 50%
+ #137 Zombie fallendawn 1-S2-1-4349263 20220910 Winrate: 50%
+ #138 Zombie HongKonger 1-S2-1-10280519 20211007 Winrate: 50%
+ #139 Zombie Llavitz 1-S2-1-1550773 20211205 Winrate: 50%
+ #140 Zombie MangledMind 1-S2-1-416455 20210827 Winrate: 50%
+ #141 Zombie ProfPillz 1-S2-1-3974515 20211129 Winrate: 50%
+ #142 Zombie Release 1-S2-1-10204081 20221015 Winrate: 50%
+ #143 Zombie Sern 1-S2-1-4851363 20211009 Winrate: 50%
+ #144 Zombie SkyFireYZ 1-S2-1-20066692 20210924 Winrate: 50%
+ #145 Zombie Slon 1-S2-1-2746229 20220910 Winrate: 50%
+ #146 Zombie WildMutant 1-S2-1-8331947 20221028 Winrate: 50%
+ #147 Zombie zhuthepig 1-S2-1-6127760 20211218 Winrate: 50%
+ #148 Zombie ben 1-S2-1-4697201 20211120 Winrate: 49%
+ #149 Zombie Cruel 1-S2-1-8724032 20221025 Winrate: 49%
+ #150 Zombie IIIIIIIIIIII 1-S2-1-1256974 20220804 Winrate: 49%
+ #151 Zombie Kreen 1-S2-1-12208920 20220122 Winrate: 48%
+ #152 Zombie minigranja 1-S2-2-431205 20221008 Winrate: 48%
+ #153 Zombie Semicedevine 1-S2-1-10345710 20221029 Winrate: 48%
+ #154 Zombie timbit 1-S2-1-3478079 20220105 Winrate: 48%
+ #155 Zombie Berzerker 1-S2-1-5823610 20211009 Winrate: 47%
+ #156 Zombie Katyusha 1-S2-1-9769739 20221022 Winrate: 47%
+ #157 Zombie khorne 1-S2-1-3205966 20210923 Winrate: 47%
+ #158 Zombie Timujin 1-S2-1-5599193 20220826 Winrate: 47%
+ #159 Zombie valkarian 1-S2-1-4396859 20220812 Winrate: 47%
+ #160 Zombie Westy 1-S2-1-4688902 20220101 Winrate: 47%
+ #161 Zombie Decar 1-S2-1-4930765 20211207 Winrate: 46%
+ #162 Zombie ReturnOffer 1-S2-1-880941 20221030 Winrate: 46%
+ #163 Zombie INDUSTRY 1-S2-1-1215388 20220103 Winrate: 45%
+ #164 Zombie Nazghool 1-S2-1-8276861 20220125 Winrate: 45%
+ #165 Zombie pegasus 1-S2-1-3295255 20211009 Winrate: 45%
+ #166 Zombie Pofi 1-S2-1-6052486 20211124 Winrate: 45%
+ #167 Zombie RachniThane 1-S2-1-5444731 20211217 Winrate: 45%
+ #168 Zombie Cuthulhu 1-S2-1-3369134 20211211 Winrate: 44%
+ #169 Zombie Dylan 1-S2-1-6347695 20220101 Winrate: 44%
+ #170 Zombie GenerousPot 1-S2-1-6319044 20220826 Winrate: 44%
+ #171 Zombie flanksaber 1-S2-1-6209150 20210922 Winrate: 43%
+ #172 Zombie Gafe 1-S2-1-10612119 20221028 Winrate: 43%
+ #173 Zombie Leviathan 1-S2-1-3285220 20221028 Winrate: 43%
+ #174 Zombie RedReaperz 1-S2-1-11241900 20221029 Winrate: 43%
+ #175 Zombie yoloLife 1-S2-1-12233970 20210922 Winrate: 43%
+ #176 Zombie Zomana 1-S2-1-5306853 20221029 Winrate: 43%
+ #177 Zombie Boxmaker 1-S2-1-3332360 20211010 Winrate: 42%
+ #178 Zombie Danny 1-S2-1-10833544 20211204 Winrate: 42%
+ #179 Zombie Hivetyrant 1-S2-1-2188405 20211212 Winrate: 42%
+ #180 Zombie Sly 1-S2-1-4822467 20220106 Winrate: 42%
+ #181 Zombie StunLancer 1-S2-1-11196045 20210921 Winrate: 42%
+ #182 Zombie Tabender 1-S2-2-1145489 20211222 Winrate: 42%
+ #183 Zombie Throne 1-S2-1-4420092 20211013 Winrate: 42%
+ #184 Zombie cheese 1-S2-1-11547433 20220113 Winrate: 41%
+ #185 Zombie Kirby 1-S2-1-8603155 20220824 Winrate: 41%
+ #186 Zombie robinhood 1-S2-1-6756165 20210914 Winrate: 41%
+ #187 Zombie Tin 1-S2-1-20334795 20221029 Winrate: 41%
+ #188 Zombie Vegeta 1-S2-1-7673100 20210914 Winrate: 41%
+ #189 Zombie ZEHN 1-S2-1-12011938 20220911 Winrate: 41%
+ #190 Zombie Asuki 1-S2-1-7859842 20220822 Winrate: 40%
+ #191 Zombie Chickenkub 1-S2-1-11745598 20220101 Winrate: 40%
+ #192 Zombie DarkFeyAlfar 1-S2-1-8423536 20220905 Winrate: 40%
+ #193 Zombie Diveyoc 1-S2-1-4058114 20211222 Winrate: 40%
+ #194 Zombie Kira 1-S2-1-2095853 20221029 Winrate: 40%
+ #195 Zombie melkweg 1-S2-1-1309783 20211223 Winrate: 40%
+ #196 Zombie reefing 1-S2-1-351038 20211230 Winrate: 40%
+ #197 Zombie SmittyWerben 1-S2-1-9984083 20211129 Winrate: 40%
+ #198 Zombie SpicyWolf 1-S2-1-3991604 20220905 Winrate: 40%
+ #199 Zombie CrazyCat 1-S2-1-11139660 20221029 Winrate: 39%
+ #200 Zombie dreamer 1-S2-2-1481807 20221016 Winrate: 39%
+ #201 Zombie LeroyJenkins 1-S2-1-5712561 20220101 Winrate: 39%
+ #202 Zombie Panda 1-S2-1-10173942 20210818 Winrate: 39%
+ #203 Zombie Cereal 1-S2-1-11522821 20220106 Winrate: 38%
+ #204 Zombie CosmicDomino 1-S2-1-10920407 20211013 Winrate: 38%
+ #205 Zombie DeepStroke 1-S2-1-20458576 20221028 Winrate: 38%
+ #206 Zombie Loke 1-S2-1-10502144 20220910 Winrate: 38%
+ #207 Zombie Voi 1-S2-1-1408155 20210919 Winrate: 38%
+ #208 Zombie bibinah 1-S2-1-4484228 20211111 Winrate: 37%
+ #209 Zombie Pandameme 1-S2-1-1339891 20221008 Winrate: 37%
+ #210 Zombie HulkSmash 1-S2-1-10026519 20220106 Winrate: 36%
+ #211 Zombie meTT 1-S2-2-1520603 20220823 Winrate: 36%
+ #212 Zombie Shawnee 1-S2-1-4096112 20211202 Winrate: 36%
+ #213 Zombie YoYoYo 1-S2-1-9706343 20211213 Winrate: 36%
+ #214 Zombie allolefort 1-S2-1-5411750 20221016 Winrate: 35%
+ #215 Zombie brayan 1-S2-1-1596701 20211211 Winrate: 35%
+ #216 Zombie GlenWaverley 1-S2-1-4020618 20210924 Winrate: 35%
+ #217 Zombie KingOfWinter 1-S2-1-6051600 20211223 Winrate: 35%
+ #218 Zombie Unknown 1-S2-1-8048128 20220820 Winrate: 35%
+ #219 Zombie Hmanamegorog 1-S2-1-1209147 20220825 Winrate: 34%
+ #220 Zombie Theda 1-S2-1-1210510 20221029 Winrate: 34%
+ #221 Zombie EdiblMrPants 1-S2-1-3739619 20210916 Winrate: 33%
+ #222 Zombie Frosky 1-S2-1-11835920 20220804 Winrate: 33%
+ #223 Zombie GianCarlo 1-S2-1-10281176 20220108 Winrate: 33%
+ #224 Zombie godseyedeath 1-S2-1-10915931 20220108 Winrate: 33%
+ #225 Zombie gookgook 1-S2-1-11926356 20211216 Winrate: 33%
+ #226 Zombie Gxz 1-S2-1-12462112 20221029 Winrate: 33%
+ #227 Zombie Harto 1-S2-1-4433882 20220115 Winrate: 33%
+ #228 Zombie jimmy 1-S2-1-854243 20211202 Winrate: 33%
+ #229 Zombie Mochi 1-S2-1-10305103 20211010 Winrate: 33%
+ #230 Zombie moonfire 1-S2-1-5064967 20221022 Winrate: 33%
+ #231 Zombie Ojuice 1-S2-1-7338926 20221015 Winrate: 33%
+ #232 Zombie Shiev 1-S2-1-10055638 20211214 Winrate: 33%
+ #233 Zombie sim 1-S2-1-12332937 20211113 Winrate: 33%
+ #234 Zombie Spudnuts 1-S2-1-1685652 20211212 Winrate: 33%
+ #235 Zombie tassadar 1-S2-1-11767515 20211216 Winrate: 33%
+ #236 Zombie Ting 1-S2-1-2117612 20220101 Winrate: 33%
+ #237 Zombie Kian 1-S2-1-5483040 20211205 Winrate: 32%
+ #238 Zombie Dtelm 1-S2-1-319332 20220812 Winrate: 31%
+ #239 Zombie EmperorDave 1-S2-1-3099895 20211223 Winrate: 31%
+ #240 Zombie LeChateau 1-S2-1-10490974 20221028 Winrate: 31%
+ #241 Zombie Slavin 1-S2-1-4293432 20210824 Winrate: 31%
+ #242 Zombie Sylar 1-S2-2-155979 20210829 Winrate: 31%
+ #243 Zombie BOBELE 1-S2-1-8727191 20211211 Winrate: 30%
+ #244 Zombie MarFly 1-S2-1-12058490 20221029 Winrate: 30%
+ #245 Zombie PhantomGuard 1-S2-1-7914566 20220905 Winrate: 30%
+ #246 Zombie rares 1-S2-1-11921334 20220122 Winrate: 30%
+ #247 Zombie ZaqazDeath 1-S2-1-3996523 20211203 Winrate: 30%
+ #248 Zombie Askelus 1-S2-1-7523494 20220822 Winrate: 29%
+ #249 Zombie Barcode 1-S2-1-5261330 20211222 Winrate: 29%
+ #250 Zombie DLonRa 1-S2-1-20012472 20220103 Winrate: 29%
+ #251 Zombie Keronor 1-S2-1-562942 20210904 Winrate: 29%
+ #252 Zombie Swarmlord 1-S2-1-2942850 20211209 Winrate: 29%
+ #253 Zombie Thingy 1-S2-1-5704853 20211010 Winrate: 29%
+ #254 Zombie tim 1-S2-1-7508392 20221028 Winrate: 29%
+ #255 Zombie eidrefchazie 1-S2-1-8688041 20220113 Winrate: 28%
+ #256 Zombie Nexxus 1-S2-1-8121144 20220826 Winrate: 27%
+ #257 Zombie starprince 1-S2-1-3251659 20211113 Winrate: 27%
+ #258 Zombie Isoton 1-S2-1-5587010 20220108 Winrate: 26%
+ #259 Zombie lilgrkballa 1-S2-1-1882164 20220905 Winrate: 26%
+ #260 Zombie Adam 1-S2-1-286306 20220820 Winrate: 25%
+ #261 Zombie BlackThanos 1-S2-1-8379299 20221008 Winrate: 25%
+ #262 Zombie BMxGosuxNVT 1-S2-1-11619676 20220905 Winrate: 25%
+ #263 Zombie Broncanous 1-S2-1-3638505 20210829 Winrate: 25%
+ #264 Zombie CamBam 1-S2-1-5572451 20220905 Winrate: 25%
+ #265 Zombie Ghost 1-S2-2-775082 20210920 Winrate: 25%
+ #266 Zombie gujiu 1-S2-1-12524524 20221029 Winrate: 25%
+ #267 Zombie joel 1-S2-1-12403952 20221016 Winrate: 25%
+ #268 Zombie LouDawg 1-S2-1-1237546 20220804 Winrate: 25%
+ #269 Zombie MichiTheLion 1-S2-1-9999366 20211127 Winrate: 25%
+ #270 Zombie MilfHunter 1-S2-1-1549116 20221005 Winrate: 25%
+ #271 Zombie PokieZombie 1-S2-1-2413024 20211221 Winrate: 25%
+ #272 Zombie Wonderllama 1-S2-1-4931817 20211209 Winrate: 25%
+ #273 Zombie Wooky 1-S2-1-7022970 20221030 Winrate: 25%
+ #274 Zombie ZAGARA 1-S2-1-12079455 20211010 Winrate: 25%
+ #275 Zombie Tdestroyer 1-S2-1-11662785 20220819 Winrate: 24%
+ #276 Zombie verygoodZ 1-S2-1-10909404 20220803 Winrate: 24%
+ #277 Zombie ArcticBlade 1-S2-1-10432739 20220910 Winrate: 23%
+ #278 Zombie tshiar 1-S2-1-10745346 20211205 Winrate: 23%
+ #279 Zombie ArrImapirate 1-S2-1-2655414 20211227 Winrate: 22%
+ #280 Zombie DLonRa 1-S2-1-9827642 20211212 Winrate: 22%
+ #281 Zombie GalopinGhost 1-S2-1-3785835 20211214 Winrate: 22%
+ #282 Zombie Jimbo 1-S2-1-10075808 20210821 Winrate: 22%
+ #283 Zombie Krispy 1-S2-1-2116879 20211231 Winrate: 22%
+ #284 Zombie LoogaSlight 1-S2-1-11875013 20211202 Winrate: 22%
+ #285 Zombie SniperDevil 1-S2-1-1007239 20220910 Winrate: 22%
+ #286 Zombie thewolf 1-S2-2-1515141 20210820 Winrate: 22%
+ #287 Zombie xxxpro 1-S2-1-6302685 20211216 Winrate: 22%
+ #288 Zombie delta 1-S2-1-4841894 20220905 Winrate: 21%
+ #289 Zombie RoLiNaD 1-S2-2-307733 20210829 Winrate: 21%
+ #290 Zombie Babatine 1-S2-1-11969457 20211003 Winrate: 20%
+ #291 Zombie CuongDeee 1-S2-1-12358497 20220905 Winrate: 20%
+ #292 Zombie dwarfplanet 1-S2-1-8423214 20211223 Winrate: 20%
+ #293 Zombie Muqali 1-S2-1-1675097 20221025 Winrate: 20%
+ #294 Zombie PeterParkerP 1-S2-1-11888600 20211211 Winrate: 20%
+ #295 Zombie Plotato 1-S2-1-4891138 20211223 Winrate: 20%
+ #296 Zombie Potato 1-S2-1-10751796 20221028 Winrate: 20%
+ #297 Zombie SkyJio 1-S2-1-4557999 20221011 Winrate: 20%
+ #298 Zombie Trogdor 1-S2-1-589982 20211009 Winrate: 20%
+ #299 Zombie VOLCANO 1-S2-1-10852440 20210919 Winrate: 20%
+ #300 Zombie Ehrling 1-S2-1-9772988 20221029 Winrate: 19%
+ #301 Zombie guiguicool 1-S2-1-6681987 20220822 Winrate: 19%
+ #302 Zombie BaoJio 1-S2-1-11726183 20221011 Winrate: 17%
+ #303 Zombie ClearMud 1-S2-1-4642259 20210226 Winrate: 17%
+ #304 Zombie Kerncobb 1-S2-1-4929489 20221015 Winrate: 17%
+ #305 Zombie Lightwalker 1-S2-1-10140347 20220905 Winrate: 17%
+ #306 Zombie ROY 1-S2-1-567522 20211205 Winrate: 17%
+ #307 Zombie SilverWolf 1-S2-1-1081450 20211229 Winrate: 17%
+ #308 Zombie Sovereign 1-S2-1-20338193 20210929 Winrate: 17%
+ #309 Zombie Eru 1-S2-1-5481662 20220905 Winrate: 15%
+ #310 Zombie IIIIIIIIIIII 1-S2-1-4325886 20220826 Winrate: 14%
+ #311 Zombie KOHOUTEK 1-S2-1-1047897 20220905 Winrate: 14%
+ #312 Zombie LazerFantast 1-S2-1-12598616 20221005 Winrate: 14%
+ #313 Zombie Lionbane 1-S2-1-11722574 20211113 Winrate: 14%
+ #314 Zombie Renduras 1-S2-1-3037202 20220826 Winrate: 14%
+ #315 Zombie SpaceMilk 1-S2-1-3920873 20220824 Winrate: 14%
+ #316 Zombie LunaristScre 1-S2-1-12054367 20220819 Winrate: 13%
+ #317 Zombie TamamoNoMae 1-S2-1-6027195 20221008 Winrate: 13%
+ #318 Zombie Chaosweeds 1-S2-1-7306302 20211010 Winrate: 12%
+ #319 Zombie deatheater 1-S2-1-2910032 20211210 Winrate: 12%
+ #320 Zombie Dylan 1-S2-1-7590526 20220822 Winrate: 12%
+ #321 Zombie EFighter 1-S2-1-11493433 20220809 Winrate: 12%
+ #322 Zombie Mnosdetijera 1-S2-1-8145139 20220905 Winrate: 12%
+ #323 Zombie Pecha 1-S2-1-6521081 20211002 Winrate: 12%
+ #324 Zombie Sia 1-S2-1-3986974 20211210 Winrate: 12%
+ #325 Zombie WildCard 1-S2-1-11244506 20220912 Winrate: 12%
+ #326 Zombie Atalus 1-S2-1-3716495 20220102 Winrate: 11%
+ #327 Zombie Drake 1-S2-1-12116235 20211222 Winrate: 11%
+ #328 Zombie PoggingViper 1-S2-1-11276793 20210918 Winrate: 11%
+ #329 Zombie ColdLeg 1-S2-1-2564152 20220820 Winrate: 9%
+ #330 Zombie BAKA 1-S2-1-8575333 20210820 Winrate: 8%
+ #331 Zombie Freddythe 1-S2-1-10417695 20210929 Winrate: 8%
+ #332 Zombie Lethalspace 1-S2-1-2563814 20220825 Winrate: 8%
+ #333 Zombie michaelmms 1-S2-1-7845538 20211013 Winrate: 8%
+ #334 Zombie Bioshock 1-S2-1-2908966 20221022 Winrate: 5%
+ #335 Zombie Savabax 1-S2-1-11948128 20211205 Winrate: 5%
+ #336 Zombie NightRaven 1-S2-1-11056041 20211016 Winrate: 4%
+ #337 Zombie lenux 1-S2-1-11798615 20211222 Winrate: 2%
+ #338 Zombie  Winrate: 0%
+ #339 Zombie  Winrate: 0%
+ #340 Zombie  Winrate: 0%
+ #341 Zombie  Winrate: 0%
+ #342 Zombie  Winrate: 0%
+ #343 Zombie  Winrate: 0%
+ #344 Zombie  Winrate: 0%
+ #345 Zombie  Winrate: 0%
+ #346 Zombie  Winrate: 0%
+ #347 Zombie  Winrate: 0%
+ #348 Zombie  Winrate: 0%
+ #349 Zombie  Winrate: 0%
+ #350 Zombie  Winrate: 0%
+ #351 Zombie  Winrate: 0%
+ #352 Zombie  Winrate: 0%
+ #353 Zombie  Winrate: 0%
+ #354 Zombie  Winrate: 0%
+ #355 Zombie  Winrate: 0%
+ #356 Zombie  Winrate: 0%
+ #357 Zombie  Winrate: 0%
+ #358 Zombie  Winrate: 0%
+ #359 Zombie  Winrate: 0%
+ #360 Zombie  Winrate: 0%
+ #361 Zombie  Winrate: 0%
+ #362 Zombie  Winrate: 0%
+ #363 Zombie  Winrate: 0%
+ #364 Zombie  Winrate: 0%
+ #365 Zombie  Winrate: 0%
+ #366 Zombie  Winrate: 0%
+ #367 Zombie  Winrate: 0%
+ #368 Zombie  Winrate: 0%
+ #369 Zombie  Winrate: 0%
+ #370 Zombie  Winrate: 0%
+ #371 Zombie  Winrate: 0%
+ #372 Zombie  Winrate: 0%
+ #373 Zombie  Winrate: 0%
+ #374 Zombie  Winrate: 0%
+ #375 Zombie  Winrate: 0%
+ #376 Zombie  Winrate: 0%
+ #377 Zombie  Winrate: 0%
+ #378 Zombie  Winrate: 0%
+ #379 Zombie  Winrate: 0%
+ #380 Zombie  Winrate: 0%
+ #381 Zombie  Winrate: 0%
+ #382 Zombie  Winrate: 0%
+ #383 Zombie  Winrate: 0%
+ #384 Zombie  Winrate: 0%
+ #385 Zombie  Winrate: 0%
+ #386 Zombie  Winrate: 0%
+ #387 Zombie  Winrate: 0%
+ #388 Zombie  Winrate: 0%
+ #389 Zombie  Winrate: 0%
+ #390 Zombie  Winrate: 0%
+ #391 Zombie  Winrate: 0%
+ #392 Zombie  Winrate: 0%
+ #393 Zombie  Winrate: 0%
+ #394 Zombie  Winrate: 0%
+ #395 Zombie  Winrate: 0%
+ #396 Zombie  Winrate: 0%
+ #397 Zombie  Winrate: 0%
+ #398 Zombie  Winrate: 0%
+ #399 Zombie  Winrate: 0%
+ #400 Zombie  Winrate: 0%
+ #401 Zombie  Winrate: 0%
+ #402 Zombie  Winrate: 0%
+ #403 Zombie  Winrate: 0%
+ #404 Zombie  Winrate: 0%
+ #405 Zombie  Winrate: 0%
+ #406 Zombie  Winrate: 0%
+ #407 Zombie  Winrate: 0%
+ #408 Zombie  Winrate: 0%
+ #409 Zombie  Winrate: 0%
+ #410 Zombie  Winrate: 0%
+ #411 Zombie  Winrate: 0%
+ #412 Zombie  Winrate: 0%
+ #413 Zombie  Winrate: 0%
+ #414 Zombie  Winrate: 0%
+ #415 Zombie  Winrate: 0%
+ #416 Zombie  Winrate: 0%
+ #417 Zombie  Winrate: 0%
+ #418 Zombie  Winrate: 0%
+ #419 Zombie  Winrate: 0%
+ #420 Zombie  Winrate: 0%
+ #421 Zombie  Winrate: 0%
+ #422 Zombie  Winrate: 0%
+ #423 Zombie  Winrate: 0%
+ #424 Zombie  Winrate: 0%
+ #425 Zombie  Winrate: 0%
+ #426 Zombie  Winrate: 0%
+ #427 Zombie  Winrate: 0%
+ #428 Zombie  Winrate: 0%
+ #429 Zombie  Winrate: 0%
+ #430 Zombie  Winrate: 0%
+ #431 Zombie  Winrate: 0%
+ #432 Zombie  Winrate: 0%
+ #433 Zombie  Winrate: 0%
+ #434 Zombie  Winrate: 0%
+ #435 Zombie  Winrate: 0%
+ #436 Zombie  Winrate: 0%
+ #437 Zombie  Winrate: 0%
+ #438 Zombie  Winrate: 0%
+ #439 Zombie  Winrate: 0%
+ #440 Zombie  Winrate: 0%
+ #441 Zombie  Winrate: 0%
+ #442 Zombie  Winrate: 0%
+ #443 Zombie  Winrate: 0%
+ #444 Zombie  Winrate: 0%
+ #445 Zombie  Winrate: 0%
+ #446 Zombie  Winrate: 0%
+ #447 Zombie  Winrate: 0%
+ #448 Zombie  Winrate: 0%
+ #449 Zombie  Winrate: 0%
+ #450 Zombie  Winrate: 0%
+ #451 Zombie  Winrate: 0%
+ #452 Zombie  Winrate: 0%
+ #453 Zombie  Winrate: 0%
+ #454 Zombie  Winrate: 0%
+ #455 Zombie  Winrate: 0%
+ #456 Zombie  Winrate: 0%
+ #457 Zombie  Winrate: 0%
+ #458 Zombie  Winrate: 0%
+ #459 Zombie  Winrate: 0%
+ #460 Zombie  Winrate: 0%
+ #461 Zombie  Winrate: 0%
+ #462 Zombie  Winrate: 0%
+ #463 Zombie  Winrate: 0%
+ #464 Zombie  Winrate: 0%
+ #465 Zombie  Winrate: 0%
+ #466 Zombie  Winrate: 0%
+ #467 Zombie  Winrate: 0%
+ #468 Zombie  Winrate: 0%
+ #469 Zombie  Winrate: 0%
+ #470 Zombie  Winrate: 0%
+ #471 Zombie  Winrate: 0%
+ #472 Zombie  Winrate: 0%
+ #473 Zombie  Winrate: 0%
+ #474 Zombie  Winrate: 0%
+ #475 Zombie  Winrate: 0%
+ #476 Zombie  Winrate: 0%
+ #477 Zombie  Winrate: 0%
+ #478 Zombie  Winrate: 0%
+ #479 Zombie  Winrate: 0%
+ #480 Zombie  Winrate: 0%
+ #481 Zombie  Winrate: 0%
+ #482 Zombie  Winrate: 0%
+ #483 Zombie  Winrate: 0%
+ #484 Zombie  Winrate: 0%
+ #485 Zombie  Winrate: 0%
+ #486 Zombie  Winrate: 0%
+ #487 Zombie  Winrate: 0%
+ #488 Zombie  Winrate: 0%
+ #489 Zombie  Winrate: 0%
+ #490 Zombie  Winrate: 0%
+ #491 Zombie  Winrate: 0%
+ #492 Zombie  Winrate: 0%
+ #493 Zombie  Winrate: 0%
+ #494 Zombie  Winrate: 0%
+ #495 Zombie  Winrate: 0%
+ #496 Zombie  Winrate: 0%
+ #497 Zombie  Winrate: 0%
+ #498 Zombie  Winrate: 0%
+ #499 Zombie  Winrate: 0%
+ #500 Zombie  Winrate: 0%
