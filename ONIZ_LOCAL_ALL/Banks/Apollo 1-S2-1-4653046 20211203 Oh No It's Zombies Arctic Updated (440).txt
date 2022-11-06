@@ -1,0 +1,23 @@
+Apollo HumanWinsNormal 40
+Apollo ZombieRank 0
+Apollo VespeneHarvested 270800
+Apollo HumansRescued 92
+Apollo SecurityForcesKilled 8306
+Apollo ZombiesKilled 63658
+Apollo FuelDiverted 341
+Apollo HumanRank 1.25
+Apollo NumberOfTimesCaptured 248
+Apollo TurretsBuilt 561
+Apollo ZombieWins 15
+Apollo GamesLeft 8
+Apollo GamesPlayedAsHuman 115
+Apollo GamesPlayedAsZombie 21
+Apollo HumansCaptured 220
+Apollo K/D Ratio 256,69
+Apollo Average Marine Winrate 35%
+Apollo Average Fuel Diverts PerGame 2,97
+Apollo Average Vespene Harvested PerGame 2354,78
+Apollo Average Zombie Winrate 71%
+Apollo Average Security Kills Per Game 396
+Apollo Average Deaths PerGame 2,16
+Apollo Average Infestation Class Class 4

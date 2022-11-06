@@ -1,0 +1,32 @@
+Analyzed: Oh No It's Zombies Arctic Map (66)
+
+Zombie Undecided
+ID : 0 PlayerName: Frosky Race: Zerg
+ID : 7 PlayerName: Security Race: 
+PURCHASES: 
+[00:912] Frosky Bought ConstructiveCreep
+[01:194] Frosky Placed/Upgraded PrimalSunkenColony
+[01:195] Frosky Bought SunkenColony
+[04:828] Frosky Bought BuildExtractorExcavationZone
+[04:828] Frosky Placed/Upgraded AutomatedExtractor
+[05:239] Frosky Bought ConstructiveCreep
+[05:480] Frosky Bought SpawnNydusWorm
+[06:683] Frosky Placed/Upgraded GreaterNydusWorm
+[07:074] Frosky Bought RegenerativeCreep
+[09:033] Frosky Bought BuildExtractorProcessingFacilities
+[09:033] Frosky Placed/Upgraded AutomatedExtractor
+[09:939] Frosky Placed/Upgraded NydusCanalCreeper
+[10:948] Frosky Bought BuildExtractorScienceLabs
+[10:948] Frosky Placed/Upgraded AutomatedExtractor
+[11:165] Frosky Placed/Upgraded Virophage
+[14:169] Frosky Placed/Upgraded GreaterNydusWorm
+[15:654] Frosky Placed/Upgraded NydusCanalCreeper
+[16:239] Frosky Bought CreepSpeed
+
+
+
+
+
+
+
+

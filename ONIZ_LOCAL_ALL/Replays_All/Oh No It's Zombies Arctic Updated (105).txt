@@ -1,0 +1,216 @@
+Analyzed: Oh No It's Zombies Arctic Updated (105)
+
+Zombie Loss
+Zombie Undecided
+ID : 0 PlayerName: Yello Race: Terran
+ID : 1 PlayerName: Danny Race: Terran
+ID : 2 PlayerName: Frosky Race: Terran
+ID : 3 PlayerName: EdiblMrPants Race: Zerg
+ID : 4 PlayerName: Zakiah Race: Terran
+ID : 5 PlayerName: Markuun Race: Terran
+ID : 6 PlayerName: Commander Race: Terran
+ID : 7 PlayerName: Security Race: Zerg
+PURCHASES: 
+[00:588] Yello Unlocked AssaultRifle
+[00:722] Yello Placed/Upgraded MiningDroid
+[00:925] Yello Unlocked HellfireRocketLauncher
+
+[00:588] Danny Unlocked AssaultRifle
+[00:667] Danny Placed/Upgraded MiningDroid
+[02:313] Danny Unlocked SpecOpsAssaultRifle
+[04:776] Danny Unlocked AdvancedDroidEngines
+[05:251] Danny Unlocked OverloadWeapon
+[05:970] Danny Unlocked PsiDisrupter
+[07:121] Danny Placed/Upgraded PsiIndoctrinator
+[08:179] Danny Placed/Upgraded PsiIndoctrinator
+[09:366] Danny Unlocked TitaniumBulletCasings
+[16:447] Danny Unlocked PsiDepressor
+[16:570] Danny Placed/Upgraded MiningDroid
+[16:625] Danny Unlocked AutoTurret
+[18:078] Danny Placed/Upgraded AutoTurret
+[18:294] Danny Unlocked HeavyTurret
+[18:978] Danny Placed/Upgraded AutoTurret
+[20:893] Danny Placed/Upgraded AutoTurret
+[28:872] Danny Placed/Upgraded MiningDroid
+[28:937] Danny Unlocked ExplorationDroid
+[28:987] Danny Placed/Upgraded ExplorationDroid
+[30:871] Danny Unlocked CombatSuit
+[30:876] Danny Unlocked AdvancedCombatSuit
+[30:984] Danny Placed/Upgraded AutoTurret
+
+[00:588] Frosky Unlocked AssaultRifle
+[00:667] Frosky Placed/Upgraded MiningDroid
+[00:794] Frosky Unlocked AdvancedDroidEngines
+[03:258] Frosky Unlocked SpecOpsAssaultRifle
+[04:845] Frosky Unlocked TurboDroidEngines
+[06:291] Frosky Unlocked Stimpack
+[07:276] Frosky Unlocked CombatSuit
+[08:006] Frosky Unlocked AdvancedCombatSuit
+[09:196] Frosky Unlocked BioMechanicalRepairDrone
+[09:267] Frosky Placed/Upgraded HealingDrone
+[10:415] Frosky Placed/Upgraded HealingDrone
+[10:965] Frosky Unlocked TitaniumBulletCasings
+[12:049] Frosky Unlocked SpecOpsBioMechanicalRepairDrone
+[12:157] Frosky Placed/Upgraded HealingDrone
+[16:442] Frosky Unlocked AutoTurret
+[16:686] Frosky Placed/Upgraded AutoTurret
+[17:198] Frosky Placed/Upgraded AutoTurret
+[17:404] Frosky Placed/Upgraded AutoTurret
+[17:985] Frosky Placed/Upgraded HealingDrone
+[20:134] Frosky Placed/Upgraded MiningDroid
+[23:181] Frosky Placed/Upgraded HealingDrone
+[24:077] Frosky Placed/Upgraded HealingDrone
+[24:813] Frosky Unlocked QuantumBackpack
+[24:866] Frosky Unlocked HeavyTurret
+[25:013] Frosky Placed/Upgraded AutoTurret
+[25:187] Frosky Placed/Upgraded HealingDrone
+[25:526] Frosky Placed/Upgraded HealingDrone
+[26:108] Frosky Placed/Upgraded AutoTurret
+[26:281] Frosky Placed/Upgraded HealingDrone
+[26:452] Frosky Placed/Upgraded AutoTurret
+[27:041] Frosky Unlocked Teleporter
+[28:391] Frosky Placed/Upgraded AutoTurret
+[28:563] Frosky Placed/Upgraded AutoTurret
+[28:741] Frosky Placed/Upgraded HealingDrone
+[29:951] Frosky Placed/Upgraded HealingDrone
+[30:131] Frosky Placed/Upgraded AutoTurret
+[30:334] Frosky Placed/Upgraded AutoTurret
+[30:654] Frosky Placed/Upgraded AutoTurret
+[30:871] Frosky Placed/Upgraded AutoTurret
+[30:872] Frosky Bought ShieldSuit
+[30:872] Frosky Bought CombatSuit
+[30:872] Frosky Bought HazmatSuit
+[30:872] Frosky Bought CombatSuit
+[30:877] Frosky Bought CombatSuit
+
+[05:201] EdiblMrPants Placed/Upgraded AutomatedExtractor
+[07:277] EdiblMrPants Bought ShieldSuit
+[07:277] EdiblMrPants Bought CombatSuit
+[07:277] EdiblMrPants Bought HazmatSuit
+[07:277] EdiblMrPants Bought CombatSuit
+[08:007] EdiblMrPants Bought CombatSuit
+[16:150] EdiblMrPants Placed/Upgraded AutomatedExtractor
+[19:856] EdiblMrPants Placed/Upgraded AutomatedExtractor
+[22:330] EdiblMrPants Placed/Upgraded LesserNydusWorm
+[26:432] EdiblMrPants Placed/Upgraded LesserNydusWorm
+
+[00:588] Zakiah Unlocked AssaultRifle
+[00:667] Zakiah Placed/Upgraded MiningDroid
+[00:915] Zakiah Unlocked AdvancedDroidEngines
+[05:639] Zakiah Unlocked SpecOpsAssaultRifle
+[05:836] Zakiah Unlocked TitaniumBulletCasings
+[10:094] Zakiah Unlocked CombatSuit
+[11:131] Zakiah Unlocked PsiDisrupter
+[11:226] Zakiah Unlocked SpecOpsPsiDisruptor
+[11:807] Zakiah Unlocked MedicShield
+[13:579] Zakiah Placed/Upgraded PsiIndoctrinator
+[14:343] Zakiah Placed/Upgraded MiningDroid
+[15:620] Zakiah Placed/Upgraded MiningDroid
+[16:630] Zakiah Unlocked IncendiaryGrenade
+[18:096] Zakiah Unlocked AutoTargetingSystem
+[18:817] Zakiah Placed/Upgraded MiningDroid
+[21:144] Zakiah Placed/Upgraded PsiIndoctrinator
+[28:872] Zakiah Unlocked AdvancedCombatSuit
+[29:510] Zakiah Unlocked AutoTurret
+[29:838] Zakiah Placed/Upgraded AutoTurret
+[31:088] Zakiah Placed/Upgraded AutoTurret
+
+[00:588] Markuun Unlocked AssaultRifle
+[00:667] Markuun Placed/Upgraded MiningDroid
+[01:043] Markuun Unlocked AdvancedDroidEngines
+[03:148] Markuun Unlocked TurboDroidEngines
+[05:436] Markuun Unlocked Flamethrower
+[05:991] Markuun Unlocked Shieldsiotunlocked
+[06:028] Markuun Unlocked AdvancedShieldSuit
+[07:901] Markuun Unlocked DefensiveMatrix
+[08:118] Markuun Unlocked AIAssistant
+[08:140] Markuun Unlocked EnergyPack
+[09:851] Markuun Unlocked CombatShield
+[10:095] Markuun Bought ShieldSuit
+[10:095] Markuun Bought CombatSuit
+[10:095] Markuun Bought HazmatSuit
+[10:095] Markuun Bought CombatSuit
+[10:325] Markuun Unlocked SpecOpsFlamethrower
+[15:484] Markuun Unlocked ThermiteFilaments
+[15:572] Markuun Unlocked BioMechanicalRepairDrone
+[15:590] Markuun Unlocked SpecOpsBioMechanicalRepairDrone
+[15:694] Markuun Placed/Upgraded HealingDrone
+[18:149] Markuun Placed/Upgraded HealingDrone
+[19:766] Markuun Unlocked IncendiaryGrenade
+[19:779] Markuun Unlocked SpecOpsIncendiaryGrenade
+[19:999] Markuun Unlocked Teleporter
+[20:962] Markuun Placed/Upgraded HealingDrone
+[21:738] Markuun Placed/Upgraded HealingDrone
+[24:960] Markuun Placed/Upgraded HealingDrone
+[28:366] Markuun Placed/Upgraded MiningDroid
+[28:873] Markuun Bought CombatSuit
+[28:942] Markuun Placed/Upgraded HealingDrone
+[29:165] Markuun Placed/Upgraded HealingDrone
+[29:341] Markuun Placed/Upgraded HealingDrone
+[29:914] Markuun Placed/Upgraded MiningDroid
+
+[00:588] Commander Unlocked AssaultRifle
+[01:594] Commander Unlocked AdvancedDroidEngines
+[03:669] Commander Unlocked TurboDroidEngines
+[05:338] Commander Unlocked SpecOpsAssaultRifle
+[05:916] Commander Unlocked MedicShield
+[05:992] Commander Bought ShieldSuit
+[05:992] Commander Bought CombatSuit
+[05:992] Commander Bought HazmatSuit
+[05:992] Commander Bought ShieldSuit
+[06:029] Commander Bought ShieldSuit
+[10:369] Commander Unlocked TitaniumBulletCasings
+[10:438] Commander Unlocked Stimpack
+[11:581] Commander Unlocked PsiDisrupter
+[12:350] Commander Unlocked SpecOpsPsiDisruptor
+[21:049] Commander Unlocked MiningCharge
+[21:070] Commander Unlocked AdvancedMiningCharge
+[23:657] Commander Unlocked HazmatSuit
+[30:618] Commander Unlocked AutoTurret
+[30:706] Commander Unlocked HeavyTurret
+
+[00:552] Security Bought PlayerNumber
+[00:746] Security Spawned MassiveCocoon
+[02:186] Security Spawned PrimalTownHallUprooted
+[04:155] Security Bought StrainSpeed
+[04:444] Security Bought PureStrainSpeed
+[05:201] Security Bought BuildExtractorScienceLabs
+[07:422] Security Bought StrainSpeed
+[07:434] Security Bought PureStrainSpeed
+[08:749] Security Bought BuildExtractorScienceLabs
+[09:550] Security Bought UnlockDropPods
+[09:582] Security Bought EvolveDropPods
+[10:994] Security Bought HunterlingStrain
+[13:347] Security Bought HunterlingStrain
+[13:408] Security Bought StrainHealth
+[13:875] Security Bought EvolveDropPods
+[14:890] Security Bought EvolveDropPods
+[15:440] Security Bought EvolveDropPods
+[16:150] Security Bought BuildExtractorProcessingFacilities
+[16:440] Security Bought EvolveDropPods
+[17:116] Security Bought EvolveDropPods
+[18:369] Security Bought PureStrainHealth
+[19:420] Security Bought ExtractorCostReductionProcessingFacilities
+[19:420] Security Bought BuildExtractorProcessingFacilities
+[19:856] Security Bought BuildExtractorScienceLabs
+[21:152] Security Bought VirulentCreep
+[21:152] Security Bought VirulentCreep
+[22:331] Security Bought GreaterNydus
+[22:941] Security Bought TankStrain
+[23:658] Security Bought ShieldSuit
+[23:658] Security Bought CombatSuit
+[23:658] Security Bought HazmatSuit
+[23:658] Security Bought HazmatSuit
+[23:788] Security Bought DropshipsFueled
+[25:204] Security Bought StrainVolatile
+[25:217] Security Bought PureStrainVolatile
+[25:228] Security Bought KaboomerStrain
+[26:433] Security Bought GreaterNydus
+[26:576] Security Bought GreaterNydus
+[27:328] Security Spawned MassiveCocoon
+[28:768] Security Spawned InfestedAbomination
+[30:205] Security Bought StrainVolatile
+[30:216] Security Bought PureStrainVolatile
+[30:228] Security Bought KaboomerStrain
+[31:326] Security Bought GreaterNydus
+

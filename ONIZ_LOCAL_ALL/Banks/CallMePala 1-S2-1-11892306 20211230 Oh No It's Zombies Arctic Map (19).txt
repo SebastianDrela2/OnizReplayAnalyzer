@@ -1,0 +1,23 @@
+CallMePala HumanWinsNormal 35
+CallMePala ZombieRank 0
+CallMePala VespeneHarvested 168880
+CallMePala HumansRescued 74
+CallMePala SecurityForcesKilled 21047
+CallMePala ZombiesKilled 39190
+CallMePala FuelDiverted 59
+CallMePala HumanRank 3
+CallMePala NumberOfTimesCaptured 119
+CallMePala TurretsBuilt 137
+CallMePala ZombieWins 30
+CallMePala GamesLeft 19
+CallMePala GamesPlayedAsHuman 90
+CallMePala GamesPlayedAsZombie 55
+CallMePala HumansCaptured 400
+CallMePala K/D Ratio 329,33
+CallMePala Average Marine Winrate 39%
+CallMePala Average Fuel Diverts PerGame 0,66
+CallMePala Average Vespene Harvested PerGame 1876,44
+CallMePala Average Zombie Winrate 55,00000000000001%
+CallMePala Average Security Kills Per Game 383
+CallMePala Average Deaths PerGame 1,32
+CallMePala Average Infestation Class Class 4

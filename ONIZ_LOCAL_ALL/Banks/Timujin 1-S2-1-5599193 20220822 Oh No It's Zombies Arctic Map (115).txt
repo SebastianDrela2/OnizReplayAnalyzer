@@ -1,0 +1,23 @@
+Timujin HumanWinsNormal 302
+Timujin ZombieRank 9.1652
+Timujin VespeneHarvested 2026420
+Timujin HumansRescued 123
+Timujin SecurityForcesKilled 21066
+Timujin ZombiesKilled 383848
+Timujin FuelDiverted 1568
+Timujin HumanRank 27
+Timujin NumberOfTimesCaptured 433
+Timujin TurretsBuilt 5085
+Timujin ZombieWins 24
+Timujin GamesLeft 16
+Timujin GamesPlayedAsHuman 520
+Timujin GamesPlayedAsZombie 50
+Timujin HumansCaptured 412
+Timujin K/D Ratio 886,48
+Timujin Average Marine Winrate 57,99999999999999%
+Timujin Average Fuel Diverts PerGame 3,02
+Timujin Average Vespene Harvested PerGame 3896,96
+Timujin Average Zombie Winrate 48%
+Timujin Average Security Kills Per Game 421
+Timujin Average Deaths PerGame 0,83
+Timujin Average Infestation Class Class 5

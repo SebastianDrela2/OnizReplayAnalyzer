@@ -1,0 +1,24 @@
+Song HumanWinsNormal 64
+Song ZombieRank 15.8327
+Song VespeneHarvested 387900
+Song HumansRescued 56
+Song SecurityForcesKilled 13652
+Song ZombiesKilled 94764
+Song FuelDiverted 173
+Song PlayedRankedMode5.0 1
+Song HumanRank 26.1
+Song NumberOfTimesCaptured 52
+Song TurretsBuilt 864
+Song ZombieWins 20
+Song GamesLeft 8
+Song GamesPlayedAsHuman 106
+Song GamesPlayedAsZombie 31
+Song HumansCaptured 355
+jincong K/D Ratio 1822,38
+jincong Average Marine Winrate 60%
+jincong Average Fuel Diverts PerGame 1,63
+jincong Average Vespene Harvested PerGame 3659,43
+jincong Average Zombie Winrate 65%
+jincong Average Security Kills Per Game 440
+jincong Average Deaths PerGame 0,49
+jincong Average Infestation Class Class 5

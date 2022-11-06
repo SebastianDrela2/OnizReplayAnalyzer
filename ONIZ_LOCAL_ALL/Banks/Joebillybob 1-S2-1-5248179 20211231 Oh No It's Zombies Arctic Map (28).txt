@@ -1,0 +1,24 @@
+Joebillybob HumanWinsNormal 61
+Joebillybob ZombieRank 0
+Joebillybob VespeneHarvested 417380
+Joebillybob HumansRescued 151
+Joebillybob SecurityForcesKilled 964
+Joebillybob ZombiesKilled 72312
+Joebillybob FuelDiverted 367
+Joebillybob PlayedRankedMode5.0 1
+Joebillybob HumanRank 16.5
+Joebillybob NumberOfTimesCaptured 171
+Joebillybob TurretsBuilt 519
+Joebillybob ZombieWins 0
+Joebillybob GamesLeft 4
+Joebillybob GamesPlayedAsHuman 121
+Joebillybob GamesPlayedAsZombie 2
+Joebillybob HumansCaptured 20
+Joebillybob K/D Ratio 422,88
+Joebillybob Average Marine Winrate 50%
+Joebillybob Average Fuel Diverts PerGame 3,03
+Joebillybob Average Vespene Harvested PerGame 3449,42
+Joebillybob Average Zombie Winrate 0%
+Joebillybob Average Security Kills Per Game 482
+Joebillybob Average Deaths PerGame 1,41
+Joebillybob Average Infestation Class Class 5

@@ -1,0 +1,23 @@
+Ron HumanWinsNormal 28
+Ron ZombieRank 0
+Ron VespeneHarvested 138300
+Ron HumansRescued 77
+Ron SecurityForcesKilled 416
+Ron ZombiesKilled 41671
+Ron FuelDiverted 34
+Ron HumanRank 4.3334
+Ron NumberOfTimesCaptured 136
+Ron TurretsBuilt 273
+Ron ZombieWins 0
+Ron GamesLeft 14
+Ron GamesPlayedAsHuman 65
+Ron GamesPlayedAsZombie 1
+Ron HumansCaptured 10
+Ron K/D Ratio 306,4
+Ron Average Marine Winrate 43%
+Ron Average Fuel Diverts PerGame 0,52
+Ron Average Vespene Harvested PerGame 2127,69
+Ron Average Zombie Winrate 0%
+Ron Average Security Kills Per Game 416
+Ron Average Deaths PerGame 2,09
+Ron Average Infestation Class Class 5

@@ -1,0 +1,23 @@
+Moscowabunga HumanWinsNormal 63
+Moscowabunga ZombieRank 7.166
+Moscowabunga VespeneHarvested 222700
+Moscowabunga HumansRescued 117
+Moscowabunga SecurityForcesKilled 12606
+Moscowabunga ZombiesKilled 83197
+Moscowabunga FuelDiverted 553
+Moscowabunga HumanRank 25.5
+Moscowabunga NumberOfTimesCaptured 170
+Moscowabunga TurretsBuilt 239
+Moscowabunga ZombieWins 16
+Moscowabunga GamesLeft 10
+Moscowabunga GamesPlayedAsHuman 106
+Moscowabunga GamesPlayedAsZombie 31
+Moscowabunga HumansCaptured 345
+Moscowabunga K/D Ratio 489,39
+Moscowabunga Average Marine Winrate 59%
+Moscowabunga Average Fuel Diverts PerGame 5,22
+Moscowabunga Average Vespene Harvested PerGame 2100,94
+Moscowabunga Average Zombie Winrate 52%
+Moscowabunga Average Security Kills Per Game 407
+Moscowabunga Average Deaths PerGame 1,6
+Moscowabunga Average Infestation Class Class 4

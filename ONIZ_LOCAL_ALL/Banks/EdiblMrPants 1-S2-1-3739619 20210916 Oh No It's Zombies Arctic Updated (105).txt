@@ -1,0 +1,23 @@
+EdiblMrPants HumanWinsNormal 27
+EdiblMrPants ZombieRank 1.833
+EdiblMrPants VespeneHarvested 134700
+EdiblMrPants HumansRescued 73
+EdiblMrPants SecurityForcesKilled 12142
+EdiblMrPants ZombiesKilled 56901
+EdiblMrPants FuelDiverted 277
+EdiblMrPants HumanRank 2
+EdiblMrPants NumberOfTimesCaptured 150
+EdiblMrPants TurretsBuilt 388
+EdiblMrPants ZombieWins 9
+EdiblMrPants GamesLeft 1
+EdiblMrPants GamesPlayedAsHuman 71
+EdiblMrPants GamesPlayedAsZombie 27
+EdiblMrPants HumansCaptured 269
+EdiblMrPants K/D Ratio 379,34
+EdiblMrPants Average Marine Winrate 38%
+EdiblMrPants Average Fuel Diverts PerGame 3,9
+EdiblMrPants Average Vespene Harvested PerGame 1897,18
+EdiblMrPants Average Zombie Winrate 33%
+EdiblMrPants Average Security Kills Per Game 450
+EdiblMrPants Average Deaths PerGame 2,11
+EdiblMrPants Average Infestation Class Class 5

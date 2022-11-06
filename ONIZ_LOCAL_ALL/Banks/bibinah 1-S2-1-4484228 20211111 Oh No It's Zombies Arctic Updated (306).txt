@@ -1,0 +1,23 @@
+bibinah HumanWinsNormal 83
+bibinah ZombieRank 0
+bibinah VespeneHarvested 470900
+bibinah HumansRescued 185
+bibinah SecurityForcesKilled 42701
+bibinah ZombiesKilled 113467
+bibinah FuelDiverted 644
+bibinah HumanRank 1.5
+bibinah NumberOfTimesCaptured 355
+bibinah TurretsBuilt 1335
+bibinah ZombieWins 36
+bibinah GamesLeft 1
+bibinah GamesPlayedAsHuman 194
+bibinah GamesPlayedAsZombie 98
+bibinah HumansCaptured 914
+bibinah K/D Ratio 319,63
+bibinah Average Marine Winrate 43%
+bibinah Average Fuel Diverts PerGame 3,32
+bibinah Average Vespene Harvested PerGame 2427,32
+bibinah Average Zombie Winrate 37%
+bibinah Average Security Kills Per Game 436
+bibinah Average Deaths PerGame 1,83
+bibinah Average Infestation Class Class 5

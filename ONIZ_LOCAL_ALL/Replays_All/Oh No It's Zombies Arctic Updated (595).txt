@@ -1,0 +1,172 @@
+Analyzed: Oh No It's Zombies Arctic Updated (595)
+
+Zombie Win
+Zombie Undecided
+ID : 0 PlayerName: APLegend Race: Terran
+ID : 1 PlayerName: commander Race: Terran
+ID : 2 PlayerName: KingOfWinter Race: Terran
+ID : 3 PlayerName: Salsu Race: Terran
+ID : 4 PlayerName: Frosky Race: Zerg
+ID : 5 PlayerName: AssMountain Race: Terran
+ID : 6 PlayerName: TalentedArc Race: Terran
+ID : 7 PlayerName: Security Race: Zerg
+PURCHASES: 
+[00:588] APLegend Unlocked AssaultRifle
+[00:793] APLegend Placed/Upgraded MiningDroid
+[00:922] APLegend Unlocked AdvancedDroidEngines
+[09:126] APLegend Placed/Upgraded MiningDroid
+[10:938] APLegend Unlocked BeamRifle
+[17:392] APLegend Placed/Upgraded MiningDroid
+[18:710] APLegend Unlocked SpecOpsPlasmaRifle
+[19:360] APLegend Unlocked LongRangeScope
+
+[00:588] commander Unlocked AssaultRifle
+[00:946] commander Placed/Upgraded MiningDroid
+[01:073] commander Unlocked PsiDisrupter
+[03:450] commander Placed/Upgraded PsiIndoctrinator
+[06:379] commander Unlocked SpecOpsAssaultRifle
+[11:712] commander Placed/Upgraded MiningDroid
+[14:765] commander Placed/Upgraded PsiIndoctrinator
+[16:582] commander Unlocked OverloadWeapon
+[19:415] commander Unlocked TitaniumBulletCasings
+[20:876] commander Unlocked Shieldsiotunlocked
+
+[00:588] KingOfWinter Unlocked AssaultRifle
+[00:799] KingOfWinter Placed/Upgraded MiningDroid
+[01:096] KingOfWinter Unlocked AdvancedDroidEngines
+[02:485] KingOfWinter Unlocked IncendiaryGrenade
+[03:988] KingOfWinter Unlocked BioMechanicalRepairDrone
+[04:043] KingOfWinter Unlocked SpecOpsBioMechanicalRepairDrone
+[05:743] KingOfWinter Unlocked TurboDroidEngines
+[06:966] KingOfWinter Unlocked MotionSensor
+[07:171] KingOfWinter Placed/Upgraded SensorTower
+[07:860] KingOfWinter Placed/Upgraded SensorTower
+[09:272] KingOfWinter Placed/Upgraded HealingDrone
+[09:514] KingOfWinter Placed/Upgraded HealingDrone
+[09:950] KingOfWinter Placed/Upgraded HealingDrone
+[12:029] KingOfWinter Placed/Upgraded MiningDroid
+[14:282] KingOfWinter Placed/Upgraded HealingDrone
+[14:437] KingOfWinter Unlocked HellfireRocketLauncher
+[14:521] KingOfWinter Unlocked MedicShield
+[20:592] KingOfWinter Unlocked CombatSuit
+[20:877] KingOfWinter Bought ShieldSuit
+[20:877] KingOfWinter Bought CombatSuit
+[20:877] KingOfWinter Bought HazmatSuit
+[20:877] KingOfWinter Bought ShieldSuit
+[26:543] KingOfWinter Placed/Upgraded HealingDrone
+[28:514] KingOfWinter Placed/Upgraded HealingDrone
+[31:433] KingOfWinter Placed/Upgraded HealingDrone
+
+[00:588] Salsu Unlocked AssaultRifle
+[00:685] Salsu Placed/Upgraded MiningDroid
+[00:833] Salsu Unlocked AdvancedDroidEngines
+[03:184] Salsu Unlocked TurboDroidEngines
+[03:830] Salsu Unlocked FragGrenade
+[06:229] Salsu Unlocked SpecOpsFragGrenade
+[07:774] Salsu Unlocked SpecOpsAssaultRifle
+[10:101] Salsu Placed/Upgraded MiningDroid
+[13:487] Salsu Unlocked AutoTargetingSystem
+[15:507] Salsu Unlocked EnergySuit
+[15:508] Salsu Unlocked EnergySuit
+[18:361] Salsu Unlocked AdvancedEnergySuit
+[18:362] Salsu Unlocked EnergySuit
+[18:362] Salsu Unlocked AdvancedEnergySuit
+[19:799] Salsu Unlocked SuperStimpack
+[19:867] Salsu Unlocked EnergyPack
+[20:593] Salsu Bought ShieldSuit
+[20:593] Salsu Bought CombatSuit
+[20:593] Salsu Bought HazmatSuit
+[20:593] Salsu Bought CombatSuit
+[23:552] Salsu Unlocked CombatShield
+
+[08:587] Frosky Placed/Upgraded ToxicNest
+[08:594] Frosky Placed/Upgraded ToxicNest
+[08:604] Frosky Placed/Upgraded ToxicNest
+[08:609] Frosky Placed/Upgraded ToxicNest
+[08:661] Frosky Placed/Upgraded PrimalSunkenColony
+[12:626] Frosky Placed/Upgraded AutomatedExtractor
+[12:959] Frosky Placed/Upgraded ToxicNest
+[15:508] Frosky Bought ShieldSuit
+[15:508] Frosky Bought CombatSuit
+[15:508] Frosky Bought HazmatSuit
+[16:440] Frosky Placed/Upgraded AutomatedExtractor
+[19:691] Frosky Placed/Upgraded AutomatedExtractor
+[21:116] Frosky Placed/Upgraded Virophage
+[22:630] Frosky Placed/Upgraded Virophage
+[23:449] Frosky Placed/Upgraded Virophage
+[25:155] Frosky Placed/Upgraded NydusCanalCreeper
+[28:524] Frosky Placed/Upgraded NydusCanalCreeper
+[31:154] Frosky Placed/Upgraded NydusCanalCreeper
+
+[00:588] AssMountain Unlocked AssaultRifle
+[00:889] AssMountain Placed/Upgraded MiningDroid
+[03:474] AssMountain Unlocked SpecOpsAssaultRifle
+[03:742] AssMountain Unlocked PsiDisrupter
+[05:691] AssMountain Placed/Upgraded PsiIndoctrinator
+[11:607] AssMountain Unlocked PsiDepressor
+
+[00:588] TalentedArc Unlocked AssaultRifle
+[00:906] TalentedArc Unlocked SuperStimpack
+[04:121] TalentedArc Unlocked AdvancedDroidEngines
+[05:726] TalentedArc Unlocked TurboDroidEngines
+[07:656] TalentedArc Unlocked SpecOpsSuperStimpack
+[10:492] TalentedArc Unlocked SpecOpsAssaultRifle
+[11:298] TalentedArc Unlocked TitaniumBulletCasings
+[12:739] TalentedArc Unlocked CombatSuit
+[13:111] TalentedArc Unlocked CombatShield
+[15:084] TalentedArc Unlocked AdvancedCombatSuit
+[15:426] TalentedArc Unlocked BioMechanicalRepairDrone
+[17:768] TalentedArc Unlocked OverloadWeapon
+
+[00:000] Security Spawned Abomination
+[00:552] Security Bought PlayerNumber
+[01:624] Security Spawned MassiveCocoon
+[03:064] Security Spawned Hunter
+[03:948] Security Spawned MassiveCocoon
+[05:388] Security Spawned Hunter
+[05:882] Security Spawned MassiveCocoon
+[07:322] Security Spawned PrimalTownHallUprooted
+[07:858] Security Bought CreepSpeed
+[08:662] Security Bought SunkenColony
+[12:626] Security Bought BuildExtractorManufacturingSector
+[12:740] Security Bought ShieldSuit
+[12:740] Security Bought CombatSuit
+[12:740] Security Bought HazmatSuit
+[12:740] Security Bought CombatSuit
+[14:440] Security Bought CreepSpeed
+[15:085] Security Bought CombatSuit
+[16:440] Security Bought BuildExtractorProcessingFacilities
+[16:923] Security Bought StrainVolatile
+[16:930] Security Bought PureStrainVolatile
+[17:942] Security Bought StrainSpeed
+[18:533] Security Bought PureStrainSpeed
+[19:642] Security Bought KaboomerStrain
+[19:691] Security Bought BuildExtractorScienceLabs
+[20:349] Security Bought BuildExtractorScienceLabs
+[20:996] Security Spawned MassiveCocoon
+[21:509] Security Bought AdvancedInfestationContainment
+[22:436] Security Spawned Anubalisk
+[23:121] Security Bought HunterlingStrain
+[25:094] Security Bought VirulentCreep
+[25:094] Security Bought VirulentCreep
+[25:411] Security Bought StrainHealth
+[25:419] Security Bought ExtractorCostReductionManufacturingSector
+[25:419] Security Bought BuildExtractorManufacturingSector
+[26:075] Security Bought PureStrainHealth
+[26:800] Security Bought UnlockDropPods
+[26:806] Security Bought EvolveDropPods
+[26:809] Security Bought EvolveDropPods
+[27:971] Security Bought EvolveDropPods
+[27:975] Security Bought EvolveDropPods
+[27:978] Security Bought EvolveDropPods
+[28:766] Security Spawned MassiveCocoon
+[29:534] Security Bought EvolveDropPods
+[29:846] Security Spawned Underseer
+[31:011] Security Bought TankStrain
+[31:042] Security Bought StrainDamage
+[31:260] Security Bought DropshipsFueled
+[31:326] Security Spawned RoyalCocoon
+[31:326] Security Bought SpawnHiveQueen
+[31:326] Security Bought UltimateInfestationResearched
+[32:045] Security Spawned QueenCoop
+

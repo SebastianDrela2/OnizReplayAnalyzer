@@ -1,0 +1,25 @@
+Pofi HumanWinsNormal 32
+Pofi LeftLastGameAsZombie 0
+Pofi ZombieRank 13.8327
+Pofi VespeneHarvested 240800
+Pofi HumansRescued 76
+Pofi SecurityForcesKilled 16099
+Pofi ZombiesKilled 45268
+Pofi FuelDiverted 364
+Pofi PlayedRankedMode5.0 1
+Pofi HumanRank 4.5
+Pofi NumberOfTimesCaptured 147
+Pofi TurretsBuilt 336
+Pofi ZombieWins 16
+Pofi GamesLeft 2
+Pofi GamesPlayedAsHuman 76
+Pofi GamesPlayedAsZombie 36
+Pofi HumansCaptured 393
+Pofi K/D Ratio 307,95
+Pofi Average Marine Winrate 42%
+Pofi Average Fuel Diverts PerGame 4,79
+Pofi Average Vespene Harvested PerGame 3168,42
+Pofi Average Zombie Winrate 44%
+Pofi Average Security Kills Per Game 447
+Pofi Average Deaths PerGame 1,93
+Pofi Average Infestation Class Class 5

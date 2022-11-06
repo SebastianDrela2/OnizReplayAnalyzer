@@ -1,0 +1,24 @@
+Ecthelion HumanWinsNormal 30
+Ecthelion ZombieRank 9.6662
+Ecthelion VespeneHarvested 180800
+Ecthelion HumansRescued 51
+Ecthelion SecurityForcesKilled 5039
+Ecthelion ZombiesKilled 41566
+Ecthelion FuelDiverted 120
+Ecthelion PlayedRankedMode5.0 1
+Ecthelion HumanRank 10.25
+Ecthelion NumberOfTimesCaptured 60
+Ecthelion TurretsBuilt 515
+Ecthelion ZombieWins 7
+Ecthelion GamesLeft 8
+Ecthelion GamesPlayedAsHuman 59
+Ecthelion GamesPlayedAsZombie 11
+Ecthelion HumansCaptured 140
+Ecthelion K/D Ratio 692,77
+Ecthelion Average Marine Winrate 51%
+Ecthelion Average Fuel Diverts PerGame 2,03
+Ecthelion Average Vespene Harvested PerGame 3064,41
+Ecthelion Average Zombie Winrate 64%
+Ecthelion Average Security Kills Per Game 458
+Ecthelion Average Deaths PerGame 1,02
+Ecthelion Average Infestation Class Class 5

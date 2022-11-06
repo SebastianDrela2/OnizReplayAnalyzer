@@ -1,0 +1,25 @@
+Spudnuts HumanWinsNormal 68
+Spudnuts LeftLastGameAsZombie 0
+Spudnuts ZombieRank 0
+Spudnuts VespeneHarvested 640300
+Spudnuts HumansRescued 150
+Spudnuts SecurityForcesKilled 43990
+Spudnuts ZombiesKilled 108895
+Spudnuts FuelDiverted 296
+Spudnuts PlayedRankedMode5.0 1
+Spudnuts HumanRank 2
+Spudnuts NumberOfTimesCaptured 546
+Spudnuts TurretsBuilt 719
+Spudnuts ZombieWins 35
+Spudnuts GamesLeft 28
+Spudnuts GamesPlayedAsHuman 228
+Spudnuts GamesPlayedAsZombie 105
+Spudnuts HumansCaptured 1007
+Spudnuts K/D Ratio 199,44
+Spudnuts Average Marine Winrate 30%
+Spudnuts Average Fuel Diverts PerGame 1,3
+Spudnuts Average Vespene Harvested PerGame 2808,33
+Spudnuts Average Zombie Winrate 33%
+Spudnuts Average Security Kills Per Game 419
+Spudnuts Average Deaths PerGame 2,39
+Spudnuts Average Infestation Class Class 5

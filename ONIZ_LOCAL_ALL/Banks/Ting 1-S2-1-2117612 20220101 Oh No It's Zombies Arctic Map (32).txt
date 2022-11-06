@@ -1,0 +1,23 @@
+Ting HumanWinsNormal 20
+Ting ZombieRank 0
+Ting VespeneHarvested 163540
+Ting HumansRescued 43
+Ting SecurityForcesKilled 797
+Ting ZombiesKilled 25480
+Ting FuelDiverted 156
+Ting HumanRank 1
+Ting NumberOfTimesCaptured 135
+Ting TurretsBuilt 239
+Ting ZombieWins 1
+Ting GamesLeft 2
+Ting GamesPlayedAsHuman 69
+Ting GamesPlayedAsZombie 3
+Ting HumansCaptured 8
+Ting K/D Ratio 188,74
+Ting Average Marine Winrate 28,999999999999996%
+Ting Average Fuel Diverts PerGame 2,26
+Ting Average Vespene Harvested PerGame 2370,14
+Ting Average Zombie Winrate 33%
+Ting Average Security Kills Per Game 266
+Ting Average Deaths PerGame 1,96
+Ting Average Infestation Class Class 3

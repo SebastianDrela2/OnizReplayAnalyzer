@@ -1,0 +1,23 @@
+yoloLife HumanWinsNormal 30
+yoloLife ZombieRank 3.6662
+yoloLife VespeneHarvested 231600
+yoloLife HumansRescued 55
+yoloLife SecurityForcesKilled 20506
+yoloLife ZombiesKilled 44828
+yoloLife FuelDiverted 176
+yoloLife HumanRank 4.5
+yoloLife NumberOfTimesCaptured 158
+yoloLife TurretsBuilt 484
+yoloLife ZombieWins 19
+yoloLife GamesLeft 4
+yoloLife GamesPlayedAsHuman 81
+yoloLife GamesPlayedAsZombie 44
+yoloLife HumansCaptured 425
+yoloLife K/D Ratio 283,72
+yoloLife Average Marine Winrate 37%
+yoloLife Average Fuel Diverts PerGame 2,17
+yoloLife Average Vespene Harvested PerGame 2859,26
+yoloLife Average Zombie Winrate 43%
+yoloLife Average Security Kills Per Game 466
+yoloLife Average Deaths PerGame 1,95
+yoloLife Average Infestation Class Class 5

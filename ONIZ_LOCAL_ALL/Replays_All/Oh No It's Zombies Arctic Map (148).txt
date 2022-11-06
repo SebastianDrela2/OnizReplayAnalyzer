@@ -1,0 +1,28 @@
+Analyzed: Oh No It's Zombies Arctic Map (148)
+
+Zombie Undecided
+ID : 0 PlayerName: Frosky Race: Zerg
+ID : 7 PlayerName: Security Race: Protoss
+PURCHASES: 
+[00:636] Frosky Spawned MassiveCocoon
+[01:716] Frosky Spawned Underseer
+[02:372] Frosky Spawned MassiveCocoon
+[02:378] Frosky Spawned MassiveCocoon
+[02:382] Frosky Spawned MassiveCocoon
+[02:385] Frosky Spawned MassiveCocoon
+[02:388] Frosky Spawned MassiveCocoon
+[02:392] Frosky Spawned MassiveCocoon
+[03:452] Frosky Spawned Underseer
+[03:458] Frosky Spawned Underseer
+[03:462] Frosky Spawned Underseer
+[03:465] Frosky Spawned Underseer
+[03:468] Frosky Spawned Underseer
+[03:472] Frosky Spawned Underseer
+
+
+
+
+
+
+
+

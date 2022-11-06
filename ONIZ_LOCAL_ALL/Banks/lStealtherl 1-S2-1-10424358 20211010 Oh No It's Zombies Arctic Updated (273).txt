@@ -1,0 +1,25 @@
+lStealtherl HumanWinsNormal 32
+lStealtherl LeftLastGameAsZombie 0
+lStealtherl ZombieRank 0
+lStealtherl VespeneHarvested 193900
+lStealtherl HumansRescued 73
+lStealtherl SecurityForcesKilled 416
+lStealtherl ZombiesKilled 48258
+lStealtherl FuelDiverted 59
+lStealtherl PlayedRankedMode5.0 1
+lStealtherl HumanRank 12.6667
+lStealtherl NumberOfTimesCaptured 103
+lStealtherl TurretsBuilt 464
+lStealtherl ZombieWins 0
+lStealtherl GamesLeft 3
+lStealtherl GamesPlayedAsHuman 80
+lStealtherl GamesPlayedAsZombie 2
+lStealtherl HumansCaptured 17
+lStealtherl K/D Ratio 468,52
+lStealtherl Average Marine Winrate 40%
+lStealtherl Average Fuel Diverts PerGame 0,74
+lStealtherl Average Vespene Harvested PerGame 2423,75
+lStealtherl Average Zombie Winrate 0%
+lStealtherl Average Security Kills Per Game 208
+lStealtherl Average Deaths PerGame 1,29
+lStealtherl Average Infestation Class Class 3

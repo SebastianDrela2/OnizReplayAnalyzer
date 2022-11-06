@@ -1,0 +1,23 @@
+Voi HumanWinsNormal 58
+Voi ZombieRank 8.333
+Voi VespeneHarvested 242600
+Voi HumansRescued 202
+Voi SecurityForcesKilled 15196
+Voi ZombiesKilled 73140
+Voi FuelDiverted 417
+Voi HumanRank 5.867
+Voi NumberOfTimesCaptured 289
+Voi TurretsBuilt 595
+Voi ZombieWins 15
+Voi GamesLeft 3
+Voi GamesPlayedAsHuman 121
+Voi GamesPlayedAsZombie 39
+Voi HumansCaptured 386
+Voi K/D Ratio 253,08
+Voi Average Marine Winrate 48%
+Voi Average Fuel Diverts PerGame 3,45
+Voi Average Vespene Harvested PerGame 2004,96
+Voi Average Zombie Winrate 38%
+Voi Average Security Kills Per Game 390
+Voi Average Deaths PerGame 2,39
+Voi Average Infestation Class Class 4

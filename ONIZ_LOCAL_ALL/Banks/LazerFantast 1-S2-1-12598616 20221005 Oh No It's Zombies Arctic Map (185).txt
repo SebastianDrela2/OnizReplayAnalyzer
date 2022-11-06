@@ -1,0 +1,23 @@
+LazerFantast HumanWinsNormal 16
+LazerFantast ZombieRank 0.1667
+LazerFantast VespeneHarvested 132040
+LazerFantast HumansRescued 24
+LazerFantast SecurityForcesKilled 9059
+LazerFantast ZombiesKilled 25295
+LazerFantast FuelDiverted 7
+LazerFantast HumanRank 1
+LazerFantast NumberOfTimesCaptured 180
+LazerFantast TurretsBuilt 423
+LazerFantast ZombieWins 3
+LazerFantast GamesLeft 5
+LazerFantast GamesPlayedAsHuman 67
+LazerFantast GamesPlayedAsZombie 21
+LazerFantast HumansCaptured 180
+LazerFantast K/D Ratio 140,53
+LazerFantast Average Marine Winrate 24%
+LazerFantast Average Fuel Diverts PerGame 0,1
+LazerFantast Average Vespene Harvested PerGame 1970,75
+LazerFantast Average Zombie Winrate 14,000000000000002%
+LazerFantast Average Security Kills Per Game 431
+LazerFantast Average Deaths PerGame 2,69
+LazerFantast Average Infestation Class Class 5

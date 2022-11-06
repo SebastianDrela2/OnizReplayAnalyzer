@@ -1,0 +1,23 @@
+LouDawg HumanWinsNormal 113
+LouDawg ZombieRank 0
+LouDawg VespeneHarvested 609460
+LouDawg HumansRescued 176
+LouDawg SecurityForcesKilled 660
+LouDawg ZombiesKilled 111745
+LouDawg FuelDiverted 410
+LouDawg HumanRank 8.1
+LouDawg NumberOfTimesCaptured 392
+LouDawg TurretsBuilt 318
+LouDawg ZombieWins 1
+LouDawg GamesLeft 21
+LouDawg GamesPlayedAsHuman 268
+LouDawg GamesPlayedAsZombie 4
+LouDawg HumansCaptured 6
+LouDawg K/D Ratio 285,06
+LouDawg Average Marine Winrate 42%
+LouDawg Average Fuel Diverts PerGame 1,53
+LouDawg Average Vespene Harvested PerGame 2274,1
+LouDawg Average Zombie Winrate 25%
+LouDawg Average Security Kills Per Game 165
+LouDawg Average Deaths PerGame 1,46
+LouDawg Average Infestation Class Class 2

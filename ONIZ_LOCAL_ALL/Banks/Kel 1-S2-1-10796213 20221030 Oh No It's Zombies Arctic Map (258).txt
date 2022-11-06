@@ -1,0 +1,23 @@
+Kel HumanWinsNormal 66
+Kel ZombieRank 10.666
+Kel VespeneHarvested 214740
+Kel HumansRescued 156
+Kel SecurityForcesKilled 18850
+Kel ZombiesKilled 56021
+Kel FuelDiverted 348
+Kel HumanRank 2
+Kel NumberOfTimesCaptured 82
+Kel TurretsBuilt 235
+Kel ZombieWins 34
+Kel GamesLeft 19
+Kel GamesPlayedAsHuman 130
+Kel GamesPlayedAsZombie 55
+Kel HumansCaptured 441
+Kel K/D Ratio 683,18
+Kel Average Marine Winrate 51%
+Kel Average Fuel Diverts PerGame 2,68
+Kel Average Vespene Harvested PerGame 1651,85
+Kel Average Zombie Winrate 62%
+Kel Average Security Kills Per Game 343
+Kel Average Deaths PerGame 0,63
+Kel Average Infestation Class Class 4

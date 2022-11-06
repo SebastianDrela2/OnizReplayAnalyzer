@@ -1,0 +1,23 @@
+knight HumanWinsNormal 30
+knight ZombieRank 0
+knight VespeneHarvested 157420
+knight HumansRescued 31
+knight SecurityForcesKilled 8913
+knight ZombiesKilled 35115
+knight FuelDiverted 161
+knight HumanRank 7.75
+knight NumberOfTimesCaptured 69
+knight TurretsBuilt 162
+knight ZombieWins 26
+knight GamesLeft 3
+knight GamesPlayedAsHuman 56
+knight GamesPlayedAsZombie 29
+knight HumansCaptured 167
+knight K/D Ratio 508,91
+knight Average Marine Winrate 54%
+knight Average Fuel Diverts PerGame 2,88
+knight Average Vespene Harvested PerGame 2811,07
+knight Average Zombie Winrate 90%
+knight Average Security Kills Per Game 307
+knight Average Deaths PerGame 1,23
+knight Average Infestation Class Class 4

@@ -1,0 +1,24 @@
+Cuthulhu HumanWinsNormal 18
+Cuthulhu ZombieRank 8.832
+Cuthulhu VespeneHarvested 239400
+Cuthulhu HumansRescued 147
+Cuthulhu SecurityForcesKilled 22499
+Cuthulhu ZombiesKilled 46789
+Cuthulhu FuelDiverted 69
+Cuthulhu PlayedRankedMode5.0 1
+Cuthulhu HumanRank 0
+Cuthulhu NumberOfTimesCaptured 289
+Cuthulhu TurretsBuilt 304
+Cuthulhu ZombieWins 24
+Cuthulhu GamesLeft 8
+Cuthulhu GamesPlayedAsHuman 90
+Cuthulhu GamesPlayedAsZombie 54
+Cuthulhu HumansCaptured 469
+Cuthulhu K/D Ratio 161,9
+Cuthulhu Average Marine Winrate 20%
+Cuthulhu Average Fuel Diverts PerGame 0,77
+Cuthulhu Average Vespene Harvested PerGame 2660
+Cuthulhu Average Zombie Winrate 44%
+Cuthulhu Average Security Kills Per Game 417
+Cuthulhu Average Deaths PerGame 3,21
+Cuthulhu Average Infestation Class Class 5

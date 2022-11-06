@@ -1,0 +1,24 @@
+Ghost HumanWinsNormal 39
+Ghost ZombieRank 0
+Ghost VespeneHarvested 178500
+Ghost HumansRescued 63
+Ghost SecurityForcesKilled 337
+Ghost ZombiesKilled 35885
+Ghost FuelDiverted 66
+Ghost PlayedRankedMode5.0 1
+Ghost HumanRank 1
+Ghost NumberOfTimesCaptured 107
+Ghost TurretsBuilt 233
+Ghost ZombieWins 1
+Ghost GamesLeft 30
+Ghost GamesPlayedAsHuman 93
+Ghost GamesPlayedAsZombie 4
+Ghost HumansCaptured 0
+Ghost K/D Ratio 335,37
+Ghost Average Marine Winrate 42%
+Ghost Average Fuel Diverts PerGame 0,71
+Ghost Average Vespene Harvested PerGame 1919,35
+Ghost Average Zombie Winrate 25%
+Ghost Average Security Kills Per Game 84
+Ghost Average Deaths PerGame 1,15
+Ghost Average Infestation Class Class 2

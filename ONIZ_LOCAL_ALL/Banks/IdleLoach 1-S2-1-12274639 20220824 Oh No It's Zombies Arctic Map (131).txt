@@ -1,0 +1,23 @@
+IdleLoach HumanWinsNormal 71
+IdleLoach ZombieRank 0
+IdleLoach VespeneHarvested 410820
+IdleLoach HumansRescued 151
+IdleLoach SecurityForcesKilled 333
+IdleLoach ZombiesKilled 123721
+IdleLoach FuelDiverted 227
+IdleLoach HumanRank 10.2001
+IdleLoach NumberOfTimesCaptured 230
+IdleLoach TurretsBuilt 1162
+IdleLoach ZombieWins 0
+IdleLoach GamesLeft 5
+IdleLoach GamesPlayedAsHuman 163
+IdleLoach GamesPlayedAsZombie 4
+IdleLoach HumansCaptured 2
+IdleLoach K/D Ratio 537,92
+IdleLoach Average Marine Winrate 44%
+IdleLoach Average Fuel Diverts PerGame 1,39
+IdleLoach Average Vespene Harvested PerGame 2520,37
+IdleLoach Average Zombie Winrate 0%
+IdleLoach Average Security Kills Per Game 83
+IdleLoach Average Deaths PerGame 1,41
+IdleLoach Average Infestation Class Class 2

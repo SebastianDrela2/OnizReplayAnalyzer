@@ -1,0 +1,23 @@
+SigmaSultan HumanWinsNormal 32
+SigmaSultan ZombieRank 0
+SigmaSultan VespeneHarvested 159340
+SigmaSultan HumansRescued 58
+SigmaSultan SecurityForcesKilled 0
+SigmaSultan ZombiesKilled 39314
+SigmaSultan FuelDiverted 13
+SigmaSultan HumanRank 2.5
+SigmaSultan NumberOfTimesCaptured 128
+SigmaSultan TurretsBuilt 256
+SigmaSultan ZombieWins 0
+SigmaSultan GamesLeft 13
+SigmaSultan GamesPlayedAsHuman 77
+SigmaSultan GamesPlayedAsZombie 0
+SigmaSultan HumansCaptured 0
+SigmaSultan K/D Ratio 307,14
+SigmaSultan Average Marine Winrate 42%
+SigmaSultan Average Fuel Diverts PerGame 0,17
+SigmaSultan Average Vespene Harvested PerGame 2069,35
+SigmaSultan Average Zombie Winrate NaN%
+SigmaSultan Average Security Kills Per Game NaN
+SigmaSultan Average Deaths PerGame 1,66
+SigmaSultan Average Infestation Class Class 1

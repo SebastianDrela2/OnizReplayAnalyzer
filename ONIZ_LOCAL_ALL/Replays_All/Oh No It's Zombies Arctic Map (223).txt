@@ -1,0 +1,182 @@
+Analyzed: Oh No It's Zombies Arctic Map (223)
+
+Zombie Undecided
+ID : 0 PlayerName: Frosky Race: Terran
+ID : 1 PlayerName: jack Race: Terran
+ID : 2 PlayerName: insect Race: Terran
+ID : 3 PlayerName: taibeo Race: Zerg
+ID : 4 PlayerName: taylornator Race: Terran
+ID : 5 PlayerName: Hitnfly Race: Terran
+ID : 6 PlayerName: freedream Race: Terran
+ID : 7 PlayerName: Security Race: Terran Tychus
+PURCHASES: 
+[00:572] Frosky Unlocked AssaultRifle
+[00:651] Frosky Placed/Upgraded MiningDroid
+[00:811] Frosky Unlocked ArcWelder
+[01:556] Frosky Unlocked Stimpack
+[02:832] Frosky Unlocked BioMechanicalRepairDrone
+[02:844] Frosky Unlocked CombatAccelerationDrone
+[02:946] Frosky Placed/Upgraded HealingDrone
+[03:353] Frosky Placed/Upgraded HealingDrone
+[03:858] Frosky Placed/Upgraded HealingDrone
+[04:695] Frosky Unlocked AdvancedDroidEngines
+[05:841] Frosky Unlocked TurboDroidEngines
+[07:000] Frosky Unlocked PsiDisrupter
+[07:211] Frosky Placed/Upgraded PsiIndoctrinator
+[07:777] Frosky Placed/Upgraded PsiIndoctrinator
+[08:907] Frosky Unlocked AutoTurret
+[08:920] Frosky Unlocked HeavyTurret
+[09:151] Frosky Placed/Upgraded AutoTurret
+[09:997] Frosky Placed/Upgraded AutoTurret
+[10:580] Frosky Placed/Upgraded AutoTurret
+[12:168] Frosky Placed/Upgraded AutoTurret
+[12:939] Frosky Placed/Upgraded AutoTurret
+[13:054] Frosky Unlocked FlameTurret
+[13:202] Frosky Placed/Upgraded AutoTurret
+[13:350] Frosky Placed/Upgraded AutoTurret
+[13:743] Frosky Unlocked SpecOpsPsiDisruptor
+[14:555] Frosky Placed/Upgraded AutoTurret
+[15:139] Frosky Placed/Upgraded AutoTurret
+[15:443] Frosky Placed/Upgraded PsiIndoctrinator
+[15:721] Frosky Placed/Upgraded AutoTurret
+[15:922] Frosky Placed/Upgraded HealingDrone
+[16:907] Frosky Unlocked ExplorationDroid
+[16:927] Frosky Placed/Upgraded ExplorationDroid
+[16:935] Frosky Placed/Upgraded ExplorationDroid
+[17:090] Frosky Placed/Upgraded ExplorationDroid
+[17:553] Frosky Placed/Upgraded AutoTurret
+[17:670] Frosky Unlocked SpecOpsBioMechanicalRepairDrone
+[17:704] Frosky Placed/Upgraded HealingDrone
+[18:961] Frosky Unlocked CombatShield
+[18:969] Frosky Unlocked AIAssistant
+[20:163] Frosky Placed/Upgraded AutoTurret
+[20:308] Frosky Placed/Upgraded AutoTurret
+[20:793] Frosky Placed/Upgraded AutoTurret
+[21:041] Frosky Placed/Upgraded HealingDrone
+[22:120] Frosky Placed/Upgraded AutoTurret
+[22:737] Frosky Placed/Upgraded AutoTurret
+[22:940] Frosky Placed/Upgraded AutoTurret
+[23:528] Frosky Placed/Upgraded AutoTurret
+[23:694] Frosky Placed/Upgraded HealingDrone
+[23:955] Frosky Placed/Upgraded AutoTurret
+[25:332] Frosky Placed/Upgraded AutoTurret
+[25:521] Frosky Placed/Upgraded HealingDrone
+
+[00:572] jack Unlocked AssaultRifle
+[02:177] jack Unlocked SpecOpsAssaultRifle
+[02:343] jack Placed/Upgraded MiningDroid
+[05:641] jack Unlocked BeamRifle
+
+[00:572] insect Unlocked AssaultRifle
+[01:465] insect Placed MiningDroid
+[02:006] insect Unlocked EnergySuit
+[02:007] insect Unlocked EnergySuit
+[06:260] insect Unlocked SpecOpsAssaultRifle
+[09:637] insect Unlocked TitaniumBulletCasings
+
+[00:568] taibeo Bought PlayerNumber
+[02:007] taibeo Bought ShieldSuit
+[02:007] taibeo Bought CombatSuit
+[02:007] taibeo Bought HazmatSuit
+[02:099] taibeo Spawned MassiveCocoon
+[03:184] taibeo Spawned MassiveCocoon
+[03:539] taibeo Spawned InfestedAbomination
+[03:683] taibeo Placed/Upgraded LocustNest
+[03:929] taibeo Placed/Upgraded LocustNest
+[04:264] taibeo Spawned Underseer
+[06:264] taibeo Placed/Upgraded LocustNest
+[07:513] taibeo Bought AdvancedInfestationContainment
+[08:489] taibeo Bought BuildExtractorExcavationZone
+[08:489] taibeo Placed/Upgraded AutomatedExtractor
+[08:638] taibeo Placed/Upgraded LocustNest
+[10:034] taibeo Placed/Upgraded LesserNydusWorm
+[10:035] taibeo Bought GreaterNydus
+[12:208] taibeo Spawned MassiveCocoon
+[12:259] taibeo Bought BuildExtractorProcessingFacilities
+[12:259] taibeo Placed/Upgraded AutomatedExtractor
+[13:251] taibeo Bought CreepSpeed
+[13:288] taibeo Spawned Underseer
+[14:781] taibeo Bought StrainHealth
+[14:795] taibeo Bought StrainSpeed
+[15:148] taibeo Bought AdvancedInfestationSecurity
+[15:172] taibeo Bought TrackHumans
+[15:319] taibeo Spawned MassiveCocoon
+[15:425] taibeo Placed/Upgraded PrimalSunkenColony
+[15:426] taibeo Bought SunkenColony
+[16:225] taibeo Bought SiphonFuel
+[16:322] taibeo Placed/Upgraded Virophage
+[16:399] taibeo Spawned Underseer
+[16:662] taibeo Bought TrackHumans
+[16:970] taibeo Bought BuildExtractorScienceLabs
+[16:970] taibeo Placed/Upgraded AutomatedExtractor
+[18:772] taibeo Bought UnlockDropPods
+[18:781] taibeo Bought EvolveDropPods
+[19:576] taibeo Bought VirulentCreep
+[19:882] taibeo Bought TrackHumans
+[20:264] taibeo Bought EvolveDropPods
+[20:268] taibeo Bought EvolveDropPods
+[20:655] taibeo Placed/Upgraded Virophage
+[20:945] taibeo Bought SiphonFuel
+[21:682] taibeo Bought TrackHumans
+[21:935] taibeo Bought SpawnNydusWorm
+[22:419] taibeo Placed/Upgraded GreaterNydusWorm
+[23:158] taibeo Bought PureStrainHealth
+[24:070] taibeo Bought TankStrain
+[24:267] taibeo Placed/Upgraded LesserNydusWorm
+[24:268] taibeo Bought GreaterNydus
+[24:526] taibeo Placed/Upgraded Virophage
+[25:108] taibeo Placed/Upgraded PrimalSunkenColony
+[25:109] taibeo Bought SunkenColony
+[25:228] taibeo Bought AdvancedPowerInfestation
+[25:349] taibeo Placed/Upgraded LocustNest
+[25:687] taibeo Placed/Upgraded LocustNest
+[25:780] taibeo Bought BuildExtractorManufacturingSector
+[25:780] taibeo Placed/Upgraded AutomatedExtractor
+[26:143] taibeo Placed/Upgraded NydusCanalCreeper
+[26:380] taibeo Bought TrackHumans
+[26:383] taibeo Bought SunkenColony
+[26:383] taibeo Placed/Upgraded PrimalSunkenColony
+[26:993] taibeo Bought SiphonFuel
+
+[00:572] taylornator Unlocked AssaultRifle
+[01:693] taylornator Placed/Upgraded MiningDroid
+[01:759] taylornator Unlocked FragGrenade
+[02:244] taylornator Unlocked BeamRifle
+[06:989] taylornator Unlocked AutoTurret
+[07:008] taylornator Unlocked FlameTurret
+[07:361] taylornator Placed/Upgraded AutoTurret
+[11:139] taylornator Placed/Upgraded AutoTurret
+[12:895] taylornator Placed/Upgraded MiningDroid
+[14:332] taylornator Unlocked BioMechanicalRepairDrone
+[14:460] taylornator Placed/Upgraded HealingDrone
+[15:972] taylornator Unlocked AdvancedDroidEngines
+[18:073] taylornator Unlocked SpecOpsPlasmaRifle
+[19:961] taylornator Placed/Upgraded AutoTurret
+[24:295] taylornator Placed/Upgraded AutoTurret
+
+[00:572] Hitnfly Unlocked AssaultRifle
+[10:718] Hitnfly Placed/Upgraded MiningDroid
+
+[00:572] freedream Unlocked AssaultRifle
+[00:975] freedream Unlocked AdvancedDroidEngines
+[01:904] freedream Unlocked HellfireRocketLauncher
+[03:876] freedream Unlocked ExplorationDroid
+[04:524] freedream Unlocked AdvancedExplorationDroid
+[06:163] freedream Unlocked OverloadWeapon
+[07:983] freedream Unlocked SpecOpsHellfireRocketLauncher
+[12:947] freedream Unlocked MiningCharge
+[13:205] freedream Unlocked ShockwaveMissiles
+[13:254] freedream Unlocked IncendiaryGrenade
+[13:264] freedream Unlocked SpecOpsIncendiaryGrenade
+[14:545] freedream Unlocked BioMechanicalRepairDrone
+[14:555] freedream Unlocked SpecOpsBioMechanicalRepairDrone
+[14:760] freedream Unlocked EnergySuit
+[14:761] freedream Unlocked EnergySuit
+[14:767] freedream Unlocked AdvancedEnergySuit
+[14:768] freedream Unlocked EnergySuit
+[14:768] freedream Unlocked AdvancedEnergySuit
+
+[14:761] Security Bought ShieldSuit
+[14:761] Security Bought CombatSuit
+[14:761] Security Bought HazmatSuit
+

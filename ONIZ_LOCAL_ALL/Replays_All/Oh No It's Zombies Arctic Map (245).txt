@@ -1,0 +1,49 @@
+Analyzed: Oh No It's Zombies Arctic Map (245)
+
+Zombie Undecided
+Zombie Undecided
+ID : 0 PlayerName: Kel Race: Terran
+ID : 1 PlayerName: Frosky Race: Zerg
+ID : 2 PlayerName: tim Race: Terran
+ID : 3 PlayerName: RedReaperz Race: Zerg
+ID : 4 PlayerName: MrClean Race: Terran
+ID : 5 PlayerName: Gafe Race: Terran
+ID : 6 PlayerName: Kuzon Race: Terran
+ID : 7 PlayerName: Security Race: MechaZerg
+PURCHASES: 
+[00:572] Kel Unlocked AssaultRifle
+[00:672] Kel Placed/Upgraded MiningDroid
+[00:779] Kel Unlocked AdvancedDroidEngines
+
+[00:572] Frosky Unlocked AssaultRifle
+[00:747] Frosky Unlocked IncendiaryGrenade
+[00:763] Frosky Placed/Upgraded MiningDroid
+
+[00:572] tim Unlocked AssaultRifle
+[00:652] tim Placed MiningDroid
+[00:712] tim Unlocked BeamRifle
+[03:105] tim Unlocked AdvancedDroidEngines
+[03:182] tim Unlocked Stimpack
+[03:241] tim Unlocked FragGrenade
+[03:661] tim Unlocked SpecOpsPlasmaRifle
+
+[00:568] RedReaperz Bought PlayerNumber
+[00:833] RedReaperz Spawned MassiveCocoon
+[03:151] RedReaperz Bought StrainSpeed
+
+[00:572] MrClean Unlocked AssaultRifle
+[00:660] MrClean Placed/Upgraded MiningDroid
+[01:062] MrClean Unlocked Flamethrower
+
+[00:572] Gafe Unlocked AssaultRifle
+[00:651] Gafe Placed/Upgraded MiningDroid
+[00:757] Gafe Unlocked Stimpack
+[02:118] Gafe Unlocked Shotgun
+[04:166] Gafe Unlocked SpecOpsShotgun
+[04:214] Gafe Unlocked HighPrecisionBeams
+[04:271] Gafe Unlocked AdvancedDroidEngines
+[04:349] Gafe Unlocked CombatShield
+
+[00:572] Kuzon Unlocked AssaultRifle
+
+

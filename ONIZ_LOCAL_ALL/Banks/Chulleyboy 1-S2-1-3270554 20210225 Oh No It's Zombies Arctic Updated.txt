@@ -1,0 +1,29 @@
+Chulleyboy HumanWinsNormal 227
+Chulleyboy ZombieRank 31
+Chulleyboy PlayedRankedMode4.0 1
+Chulleyboy PlayedRankedMode3.0 1
+Chulleyboy PlayedRankedMode 1
+Chulleyboy VespeneHarvested 2471600
+Chulleyboy HumansRescued 1397
+Chulleyboy SecurityForcesKilled 165892
+Chulleyboy ZombiesKilled 468224
+Chulleyboy FuelDiverted 709
+Chulleyboy PlayedRankedMode5.0 1
+Chulleyboy HumanRank 29
+Chulleyboy NumberOfTimesCaptured 1305
+Chulleyboy TurretsBuilt 3956
+Chulleyboy ZombieWins 254
+Chulleyboy GamesLeft 50
+Chulleyboy PlayedInRankedMode 1
+Chulleyboy GamesPlayedAsZombie 379
+Chulleyboy GamesPlayedAsHuman 787
+Chulleyboy HumansCaptured 4297
+Chulleyboy PlayedRankedMode2.0 1
+Chulleyboy K/D Ratio 358,79
+Chulleyboy Average Marine Winrate 28,999999999999996%
+Chulleyboy Average Fuel Diverts PerGame 0,9
+Chulleyboy Average Vespene Harvested PerGame 3140,53
+Chulleyboy Average Zombie Winrate 67%
+Chulleyboy Average Security Kills Per Game 438
+Chulleyboy Average Deaths PerGame 1,66
+Chulleyboy Average Infestation Class Class 5

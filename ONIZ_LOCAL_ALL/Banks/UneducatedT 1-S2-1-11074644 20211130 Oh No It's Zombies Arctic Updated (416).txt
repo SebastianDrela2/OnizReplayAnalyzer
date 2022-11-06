@@ -1,0 +1,23 @@
+UneducatedT HumanWinsNormal 389
+UneducatedT ZombieRank 0
+UneducatedT VespeneHarvested 2601300
+UneducatedT HumansRescued 333
+UneducatedT SecurityForcesKilled 32175
+UneducatedT ZombiesKilled 499321
+UneducatedT FuelDiverted 2269
+UneducatedT HumanRank 25.5
+UneducatedT NumberOfTimesCaptured 718
+UneducatedT TurretsBuilt 6959
+UneducatedT ZombieWins 43
+UneducatedT GamesLeft 95
+UneducatedT GamesPlayedAsHuman 743
+UneducatedT GamesPlayedAsZombie 80
+UneducatedT HumansCaptured 602
+UneducatedT K/D Ratio 695,43
+UneducatedT Average Marine Winrate 52%
+UneducatedT Average Fuel Diverts PerGame 3,05
+UneducatedT Average Vespene Harvested PerGame 3501,08
+UneducatedT Average Zombie Winrate 54%
+UneducatedT Average Security Kills Per Game 402
+UneducatedT Average Deaths PerGame 0,97
+UneducatedT Average Infestation Class Class 4

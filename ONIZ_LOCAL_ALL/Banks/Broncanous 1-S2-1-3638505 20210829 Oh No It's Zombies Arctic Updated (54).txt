@@ -1,0 +1,24 @@
+Broncanous HumanWinsNormal 51
+Broncanous LeftLastGameAsZombie 0
+Broncanous ZombieRank 0
+Broncanous VespeneHarvested 354800
+Broncanous HumansRescued 181
+Broncanous SecurityForcesKilled 1131
+Broncanous ZombiesKilled 80168
+Broncanous FuelDiverted 47
+Broncanous HumanRank 1.3334
+Broncanous NumberOfTimesCaptured 291
+Broncanous TurretsBuilt 575
+Broncanous ZombieWins 1
+Broncanous GamesLeft 3
+Broncanous GamesPlayedAsHuman 129
+Broncanous GamesPlayedAsZombie 4
+Broncanous HumansCaptured 16
+Broncanous K/D Ratio 275,49
+Broncanous Average Marine Winrate 40%
+Broncanous Average Fuel Diverts PerGame 0,36
+Broncanous Average Vespene Harvested PerGame 2750,39
+Broncanous Average Zombie Winrate 25%
+Broncanous Average Security Kills Per Game 283
+Broncanous Average Deaths PerGame 2,26
+Broncanous Average Infestation Class Class 3

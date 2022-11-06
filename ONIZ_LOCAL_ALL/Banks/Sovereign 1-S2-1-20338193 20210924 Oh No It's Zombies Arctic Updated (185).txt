@@ -1,0 +1,23 @@
+Sovereign HumanWinsNormal 36
+Sovereign ZombieRank 2
+Sovereign VespeneHarvested 290400
+Sovereign HumansRescued 68
+Sovereign SecurityForcesKilled 2726
+Sovereign ZombiesKilled 41433
+Sovereign FuelDiverted 161
+Sovereign HumanRank 2
+Sovereign NumberOfTimesCaptured 203
+Sovereign TurretsBuilt 881
+Sovereign ZombieWins 1
+Sovereign GamesLeft 4
+Sovereign GamesPlayedAsHuman 97
+Sovereign GamesPlayedAsZombie 6
+Sovereign HumansCaptured 61
+Sovereign K/D Ratio 204,1
+Sovereign Average Marine Winrate 37%
+Sovereign Average Fuel Diverts PerGame 1,66
+Sovereign Average Vespene Harvested PerGame 2993,81
+Sovereign Average Zombie Winrate 17%
+Sovereign Average Security Kills Per Game 454
+Sovereign Average Deaths PerGame 2,09
+Sovereign Average Infestation Class Class 5

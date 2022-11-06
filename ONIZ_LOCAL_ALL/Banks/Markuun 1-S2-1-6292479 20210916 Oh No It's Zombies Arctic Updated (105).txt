@@ -1,0 +1,24 @@
+Markuun HumanWinsNormal 20
+Markuun ZombieRank 0
+Markuun VespeneHarvested 104200
+Markuun HumansRescued 50
+Markuun SecurityForcesKilled 0
+Markuun ZombiesKilled 27379
+Markuun FuelDiverted 125
+Markuun PlayedRankedMode5.0 1
+Markuun HumanRank 2.125
+Markuun NumberOfTimesCaptured 109
+Markuun TurretsBuilt 193
+Markuun ZombieWins 0
+Markuun GamesLeft 1
+Markuun GamesPlayedAsHuman 51
+Markuun GamesPlayedAsZombie 0
+Markuun HumansCaptured 0
+Markuun K/D Ratio 251,18
+Markuun Average Marine Winrate 39%
+Markuun Average Fuel Diverts PerGame 2,45
+Markuun Average Vespene Harvested PerGame 2043,14
+Markuun Average Zombie Winrate NaN%
+Markuun Average Security Kills Per Game NaN
+Markuun Average Deaths PerGame 2,14
+Markuun Average Infestation Class Class 1

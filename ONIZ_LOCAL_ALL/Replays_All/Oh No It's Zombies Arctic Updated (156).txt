@@ -1,0 +1,175 @@
+Analyzed: Oh No It's Zombies Arctic Updated (156)
+
+Zombie Win
+ID : 0 PlayerName: Frosky Race: Zerg
+ID : 1 PlayerName: Cruel Race: Terran
+ID : 2 PlayerName: TorTatori Race: Terran
+ID : 3 PlayerName: Ghost Race: Terran
+ID : 4 PlayerName: ybg Race: Terran
+ID : 5 PlayerName: Marstrooper Race: Terran
+ID : 6 PlayerName: minigranja Race: Terran
+ID : 7 PlayerName: Security Race: Terran
+PURCHASES: 
+[00:000] Frosky Spawned Abomination
+[01:653] Frosky Spawned MassiveCocoon
+[03:093] Frosky Spawned Hunter
+[06:012] Frosky Bought CreepSpeed
+[08:120] Frosky Bought CreepSpeed
+[11:800] Frosky Bought StrainSpeed
+[13:944] Frosky Bought StrainSpeed
+[15:280] Frosky Bought VirulentCreep
+[16:802] Frosky Bought StrainVolatile
+[18:954] Frosky Bought PureStrainVolatile
+[19:662] Frosky Bought PureStrainSpeed
+[20:094] Frosky Bought PureStrainSpeed
+[20:870] Frosky Bought HunterlingStrain
+[22:064] Frosky Bought HunterlingStrain
+[24:029] Frosky Bought StrainSpeed
+[25:054] Frosky Bought StrainHealth
+[25:866] Frosky Bought PureStrainHealth
+[28:004] Frosky Bought TankStrain
+[30:268] Frosky Bought PureStrainSpeed
+[30:812] Frosky Bought DropshipsFueled
+[31:303] Frosky Bought SweepingInfestation
+[31:303] Frosky Bought UltimateInfestationResearched
+[31:837] Frosky Bought HunterlingStrain
+[32:685] Frosky Bought KaboomerStrain
+
+[00:588] Cruel Unlocked AssaultRifle
+[00:727] Cruel Placed/Upgraded MiningDroid
+[00:771] Cruel Unlocked AdvancedDroidEngines
+[02:722] Cruel Unlocked Stimpack
+[05:602] Cruel Unlocked Flamethrower
+[06:801] Cruel Unlocked SpecOpsFlamethrower
+[09:146] Cruel Unlocked EnergySuit
+[09:147] Cruel Unlocked ShieldSuit
+[09:147] Cruel Unlocked AdvancedShieldSuit
+[09:147] Cruel Unlocked CombatSuit
+[09:147] Cruel Unlocked AdvancedCombatSuit
+[09:147] Cruel Unlocked HazmatSuit
+[09:147] Cruel Unlocked AdvancedHazmatSuit
+[09:147] Cruel Unlocked EnergySuit
+[09:153] Cruel Unlocked AdvancedEnergySuit
+[09:154] Cruel Unlocked EnergySuit
+[09:154] Cruel Unlocked AdvancedEnergySuit
+[09:533] Cruel Unlocked FlashBang
+[10:798] Cruel Unlocked SpecOpsFlashbang
+[13:388] Cruel Unlocked BioMechanicalRepairDrone
+[13:408] Cruel Placed/Upgraded HealingDrone
+[14:136] Cruel Unlocked ThermiteFilaments
+[14:670] Cruel Unlocked PsiDisrupter
+[15:684] Cruel Placed/Upgraded HealingDrone
+[20:137] Cruel Unlocked ExplorationDroid
+[20:182] Cruel Placed/Upgraded ExplorationDroid
+[25:967] Cruel Placed/Upgraded ExplorationDroid
+[25:982] Cruel Placed/Upgraded ExplorationDroid
+[26:178] Cruel Placed/Upgraded MiningDroid
+[26:608] Cruel Placed/Upgraded HealingDrone
+[28:262] Cruel Placed/Upgraded HealingDrone
+[28:717] Cruel Placed/Upgraded HealingDrone
+
+[00:588] TorTatori Unlocked AssaultRifle
+[00:672] TorTatori Placed/Upgraded MiningDroid
+[01:055] TorTatori Unlocked HellfireRocketLauncher
+[03:083] TorTatori Unlocked SpecOpsHellfireRocketLauncher
+[06:673] TorTatori Unlocked ShockwaveMissiles
+[06:828] TorTatori Unlocked AdvancedDroidEngines
+[10:899] TorTatori Placed/Upgraded MiningDroid
+[15:230] TorTatori Unlocked CombatSuit
+[15:231] TorTatori Unlocked ShieldSuit
+[15:231] TorTatori Unlocked AdvancedShieldSuit
+[15:231] TorTatori Unlocked CombatSuit
+[15:231] TorTatori Unlocked AdvancedCombatSuit
+[15:231] TorTatori Unlocked HazmatSuit
+[15:231] TorTatori Unlocked AdvancedHazmatSuit
+[15:231] TorTatori Unlocked CombatSuit
+[15:235] TorTatori Unlocked AdvancedCombatSuit
+[15:236] TorTatori Unlocked CombatSuit
+[15:236] TorTatori Unlocked AdvancedCombatSuit
+[16:524] TorTatori Unlocked OpticalVisor
+[30:024] TorTatori Unlocked Teleporter
+
+[00:588] Ghost Unlocked AssaultRifle
+[00:669] Ghost Placed/Upgraded MiningDroid
+[00:752] Ghost Unlocked BeamRifle
+[04:722] Ghost Unlocked MedicShield
+[04:800] Ghost Unlocked SpecOpsPlasmaRifle
+[06:602] Ghost Unlocked CombatSuit
+[06:603] Ghost Unlocked ShieldSuit
+[06:603] Ghost Unlocked AdvancedShieldSuit
+[06:603] Ghost Unlocked CombatSuit
+[06:603] Ghost Unlocked AdvancedCombatSuit
+[06:603] Ghost Unlocked HazmatSuit
+[06:603] Ghost Unlocked AdvancedHazmatSuit
+[06:603] Ghost Unlocked CombatSuit
+[08:661] Ghost Unlocked LongRangeScope
+[08:725] Ghost Unlocked AdvancedCombatSuit
+[08:726] Ghost Unlocked CombatSuit
+[08:726] Ghost Unlocked AdvancedCombatSuit
+[12:298] Ghost Unlocked Stimpack
+
+[00:588] ybg Unlocked AssaultRifle
+[00:726] ybg Placed/Upgraded MiningDroid
+[00:908] ybg Unlocked ArcWelder
+[04:481] ybg Unlocked AdvancedDroidEngines
+[04:512] ybg Unlocked TurboDroidEngines
+[06:746] ybg Unlocked QuantumBackpack
+[06:814] ybg Unlocked MedicShield
+[06:874] ybg Unlocked OpticalVisor
+[08:099] ybg Unlocked BeamRifle
+[10:466] ybg Unlocked SpecOpsArcWelder
+[11:283] ybg Unlocked CombatSuit
+[11:284] ybg Unlocked ShieldSuit
+[11:284] ybg Unlocked AdvancedShieldSuit
+[11:284] ybg Unlocked CombatSuit
+[11:284] ybg Unlocked AdvancedCombatSuit
+[11:284] ybg Unlocked HazmatSuit
+[11:284] ybg Unlocked AdvancedHazmatSuit
+[11:284] ybg Unlocked CombatSuit
+[14:358] ybg Unlocked AdvancedCombatSuit
+[14:359] ybg Unlocked CombatSuit
+[14:359] ybg Unlocked AdvancedCombatSuit
+[14:735] ybg Unlocked Stimpack
+[24:892] ybg Unlocked ForceFieldGrenade
+[25:109] ybg Unlocked SpecOpsForcefieldGrenade
+
+[00:588] Marstrooper Unlocked AssaultRifle
+[02:664] Marstrooper Placed/Upgraded MiningDroid
+[06:595] Marstrooper Unlocked SpecOpsAssaultRifle
+[06:997] Marstrooper Unlocked CombatShield
+[09:077] Marstrooper Unlocked AutoTurret
+[11:472] Marstrooper Unlocked DefensiveMatrix
+[26:814] Marstrooper Unlocked Shieldsiotunlocked
+[26:815] Marstrooper Unlocked ShieldSuit
+[26:815] Marstrooper Unlocked AdvancedShieldSuit
+[26:815] Marstrooper Unlocked CombatSuit
+[26:815] Marstrooper Unlocked AdvancedCombatSuit
+[26:815] Marstrooper Unlocked HazmatSuit
+[26:815] Marstrooper Unlocked AdvancedHazmatSuit
+[26:815] Marstrooper Unlocked ShieldSuit
+[26:896] Marstrooper Unlocked AdvancedShieldSuit
+[26:897] Marstrooper Unlocked ShieldSuit
+[26:897] Marstrooper Unlocked AdvancedShieldSuit
+
+[00:588] minigranja Unlocked AssaultRifle
+[00:698] minigranja Unlocked Flamethrower
+[06:358] minigranja Unlocked Shieldsiotunlocked
+[06:359] minigranja Unlocked ShieldSuit
+[06:359] minigranja Unlocked AdvancedShieldSuit
+[06:359] minigranja Unlocked CombatSuit
+[06:359] minigranja Unlocked AdvancedCombatSuit
+[06:359] minigranja Unlocked HazmatSuit
+[06:359] minigranja Unlocked AdvancedHazmatSuit
+[06:359] minigranja Unlocked ShieldSuit
+[06:365] minigranja Unlocked AdvancedShieldSuit
+[06:366] minigranja Unlocked ShieldSuit
+[06:366] minigranja Unlocked AdvancedShieldSuit
+[06:402] minigranja Unlocked MedicShield
+[08:394] minigranja Unlocked Stimpack
+[10:597] minigranja Unlocked SpecOpsFlamethrower
+[13:551] minigranja Unlocked IncendiaryGrenade
+[14:587] minigranja Unlocked SpecOpsIncendiaryGrenade
+[16:370] minigranja Unlocked BioMechanicalRepairDrone
+[31:036] minigranja Unlocked LongRangeIncinerators
+
+

@@ -1,0 +1,162 @@
+Analyzed: Oh No It's Zombies Arctic Map (267)
+
+Zombie Win
+ID : 0 PlayerName: Frosky Race: Terran
+ID : 1 PlayerName: SigmaSultan Race: Terran
+ID : 2 PlayerName: SgtRico Race: Terran
+ID : 3 PlayerName: RichPrez Race: Terran
+ID : 4 PlayerName: Asuki Race: Zerg
+ID : 5 PlayerName: RedReaperz Race: Terran
+ID : 6 PlayerName: Cole Race: Terran
+ID : 7 PlayerName: Security Race: Primal Zerg
+PURCHASES: 
+[00:572] Frosky Unlocked AssaultRifle
+[00:699] Frosky Placed/Upgraded MiningDroid
+[00:824] Frosky Unlocked ArcWelder
+[03:402] Frosky Unlocked AdvancedDroidEngines
+[03:410] Frosky Unlocked TurboDroidEngines
+[03:477] Frosky Unlocked BioMechanicalRepairDrone
+[03:487] Frosky Unlocked CombatAccelerationDrone
+[03:910] Frosky Placed/Upgraded HealingDrone
+[04:267] Frosky Placed/Upgraded HealingDrone
+[04:422] Frosky Placed/Upgraded HealingDrone
+[04:905] Frosky Unlocked PsiDisrupter
+[05:483] Frosky Placed/Upgraded PsiIndoctrinator
+[06:138] Frosky Placed/Upgraded PsiIndoctrinator
+[06:326] Frosky Unlocked Stimpack
+[10:864] Frosky Unlocked SpecOpsArcWelder
+[10:900] Frosky Unlocked ArcWelderMod1
+[10:945] Frosky Unlocked PsiDepressor
+[11:329] Frosky Unlocked AutoTurret
+[11:590] Frosky Placed/Upgraded AutoTurret
+[11:685] Frosky Placed/Upgraded AutoTurret
+
+
+[00:572] SgtRico Unlocked AssaultRifle
+[00:651] SgtRico Placed/Upgraded MiningDroid
+[00:718] SgtRico Unlocked AdvancedDroidEngines
+[02:765] SgtRico Unlocked TurboDroidEngines
+[03:775] SgtRico Unlocked BeamRifle
+[04:714] SgtRico Unlocked SpecOpsPlasmaRifle
+[05:170] SgtRico Unlocked CorrosivePlasma
+
+[00:572] RichPrez Unlocked AssaultRifle
+[00:654] RichPrez Placed MiningDroid
+[00:830] RichPrez Unlocked SpecOpsAssaultRifle
+[03:073] RichPrez Unlocked CombatSuit
+[04:265] RichPrez Unlocked Teleporter
+[05:454] RichPrez Unlocked EnergyPack
+[05:485] RichPrez Unlocked MedicShield
+[05:498] RichPrez Unlocked OpticalVisor
+[06:696] RichPrez Unlocked AutoTurret
+[06:789] RichPrez Unlocked FlameTurret
+[06:908] RichPrez Placed AutoTurret
+[07:527] RichPrez Placed AutoTurret
+[07:919] RichPrez Unlocked AdvancedCombatSuit
+[08:143] RichPrez Placed AutoTurret
+[08:794] RichPrez Placed AutoTurret
+[08:865] RichPrez Unlocked BioMechanicalRepairDrone
+[08:888] RichPrez Unlocked SpecOpsBioMechanicalRepairDrone
+[09:008] RichPrez Placed HealingDrone
+[09:879] RichPrez Placed HealingDrone
+[10:731] RichPrez Placed HealingDrone
+[10:906] RichPrez Placed HealingDrone
+[11:364] RichPrez Placed HealingDrone
+[11:637] RichPrez Placed HealingDrone
+[12:767] RichPrez Placed HealingDrone
+[17:741] RichPrez Placed AutoTurret
+[18:108] RichPrez Placed AutoTurret
+[18:423] RichPrez Placed AutoTurret
+[19:023] RichPrez Unlocked SpecOpsTeleporter
+[19:159] RichPrez Unlocked IncendiaryGrenade
+[19:173] RichPrez Unlocked SpecOpsIncendiaryGrenade
+[19:248] RichPrez Placed AutoTurret
+[19:459] RichPrez Placed AutoTurret
+[19:920] RichPrez Unlocked RechargeDrone
+[20:307] RichPrez Placed HealingDrone
+[20:506] RichPrez Placed HealingDrone
+[20:841] RichPrez Unlocked DefensiveMatrix
+[20:961] RichPrez Unlocked TitaniumBulletCasings
+[21:076] RichPrez Placed MiningDroid
+[21:148] RichPrez Unlocked AdvancedDroidEngines
+[22:502] RichPrez Placed HealingDrone
+[22:661] RichPrez Unlocked HeavyTurret
+[22:789] RichPrez Placed AutoTurret
+[23:044] RichPrez Placed AutoTurret
+
+[00:568] Asuki Bought PlayerNumber
+[01:359] Asuki Spawned MassiveCocoon
+[02:799] Asuki Spawned Hunter
+[03:074] Asuki Bought ShieldSuit
+[03:074] Asuki Bought CombatSuit
+[03:074] Asuki Bought HazmatSuit
+[03:074] Asuki Bought CombatSuit
+[03:722] Asuki Spawned MassiveCocoon
+[04:802] Asuki Spawned Underseer
+[05:344] Asuki Bought UnlockDropPods
+[05:603] Asuki Bought EvolveDropPods
+[05:607] Asuki Bought EvolveDropPods
+[06:732] Asuki Placed/Upgraded ToxicNest
+[06:751] Asuki Placed/Upgraded ToxicNest
+[06:776] Asuki Placed/Upgraded ToxicNest
+[07:920] Asuki Bought CombatSuit
+[07:975] Asuki Bought EvolveDropPods
+[07:978] Asuki Bought EvolveDropPods
+[09:112] Asuki Bought AdvancedInfestationContainment
+[10:589] Asuki Bought BuildExtractorExcavationZone
+[10:589] Asuki Placed/Upgraded AutomatedExtractor
+[11:305] Asuki Placed/Upgraded LocustNest
+[12:453] Asuki Placed/Upgraded ToxicNest
+[12:453] Asuki Placed/Upgraded ToxicNest
+[12:462] Asuki Placed/Upgraded ToxicNest
+[15:083] Asuki Bought StrainHealth
+[15:092] Asuki Bought StrainVolatile
+[15:951] Asuki Bought BuildExtractorManufacturingSector
+[15:951] Asuki Placed/Upgraded AutomatedExtractor
+[16:396] Asuki Bought EvolveDropPods
+[16:399] Asuki Bought EvolveDropPods
+[17:447] Asuki Bought VirulentCreep
+[17:447] Asuki Bought VirulentCreep
+[17:771] Asuki Placed/Upgraded Virophage
+[19:517] Asuki Bought SpawnNydusWorm
+[21:046] Asuki Placed/Upgraded GreaterNydusWorm
+[21:327] Asuki Bought StrainVolatile
+[21:336] Asuki Bought StrainHealth
+[22:465] Asuki Placed/Upgraded Virophage
+[22:496] Asuki Placed/Upgraded Virophage
+
+[00:572] RedReaperz Unlocked AssaultRifle
+[00:651] RedReaperz Placed/Upgraded MiningDroid
+[00:783] RedReaperz Unlocked SpecOpsAssaultRifle
+[03:389] RedReaperz Unlocked OverloadWeapon
+[04:194] RedReaperz Unlocked AutoTargetingSystem
+[04:895] RedReaperz Unlocked AdvancedDroidEngines
+[04:967] RedReaperz Unlocked BioMechanicalRepairDrone
+[05:579] RedReaperz Placed/Upgraded HealingDrone
+[07:293] RedReaperz Placed/Upgraded MiningDroid
+[07:485] RedReaperz Unlocked TurboDroidEngines
+[07:716] RedReaperz Unlocked PsiDisrupter
+[08:327] RedReaperz Placed/Upgraded PsiIndoctrinator
+[08:750] RedReaperz Unlocked SpecOpsPsiDisruptor
+[09:300] RedReaperz Unlocked FlashBang
+[09:310] RedReaperz Unlocked SpecOpsFlashbang
+[09:432] RedReaperz Unlocked Shieldsiotunlocked
+[11:597] RedReaperz Unlocked BeamRifle
+[11:607] RedReaperz Unlocked SpecOpsPlasmaRifle
+[11:645] RedReaperz Unlocked LongRangeScope
+[11:695] RedReaperz Unlocked SuperStimpack
+[11:822] RedReaperz Unlocked SpecOpsBioMechanicalRepairDrone
+[13:445] RedReaperz Placed/Upgraded MiningDroid
+[15:095] RedReaperz Placed/Upgraded HealingDrone
+[15:636] RedReaperz Placed/Upgraded HealingDrone
+[21:259] RedReaperz Placed/Upgraded MiningDroid
+[22:104] RedReaperz Placed/Upgraded HealingDrone
+[22:329] RedReaperz Placed/Upgraded HealingDrone
+
+[00:572] Cole Unlocked AssaultRifle
+[09:433] Cole Bought ShieldSuit
+[09:433] Cole Bought CombatSuit
+[09:433] Cole Bought HazmatSuit
+[09:433] Cole Bought ShieldSuit
+
+

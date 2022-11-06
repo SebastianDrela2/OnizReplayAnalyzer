@@ -1,0 +1,24 @@
+Tigurn HumanWinsNormal 53
+Tigurn ZombieRank 0
+Tigurn VespeneHarvested 350800
+Tigurn HumansRescued 53
+Tigurn SecurityForcesKilled 159
+Tigurn ZombiesKilled 50311
+Tigurn FuelDiverted 71
+Tigurn PlayedRankedMode5.0 1
+Tigurn HumanRank 4
+Tigurn NumberOfTimesCaptured 198
+Tigurn TurretsBuilt 632
+Tigurn ZombieWins 0
+Tigurn GamesLeft 3
+Tigurn GamesPlayedAsHuman 121
+Tigurn GamesPlayedAsZombie 1
+Tigurn HumansCaptured 0
+Tigurn K/D Ratio 254,1
+Tigurn Average Marine Winrate 44%
+Tigurn Average Fuel Diverts PerGame 0,59
+Tigurn Average Vespene Harvested PerGame 2899,17
+Tigurn Average Zombie Winrate 0%
+Tigurn Average Security Kills Per Game 159
+Tigurn Average Deaths PerGame 1,64
+Tigurn Average Infestation Class Class 2

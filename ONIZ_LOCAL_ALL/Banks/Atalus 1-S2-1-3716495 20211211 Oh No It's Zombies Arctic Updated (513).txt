@@ -1,0 +1,24 @@
+Atalus HumanWinsNormal 17
+Atalus ZombieRank 1.9997
+Atalus VespeneHarvested 141600
+Atalus HumansRescued 13
+Atalus SecurityForcesKilled 3566
+Atalus ZombiesKilled 11265
+Atalus FuelDiverted 101
+Atalus PlayedRankedMode5.0 1
+Atalus HumanRank 2
+Atalus NumberOfTimesCaptured 108
+Atalus TurretsBuilt 229
+Atalus ZombieWins 1
+Atalus GamesLeft 9
+Atalus GamesPlayedAsHuman 56
+Atalus GamesPlayedAsZombie 9
+Atalus HumansCaptured 57
+Atalus K/D Ratio 104,31
+Atalus Average Marine Winrate 30%
+Atalus Average Fuel Diverts PerGame 1,8
+Atalus Average Vespene Harvested PerGame 2528,57
+Atalus Average Zombie Winrate 11%
+Atalus Average Security Kills Per Game 396
+Atalus Average Deaths PerGame 1,93
+Atalus Average Infestation Class Class 4

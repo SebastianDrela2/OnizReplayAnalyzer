@@ -1,0 +1,25 @@
+GlenWaverley HumanWinsNormal 79
+GlenWaverley LeftLastGameAsZombie 0
+GlenWaverley ZombieRank 0
+GlenWaverley VespeneHarvested 468000
+GlenWaverley HumansRescued 46
+GlenWaverley SecurityForcesKilled 18733
+GlenWaverley ZombiesKilled 76908
+GlenWaverley FuelDiverted 271
+GlenWaverley PlayedRankedMode5.0 1
+GlenWaverley HumanRank 28.25
+GlenWaverley NumberOfTimesCaptured 121
+GlenWaverley TurretsBuilt 512
+GlenWaverley ZombieWins 17
+GlenWaverley GamesLeft 11
+GlenWaverley GamesPlayedAsHuman 149
+GlenWaverley GamesPlayedAsZombie 49
+GlenWaverley HumansCaptured 417
+GlenWaverley K/D Ratio 635,6
+GlenWaverley Average Marine Winrate 53%
+GlenWaverley Average Fuel Diverts PerGame 1,82
+GlenWaverley Average Vespene Harvested PerGame 3140,94
+GlenWaverley Average Zombie Winrate 35%
+GlenWaverley Average Security Kills Per Game 382
+GlenWaverley Average Deaths PerGame 0,81
+GlenWaverley Average Infestation Class Class 4

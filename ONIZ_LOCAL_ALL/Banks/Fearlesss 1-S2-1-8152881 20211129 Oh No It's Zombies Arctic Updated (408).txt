@@ -1,0 +1,25 @@
+Fearlesss HumanWinsNormal 42
+Fearlesss LeftLastGameAsZombie 0
+Fearlesss ZombieRank 0
+Fearlesss VespeneHarvested 293600
+Fearlesss HumansRescued 19
+Fearlesss SecurityForcesKilled 328
+Fearlesss ZombiesKilled 43256
+Fearlesss FuelDiverted 119
+Fearlesss PlayedRankedMode5.0 1
+Fearlesss HumanRank 0
+Fearlesss NumberOfTimesCaptured 100
+Fearlesss TurretsBuilt 836
+Fearlesss ZombieWins 0
+Fearlesss GamesLeft 16
+Fearlesss GamesPlayedAsHuman 105
+Fearlesss GamesPlayedAsZombie 1
+Fearlesss HumansCaptured 6
+Fearlesss K/D Ratio 432,56
+Fearlesss Average Marine Winrate 40%
+Fearlesss Average Fuel Diverts PerGame 1,13
+Fearlesss Average Vespene Harvested PerGame 2796,19
+Fearlesss Average Zombie Winrate 0%
+Fearlesss Average Security Kills Per Game 328
+Fearlesss Average Deaths PerGame 0,95
+Fearlesss Average Infestation Class Class 4

@@ -1,0 +1,20 @@
+Analyzed: Oh No It's Zombies Arctic Map (80)
+
+Zombie Win
+ID : 0 PlayerName: Frosky Race: Zerg
+ID : 7 PlayerName: Security Race: Protoss
+PURCHASES: 
+[00:000] Frosky Spawned Abomination
+[01:749] Frosky Bought StrainSpeed
+[01:761] Frosky Bought PureStrainSpeed
+[02:223] Frosky Bought HunterlingStrain
+[35:614] Frosky Bought DropshipsFueled
+[50:582] Frosky Unlocked Infestationfinishedemerging
+
+
+
+
+
+
+
+
