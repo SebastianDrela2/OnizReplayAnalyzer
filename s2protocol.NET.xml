@@ -297,7 +297,7 @@
              <summary>Record <c>GameEvents</c> GameEvents</summary>
             
         </member>
-        <member name="M:s2protocol.NET.Models.GameEvents.#ctor(System.Collections.Generic.ICollection{s2protocol.NET.Models.GameEvent},s2protocol.NET.Models.SBankKeyEvent[],s2protocol.NET.Models.SBankSignatureEvent[])">
+        <member name="M:s2protocol.NET.Models.GameEvents.#ctor(System.Collections.Generic.ICollection{s2protocol.NET.Models.GameEvent},s2protocol.NET.Models.SBankKeyEvent[],s2protocol.NET.Models.SBankSignatureEvent[],s2protocol.NET.Models.STriggerSoundtrackDoneEvent[])">
              <summary>Record <c>GameEvents</c> constructor</summary>
             
         </member>
@@ -314,6 +314,10 @@
             
         </member>
         <member name="P:s2protocol.NET.Models.GameEvents.SBankSignatureEvents">
+             <summary>GetBankValueEvents of spcified Type</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameEvents.STriggerChatMessageEvents">
              <summary>GetBankValueEvents of spcified Type</summary>
             
         </member>
