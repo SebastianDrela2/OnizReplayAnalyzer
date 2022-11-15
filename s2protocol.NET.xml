@@ -297,7 +297,7 @@
              <summary>Record <c>GameEvents</c> GameEvents</summary>
             
         </member>
-        <member name="M:s2protocol.NET.Models.GameEvents.#ctor(System.Collections.Generic.ICollection{s2protocol.NET.Models.GameEvent},s2protocol.NET.Models.SBankKeyEvent[],s2protocol.NET.Models.SBankSignatureEvent[],s2protocol.NET.Models.STriggerSoundtrackDoneEvent[])">
+        <member name="M:s2protocol.NET.Models.GameEvents.#ctor(System.Collections.Generic.ICollection{s2protocol.NET.Models.GameEvent},s2protocol.NET.Models.SBankKeyEvent[],s2protocol.NET.Models.SBankSignatureEvent[],s2protocol.NET.Models.STriggerSoundtrackDoneEvent[],s2protocol.NET.Models.SBankSectionEvent[],s2protocol.NET.Models.SBankFileEvent[],s2protocol.NET.Models.SBankValueEvent[],s2protocol.NET.Models.STriggerDialogControlEvent[],s2protocol.NET.Models.STriggerChatMessageEvent[])">
              <summary>Record <c>GameEvents</c> constructor</summary>
             
         </member>
@@ -318,6 +318,26 @@
             
         </member>
         <member name="P:s2protocol.NET.Models.GameEvents.STriggerChatMessageEvents">
+             <summary>GetBankValueEvents of spcified Type</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameEvents.SBankSectionEvents">
+             <summary>GetBankValueEvents of spcified Type</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameEvents.SBankFileEvents">
+             <summary>GetBankValueEvents of spcified Type</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameEvents.SBankValueEvents">
+             <summary>GetBankValueEvents of spcified Type</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameEvents.STriggerDialogControlEvents">
+             <summary>GetBankValueEvents of spcified Type</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameEvents.STriggerCh2atMessageEvents">
              <summary>GetBankValueEvents of spcified Type</summary>
             
         </member>
