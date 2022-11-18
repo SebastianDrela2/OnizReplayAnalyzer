@@ -1,9 +1,0 @@
-PhantomGuard HumanWinsNormal 1
-PhantomGuard K/D Ratio 47
-PhantomGuard Average Marine Winrate 100%
-PhantomGuard Average Fuel Diverts PerGame 0
-PhantomGuard Average Vespene Harvested PerGame 900
-PhantomGuard Average Zombie Winrate NaN%
-PhantomGuard Average Security Kills Per Game NaN
-PhantomGuard Average Deaths PerGame 2
-PhantomGuard Average Infestation Class Class 1

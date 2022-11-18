@@ -1,9 +1,0 @@
-Snap HumanWinsNormal 0
-Snap K/D Ratio 295
-Snap Average Marine Winrate 0%
-Snap Average Fuel Diverts PerGame 0
-Snap Average Vespene Harvested PerGame 1800
-Snap Average Zombie Winrate NaN%
-Snap Average Security Kills Per Game NaN
-Snap Average Deaths PerGame 0,5
-Snap Average Infestation Class Class 1
