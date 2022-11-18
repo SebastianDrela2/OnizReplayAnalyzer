@@ -1,0 +1,23 @@
+Rorschach HumanWinsNormal 15
+Rorschach ZombieRank 9.3332
+Rorschach VespeneHarvested 94600
+Rorschach HumansRescued 25
+Rorschach SecurityForcesKilled 5276
+Rorschach ZombiesKilled 18176
+Rorschach FuelDiverted 51
+Rorschach HumanRank 3.35
+Rorschach NumberOfTimesCaptured 53
+Rorschach TurretsBuilt 132
+Rorschach ZombieWins 6
+Rorschach GamesLeft 2
+Rorschach GamesPlayedAsHuman 37
+Rorschach GamesPlayedAsZombie 12
+Rorschach HumansCaptured 108
+Rorschach K/D Ratio 342,94
+Rorschach Average Marine Winrate 41%
+Rorschach Average Fuel Diverts PerGame 1,38
+Rorschach Average Vespene Harvested PerGame 2556,76
+Rorschach Average Zombie Winrate 50%
+Rorschach Average Security Kills Per Game 440
+Rorschach Average Deaths PerGame 1,43
+Rorschach Average Infestation Class Class 5

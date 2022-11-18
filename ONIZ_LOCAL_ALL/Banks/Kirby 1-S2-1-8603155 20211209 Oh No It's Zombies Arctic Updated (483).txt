@@ -1,0 +1,23 @@
+Kirby HumanWinsNormal 77
+Kirby ZombieRank 4.166
+Kirby VespeneHarvested 423700
+Kirby HumansRescued 243
+Kirby SecurityForcesKilled 22140
+Kirby ZombiesKilled 94064
+Kirby FuelDiverted 466
+Kirby HumanRank 12.5502
+Kirby NumberOfTimesCaptured 325
+Kirby TurretsBuilt 218
+Kirby ZombieWins 21
+Kirby GamesLeft 8
+Kirby GamesPlayedAsHuman 151
+Kirby GamesPlayedAsZombie 53
+Kirby HumansCaptured 499
+Kirby K/D Ratio 289,43
+Kirby Average Marine Winrate 51%
+Kirby Average Fuel Diverts PerGame 3,09
+Kirby Average Vespene Harvested PerGame 2805,96
+Kirby Average Zombie Winrate 40%
+Kirby Average Security Kills Per Game 418
+Kirby Average Deaths PerGame 2,15
+Kirby Average Infestation Class Class 5

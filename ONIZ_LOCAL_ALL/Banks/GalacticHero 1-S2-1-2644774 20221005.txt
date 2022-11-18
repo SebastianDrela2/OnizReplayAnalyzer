@@ -1,0 +1,23 @@
+GalacticHero HumanWinsNormal 6
+GalacticHero ZombieRank 0
+GalacticHero VespeneHarvested 28700
+GalacticHero HumansRescued 5
+GalacticHero SecurityForcesKilled 285
+GalacticHero ZombiesKilled 5141
+GalacticHero FuelDiverted 1
+GalacticHero HumanRank 3
+GalacticHero NumberOfTimesCaptured 23
+GalacticHero TurretsBuilt 198
+GalacticHero ZombieWins 0
+GalacticHero GamesLeft 0
+GalacticHero GamesPlayedAsHuman 12
+GalacticHero GamesPlayedAsZombie 1
+GalacticHero HumansCaptured 7
+GalacticHero K/D Ratio 223,52
+GalacticHero Average Marine Winrate 50%
+GalacticHero Average Fuel Diverts PerGame 0,08
+GalacticHero Average Vespene Harvested PerGame 2391,67
+GalacticHero Average Zombie Winrate 0%
+GalacticHero Average Security Kills Per Game 285
+GalacticHero Average Deaths PerGame 1,92
+GalacticHero Average Infestation Class Class 3

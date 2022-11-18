@@ -1,0 +1,23 @@
+BadAppleLin HumanWinsNormal 1
+BadAppleLin ZombieRank 0
+BadAppleLin VespeneHarvested 2800
+BadAppleLin HumansRescued 2
+BadAppleLin SecurityForcesKilled 0
+BadAppleLin ZombiesKilled 643
+BadAppleLin FuelDiverted 1
+BadAppleLin HumanRank 0
+BadAppleLin NumberOfTimesCaptured 0
+BadAppleLin TurretsBuilt 0
+BadAppleLin ZombieWins 0
+BadAppleLin GamesLeft 7
+BadAppleLin GamesPlayedAsHuman 8
+BadAppleLin GamesPlayedAsZombie 0
+BadAppleLin HumansCaptured 0
+BadAppleLin K/D Ratio ∞
+BadAppleLin Average Marine Winrate 12%
+BadAppleLin Average Fuel Diverts PerGame 0,12
+BadAppleLin Average Vespene Harvested PerGame 350
+BadAppleLin Average Zombie Winrate NaN%
+BadAppleLin Average Security Kills Per Game NaN
+BadAppleLin Average Deaths PerGame 0
+BadAppleLin Average Infestation Class Class 1

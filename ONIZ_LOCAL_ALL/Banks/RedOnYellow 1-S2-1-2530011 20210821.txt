@@ -1,0 +1,25 @@
+RedOnYellow HumanWinsNormal 20
+RedOnYellow LeftLastGameAsZombie 0
+RedOnYellow ZombieRank 0
+RedOnYellow VespeneHarvested 79000
+RedOnYellow HumansRescued 22
+RedOnYellow SecurityForcesKilled 0
+RedOnYellow ZombiesKilled 28362
+RedOnYellow FuelDiverted 2
+RedOnYellow PlayedRankedMode5.0 1
+RedOnYellow HumanRank 6
+RedOnYellow NumberOfTimesCaptured 118
+RedOnYellow TurretsBuilt 45
+RedOnYellow ZombieWins 0
+RedOnYellow GamesLeft 0
+RedOnYellow GamesPlayedAsHuman 64
+RedOnYellow GamesPlayedAsZombie 0
+RedOnYellow HumansCaptured 0
+RedOnYellow K/D Ratio 240,36
+RedOnYellow Average Marine Winrate 31%
+RedOnYellow Average Fuel Diverts PerGame 0,03
+RedOnYellow Average Vespene Harvested PerGame 1234,38
+RedOnYellow Average Zombie Winrate NaN%
+RedOnYellow Average Security Kills Per Game NaN
+RedOnYellow Average Deaths PerGame 1,84
+RedOnYellow Average Infestation Class Class 1

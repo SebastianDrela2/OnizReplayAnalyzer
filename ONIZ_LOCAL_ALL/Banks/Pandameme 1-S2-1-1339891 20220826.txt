@@ -1,0 +1,24 @@
+Pandameme HumanWinsNormal 79
+Pandameme ZombieRank 0
+Pandameme VespeneHarvested 413220
+Pandameme HumansRescued 100
+Pandameme SecurityForcesKilled 1118
+Pandameme ZombiesKilled 123509
+Pandameme FuelDiverted 66
+Pandameme PlayedRankedMode5.0 1
+Pandameme HumanRank 15.6835
+Pandameme NumberOfTimesCaptured 362
+Pandameme TurretsBuilt 669
+Pandameme ZombieWins 0
+Pandameme GamesLeft 12
+Pandameme GamesPlayedAsHuman 173
+Pandameme GamesPlayedAsZombie 3
+Pandameme HumansCaptured 24
+Pandameme K/D Ratio 341,19
+Pandameme Average Marine Winrate 46%
+Pandameme Average Fuel Diverts PerGame 0,38
+Pandameme Average Vespene Harvested PerGame 2388,55
+Pandameme Average Zombie Winrate 0%
+Pandameme Average Security Kills Per Game 373
+Pandameme Average Deaths PerGame 2,09
+Pandameme Average Infestation Class Class 4

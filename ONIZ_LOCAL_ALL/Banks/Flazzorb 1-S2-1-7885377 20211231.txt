@@ -1,0 +1,23 @@
+Flazzorb HumanWinsNormal 2
+Flazzorb ZombieRank 0
+Flazzorb VespeneHarvested 9180
+Flazzorb HumansRescued 4
+Flazzorb SecurityForcesKilled 0
+Flazzorb ZombiesKilled 4050
+Flazzorb FuelDiverted 13
+Flazzorb HumanRank 5
+Flazzorb NumberOfTimesCaptured 9
+Flazzorb TurretsBuilt 19
+Flazzorb ZombieWins 0
+Flazzorb GamesLeft 0
+Flazzorb GamesPlayedAsHuman 6
+Flazzorb GamesPlayedAsZombie 0
+Flazzorb HumansCaptured 0
+Flazzorb K/D Ratio 450
+Flazzorb Average Marine Winrate 33%
+Flazzorb Average Fuel Diverts PerGame 2,17
+Flazzorb Average Vespene Harvested PerGame 1530
+Flazzorb Average Zombie Winrate NaN%
+Flazzorb Average Security Kills Per Game NaN
+Flazzorb Average Deaths PerGame 1,5
+Flazzorb Average Infestation Class Class 1

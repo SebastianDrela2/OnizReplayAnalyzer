@@ -1,0 +1,24 @@
+Zepherd HumanWinsNormal 827
+Zepherd ZombieRank 31
+Zepherd VespeneHarvested 5194700
+Zepherd HumansRescued 1381
+Zepherd SecurityForcesKilled 356959
+Zepherd ZombiesKilled 1163316
+Zepherd FuelDiverted 7816
+Zepherd PlayedRankedMode5.0 1
+Zepherd HumanRank 28
+Zepherd NumberOfTimesCaptured 1951
+Zepherd TurretsBuilt 14052
+Zepherd ZombieWins 548
+Zepherd GamesLeft 31
+Zepherd GamesPlayedAsHuman 1496
+Zepherd GamesPlayedAsZombie 818
+Zepherd HumansCaptured 7950
+Zepherd K/D Ratio 596,27
+Zepherd Average Marine Winrate 55,00000000000001%
+Zepherd Average Fuel Diverts PerGame 5,22
+Zepherd Average Vespene Harvested PerGame 3472,39
+Zepherd Average Zombie Winrate 67%
+Zepherd Average Security Kills Per Game 436
+Zepherd Average Deaths PerGame 1,3
+Zepherd Average Infestation Class Class 5

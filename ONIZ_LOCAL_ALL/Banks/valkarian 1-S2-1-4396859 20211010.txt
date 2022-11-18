@@ -1,0 +1,24 @@
+valkarian HumanWinsNormal 15
+valkarian ZombieRank 1.3332
+valkarian VespeneHarvested 120700
+valkarian HumansRescued 42
+valkarian SecurityForcesKilled 5521
+valkarian ZombiesKilled 27874
+valkarian FuelDiverted 19
+valkarian PlayedRankedMode5.0 1
+valkarian HumanRank 0
+valkarian NumberOfTimesCaptured 80
+valkarian TurretsBuilt 140
+valkarian ZombieWins 3
+valkarian GamesLeft 2
+valkarian GamesPlayedAsHuman 54
+valkarian GamesPlayedAsZombie 15
+valkarian HumansCaptured 100
+valkarian K/D Ratio 348,42
+valkarian Average Marine Winrate 28,000000000000004%
+valkarian Average Fuel Diverts PerGame 0,35
+valkarian Average Vespene Harvested PerGame 2235,19
+valkarian Average Zombie Winrate 20%
+valkarian Average Security Kills Per Game 368
+valkarian Average Deaths PerGame 1,48
+valkarian Average Infestation Class Class 4

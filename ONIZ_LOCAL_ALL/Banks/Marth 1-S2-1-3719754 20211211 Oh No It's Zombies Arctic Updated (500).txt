@@ -1,0 +1,24 @@
+Marth HumanWinsNormal 12
+Marth LeftLastGameAsZombie 0
+Marth ZombieRank 0
+Marth VespeneHarvested 33500
+Marth HumansRescued 15
+Marth SecurityForcesKilled 961
+Marth ZombiesKilled 10798
+Marth FuelDiverted 38
+Marth HumanRank 17
+Marth NumberOfTimesCaptured 18
+Marth TurretsBuilt 76
+Marth ZombieWins 2
+Marth GamesLeft 0
+Marth GamesPlayedAsHuman 17
+Marth GamesPlayedAsZombie 2
+Marth HumansCaptured 0
+Marth K/D Ratio 599,89
+Marth Average Marine Winrate 71%
+Marth Average Fuel Diverts PerGame 2,24
+Marth Average Vespene Harvested PerGame 1970,59
+Marth Average Zombie Winrate 100%
+Marth Average Security Kills Per Game 480
+Marth Average Deaths PerGame 1,06
+Marth Average Infestation Class Class 5

@@ -1,0 +1,23 @@
+rabbitusagi HumanWinsNormal 8
+rabbitusagi ZombieRank 0
+rabbitusagi VespeneHarvested 31780
+rabbitusagi HumansRescued 5
+rabbitusagi SecurityForcesKilled 0
+rabbitusagi ZombiesKilled 6912
+rabbitusagi FuelDiverted 11
+rabbitusagi HumanRank 17.125
+rabbitusagi NumberOfTimesCaptured 14
+rabbitusagi TurretsBuilt 52
+rabbitusagi ZombieWins 0
+rabbitusagi GamesLeft 0
+rabbitusagi GamesPlayedAsHuman 10
+rabbitusagi GamesPlayedAsZombie 0
+rabbitusagi HumansCaptured 0
+rabbitusagi K/D Ratio 493,71
+rabbitusagi Average Marine Winrate 80%
+rabbitusagi Average Fuel Diverts PerGame 1,1
+rabbitusagi Average Vespene Harvested PerGame 3178
+rabbitusagi Average Zombie Winrate NaN%
+rabbitusagi Average Security Kills Per Game NaN
+rabbitusagi Average Deaths PerGame 1,4
+rabbitusagi Average Infestation Class Class 1

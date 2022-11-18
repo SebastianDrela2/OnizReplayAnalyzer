@@ -1,0 +1,24 @@
+Andderson HumanWinsNormal 4
+Andderson LeftLastGameAsZombie 0
+Andderson ZombieRank 0
+Andderson VespeneHarvested 26900
+Andderson HumansRescued 24
+Andderson SecurityForcesKilled 674
+Andderson ZombiesKilled 4092
+Andderson FuelDiverted 3
+Andderson HumanRank 11
+Andderson NumberOfTimesCaptured 24
+Andderson TurretsBuilt 27
+Andderson ZombieWins 1
+Andderson GamesLeft 0
+Andderson GamesPlayedAsHuman 14
+Andderson GamesPlayedAsZombie 2
+Andderson HumansCaptured 12
+Andderson K/D Ratio 170,5
+Andderson Average Marine Winrate 28,999999999999996%
+Andderson Average Fuel Diverts PerGame 0,21
+Andderson Average Vespene Harvested PerGame 1921,43
+Andderson Average Zombie Winrate 50%
+Andderson Average Security Kills Per Game 337
+Andderson Average Deaths PerGame 1,71
+Andderson Average Infestation Class Class 4

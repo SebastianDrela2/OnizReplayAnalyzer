@@ -1,0 +1,23 @@
+BMxGosuxNVT HumanWinsNormal 111
+BMxGosuxNVT ZombieRank 2.3334
+BMxGosuxNVT VespeneHarvested 591280
+BMxGosuxNVT HumansRescued 263
+BMxGosuxNVT SecurityForcesKilled 2517
+BMxGosuxNVT ZombiesKilled 228998
+BMxGosuxNVT FuelDiverted 162
+BMxGosuxNVT HumanRank 4.75
+BMxGosuxNVT NumberOfTimesCaptured 334
+BMxGosuxNVT TurretsBuilt 1627
+BMxGosuxNVT ZombieWins 2
+BMxGosuxNVT GamesLeft 7
+BMxGosuxNVT GamesPlayedAsHuman 263
+BMxGosuxNVT GamesPlayedAsZombie 8
+BMxGosuxNVT HumansCaptured 48
+BMxGosuxNVT K/D Ratio 685,62
+BMxGosuxNVT Average Marine Winrate 42%
+BMxGosuxNVT Average Fuel Diverts PerGame 0,62
+BMxGosuxNVT Average Vespene Harvested PerGame 2248,21
+BMxGosuxNVT Average Zombie Winrate 25%
+BMxGosuxNVT Average Security Kills Per Game 315
+BMxGosuxNVT Average Deaths PerGame 1,27
+BMxGosuxNVT Average Infestation Class Class 4

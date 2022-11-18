@@ -1,0 +1,23 @@
+ClydeBOT HumanWinsNormal 38
+ClydeBOT ZombieRank 19.4992
+ClydeBOT VespeneHarvested 224620
+ClydeBOT HumansRescued 62
+ClydeBOT SecurityForcesKilled 11519
+ClydeBOT ZombiesKilled 60572
+ClydeBOT FuelDiverted 462
+ClydeBOT HumanRank 4.7001
+ClydeBOT NumberOfTimesCaptured 164
+ClydeBOT TurretsBuilt 570
+ClydeBOT ZombieWins 22
+ClydeBOT GamesLeft 8
+ClydeBOT GamesPlayedAsHuman 87
+ClydeBOT GamesPlayedAsZombie 29
+ClydeBOT HumansCaptured 253
+ClydeBOT K/D Ratio 369,34
+ClydeBOT Average Marine Winrate 44%
+ClydeBOT Average Fuel Diverts PerGame 5,31
+ClydeBOT Average Vespene Harvested PerGame 2581,84
+ClydeBOT Average Zombie Winrate 76%
+ClydeBOT Average Security Kills Per Game 397
+ClydeBOT Average Deaths PerGame 1,89
+ClydeBOT Average Infestation Class Class 4

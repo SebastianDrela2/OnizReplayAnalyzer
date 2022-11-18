@@ -1,0 +1,23 @@
+HornyHumplar HumanWinsNormal 24
+HornyHumplar ZombieRank 23.832
+HornyHumplar VespeneHarvested 1912300
+HornyHumplar HumansRescued 396
+HornyHumplar SecurityForcesKilled 18409
+HornyHumplar ZombiesKilled 513928
+HornyHumplar FuelDiverted 536
+HornyHumplar HumanRank 0
+HornyHumplar NumberOfTimesCaptured 578
+HornyHumplar TurretsBuilt 4569
+HornyHumplar ZombieWins 28
+HornyHumplar GamesLeft 20
+HornyHumplar GamesPlayedAsHuman 569
+HornyHumplar GamesPlayedAsZombie 43
+HornyHumplar HumansCaptured 388
+HornyHumplar K/D Ratio 889,15
+HornyHumplar Average Marine Winrate 4%
+HornyHumplar Average Fuel Diverts PerGame 0,94
+HornyHumplar Average Vespene Harvested PerGame 3360,81
+HornyHumplar Average Zombie Winrate 65%
+HornyHumplar Average Security Kills Per Game 428
+HornyHumplar Average Deaths PerGame 1,02
+HornyHumplar Average Infestation Class Class 5

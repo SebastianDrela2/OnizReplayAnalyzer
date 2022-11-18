@@ -1,0 +1,24 @@
+Zakiah HumanWinsNormal 1
+Zakiah ZombieRank 0
+Zakiah VespeneHarvested 5200
+Zakiah HumansRescued 2
+Zakiah SecurityForcesKilled 0
+Zakiah ZombiesKilled 648
+Zakiah FuelDiverted 12
+Zakiah PlayedRankedMode5.0 1
+Zakiah HumanRank 0
+Zakiah NumberOfTimesCaptured 2
+Zakiah TurretsBuilt 10
+Zakiah ZombieWins 0
+Zakiah GamesLeft 0
+Zakiah GamesPlayedAsHuman 2
+Zakiah GamesPlayedAsZombie 0
+Zakiah HumansCaptured 0
+Zakiah K/D Ratio 324
+Zakiah Average Marine Winrate 50%
+Zakiah Average Fuel Diverts PerGame 6
+Zakiah Average Vespene Harvested PerGame 2600
+Zakiah Average Zombie Winrate NaN%
+Zakiah Average Security Kills Per Game NaN
+Zakiah Average Deaths PerGame 1
+Zakiah Average Infestation Class Class 1

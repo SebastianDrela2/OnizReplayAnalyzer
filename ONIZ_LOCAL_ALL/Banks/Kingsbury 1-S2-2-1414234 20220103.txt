@@ -1,0 +1,23 @@
+Kingsbury HumanWinsNormal 1
+Kingsbury ZombieRank 0
+Kingsbury VespeneHarvested 9460
+Kingsbury HumansRescued 2
+Kingsbury SecurityForcesKilled 0
+Kingsbury ZombiesKilled 1956
+Kingsbury FuelDiverted 1
+Kingsbury HumanRank 0
+Kingsbury NumberOfTimesCaptured 9
+Kingsbury TurretsBuilt 9
+Kingsbury ZombieWins 0
+Kingsbury GamesLeft 0
+Kingsbury GamesPlayedAsHuman 3
+Kingsbury GamesPlayedAsZombie 0
+Kingsbury HumansCaptured 0
+Kingsbury K/D Ratio 217,33
+Kingsbury Average Marine Winrate 33%
+Kingsbury Average Fuel Diverts PerGame 0,33
+Kingsbury Average Vespene Harvested PerGame 3153,33
+Kingsbury Average Zombie Winrate NaN%
+Kingsbury Average Security Kills Per Game NaN
+Kingsbury Average Deaths PerGame 3
+Kingsbury Average Infestation Class Class 1

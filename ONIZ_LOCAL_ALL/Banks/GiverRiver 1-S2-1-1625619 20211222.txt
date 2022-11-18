@@ -1,0 +1,23 @@
+GiverRiver HumanWinsNormal 0
+GiverRiver ZombieRank 0
+GiverRiver VespeneHarvested 0
+GiverRiver HumansRescued 0
+GiverRiver SecurityForcesKilled 411
+GiverRiver ZombiesKilled 0
+GiverRiver FuelDiverted 0
+GiverRiver HumanRank 0
+GiverRiver NumberOfTimesCaptured 0
+GiverRiver TurretsBuilt 0
+GiverRiver ZombieWins 1
+GiverRiver GamesLeft 0
+GiverRiver GamesPlayedAsHuman 0
+GiverRiver GamesPlayedAsZombie 1
+GiverRiver HumansCaptured 0
+GiverRiver K/D Ratio NaN
+GiverRiver Average Marine Winrate NaN%
+GiverRiver Average Fuel Diverts PerGame NaN
+GiverRiver Average Vespene Harvested PerGame NaN
+GiverRiver Average Zombie Winrate 100%
+GiverRiver Average Security Kills Per Game 411
+GiverRiver Average Deaths PerGame NaN
+GiverRiver Average Infestation Class Class 5

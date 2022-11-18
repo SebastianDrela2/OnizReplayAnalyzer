@@ -1,0 +1,23 @@
+Calcium HumanWinsNormal 4
+Calcium ZombieRank 0
+Calcium VespeneHarvested 29060
+Calcium HumansRescued 3
+Calcium SecurityForcesKilled 450
+Calcium ZombiesKilled 3098
+Calcium FuelDiverted 8
+Calcium HumanRank 7.5
+Calcium NumberOfTimesCaptured 13
+Calcium TurretsBuilt 55
+Calcium ZombieWins 1
+Calcium GamesLeft 1
+Calcium GamesPlayedAsHuman 8
+Calcium GamesPlayedAsZombie 1
+Calcium HumansCaptured 0
+Calcium K/D Ratio 238,31
+Calcium Average Marine Winrate 50%
+Calcium Average Fuel Diverts PerGame 1
+Calcium Average Vespene Harvested PerGame 3632,5
+Calcium Average Zombie Winrate 100%
+Calcium Average Security Kills Per Game 450
+Calcium Average Deaths PerGame 1,62
+Calcium Average Infestation Class Class 5

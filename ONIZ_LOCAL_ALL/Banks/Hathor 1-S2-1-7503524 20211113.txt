@@ -1,0 +1,23 @@
+Hathor HumanWinsNormal 7
+Hathor ZombieRank 0
+Hathor VespeneHarvested 43900
+Hathor HumansRescued 10
+Hathor SecurityForcesKilled 3967
+Hathor ZombiesKilled 11961
+Hathor FuelDiverted 114
+Hathor HumanRank 0
+Hathor NumberOfTimesCaptured 98
+Hathor TurretsBuilt 189
+Hathor ZombieWins 2
+Hathor GamesLeft 4
+Hathor GamesPlayedAsHuman 35
+Hathor GamesPlayedAsZombie 11
+Hathor HumansCaptured 91
+Hathor K/D Ratio 122,05
+Hathor Average Marine Winrate 20%
+Hathor Average Fuel Diverts PerGame 3,26
+Hathor Average Vespene Harvested PerGame 1254,29
+Hathor Average Zombie Winrate 18%
+Hathor Average Security Kills Per Game 361
+Hathor Average Deaths PerGame 2,8
+Hathor Average Infestation Class Class 4

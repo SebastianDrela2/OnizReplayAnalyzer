@@ -1,0 +1,24 @@
+Theda HumanWinsNormal 193
+Theda LeftLastGameAsZombie 0
+Theda ZombieRank 0
+Theda VespeneHarvested 1261560
+Theda HumansRescued 358
+Theda SecurityForcesKilled 19942
+Theda ZombiesKilled 203791
+Theda FuelDiverted 974
+Theda HumanRank 1
+Theda NumberOfTimesCaptured 598
+Theda TurretsBuilt 1713
+Theda ZombieWins 15
+Theda GamesLeft 58
+Theda GamesPlayedAsHuman 485
+Theda GamesPlayedAsZombie 49
+Theda HumansCaptured 401
+Theda K/D Ratio 340,79
+Theda Average Marine Winrate 40%
+Theda Average Fuel Diverts PerGame 2,01
+Theda Average Vespene Harvested PerGame 2601,15
+Theda Average Zombie Winrate 31%
+Theda Average Security Kills Per Game 407
+Theda Average Deaths PerGame 1,23
+Theda Average Infestation Class Class 4

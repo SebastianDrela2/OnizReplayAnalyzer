@@ -1,0 +1,23 @@
+lonesurvivor HumanWinsNormal 19
+lonesurvivor ZombieRank 22.4992
+lonesurvivor VespeneHarvested 140000
+lonesurvivor HumansRescued 22
+lonesurvivor SecurityForcesKilled 10713
+lonesurvivor ZombiesKilled 25730
+lonesurvivor FuelDiverted 113
+lonesurvivor HumanRank 7.6
+lonesurvivor NumberOfTimesCaptured 108
+lonesurvivor TurretsBuilt 240
+lonesurvivor ZombieWins 18
+lonesurvivor GamesLeft 0
+lonesurvivor GamesPlayedAsHuman 40
+lonesurvivor GamesPlayedAsZombie 21
+lonesurvivor HumansCaptured 303
+lonesurvivor K/D Ratio 238,24
+lonesurvivor Average Marine Winrate 48%
+lonesurvivor Average Fuel Diverts PerGame 2,82
+lonesurvivor Average Vespene Harvested PerGame 3500
+lonesurvivor Average Zombie Winrate 86%
+lonesurvivor Average Security Kills Per Game 510
+lonesurvivor Average Deaths PerGame 2,7
+lonesurvivor Average Infestation Class Class 5

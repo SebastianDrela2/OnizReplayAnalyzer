@@ -1,0 +1,24 @@
+Panda HumanWinsNormal 52
+Panda ZombieRank 0
+Panda VespeneHarvested 430440
+Panda HumansRescued 122
+Panda SecurityForcesKilled 24704
+Panda ZombiesKilled 61644
+Panda FuelDiverted 184
+Panda PlayedRankedMode5.0 1
+Panda HumanRank 0
+Panda NumberOfTimesCaptured 364
+Panda TurretsBuilt 377
+Panda ZombieWins 29
+Panda GamesLeft 46
+Panda GamesPlayedAsHuman 168
+Panda GamesPlayedAsZombie 72
+Panda HumansCaptured 394
+Panda K/D Ratio 169,35
+Panda Average Marine Winrate 31%
+Panda Average Fuel Diverts PerGame 1,1
+Panda Average Vespene Harvested PerGame 2562,14
+Panda Average Zombie Winrate 40%
+Panda Average Security Kills Per Game 343
+Panda Average Deaths PerGame 2,17
+Panda Average Infestation Class Class 4

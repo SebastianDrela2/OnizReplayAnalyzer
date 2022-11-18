@@ -1,0 +1,24 @@
+Hijinks HumanWinsNormal 17
+Hijinks LeftLastGameAsZombie 0
+Hijinks ZombieRank 0
+Hijinks VespeneHarvested 76720
+Hijinks HumansRescued 23
+Hijinks SecurityForcesKilled 0
+Hijinks ZombiesKilled 23260
+Hijinks FuelDiverted 0
+Hijinks HumanRank 0
+Hijinks NumberOfTimesCaptured 61
+Hijinks TurretsBuilt 193
+Hijinks ZombieWins 0
+Hijinks GamesLeft 4
+Hijinks GamesPlayedAsHuman 35
+Hijinks GamesPlayedAsZombie 0
+Hijinks HumansCaptured 0
+Hijinks K/D Ratio 381,31
+Hijinks Average Marine Winrate 49%
+Hijinks Average Fuel Diverts PerGame 0
+Hijinks Average Vespene Harvested PerGame 2192
+Hijinks Average Zombie Winrate NaN%
+Hijinks Average Security Kills Per Game NaN
+Hijinks Average Deaths PerGame 1,74
+Hijinks Average Infestation Class Class 1

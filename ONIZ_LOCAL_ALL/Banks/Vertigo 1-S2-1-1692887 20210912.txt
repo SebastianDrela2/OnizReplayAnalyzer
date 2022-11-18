@@ -1,0 +1,24 @@
+Vertigo HumanWinsNormal 18
+Vertigo ZombieRank 0
+Vertigo VespeneHarvested 95700
+Vertigo HumansRescued 34
+Vertigo SecurityForcesKilled 1037
+Vertigo ZombiesKilled 22564
+Vertigo FuelDiverted 32
+Vertigo PlayedRankedMode5.0 1
+Vertigo HumanRank 0
+Vertigo NumberOfTimesCaptured 116
+Vertigo TurretsBuilt 140
+Vertigo ZombieWins 0
+Vertigo GamesLeft 4
+Vertigo GamesPlayedAsHuman 45
+Vertigo GamesPlayedAsZombie 2
+Vertigo HumansCaptured 11
+Vertigo K/D Ratio 194,52
+Vertigo Average Marine Winrate 40%
+Vertigo Average Fuel Diverts PerGame 0,71
+Vertigo Average Vespene Harvested PerGame 2126,67
+Vertigo Average Zombie Winrate 0%
+Vertigo Average Security Kills Per Game 518
+Vertigo Average Deaths PerGame 2,58
+Vertigo Average Infestation Class Class 5

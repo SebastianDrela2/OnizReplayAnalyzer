@@ -1,0 +1,23 @@
+BardBard HumanWinsNormal 10
+BardBard ZombieRank 0.5
+BardBard VespeneHarvested 49240
+BardBard HumansRescued 5
+BardBard SecurityForcesKilled 1964
+BardBard ZombiesKilled 11591
+BardBard FuelDiverted 187
+BardBard HumanRank 6.75
+BardBard NumberOfTimesCaptured 23
+BardBard TurretsBuilt 22
+BardBard ZombieWins 1
+BardBard GamesLeft 0
+BardBard GamesPlayedAsHuman 18
+BardBard GamesPlayedAsZombie 5
+BardBard HumansCaptured 36
+BardBard K/D Ratio 503,96
+BardBard Average Marine Winrate 56,00000000000001%
+BardBard Average Fuel Diverts PerGame 10,39
+BardBard Average Vespene Harvested PerGame 2735,56
+BardBard Average Zombie Winrate 20%
+BardBard Average Security Kills Per Game 393
+BardBard Average Deaths PerGame 1,28
+BardBard Average Infestation Class Class 4

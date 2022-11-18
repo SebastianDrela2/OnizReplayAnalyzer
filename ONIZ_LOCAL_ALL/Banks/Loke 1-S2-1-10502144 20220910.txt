@@ -1,0 +1,23 @@
+Loke HumanWinsNormal 145
+Loke ZombieRank 3.8322
+Loke VespeneHarvested 957920
+Loke HumansRescued 433
+Loke SecurityForcesKilled 28351
+Loke ZombiesKilled 173600
+Loke FuelDiverted 355
+Loke HumanRank 0
+Loke NumberOfTimesCaptured 770
+Loke TurretsBuilt 798
+Loke ZombieWins 24
+Loke GamesLeft 6
+Loke GamesPlayedAsHuman 370
+Loke GamesPlayedAsZombie 63
+Loke HumansCaptured 576
+Loke K/D Ratio 225,45
+Loke Average Marine Winrate 39%
+Loke Average Fuel Diverts PerGame 0,96
+Loke Average Vespene Harvested PerGame 2588,97
+Loke Average Zombie Winrate 38%
+Loke Average Security Kills Per Game 450
+Loke Average Deaths PerGame 2,08
+Loke Average Infestation Class Class 5

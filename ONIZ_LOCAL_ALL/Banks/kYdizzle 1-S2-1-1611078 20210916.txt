@@ -1,0 +1,23 @@
+kYdizzle HumanWinsNormal 6
+kYdizzle ZombieRank 0
+kYdizzle VespeneHarvested 23000
+kYdizzle HumansRescued 18
+kYdizzle SecurityForcesKilled 0
+kYdizzle ZombiesKilled 7819
+kYdizzle FuelDiverted 13
+kYdizzle HumanRank 2.75
+kYdizzle NumberOfTimesCaptured 35
+kYdizzle TurretsBuilt 59
+kYdizzle ZombieWins 0
+kYdizzle GamesLeft 3
+kYdizzle GamesPlayedAsHuman 16
+kYdizzle GamesPlayedAsZombie 0
+kYdizzle HumansCaptured 0
+kYdizzle K/D Ratio 223,4
+kYdizzle Average Marine Winrate 38%
+kYdizzle Average Fuel Diverts PerGame 0,81
+kYdizzle Average Vespene Harvested PerGame 1437,5
+kYdizzle Average Zombie Winrate NaN%
+kYdizzle Average Security Kills Per Game NaN
+kYdizzle Average Deaths PerGame 2,19
+kYdizzle Average Infestation Class Class 1

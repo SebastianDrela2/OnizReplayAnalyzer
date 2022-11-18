@@ -1,0 +1,23 @@
+tshiar HumanWinsNormal 39
+tshiar ZombieRank 0
+tshiar VespeneHarvested 192000
+tshiar HumansRescued 80
+tshiar SecurityForcesKilled 27599
+tshiar ZombiesKilled 38523
+tshiar FuelDiverted 202
+tshiar HumanRank 0
+tshiar NumberOfTimesCaptured 199
+tshiar TurretsBuilt 553
+tshiar ZombieWins 14
+tshiar GamesLeft 9
+tshiar GamesPlayedAsHuman 104
+tshiar GamesPlayedAsZombie 60
+tshiar HumansCaptured 528
+tshiar K/D Ratio 193,58
+tshiar Average Marine Winrate 38%
+tshiar Average Fuel Diverts PerGame 1,94
+tshiar Average Vespene Harvested PerGame 1846,15
+tshiar Average Zombie Winrate 23%
+tshiar Average Security Kills Per Game 460
+tshiar Average Deaths PerGame 1,91
+tshiar Average Infestation Class Class 5

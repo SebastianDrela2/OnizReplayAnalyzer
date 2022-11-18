@@ -1,0 +1,23 @@
+CosmicDomino HumanWinsNormal 57
+CosmicDomino ZombieRank 8.3332
+CosmicDomino VespeneHarvested 278700
+CosmicDomino HumansRescued 90
+CosmicDomino SecurityForcesKilled 4171
+CosmicDomino ZombiesKilled 67563
+CosmicDomino FuelDiverted 1
+CosmicDomino HumanRank 15.9584
+CosmicDomino NumberOfTimesCaptured 148
+CosmicDomino TurretsBuilt 655
+CosmicDomino ZombieWins 5
+CosmicDomino GamesLeft 7
+CosmicDomino GamesPlayedAsHuman 119
+CosmicDomino GamesPlayedAsZombie 11
+CosmicDomino HumansCaptured 142
+CosmicDomino K/D Ratio 456,51
+CosmicDomino Average Marine Winrate 48%
+CosmicDomino Average Fuel Diverts PerGame 0,01
+CosmicDomino Average Vespene Harvested PerGame 2342,02
+CosmicDomino Average Zombie Winrate 45%
+CosmicDomino Average Security Kills Per Game 379
+CosmicDomino Average Deaths PerGame 1,24
+CosmicDomino Average Infestation Class Class 4

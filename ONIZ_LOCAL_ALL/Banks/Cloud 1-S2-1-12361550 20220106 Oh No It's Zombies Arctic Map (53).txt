@@ -1,0 +1,23 @@
+Cloud HumanWinsNormal 5
+Cloud ZombieRank 0
+Cloud VespeneHarvested 22420
+Cloud HumansRescued 2
+Cloud SecurityForcesKilled 478
+Cloud ZombiesKilled 2243
+Cloud FuelDiverted 11
+Cloud HumanRank 3
+Cloud NumberOfTimesCaptured 3
+Cloud TurretsBuilt 16
+Cloud ZombieWins 1
+Cloud GamesLeft 0
+Cloud GamesPlayedAsHuman 5
+Cloud GamesPlayedAsZombie 1
+Cloud HumansCaptured 0
+Cloud K/D Ratio 747,67
+Cloud Average Marine Winrate 100%
+Cloud Average Fuel Diverts PerGame 2,2
+Cloud Average Vespene Harvested PerGame 4484
+Cloud Average Zombie Winrate 100%
+Cloud Average Security Kills Per Game 478
+Cloud Average Deaths PerGame 0,6
+Cloud Average Infestation Class Class 5

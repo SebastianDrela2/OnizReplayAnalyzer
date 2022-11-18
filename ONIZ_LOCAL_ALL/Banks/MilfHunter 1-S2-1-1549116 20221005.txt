@@ -1,0 +1,23 @@
+MilfHunter HumanWinsNormal 84
+MilfHunter ZombieRank 3.8322
+MilfHunter VespeneHarvested 573160
+MilfHunter HumansRescued 110
+MilfHunter SecurityForcesKilled 62112
+MilfHunter ZombiesKilled 111723
+MilfHunter FuelDiverted 339
+MilfHunter HumanRank 5.75
+MilfHunter NumberOfTimesCaptured 433
+MilfHunter TurretsBuilt 1007
+MilfHunter ZombieWins 33
+MilfHunter GamesLeft 16
+MilfHunter GamesPlayedAsHuman 203
+MilfHunter GamesPlayedAsZombie 132
+MilfHunter HumansCaptured 1411
+MilfHunter K/D Ratio 258,02
+MilfHunter Average Marine Winrate 41%
+MilfHunter Average Fuel Diverts PerGame 1,67
+MilfHunter Average Vespene Harvested PerGame 2823,45
+MilfHunter Average Zombie Winrate 25%
+MilfHunter Average Security Kills Per Game 471
+MilfHunter Average Deaths PerGame 2,13
+MilfHunter Average Infestation Class Class 5

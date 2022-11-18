@@ -1,0 +1,23 @@
+elVagiNon HumanWinsNormal 0
+elVagiNon ZombieRank 0
+elVagiNon VespeneHarvested 2300
+elVagiNon HumansRescued 0
+elVagiNon SecurityForcesKilled 0
+elVagiNon ZombiesKilled 336
+elVagiNon FuelDiverted 1
+elVagiNon HumanRank 0
+elVagiNon NumberOfTimesCaptured 0
+elVagiNon TurretsBuilt 6
+elVagiNon ZombieWins 0
+elVagiNon GamesLeft 5
+elVagiNon GamesPlayedAsHuman 6
+elVagiNon GamesPlayedAsZombie 0
+elVagiNon HumansCaptured 0
+elVagiNon K/D Ratio ∞
+elVagiNon Average Marine Winrate 0%
+elVagiNon Average Fuel Diverts PerGame 0,17
+elVagiNon Average Vespene Harvested PerGame 383,33
+elVagiNon Average Zombie Winrate NaN%
+elVagiNon Average Security Kills Per Game NaN
+elVagiNon Average Deaths PerGame 0
+elVagiNon Average Infestation Class Class 1

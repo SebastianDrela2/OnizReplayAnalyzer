@@ -1,0 +1,23 @@
+sanadel HumanWinsNormal 5
+sanadel ZombieRank 5
+sanadel VespeneHarvested 30000
+sanadel HumansRescued 27
+sanadel SecurityForcesKilled 3419
+sanadel ZombiesKilled 11460
+sanadel FuelDiverted 8
+sanadel HumanRank 0
+sanadel NumberOfTimesCaptured 80
+sanadel TurretsBuilt 38
+sanadel ZombieWins 3
+sanadel GamesLeft 1
+sanadel GamesPlayedAsHuman 24
+sanadel GamesPlayedAsZombie 7
+sanadel HumansCaptured 96
+sanadel K/D Ratio 143,25
+sanadel Average Marine Winrate 21%
+sanadel Average Fuel Diverts PerGame 0,33
+sanadel Average Vespene Harvested PerGame 1250
+sanadel Average Zombie Winrate 43%
+sanadel Average Security Kills Per Game 488
+sanadel Average Deaths PerGame 3,33
+sanadel Average Infestation Class Class 5

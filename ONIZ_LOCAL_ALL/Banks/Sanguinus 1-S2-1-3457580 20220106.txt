@@ -1,0 +1,23 @@
+Sanguinus HumanWinsNormal 13
+Sanguinus ZombieRank 0
+Sanguinus VespeneHarvested 66500
+Sanguinus HumansRescued 22
+Sanguinus SecurityForcesKilled 866
+Sanguinus ZombiesKilled 9967
+Sanguinus FuelDiverted 31
+Sanguinus HumanRank 1
+Sanguinus NumberOfTimesCaptured 65
+Sanguinus TurretsBuilt 101
+Sanguinus ZombieWins 2
+Sanguinus GamesLeft 1
+Sanguinus GamesPlayedAsHuman 35
+Sanguinus GamesPlayedAsZombie 2
+Sanguinus HumansCaptured 1
+Sanguinus K/D Ratio 153,34
+Sanguinus Average Marine Winrate 37%
+Sanguinus Average Fuel Diverts PerGame 0,89
+Sanguinus Average Vespene Harvested PerGame 1900
+Sanguinus Average Zombie Winrate 100%
+Sanguinus Average Security Kills Per Game 433
+Sanguinus Average Deaths PerGame 1,86
+Sanguinus Average Infestation Class Class 5

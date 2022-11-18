@@ -1,0 +1,23 @@
+SPECTRE HumanWinsNormal 1
+SPECTRE ZombieRank 0
+SPECTRE VespeneHarvested 2900
+SPECTRE HumansRescued 3
+SPECTRE SecurityForcesKilled 0
+SPECTRE ZombiesKilled 965
+SPECTRE FuelDiverted 3
+SPECTRE HumanRank 0
+SPECTRE NumberOfTimesCaptured 5
+SPECTRE TurretsBuilt 1
+SPECTRE ZombieWins 0
+SPECTRE GamesLeft 1
+SPECTRE GamesPlayedAsHuman 4
+SPECTRE GamesPlayedAsZombie 0
+SPECTRE HumansCaptured 0
+SPECTRE K/D Ratio 193
+SPECTRE Average Marine Winrate 25%
+SPECTRE Average Fuel Diverts PerGame 0,75
+SPECTRE Average Vespene Harvested PerGame 725
+SPECTRE Average Zombie Winrate NaN%
+SPECTRE Average Security Kills Per Game NaN
+SPECTRE Average Deaths PerGame 1,25
+SPECTRE Average Infestation Class Class 1

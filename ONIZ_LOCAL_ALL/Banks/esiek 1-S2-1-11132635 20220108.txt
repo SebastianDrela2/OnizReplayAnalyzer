@@ -1,0 +1,23 @@
+esiek HumanWinsNormal 0
+esiek ZombieRank 0
+esiek VespeneHarvested 0
+esiek HumansRescued 0
+esiek SecurityForcesKilled 0
+esiek ZombiesKilled 0
+esiek FuelDiverted 0
+esiek HumanRank 0
+esiek NumberOfTimesCaptured 0
+esiek TurretsBuilt 0
+esiek ZombieWins 0
+esiek GamesLeft 0
+esiek GamesPlayedAsHuman 0
+esiek GamesPlayedAsZombie 0
+esiek HumansCaptured 0
+esiek K/D Ratio NaN
+esiek Average Marine Winrate NaN%
+esiek Average Fuel Diverts PerGame NaN
+esiek Average Vespene Harvested PerGame NaN
+esiek Average Zombie Winrate NaN%
+esiek Average Security Kills Per Game NaN
+esiek Average Deaths PerGame NaN
+esiek Average Infestation Class Class 1

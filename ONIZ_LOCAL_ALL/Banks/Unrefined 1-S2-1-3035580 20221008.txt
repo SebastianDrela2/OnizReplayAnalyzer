@@ -1,0 +1,23 @@
+Unrefined HumanWinsNormal 0
+Unrefined ZombieRank 0
+Unrefined VespeneHarvested 0
+Unrefined HumansRescued 0
+Unrefined SecurityForcesKilled 0
+Unrefined ZombiesKilled 0
+Unrefined FuelDiverted 0
+Unrefined HumanRank 0
+Unrefined NumberOfTimesCaptured 0
+Unrefined TurretsBuilt 0
+Unrefined ZombieWins 0
+Unrefined GamesLeft 0
+Unrefined GamesPlayedAsHuman 0
+Unrefined GamesPlayedAsZombie 0
+Unrefined HumansCaptured 0
+Unrefined K/D Ratio NaN
+Unrefined Average Marine Winrate NaN%
+Unrefined Average Fuel Diverts PerGame NaN
+Unrefined Average Vespene Harvested PerGame NaN
+Unrefined Average Zombie Winrate NaN%
+Unrefined Average Security Kills Per Game NaN
+Unrefined Average Deaths PerGame NaN
+Unrefined Average Infestation Class Class 1

@@ -1,0 +1,23 @@
+AIzombie HumanWinsNormal 36
+AIzombie ZombieRank 18.4985
+AIzombie VespeneHarvested 208280
+AIzombie HumansRescued 30
+AIzombie SecurityForcesKilled 43841
+AIzombie ZombiesKilled 39073
+AIzombie FuelDiverted 352
+AIzombie HumanRank 16.0834
+AIzombie NumberOfTimesCaptured 53
+AIzombie TurretsBuilt 591
+AIzombie ZombieWins 103
+AIzombie GamesLeft 2
+AIzombie GamesPlayedAsHuman 58
+AIzombie GamesPlayedAsZombie 108
+AIzombie HumansCaptured 1098
+AIzombie K/D Ratio 737,23
+AIzombie Average Marine Winrate 62%
+AIzombie Average Fuel Diverts PerGame 6,07
+AIzombie Average Vespene Harvested PerGame 3591,03
+AIzombie Average Zombie Winrate 95%
+AIzombie Average Security Kills Per Game 406
+AIzombie Average Deaths PerGame 0,91
+AIzombie Average Infestation Class Class 4

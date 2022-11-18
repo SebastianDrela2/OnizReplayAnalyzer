@@ -1,0 +1,23 @@
+Trabin HumanWinsNormal 4
+Trabin ZombieRank 0
+Trabin VespeneHarvested 17000
+Trabin HumansRescued 2
+Trabin SecurityForcesKilled 893
+Trabin ZombiesKilled 1492
+Trabin FuelDiverted 1
+Trabin HumanRank 5
+Trabin NumberOfTimesCaptured 35
+Trabin TurretsBuilt 21
+Trabin ZombieWins 0
+Trabin GamesLeft 0
+Trabin GamesPlayedAsHuman 10
+Trabin GamesPlayedAsZombie 3
+Trabin HumansCaptured 28
+Trabin K/D Ratio 42,63
+Trabin Average Marine Winrate 40%
+Trabin Average Fuel Diverts PerGame 0,1
+Trabin Average Vespene Harvested PerGame 1700
+Trabin Average Zombie Winrate 0%
+Trabin Average Security Kills Per Game 298
+Trabin Average Deaths PerGame 3,5
+Trabin Average Infestation Class Class 4

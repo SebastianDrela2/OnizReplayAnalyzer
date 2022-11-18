@@ -1,0 +1,24 @@
+Zylo HumanWinsNormal 5
+Zylo LeftLastGameAsZombie 0
+Zylo ZombieRank 0
+Zylo VespeneHarvested 17700
+Zylo HumansRescued 5
+Zylo SecurityForcesKilled 861
+Zylo ZombiesKilled 4807
+Zylo FuelDiverted 38
+Zylo HumanRank 3.5
+Zylo NumberOfTimesCaptured 31
+Zylo TurretsBuilt 20
+Zylo ZombieWins 1
+Zylo GamesLeft 0
+Zylo GamesPlayedAsHuman 12
+Zylo GamesPlayedAsZombie 3
+Zylo HumansCaptured 9
+Zylo K/D Ratio 155,06
+Zylo Average Marine Winrate 42%
+Zylo Average Fuel Diverts PerGame 3,17
+Zylo Average Vespene Harvested PerGame 1475
+Zylo Average Zombie Winrate 33%
+Zylo Average Security Kills Per Game 287
+Zylo Average Deaths PerGame 2,58
+Zylo Average Infestation Class Class 3

@@ -1,0 +1,23 @@
+Rainbowjedi HumanWinsNormal 38
+Rainbowjedi ZombieRank 0
+Rainbowjedi VespeneHarvested 224400
+Rainbowjedi HumansRescued 108
+Rainbowjedi SecurityForcesKilled 434
+Rainbowjedi ZombiesKilled 47159
+Rainbowjedi FuelDiverted 64
+Rainbowjedi HumanRank 5.417
+Rainbowjedi NumberOfTimesCaptured 115
+Rainbowjedi TurretsBuilt 324
+Rainbowjedi ZombieWins 0
+Rainbowjedi GamesLeft 3
+Rainbowjedi GamesPlayedAsHuman 79
+Rainbowjedi GamesPlayedAsZombie 2
+Rainbowjedi HumansCaptured 5
+Rainbowjedi K/D Ratio 410,08
+Rainbowjedi Average Marine Winrate 48%
+Rainbowjedi Average Fuel Diverts PerGame 0,81
+Rainbowjedi Average Vespene Harvested PerGame 2840,51
+Rainbowjedi Average Zombie Winrate 0%
+Rainbowjedi Average Security Kills Per Game 217
+Rainbowjedi Average Deaths PerGame 1,46
+Rainbowjedi Average Infestation Class Class 3

@@ -1,0 +1,24 @@
+sentryking HumanWinsNormal 7
+sentryking LeftLastGameAsZombie 0
+sentryking ZombieRank 0
+sentryking VespeneHarvested 23500
+sentryking HumansRescued 26
+sentryking SecurityForcesKilled 2126
+sentryking ZombiesKilled 9681
+sentryking FuelDiverted 19
+sentryking HumanRank 1
+sentryking NumberOfTimesCaptured 51
+sentryking TurretsBuilt 43
+sentryking ZombieWins 7
+sentryking GamesLeft 6
+sentryking GamesPlayedAsHuman 26
+sentryking GamesPlayedAsZombie 4
+sentryking HumansCaptured 0
+sentryking K/D Ratio 189,82
+sentryking Average Marine Winrate 27%
+sentryking Average Fuel Diverts PerGame 0,73
+sentryking Average Vespene Harvested PerGame 903,85
+sentryking Average Zombie Winrate 175%
+sentryking Average Security Kills Per Game 532
+sentryking Average Deaths PerGame 1,96
+sentryking Average Infestation Class Class 6

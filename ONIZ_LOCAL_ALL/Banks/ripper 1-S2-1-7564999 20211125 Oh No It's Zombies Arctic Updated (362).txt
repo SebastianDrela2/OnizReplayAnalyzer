@@ -1,0 +1,23 @@
+ripper HumanWinsNormal 1
+ripper ZombieRank 11
+ripper VespeneHarvested 2300
+ripper HumansRescued 1
+ripper SecurityForcesKilled 1890
+ripper ZombiesKilled 265
+ripper FuelDiverted 2
+ripper HumanRank 2
+ripper NumberOfTimesCaptured 9
+ripper TurretsBuilt 4
+ripper ZombieWins 8
+ripper GamesLeft 6
+ripper GamesPlayedAsHuman 7
+ripper GamesPlayedAsZombie 11
+ripper HumansCaptured 0
+ripper K/D Ratio 29,44
+ripper Average Marine Winrate 14,000000000000002%
+ripper Average Fuel Diverts PerGame 0,29
+ripper Average Vespene Harvested PerGame 328,57
+ripper Average Zombie Winrate 73%
+ripper Average Security Kills Per Game 172
+ripper Average Deaths PerGame 1,29
+ripper Average Infestation Class Class 2

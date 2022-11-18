@@ -1,0 +1,24 @@
+Tostah HumanWinsNormal 119
+Tostah ZombieRank 31
+Tostah VespeneHarvested 832000
+Tostah HumansRescued 292
+Tostah SecurityForcesKilled 54058
+Tostah ZombiesKilled 184435
+Tostah PlayedRankedMode5.0 1
+Tostah FuelDiverted 969
+Tostah HumanRank 7.5
+Tostah NumberOfTimesCaptured 802
+Tostah TurretsBuilt 1587
+Tostah ZombieWins 80
+Tostah GamesLeft 52
+Tostah GamesPlayedAsHuman 321
+Tostah GamesPlayedAsZombie 134
+Tostah HumansCaptured 1254
+Tostah K/D Ratio 229,97
+Tostah Average Marine Winrate 37%
+Tostah Average Fuel Diverts PerGame 3,02
+Tostah Average Vespene Harvested PerGame 2591,9
+Tostah Average Zombie Winrate 60%
+Tostah Average Security Kills Per Game 403
+Tostah Average Deaths PerGame 2,5
+Tostah Average Infestation Class Class 4

@@ -1,0 +1,24 @@
+Problematic HumanWinsNormal 21
+Problematic LeftLastGameAsZombie 0
+Problematic ZombieRank 0
+Problematic VespeneHarvested 103300
+Problematic HumansRescued 42
+Problematic SecurityForcesKilled 4
+Problematic ZombiesKilled 29084
+Problematic FuelDiverted 44
+Problematic HumanRank 1
+Problematic NumberOfTimesCaptured 61
+Problematic TurretsBuilt 439
+Problematic ZombieWins 0
+Problematic GamesLeft 4
+Problematic GamesPlayedAsHuman 52
+Problematic GamesPlayedAsZombie 1
+Problematic HumansCaptured 0
+Problematic K/D Ratio 476,79
+Problematic Average Marine Winrate 40%
+Problematic Average Fuel Diverts PerGame 0,85
+Problematic Average Vespene Harvested PerGame 1986,54
+Problematic Average Zombie Winrate 0%
+Problematic Average Security Kills Per Game 4
+Problematic Average Deaths PerGame 1,17
+Problematic Average Infestation Class Class 1

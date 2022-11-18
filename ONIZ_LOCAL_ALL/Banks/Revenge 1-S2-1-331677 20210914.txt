@@ -1,0 +1,23 @@
+Revenge HumanWinsNormal 0
+Revenge ZombieRank 0
+Revenge VespeneHarvested 4400
+Revenge HumansRescued 0
+Revenge SecurityForcesKilled 0
+Revenge ZombiesKilled 1644
+Revenge FuelDiverted 1
+Revenge HumanRank 0
+Revenge NumberOfTimesCaptured 14
+Revenge TurretsBuilt 0
+Revenge ZombieWins 0
+Revenge GamesLeft 2
+Revenge GamesPlayedAsHuman 6
+Revenge GamesPlayedAsZombie 0
+Revenge HumansCaptured 0
+Revenge K/D Ratio 117,43
+Revenge Average Marine Winrate 0%
+Revenge Average Fuel Diverts PerGame 0,17
+Revenge Average Vespene Harvested PerGame 733,33
+Revenge Average Zombie Winrate NaN%
+Revenge Average Security Kills Per Game NaN
+Revenge Average Deaths PerGame 2,33
+Revenge Average Infestation Class Class 1

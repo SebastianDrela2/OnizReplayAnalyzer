@@ -1,0 +1,23 @@
+Basilic HumanWinsNormal 1
+Basilic ZombieRank 0
+Basilic VespeneHarvested 1300
+Basilic HumansRescued 0
+Basilic SecurityForcesKilled 0
+Basilic ZombiesKilled 585
+Basilic FuelDiverted 0
+Basilic HumanRank 1
+Basilic NumberOfTimesCaptured 1
+Basilic TurretsBuilt 0
+Basilic ZombieWins 0
+Basilic GamesLeft 1
+Basilic GamesPlayedAsHuman 2
+Basilic GamesPlayedAsZombie 0
+Basilic HumansCaptured 0
+Basilic K/D Ratio 585
+Basilic Average Marine Winrate 50%
+Basilic Average Fuel Diverts PerGame 0
+Basilic Average Vespene Harvested PerGame 650
+Basilic Average Zombie Winrate NaN%
+Basilic Average Security Kills Per Game NaN
+Basilic Average Deaths PerGame 0,5
+Basilic Average Infestation Class Class 1

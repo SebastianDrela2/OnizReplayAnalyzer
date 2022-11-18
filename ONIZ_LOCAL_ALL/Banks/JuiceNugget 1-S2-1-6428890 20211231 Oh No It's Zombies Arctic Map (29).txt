@@ -1,0 +1,24 @@
+JuiceNugget HumanWinsNormal 11
+JuiceNugget ZombieRank 9
+JuiceNugget VespeneHarvested 69300
+JuiceNugget HumansRescued 24
+JuiceNugget SecurityForcesKilled 3903
+JuiceNugget ZombiesKilled 18927
+JuiceNugget FuelDiverted 91
+JuiceNugget PlayedRankedMode5.0 1
+JuiceNugget HumanRank 0
+JuiceNugget NumberOfTimesCaptured 97
+JuiceNugget TurretsBuilt 115
+JuiceNugget ZombieWins 5
+JuiceNugget GamesLeft 1
+JuiceNugget GamesPlayedAsHuman 39
+JuiceNugget GamesPlayedAsZombie 8
+JuiceNugget HumansCaptured 90
+JuiceNugget K/D Ratio 195,12
+JuiceNugget Average Marine Winrate 28,000000000000004%
+JuiceNugget Average Fuel Diverts PerGame 2,33
+JuiceNugget Average Vespene Harvested PerGame 1776,92
+JuiceNugget Average Zombie Winrate 62%
+JuiceNugget Average Security Kills Per Game 488
+JuiceNugget Average Deaths PerGame 2,49
+JuiceNugget Average Infestation Class Class 5

@@ -1,0 +1,23 @@
+FightorFleet HumanWinsNormal 2
+FightorFleet ZombieRank 0
+FightorFleet VespeneHarvested 22000
+FightorFleet HumansRescued 11
+FightorFleet SecurityForcesKilled 3475
+FightorFleet ZombiesKilled 5415
+FightorFleet FuelDiverted 12
+FightorFleet HumanRank 0
+FightorFleet NumberOfTimesCaptured 70
+FightorFleet TurretsBuilt 25
+FightorFleet ZombieWins 0
+FightorFleet GamesLeft 3
+FightorFleet GamesPlayedAsHuman 19
+FightorFleet GamesPlayedAsZombie 10
+FightorFleet HumansCaptured 77
+FightorFleet K/D Ratio 77,36
+FightorFleet Average Marine Winrate 11%
+FightorFleet Average Fuel Diverts PerGame 0,63
+FightorFleet Average Vespene Harvested PerGame 1157,89
+FightorFleet Average Zombie Winrate 0%
+FightorFleet Average Security Kills Per Game 348
+FightorFleet Average Deaths PerGame 3,68
+FightorFleet Average Infestation Class Class 4

@@ -1,0 +1,24 @@
+xSlayeRx HumanWinsNormal 12
+xSlayeRx ZombieRank 6
+xSlayeRx VespeneHarvested 81100
+xSlayeRx HumansRescued 34
+xSlayeRx SecurityForcesKilled 2945
+xSlayeRx ZombiesKilled 18236
+xSlayeRx FuelDiverted 0
+xSlayeRx PlayedRankedMode5.0 1
+xSlayeRx HumanRank 5
+xSlayeRx NumberOfTimesCaptured 31
+xSlayeRx TurretsBuilt 146
+xSlayeRx ZombieWins 2
+xSlayeRx GamesLeft 0
+xSlayeRx GamesPlayedAsHuman 25
+xSlayeRx GamesPlayedAsZombie 6
+xSlayeRx HumansCaptured 62
+xSlayeRx K/D Ratio 588,26
+xSlayeRx Average Marine Winrate 48%
+xSlayeRx Average Fuel Diverts PerGame 0
+xSlayeRx Average Vespene Harvested PerGame 3244
+xSlayeRx Average Zombie Winrate 33%
+xSlayeRx Average Security Kills Per Game 491
+xSlayeRx Average Deaths PerGame 1,24
+xSlayeRx Average Infestation Class Class 5

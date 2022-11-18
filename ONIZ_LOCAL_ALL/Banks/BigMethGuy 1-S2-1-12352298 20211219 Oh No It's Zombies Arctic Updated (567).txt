@@ -1,0 +1,23 @@
+BigMethGuy HumanWinsNormal 1
+BigMethGuy ZombieRank 0
+BigMethGuy VespeneHarvested 3900
+BigMethGuy HumansRescued 0
+BigMethGuy SecurityForcesKilled 0
+BigMethGuy ZombiesKilled 324
+BigMethGuy FuelDiverted 0
+BigMethGuy HumanRank 1
+BigMethGuy NumberOfTimesCaptured 0
+BigMethGuy TurretsBuilt 2
+BigMethGuy ZombieWins 0
+BigMethGuy GamesLeft 0
+BigMethGuy GamesPlayedAsHuman 1
+BigMethGuy GamesPlayedAsZombie 0
+BigMethGuy HumansCaptured 0
+BigMethGuy K/D Ratio ∞
+BigMethGuy Average Marine Winrate 100%
+BigMethGuy Average Fuel Diverts PerGame 0
+BigMethGuy Average Vespene Harvested PerGame 3900
+BigMethGuy Average Zombie Winrate NaN%
+BigMethGuy Average Security Kills Per Game NaN
+BigMethGuy Average Deaths PerGame 0
+BigMethGuy Average Infestation Class Class 1

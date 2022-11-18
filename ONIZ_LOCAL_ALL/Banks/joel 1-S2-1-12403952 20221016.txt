@@ -1,0 +1,23 @@
+joel HumanWinsNormal 6
+joel ZombieRank 1.3332
+joel VespeneHarvested 82840
+joel HumansRescued 19
+joel SecurityForcesKilled 7321
+joel ZombiesKilled 12452
+joel FuelDiverted 5
+joel HumanRank 1
+joel NumberOfTimesCaptured 78
+joel TurretsBuilt 138
+joel ZombieWins 4
+joel GamesLeft 3
+joel GamesPlayedAsHuman 36
+joel GamesPlayedAsZombie 16
+joel HumansCaptured 116
+joel K/D Ratio 159,64
+joel Average Marine Winrate 17%
+joel Average Fuel Diverts PerGame 0,14
+joel Average Vespene Harvested PerGame 2301,11
+joel Average Zombie Winrate 25%
+joel Average Security Kills Per Game 458
+joel Average Deaths PerGame 2,17
+joel Average Infestation Class Class 5

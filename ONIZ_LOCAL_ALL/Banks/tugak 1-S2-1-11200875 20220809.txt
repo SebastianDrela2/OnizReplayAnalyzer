@@ -1,0 +1,26 @@
+tugak HumanWinsNormal 206
+tugak LeftLastGameAsZombie 0
+tugak ZombieRank 22.1652
+tugak PlayedRankedMode 1
+tugak VespeneHarvested 1287540
+tugak HumansRescued 390
+tugak SecurityForcesKilled 33291
+tugak ZombiesKilled 302109
+tugak FuelDiverted 762
+tugak PlayedRankedMode5.0 1
+tugak HumanRank 13.1254
+tugak NumberOfTimesCaptured 663
+tugak TurretsBuilt 2305
+tugak ZombieWins 48
+tugak GamesLeft 67
+tugak GamesPlayedAsHuman 479
+tugak GamesPlayedAsZombie 84
+tugak HumansCaptured 700
+tugak K/D Ratio 455,67
+tugak Average Marine Winrate 4120%
+tugak Average Fuel Diverts PerGame 152,4
+tugak Average Vespene Harvested PerGame 257508
+tugak Average Zombie Winrate 56,99999999999999%
+tugak Average Security Kills Per Game 396
+tugak Average Deaths PerGame 132,6
+tugak Average Infestation Class Class 4

@@ -1,0 +1,25 @@
+allolefort HumanWinsNormal 35
+allolefort LeftLastGameAsZombie 0
+allolefort ZombieRank 6.166
+allolefort VespeneHarvested 328800
+allolefort HumansRescued 80
+allolefort SecurityForcesKilled 15490
+allolefort ZombiesKilled 46556
+allolefort FuelDiverted 55
+allolefort PlayedRankedMode5.0 1
+allolefort HumanRank 8
+allolefort NumberOfTimesCaptured 194
+allolefort TurretsBuilt 609
+allolefort ZombieWins 12
+allolefort GamesLeft 1
+allolefort GamesPlayedAsHuman 98
+allolefort GamesPlayedAsZombie 34
+allolefort HumansCaptured 329
+allolefort K/D Ratio 239,98
+allolefort Average Marine Winrate 36%
+allolefort Average Fuel Diverts PerGame 0,56
+allolefort Average Vespene Harvested PerGame 3355,1
+allolefort Average Zombie Winrate 35%
+allolefort Average Security Kills Per Game 456
+allolefort Average Deaths PerGame 1,98
+allolefort Average Infestation Class Class 5

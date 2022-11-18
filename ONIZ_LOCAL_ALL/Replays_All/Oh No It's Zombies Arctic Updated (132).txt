@@ -1,0 +1,186 @@
+Analyzed: Oh No It's Zombies Arctic Updated (132)
+
+ID : 0 PlayerName: Toretto Race: Terran
+ID : 1 PlayerName: Dalruin Race: Terran
+ID : 2 PlayerName: Cruel Race: Terran
+ID : 3 PlayerName: Mandarina Race: Terran
+ID : 4 PlayerName: Frosky Race: Zerg
+ID : 5 PlayerName: BCman Race: Terran
+ID : 6 PlayerName: GianCarlo Race: Terran
+ID : 7 PlayerName: Security Race: 
+Frosky Zombie Win
+Public Lobby
+
+Game Length:[34:611]
+Players ammount: 8
+Marine rank avg: 3,1666666666666665
+GrandMaster ammount: 2
+PURCHASES: 
+[00:588] Toretto Unlocked AssaultRifle
+[00:766] Toretto Placed/Upgraded MiningDroid
+[00:934] Toretto Unlocked AdvancedDroidEngines
+[03:636] Toretto Unlocked Flamethrower
+[04:804] Toretto Unlocked SpecOpsFlamethrower
+[05:832] Toretto Unlocked Stimpack
+[07:260] Toretto Unlocked Shieldsiotunlocked
+[10:493] Toretto Unlocked PsiDisrupter
+[10:591] Toretto Unlocked SpecOpsPsiDisruptor
+[10:672] Toretto Placed/Upgraded PsiIndoctrinator
+[12:160] Toretto Unlocked AdvancedShieldSuit
+[22:468] Toretto Unlocked BioMechanicalRepairDrone
+[22:605] Toretto Unlocked RechargeDrone
+[22:718] Toretto Unlocked LongRangeIncinerators
+[24:617] Toretto Unlocked AutoTurret
+[24:647] Toretto Unlocked FlameTurret
+[25:301] Toretto Placed/Upgraded AutoTurret
+[26:492] Toretto Placed/Upgraded AutoTurret
+[26:677] Toretto Placed/Upgraded AutoTurret
+[31:392] Toretto Placed/Upgraded AutoTurret
+[31:714] Toretto Placed/Upgraded AutoTurret
+[33:511] Toretto Placed/Upgraded AutoTurret
+[00:588] Dalruin Unlocked AssaultRifle
+[01:469] Dalruin Unlocked Shotgun
+[03:423] Dalruin Placed/Upgraded MiningDroid
+[07:261] Dalruin Bought ShieldSuit
+[07:261] Dalruin Bought CombatSuit
+[07:261] Dalruin Bought HazmatSuit
+[07:261] Dalruin Bought ShieldSuit
+[09:395] Dalruin Unlocked AdvancedDroidEngines
+[11:452] Dalruin Unlocked SpecOpsShotgun
+[12:161] Dalruin Bought ShieldSuit
+[12:490] Dalruin Unlocked ConcussiveBeams
+[21:751] Dalruin Placed/Upgraded MiningDroid
+[22:351] Dalruin Unlocked TurboDroidEngines
+[23:097] Dalruin Unlocked CombatSuit
+[24:338] Dalruin Unlocked AdvancedCombatSuit
+[24:656] Dalruin Unlocked IncendiaryBullets
+[00:588] Cruel Unlocked AssaultRifle
+[01:581] Cruel Placed/Upgraded MiningDroid
+[01:629] Cruel Unlocked AdvancedDroidEngines
+[03:929] Cruel Unlocked AutoTurret
+[03:945] Cruel Unlocked HeavyTurret
+[07:845] Cruel Placed/Upgraded AutoTurret
+[08:190] Cruel Placed/Upgraded AutoTurret
+[08:406] Cruel Placed/Upgraded AutoTurret
+[08:599] Cruel Placed/Upgraded AutoTurret
+[08:684] Cruel Unlocked FragGrenade
+[08:691] Cruel Unlocked SpecOpsFragGrenade
+[08:904] Cruel Placed/Upgraded AutoTurret
+[10:155] Cruel Unlocked ArcWelder
+[10:479] Cruel Placed/Upgraded AutoTurret
+[10:610] Cruel Placed/Upgraded AutoTurret
+[11:800] Cruel Unlocked TurboDroidEngines
+[12:215] Cruel Placed/Upgraded AutoTurret
+[13:663] Cruel Unlocked SpecOpsArcWelder
+[14:650] Cruel Unlocked Stimpack
+[15:107] Cruel Unlocked BioMechanicalRepairDrone
+[15:990] Cruel Unlocked CombatAccelerationDrone
+[16:022] Cruel Placed/Upgraded HealingDrone
+[16:098] Cruel Placed/Upgraded HealingDrone
+[16:179] Cruel Placed/Upgraded HealingDrone
+[17:129] Cruel Placed/Upgraded HealingDrone
+[17:562] Cruel Unlocked PsiDisrupter
+[17:948] Cruel Placed/Upgraded PsiIndoctrinator
+[18:996] Cruel Placed/Upgraded PsiIndoctrinator
+[19:734] Cruel Unlocked PsiDepressor
+[20:312] Cruel Placed/Upgraded AutoTurret
+[20:394] Cruel Placed/Upgraded AutoTurret
+[20:712] Cruel Placed/Upgraded AutoTurret
+[20:823] Cruel Placed/Upgraded AutoTurret
+[21:033] Cruel Placed/Upgraded AutoTurret
+[23:098] Cruel Bought ShieldSuit
+[23:098] Cruel Bought CombatSuit
+[23:098] Cruel Bought HazmatSuit
+[23:098] Cruel Bought CombatSuit
+[24:339] Cruel Bought CombatSuit
+[25:771] Cruel Unlocked MedicShield
+[26:549] Cruel Unlocked SpecOpsTurret
+[26:746] Cruel Placed/Upgraded AutoTurret
+[26:842] Cruel Placed/Upgraded AutoTurret
+[26:976] Cruel Placed/Upgraded AutoTurret
+[27:302] Cruel Placed/Upgraded AutoTurret
+[27:395] Cruel Placed/Upgraded AutoTurret
+[27:494] Cruel Placed/Upgraded AutoTurret
+[28:765] Cruel Placed/Upgraded HealingDrone
+[28:834] Cruel Placed/Upgraded HealingDrone
+[30:929] Cruel Placed/Upgraded AutoTurret
+[30:997] Cruel Placed/Upgraded AutoTurret
+[32:342] Cruel Placed/Upgraded AutoTurret
+[32:453] Cruel Placed/Upgraded AutoTurret
+[34:163] Cruel Placed/Upgraded AutoTurret
+[34:307] Cruel Placed/Upgraded AutoTurret
+[00:588] Mandarina Unlocked AssaultRifle
+[00:734] Mandarina Placed MiningDroid
+[00:954] Mandarina Unlocked AdvancedDroidEngines
+[00:552] Frosky Bought PlayerNumber
+[00:731] Frosky Spawned MassiveCocoon
+[02:171] Frosky Spawned Hunter
+[05:220] Frosky Bought CreepSpeed
+[10:386] Frosky Bought CreepSpeed
+[12:465] Frosky Bought StrainSpeed
+[13:272] Frosky Bought StrainSpeed
+[14:476] Frosky Bought VirulentCreep
+[16:084] Frosky Bought PureStrainSpeed
+[18:002] Frosky Bought HunterlingStrain
+[18:014] Frosky Bought PureStrainSpeed
+[19:707] Frosky Bought HunterlingStrain
+[20:393] Frosky Bought StrainDamage
+[21:421] Frosky Placed/Upgraded NydusCanalCreeper
+[24:615] Frosky Bought StrainSpeed
+[24:627] Frosky Bought StrainSpeed
+[24:631] Frosky Bought PureStrainSpeed
+[25:868] Frosky Bought DropshipsFueled
+[26:046] Frosky Bought SweepingInfestation
+[26:046] Frosky Bought UltimateInfestationResearched
+[27:280] Frosky Bought SpawnNydusWorm
+[27:335] Frosky Placed/Upgraded GreaterNydusWorm
+[29:897] Frosky Placed/Upgraded NydusCanalCreeper
+[30:636] Frosky Bought HunterlingStrain
+[30:644] Frosky Bought PureStrainSpeed
+[30:662] Frosky Bought HunterlingStrain
+[31:758] Frosky Placed/Upgraded NydusCanalCreeper
+[33:070] Frosky Bought PureStrainDamage
+[00:588] BCman Unlocked AssaultRifle
+[00:667] BCman Placed/Upgraded MiningDroid
+[00:738] BCman Unlocked AdvancedDroidEngines
+[02:966] BCman Unlocked IncendiaryGrenade
+[04:275] BCman Unlocked SpecOpsAssaultRifle
+[06:842] BCman Placed/Upgraded MiningDroid
+[08:734] BCman Unlocked SpecOpsIncendiaryGrenade
+[09:137] BCman Unlocked EnergySuit
+[09:138] BCman Unlocked EnergySuit
+[10:470] BCman Unlocked AdvancedEnergySuit
+[10:471] BCman Unlocked EnergySuit
+[10:471] BCman Unlocked AdvancedEnergySuit
+[10:549] BCman Unlocked EnergyPack
+[12:906] BCman Unlocked AutoTargetingSystem
+[12:988] BCman Unlocked MedicShield
+[14:247] BCman Unlocked Teleporter
+[19:642] BCman Unlocked Stimpack
+[20:968] BCman Unlocked BioMechanicalRepairDrone
+[21:069] BCman Unlocked SpecOpsBioMechanicalRepairDrone
+[21:210] BCman Placed/Upgraded HealingDrone
+[21:491] BCman Placed/Upgraded HealingDrone
+[22:996] BCman Placed/Upgraded HealingDrone
+[23:470] BCman Placed/Upgraded HealingDrone
+[23:883] BCman Placed/Upgraded HealingDrone
+[28:660] BCman Placed/Upgraded HealingDrone
+[31:203] BCman Placed/Upgraded HealingDrone
+[31:655] BCman Placed/Upgraded HealingDrone
+[33:817] BCman Placed/Upgraded HealingDrone
+[00:588] GianCarlo Unlocked AssaultRifle
+[01:279] GianCarlo Unlocked Stimpack
+[03:490] GianCarlo Unlocked HellfireRocketLauncher
+[04:806] GianCarlo Unlocked SpecOpsHellfireRocketLauncher
+[08:268] GianCarlo Unlocked ShockwaveMissiles
+[09:138] GianCarlo Bought ShieldSuit
+[09:138] GianCarlo Bought CombatSuit
+[09:138] GianCarlo Bought HazmatSuit
+[10:011] GianCarlo Unlocked MedicShield
+[23:883] GianCarlo Unlocked AIAssistant
+[24:028] GianCarlo Unlocked CloakingDevice
+[30:057] GianCarlo Unlocked ForceFieldGrenade
+Frosky First Alpha Hunter |  Win
+
+Frosky Placed 1 Greaters.
+--------------------------------

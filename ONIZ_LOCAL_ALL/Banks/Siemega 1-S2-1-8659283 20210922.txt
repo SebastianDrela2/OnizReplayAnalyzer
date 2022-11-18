@@ -1,0 +1,26 @@
+Siemega HumanWinsNormal 18
+Siemega LeftLastGameAsZombie 0
+Siemega ZombieRank 0
+Siemega PlayedRankedMode 1
+Siemega VespeneHarvested 83000
+Siemega HumansRescued 29
+Siemega SecurityForcesKilled 515
+Siemega ZombiesKilled 21571
+Siemega FuelDiverted 34
+Siemega PlayedRankedMode5.0 1
+Siemega HumanRank 11.5
+Siemega NumberOfTimesCaptured 37
+Siemega TurretsBuilt 145
+Siemega ZombieWins 1
+Siemega GamesLeft 5
+Siemega GamesPlayedAsHuman 31
+Siemega GamesPlayedAsZombie 3
+Siemega HumansCaptured 14
+Siemega K/D Ratio 583
+Siemega Average Marine Winrate 57,99999999999999%
+Siemega Average Fuel Diverts PerGame 1,1
+Siemega Average Vespene Harvested PerGame 2677,42
+Siemega Average Zombie Winrate 33%
+Siemega Average Security Kills Per Game 172
+Siemega Average Deaths PerGame 1,19
+Siemega Average Infestation Class Class 2

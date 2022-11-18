@@ -1,0 +1,23 @@
+AkunoHaku HumanWinsNormal 0
+AkunoHaku ZombieRank 0
+AkunoHaku VespeneHarvested 16600
+AkunoHaku HumansRescued 7
+AkunoHaku SecurityForcesKilled 0
+AkunoHaku ZombiesKilled 3145
+AkunoHaku FuelDiverted 4
+AkunoHaku HumanRank 0
+AkunoHaku NumberOfTimesCaptured 28
+AkunoHaku TurretsBuilt 6
+AkunoHaku ZombieWins 0
+AkunoHaku GamesLeft 0
+AkunoHaku GamesPlayedAsHuman 8
+AkunoHaku GamesPlayedAsZombie 0
+AkunoHaku HumansCaptured 0
+AkunoHaku K/D Ratio 112,32
+AkunoHaku Average Marine Winrate 0%
+AkunoHaku Average Fuel Diverts PerGame 0,5
+AkunoHaku Average Vespene Harvested PerGame 2075
+AkunoHaku Average Zombie Winrate NaN%
+AkunoHaku Average Security Kills Per Game NaN
+AkunoHaku Average Deaths PerGame 3,5
+AkunoHaku Average Infestation Class Class 1

@@ -1,0 +1,23 @@
+Danny HumanWinsNormal 7
+Danny ZombieRank 0
+Danny VespeneHarvested 49500
+Danny HumansRescued 14
+Danny SecurityForcesKilled 917
+Danny ZombiesKilled 8842
+Danny FuelDiverted 34
+Danny HumanRank 2
+Danny NumberOfTimesCaptured 18
+Danny TurretsBuilt 94
+Danny ZombieWins 0
+Danny GamesLeft 3
+Danny GamesPlayedAsHuman 20
+Danny GamesPlayedAsZombie 3
+Danny HumansCaptured 12
+Danny K/D Ratio 491,22
+Danny Average Marine Winrate 35%
+Danny Average Fuel Diverts PerGame 1,7
+Danny Average Vespene Harvested PerGame 2475
+Danny Average Zombie Winrate 0%
+Danny Average Security Kills Per Game 306
+Danny Average Deaths PerGame 0,9
+Danny Average Infestation Class Class 4

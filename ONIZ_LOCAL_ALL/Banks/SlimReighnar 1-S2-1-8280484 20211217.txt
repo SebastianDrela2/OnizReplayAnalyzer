@@ -1,0 +1,23 @@
+SlimReighnar HumanWinsNormal 10
+SlimReighnar ZombieRank 0
+SlimReighnar VespeneHarvested 37300
+SlimReighnar HumansRescued 16
+SlimReighnar SecurityForcesKilled 0
+SlimReighnar ZombiesKilled 13443
+SlimReighnar FuelDiverted 19
+SlimReighnar HumanRank 4.5
+SlimReighnar NumberOfTimesCaptured 37
+SlimReighnar TurretsBuilt 31
+SlimReighnar ZombieWins 0
+SlimReighnar GamesLeft 1
+SlimReighnar GamesPlayedAsHuman 25
+SlimReighnar GamesPlayedAsZombie 0
+SlimReighnar HumansCaptured 0
+SlimReighnar K/D Ratio 363,32
+SlimReighnar Average Marine Winrate 40%
+SlimReighnar Average Fuel Diverts PerGame 0,76
+SlimReighnar Average Vespene Harvested PerGame 1492
+SlimReighnar Average Zombie Winrate NaN%
+SlimReighnar Average Security Kills Per Game NaN
+SlimReighnar Average Deaths PerGame 1,48
+SlimReighnar Average Infestation Class Class 1

@@ -1,0 +1,23 @@
+Fuzz HumanWinsNormal 0
+Fuzz ZombieRank 0
+Fuzz VespeneHarvested 0
+Fuzz HumansRescued 0
+Fuzz SecurityForcesKilled 0
+Fuzz ZombiesKilled 0
+Fuzz FuelDiverted 0
+Fuzz HumanRank 0
+Fuzz NumberOfTimesCaptured 0
+Fuzz TurretsBuilt 0
+Fuzz ZombieWins 0
+Fuzz GamesLeft 0
+Fuzz GamesPlayedAsHuman 0
+Fuzz GamesPlayedAsZombie 0
+Fuzz HumansCaptured 0
+Fuzz K/D Ratio NaN
+Fuzz Average Marine Winrate NaN%
+Fuzz Average Fuel Diverts PerGame NaN
+Fuzz Average Vespene Harvested PerGame NaN
+Fuzz Average Zombie Winrate NaN%
+Fuzz Average Security Kills Per Game NaN
+Fuzz Average Deaths PerGame NaN
+Fuzz Average Infestation Class Class 1

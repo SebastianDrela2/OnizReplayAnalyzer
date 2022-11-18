@@ -1,0 +1,23 @@
+Pelos HumanWinsNormal 3
+Pelos ZombieRank 0
+Pelos VespeneHarvested 3500
+Pelos HumansRescued 1
+Pelos SecurityForcesKilled 286
+Pelos ZombiesKilled 953
+Pelos FuelDiverted 1
+Pelos HumanRank 0
+Pelos NumberOfTimesCaptured 8
+Pelos TurretsBuilt 6
+Pelos ZombieWins 2
+Pelos GamesLeft 7
+Pelos GamesPlayedAsHuman 11
+Pelos GamesPlayedAsZombie 3
+Pelos HumansCaptured 0
+Pelos K/D Ratio 119,12
+Pelos Average Marine Winrate 27%
+Pelos Average Fuel Diverts PerGame 0,09
+Pelos Average Vespene Harvested PerGame 318,18
+Pelos Average Zombie Winrate 67%
+Pelos Average Security Kills Per Game 95
+Pelos Average Deaths PerGame 0,73
+Pelos Average Infestation Class Class 2

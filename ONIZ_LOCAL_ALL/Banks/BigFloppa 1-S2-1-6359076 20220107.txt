@@ -1,0 +1,25 @@
+BigFloppa HumanWinsNormal 11
+BigFloppa LeftLastGameAsZombie 0
+BigFloppa ZombieRank 0
+BigFloppa VespeneHarvested 77800
+BigFloppa HumansRescued 35
+BigFloppa SecurityForcesKilled 212
+BigFloppa ZombiesKilled 13102
+BigFloppa FuelDiverted 69
+BigFloppa PlayedRankedMode5.0 1
+BigFloppa HumanRank 8
+BigFloppa NumberOfTimesCaptured 59
+BigFloppa TurretsBuilt 105
+BigFloppa ZombieWins 1
+BigFloppa GamesLeft 2
+BigFloppa GamesPlayedAsHuman 30
+BigFloppa GamesPlayedAsZombie 2
+BigFloppa HumansCaptured 0
+BigFloppa K/D Ratio 222,07
+BigFloppa Average Marine Winrate 37%
+BigFloppa Average Fuel Diverts PerGame 2,3
+BigFloppa Average Vespene Harvested PerGame 2593,33
+BigFloppa Average Zombie Winrate 50%
+BigFloppa Average Security Kills Per Game 106
+BigFloppa Average Deaths PerGame 1,97
+BigFloppa Average Infestation Class Class 2

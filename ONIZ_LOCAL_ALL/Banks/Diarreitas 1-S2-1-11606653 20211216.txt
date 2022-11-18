@@ -1,0 +1,23 @@
+Diarreitas HumanWinsNormal 23
+Diarreitas ZombieRank 0
+Diarreitas VespeneHarvested 118200
+Diarreitas HumansRescued 74
+Diarreitas SecurityForcesKilled 2540
+Diarreitas ZombiesKilled 32087
+Diarreitas FuelDiverted 109
+Diarreitas HumanRank 9.5
+Diarreitas NumberOfTimesCaptured 79
+Diarreitas TurretsBuilt 86
+Diarreitas ZombieWins 1
+Diarreitas GamesLeft 0
+Diarreitas GamesPlayedAsHuman 43
+Diarreitas GamesPlayedAsZombie 6
+Diarreitas HumansCaptured 62
+Diarreitas K/D Ratio 406,16
+Diarreitas Average Marine Winrate 53%
+Diarreitas Average Fuel Diverts PerGame 2,53
+Diarreitas Average Vespene Harvested PerGame 2748,84
+Diarreitas Average Zombie Winrate 17%
+Diarreitas Average Security Kills Per Game 423
+Diarreitas Average Deaths PerGame 1,84
+Diarreitas Average Infestation Class Class 5

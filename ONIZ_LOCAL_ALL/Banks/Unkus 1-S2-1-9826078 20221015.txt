@@ -1,0 +1,23 @@
+Unkus HumanWinsNormal 0
+Unkus ZombieRank 0
+Unkus VespeneHarvested 4900
+Unkus HumansRescued 3
+Unkus SecurityForcesKilled 0
+Unkus ZombiesKilled 674
+Unkus FuelDiverted 15
+Unkus HumanRank 0
+Unkus NumberOfTimesCaptured 5
+Unkus TurretsBuilt 4
+Unkus ZombieWins 0
+Unkus GamesLeft 0
+Unkus GamesPlayedAsHuman 3
+Unkus GamesPlayedAsZombie 0
+Unkus HumansCaptured 0
+Unkus K/D Ratio 134,8
+Unkus Average Marine Winrate 0%
+Unkus Average Fuel Diverts PerGame 5
+Unkus Average Vespene Harvested PerGame 1633,33
+Unkus Average Zombie Winrate NaN%
+Unkus Average Security Kills Per Game NaN
+Unkus Average Deaths PerGame 1,67
+Unkus Average Infestation Class Class 1

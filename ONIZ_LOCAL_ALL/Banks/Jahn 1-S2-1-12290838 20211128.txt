@@ -1,0 +1,23 @@
+Jahn HumanWinsNormal 2
+Jahn ZombieRank 0
+Jahn VespeneHarvested 11000
+Jahn HumansRescued 0
+Jahn SecurityForcesKilled 0
+Jahn ZombiesKilled 2355
+Jahn FuelDiverted 3
+Jahn HumanRank 0
+Jahn NumberOfTimesCaptured 3
+Jahn TurretsBuilt 33
+Jahn ZombieWins 0
+Jahn GamesLeft 1
+Jahn GamesPlayedAsHuman 6
+Jahn GamesPlayedAsZombie 0
+Jahn HumansCaptured 0
+Jahn K/D Ratio 785
+Jahn Average Marine Winrate 33%
+Jahn Average Fuel Diverts PerGame 0,5
+Jahn Average Vespene Harvested PerGame 1833,33
+Jahn Average Zombie Winrate NaN%
+Jahn Average Security Kills Per Game NaN
+Jahn Average Deaths PerGame 0,5
+Jahn Average Infestation Class Class 1

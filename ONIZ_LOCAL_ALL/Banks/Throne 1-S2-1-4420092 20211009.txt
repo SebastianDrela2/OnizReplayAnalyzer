@@ -1,0 +1,23 @@
+Throne HumanWinsNormal 24
+Throne ZombieRank 0
+Throne VespeneHarvested 140300
+Throne HumansRescued 37
+Throne SecurityForcesKilled 10095
+Throne ZombiesKilled 26302
+Throne FuelDiverted 139
+Throne HumanRank 6.75
+Throne NumberOfTimesCaptured 83
+Throne TurretsBuilt 139
+Throne ZombieWins 9
+Throne GamesLeft 9
+Throne GamesPlayedAsHuman 54
+Throne GamesPlayedAsZombie 24
+Throne HumansCaptured 258
+Throne K/D Ratio 316,89
+Throne Average Marine Winrate 44%
+Throne Average Fuel Diverts PerGame 2,57
+Throne Average Vespene Harvested PerGame 2598,15
+Throne Average Zombie Winrate 38%
+Throne Average Security Kills Per Game 421
+Throne Average Deaths PerGame 1,54
+Throne Average Infestation Class Class 5

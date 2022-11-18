@@ -1,0 +1,23 @@
+YeL HumanWinsNormal 9
+YeL ZombieRank 2
+YeL VespeneHarvested 27500
+YeL HumansRescued 3
+YeL SecurityForcesKilled 643
+YeL ZombiesKilled 2412
+YeL FuelDiverted 74
+YeL HumanRank 0.5
+YeL NumberOfTimesCaptured 63
+YeL TurretsBuilt 25
+YeL ZombieWins 1
+YeL GamesLeft 5
+YeL GamesPlayedAsHuman 24
+YeL GamesPlayedAsZombie 6
+YeL HumansCaptured 22
+YeL K/D Ratio 38,29
+YeL Average Marine Winrate 38%
+YeL Average Fuel Diverts PerGame 3,08
+YeL Average Vespene Harvested PerGame 1145,83
+YeL Average Zombie Winrate 17%
+YeL Average Security Kills Per Game 107
+YeL Average Deaths PerGame 2,62
+YeL Average Infestation Class Class 2

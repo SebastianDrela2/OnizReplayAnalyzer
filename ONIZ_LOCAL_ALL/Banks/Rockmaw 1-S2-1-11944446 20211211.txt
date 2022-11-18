@@ -1,0 +1,23 @@
+Rockmaw HumanWinsNormal 12
+Rockmaw ZombieRank 0
+Rockmaw VespeneHarvested 57500
+Rockmaw HumansRescued 18
+Rockmaw SecurityForcesKilled 924
+Rockmaw ZombiesKilled 14319
+Rockmaw FuelDiverted 20
+Rockmaw HumanRank 4.5
+Rockmaw NumberOfTimesCaptured 96
+Rockmaw TurretsBuilt 135
+Rockmaw ZombieWins 0
+Rockmaw GamesLeft 2
+Rockmaw GamesPlayedAsHuman 34
+Rockmaw GamesPlayedAsZombie 3
+Rockmaw HumansCaptured 22
+Rockmaw K/D Ratio 149,16
+Rockmaw Average Marine Winrate 35%
+Rockmaw Average Fuel Diverts PerGame 0,59
+Rockmaw Average Vespene Harvested PerGame 1691,18
+Rockmaw Average Zombie Winrate 0%
+Rockmaw Average Security Kills Per Game 308
+Rockmaw Average Deaths PerGame 2,82
+Rockmaw Average Infestation Class Class 4

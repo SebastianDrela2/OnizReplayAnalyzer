@@ -1,0 +1,109 @@
+Analyzed: Oh No It's Zombies Arctic Map (38)
+
+ID : 0 PlayerName: NBDY Race: Terran
+ID : 1 PlayerName: WildMutant Race: Zerg
+ID : 2 PlayerName: Frosky Race: Terran
+ID : 3 PlayerName: Ames Race: Terran
+ID : 4 PlayerName: Zylo Race: Terran
+ID : 5 PlayerName: YAAAAY Race: Terran
+ID : 6 PlayerName: pewpew Race: Terran
+ID : 7 PlayerName: Security Race: Zerg
+WildMutant Zombie Win
+Public Lobby
+
+Game Length:[37:301]
+Players ammount: 8
+Marine rank avg: 3,3333333333333335
+GrandMaster ammount: 2
+PURCHASES: 
+[00:572] NBDY Unlocked AssaultRifle
+[06:145] NBDY Unlocked AdvancedDroidEngines
+[06:162] NBDY Unlocked TurboDroidEngines
+[06:271] NBDY Placed MiningDroid
+[09:216] NBDY Unlocked BioMechanicalRepairDrone
+[09:238] NBDY Unlocked SpecOpsBioMechanicalRepairDrone
+[09:441] NBDY Placed HealingDrone
+[09:789] NBDY Unlocked BeamRifle
+[00:568] WildMutant Bought PlayerNumber
+[03:939] WildMutant Bought UnlockDropPods
+[03:943] WildMutant Bought EvolveDropPods
+[03:947] WildMutant Bought EvolveDropPods
+[03:950] WildMutant Bought EvolveDropPods
+[03:953] WildMutant Bought EvolveDropPods
+[03:958] WildMutant Bought EvolveDropPods
+[07:087] WildMutant Bought EvolveDropPods
+[08:210] WildMutant Bought BuildExtractorManufacturingSector
+[08:210] WildMutant Placed/Upgraded AutomatedExtractor
+[10:207] WildMutant Placed/Upgraded LesserNydusWorm
+[10:208] WildMutant Bought GreaterNydus
+[10:920] WildMutant Placed/Upgraded Virophage
+[11:597] WildMutant Placed/Upgraded PrimalSunkenColony
+[11:598] WildMutant Bought SunkenColony
+[12:797] WildMutant Bought BuildExtractorProcessingFacilities
+[12:797] WildMutant Placed/Upgraded AutomatedExtractor
+[13:191] WildMutant Placed/Upgraded LesserNydusWorm
+[13:192] WildMutant Bought GreaterNydus
+[13:828] WildMutant Bought ExtractorCostReductionManufacturingSector
+[13:828] WildMutant Bought BuildExtractorManufacturingSector
+[14:432] WildMutant Bought BuildExtractorScienceLabs
+[14:432] WildMutant Placed/Upgraded AutomatedExtractor
+[15:042] WildMutant Bought GreaterNydus
+[15:735] WildMutant Bought StrainDamage
+[15:742] WildMutant Bought PureStrainDamage
+[15:747] WildMutant Bought DefilerStrain
+[15:824] WildMutant Bought CreepSpeed
+[16:245] WildMutant Placed/Upgraded LesserNydusWorm
+[16:246] WildMutant Bought GreaterNydus
+[29:806] WildMutant Bought DropshipsFueled
+[00:572] Frosky Unlocked AssaultRifle
+[00:651] Frosky Placed/Upgraded MiningDroid
+[00:893] Frosky Unlocked AdvancedDroidEngines
+[02:664] Frosky Unlocked Flamethrower
+[02:706] Frosky Unlocked CombatShield
+[00:572] Ames Unlocked AssaultRifle
+[00:731] Ames Unlocked SpecOpsAssaultRifle
+[09:378] Ames Placed/Upgraded MiningDroid
+[12:978] Ames Unlocked TitaniumBulletCasings
+[00:572] Zylo Unlocked AssaultRifle
+[00:719] Zylo Placed/Upgraded MiningDroid
+[01:753] Zylo Unlocked Shotgun
+[05:279] Zylo Unlocked SpecOpsShotgun
+[05:479] Zylo Unlocked HighPrecisionBeams
+[05:662] Zylo Unlocked MedicShield
+[11:437] Zylo Unlocked OverloadWeapon
+[13:955] Zylo Unlocked CombatSuit
+[13:981] Zylo Unlocked AdvancedCombatSuit
+[00:572] YAAAAY Unlocked AssaultRifle
+[00:938] YAAAAY Placed/Upgraded MiningDroid
+[01:236] YAAAAY Unlocked ArcWelder
+[02:673] YAAAAY Unlocked BioMechanicalRepairDrone
+[02:686] YAAAAY Unlocked CombatAccelerationDrone
+[02:939] YAAAAY Placed/Upgraded HealingDrone
+[03:168] YAAAAY Placed/Upgraded HealingDrone
+[05:156] YAAAAY Unlocked RechargeDrone
+[05:324] YAAAAY Placed/Upgraded HealingDrone
+[05:494] YAAAAY Placed/Upgraded HealingDrone
+[06:979] YAAAAY Unlocked PsiDisrupter
+[07:516] YAAAAY Placed/Upgraded PsiIndoctrinator
+[07:679] YAAAAY Placed/Upgraded PsiIndoctrinator
+[08:125] YAAAAY Placed/Upgraded PsiIndoctrinator
+[10:175] YAAAAY Unlocked PsiDepressor
+[10:198] YAAAAY Unlocked AutoTurret
+[13:598] YAAAAY Unlocked AIAssistant
+[13:628] YAAAAY Unlocked Stimpack
+[13:956] YAAAAY Bought ShieldSuit
+[13:956] YAAAAY Bought CombatSuit
+[13:956] YAAAAY Bought HazmatSuit
+[13:956] YAAAAY Bought CombatSuit
+[13:982] YAAAAY Bought CombatSuit
+[00:572] pewpew Unlocked AssaultRifle
+[02:439] pewpew Unlocked AdvancedDroidEngines
+[03:457] pewpew Unlocked AutoTurret
+[08:022] pewpew Unlocked HazmatSuit
+[08:023] Security Bought ShieldSuit
+[08:023] Security Bought CombatSuit
+[08:023] Security Bought HazmatSuit
+[08:023] Security Bought HazmatSuit
+
+WildMutant Placed 0 Greaters.
+--------------------------------

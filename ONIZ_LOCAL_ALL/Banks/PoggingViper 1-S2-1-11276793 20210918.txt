@@ -1,0 +1,25 @@
+PoggingViper HumanWinsNormal 46
+PoggingViper LeftLastGameAsZombie 0
+PoggingViper ZombieRank 0
+PoggingViper VespeneHarvested 241500
+PoggingViper HumansRescued 50
+PoggingViper SecurityForcesKilled 7177
+PoggingViper ZombiesKilled 47710
+PoggingViper FuelDiverted 38
+PoggingViper PlayedRankedMode5.0 1
+PoggingViper HumanRank 10
+PoggingViper NumberOfTimesCaptured 138
+PoggingViper TurretsBuilt 359
+PoggingViper ZombieWins 2
+PoggingViper GamesLeft 8
+PoggingViper GamesPlayedAsHuman 98
+PoggingViper GamesPlayedAsZombie 18
+PoggingViper HumansCaptured 120
+PoggingViper K/D Ratio 345,72
+PoggingViper Average Marine Winrate 47%
+PoggingViper Average Fuel Diverts PerGame 0,39
+PoggingViper Average Vespene Harvested PerGame 2464,29
+PoggingViper Average Zombie Winrate 11%
+PoggingViper Average Security Kills Per Game 399
+PoggingViper Average Deaths PerGame 1,41
+PoggingViper Average Infestation Class Class 4

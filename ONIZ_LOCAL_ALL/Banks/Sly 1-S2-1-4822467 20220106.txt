@@ -1,0 +1,24 @@
+Sly HumanWinsNormal 46
+Sly LeftLastGameAsZombie 0
+Sly ZombieRank 0
+Sly VespeneHarvested 327200
+Sly HumansRescued 75
+Sly SecurityForcesKilled 18445
+Sly ZombiesKilled 68139
+Sly FuelDiverted 127
+Sly HumanRank 14.75
+Sly NumberOfTimesCaptured 101
+Sly TurretsBuilt 518
+Sly ZombieWins 17
+Sly GamesLeft 5
+Sly GamesPlayedAsHuman 94
+Sly GamesPlayedAsZombie 40
+Sly HumansCaptured 387
+Sly K/D Ratio 674,64
+Sly Average Marine Winrate 49%
+Sly Average Fuel Diverts PerGame 1,35
+Sly Average Vespene Harvested PerGame 3480,85
+Sly Average Zombie Winrate 42%
+Sly Average Security Kills Per Game 461
+Sly Average Deaths PerGame 1,07
+Sly Average Infestation Class Class 5

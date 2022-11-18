@@ -1,0 +1,183 @@
+Analyzed: Oh No It's Zombies Arctic Updated (126)
+
+ID : 0 PlayerName: Salem Race: Zerg
+ID : 1 PlayerName: Montronizon Race: Terran
+ID : 2 PlayerName: Frosky Race: Terran
+ID : 3 PlayerName: Asuri Race: Terran
+ID : 4 PlayerName: Tin Race: Terran
+ID : 5 PlayerName: LULULELE Race: Terran
+ID : 6 PlayerName: chickenparts Race: Terran
+ID : 7 PlayerName: Security Race: Infested Terran
+Salem Zombie Loss
+Public Lobby
+
+Game Length:[30:935]
+Players ammount: 8
+Marine rank avg: 8
+GrandMaster ammount: 3
+PURCHASES: 
+[01:405] Salem Bought UnlockDropPods
+[02:128] Salem Bought EvolveDropPods
+[02:828] Salem Bought EvolveDropPods
+[02:858] Salem Bought EvolveDropPods
+[04:384] Salem Bought EvolveDropPods
+[04:388] Salem Bought EvolveDropPods
+[04:392] Salem Bought EvolveDropPods
+[06:120] Salem Bought StrainVolatile
+[07:703] Salem Spawned MassiveCocoon
+[12:515] Salem Bought PureStrainVolatile
+[12:671] Salem Bought StrainSpeed
+[14:487] Salem Bought PureStrainSpeed
+[17:067] Salem Bought CreepSpeed
+[18:263] Salem Placed/Upgraded NydusCanalCreeper
+[18:345] Salem Bought BuildExtractorScienceLabs
+[18:345] Salem Placed/Upgraded AutomatedExtractor
+[21:008] Salem Placed/Upgraded PrimalSunkenColony
+[21:009] Salem Bought SunkenColony
+[21:153] Salem Bought SunkenColony
+[22:188] Salem Bought DropshipsFueled
+[23:923] Salem Bought UltimateInfestationResearched
+[24:452] Salem Bought SpawnNydusWorm
+[24:493] Salem Placed/Upgraded GreaterNydusWorm
+[24:599] Salem Bought CreepSpeed
+[24:700] Salem Spawned MassiveCocoon
+[24:705] Salem Spawned MassiveCocoon
+[24:708] Salem Spawned MassiveCocoon
+[25:403] Salem Bought BuildExtractorScienceLabs
+[26:140] Salem Spawned InfestedAbomination
+[26:145] Salem Spawned InfestedAbomination
+[26:148] Salem Spawned InfestedAbomination
+[26:918] Salem Spawned MassiveCocoon
+[27:096] Salem Placed/Upgraded NydusCanalCreeper
+[28:358] Salem Spawned InfestedAbomination
+[28:650] Salem Bought HunterlingStrain
+[28:666] Salem Bought KaboomerStrain
+[00:588] Montronizon Unlocked AssaultRifle
+[00:667] Montronizon Placed/Upgraded MiningDroid
+[00:902] Montronizon Unlocked HellfireRocketLauncher
+[03:387] Montronizon Unlocked SpecOpsHellfireRocketLauncher
+[06:008] Montronizon Unlocked ShockwaveMissiles
+[08:897] Montronizon Unlocked Stimpack
+[09:251] Montronizon Unlocked MedicShield
+[11:024] Montronizon Unlocked CombatSuit
+[11:025] Montronizon Unlocked ShieldSuit
+[11:025] Montronizon Unlocked AdvancedShieldSuit
+[11:025] Montronizon Unlocked CombatSuit
+[11:025] Montronizon Unlocked AdvancedCombatSuit
+[11:025] Montronizon Unlocked HazmatSuit
+[11:025] Montronizon Unlocked AdvancedHazmatSuit
+[11:025] Montronizon Unlocked CombatSuit
+[12:363] Montronizon Unlocked AdvancedCombatSuit
+[12:364] Montronizon Unlocked CombatSuit
+[12:364] Montronizon Unlocked AdvancedCombatSuit
+[14:706] Montronizon Unlocked Teleporter
+[15:659] Montronizon Unlocked SpecOpsTeleporter
+[19:462] Montronizon Unlocked AutoTurret
+[19:494] Montronizon Unlocked FlameTurret
+[19:639] Montronizon Placed/Upgraded AutoTurret
+[20:450] Montronizon Placed/Upgraded AutoTurret
+[20:942] Montronizon Placed/Upgraded AutoTurret
+[21:373] Montronizon Placed/Upgraded AutoTurret
+[24:298] Montronizon Placed/Upgraded AutoTurret
+[24:981] Montronizon Placed/Upgraded AutoTurret
+[25:224] Montronizon Placed/Upgraded AutoTurret
+[26:765] Montronizon Placed/Upgraded AutoTurret
+[27:646] Montronizon Placed/Upgraded AutoTurret
+[29:102] Montronizon Placed/Upgraded AutoTurret
+[00:588] Frosky Unlocked AssaultRifle
+[00:667] Frosky Placed/Upgraded MiningDroid
+[00:781] Frosky Unlocked Flamethrower
+[03:513] Frosky Unlocked EnergyPack
+[06:212] Frosky Unlocked AdvancedDroidEngines
+[08:202] Frosky Unlocked TurboDroidEngines
+[13:040] Frosky Placed/Upgraded MiningDroid
+[15:842] Frosky Unlocked SpecOpsFlamethrower
+[17:785] Frosky Unlocked PsiDisrupter
+[20:836] Frosky Placed/Upgraded PsiIndoctrinator
+[24:705] Frosky Placed/Upgraded MiningDroid
+[28:938] Frosky Unlocked Teleporter
+[00:588] Asuri Unlocked AssaultRifle
+[00:744] Asuri Placed/Upgraded MiningDroid
+[00:878] Asuri Unlocked BioMechanicalRepairDrone
+[01:009] Asuri Unlocked CombatAccelerationDrone
+[01:177] Asuri Placed/Upgraded HealingDrone
+[03:059] Asuri Placed/Upgraded HealingDrone
+[03:277] Asuri Placed/Upgraded HealingDrone
+[03:489] Asuri Placed/Upgraded HealingDrone
+[05:107] Asuri Unlocked AdvancedDroidEngines
+[06:650] Asuri Unlocked MiningCharge
+[07:545] Asuri Placed/Upgraded NukePack
+[08:761] Asuri Unlocked MotionSensor
+[09:330] Asuri Placed/Upgraded SensorTower
+[10:341] Asuri Unlocked BeamRifle
+[15:369] Asuri Unlocked OverloadWeapon
+[16:252] Asuri Unlocked PsiDisrupter
+[16:340] Asuri Placed/Upgraded PsiIndoctrinator
+[18:725] Asuri Placed/Upgraded PsiIndoctrinator
+[21:523] Asuri Placed/Upgraded NukePack
+[23:438] Asuri Placed/Upgraded MiningDroid
+[24:091] Asuri Placed/Upgraded HealingDrone
+[24:512] Asuri Placed/Upgraded HealingDrone
+[26:225] Asuri Placed/Upgraded NukePack
+[00:588] Tin Unlocked AssaultRifle
+[00:796] Tin Placed/Upgraded MiningDroid
+[00:939] Tin Unlocked AdvancedDroidEngines
+[03:643] Tin Unlocked TurboDroidEngines
+[05:161] Tin Unlocked Shotgun
+[07:145] Tin Unlocked MotionSensor
+[07:482] Tin Placed/Upgraded SensorTower
+[09:075] Tin Unlocked Stimpack
+[09:550] Tin Placed/Upgraded SensorTower
+[10:352] Tin Unlocked BioMechanicalRepairDrone
+[10:401] Tin Placed/Upgraded HealingDrone
+[11:043] Tin Placed/Upgraded HealingDrone
+[11:620] Tin Placed/Upgraded HealingDrone
+[12:670] Tin Unlocked SpecOpsShotgun
+[13:456] Tin Unlocked SuperStimpack
+[13:974] Tin Unlocked HazmatSuit
+[13:975] Tin Unlocked ShieldSuit
+[13:975] Tin Unlocked AdvancedShieldSuit
+[13:975] Tin Unlocked CombatSuit
+[13:975] Tin Unlocked AdvancedCombatSuit
+[13:975] Tin Unlocked HazmatSuit
+[13:975] Tin Unlocked AdvancedHazmatSuit
+[13:975] Tin Unlocked HazmatSuit
+[16:959] Tin Unlocked MedicShield
+[16:968] Tin Unlocked OpticalVisor
+[17:028] Tin Placed/Upgraded HealingDrone
+[17:284] Tin Unlocked AdvancedHazmatSuit
+[17:285] Tin Unlocked HazmatSuit
+[17:285] Tin Unlocked AdvancedHazmatSuit
+[17:850] Tin Unlocked HighPrecisionBeams
+[18:936] Tin Placed/Upgraded HealingDrone
+[19:141] Tin Placed/Upgraded HealingDrone
+[19:618] Tin Unlocked FlashBang
+[20:168] Tin Placed/Upgraded HealingDrone
+[20:904] Tin Placed/Upgraded HealingDrone
+[21:446] Tin Placed/Upgraded HealingDrone
+[23:047] Tin Placed/Upgraded HealingDrone
+[24:665] Tin Placed/Upgraded SensorTower
+[25:612] Tin Unlocked SpecOpsFlashbang
+[25:664] Tin Unlocked EnergyPack
+[25:818] Tin Unlocked AdvancedMotionSensor
+[27:052] Tin Placed/Upgraded SensorTower
+[28:030] Tin Placed/Upgraded HealingDrone
+[29:503] Tin Placed/Upgraded HealingDrone
+[00:588] LULULELE Unlocked AssaultRifle
+[07:630] LULULELE Placed/Upgraded MiningDroid
+[00:588] chickenparts Unlocked AssaultRifle
+[00:850] chickenparts Unlocked ArcWelder
+[02:258] chickenparts Unlocked AutoTurret
+[03:106] chickenparts Unlocked Stimpack
+[04:453] chickenparts Unlocked AdvancedDroidEngines
+[04:835] chickenparts Unlocked ExplorationDroid
+[05:995] chickenparts Unlocked TurboDroidEngines
+[08:122] chickenparts Unlocked PsiDisrupter
+[10:106] chickenparts Unlocked BioMechanicalRepairDrone
+[18:089] chickenparts Unlocked SpecOpsTurret
+[18:521] chickenparts Unlocked MiningCharge
+[26:069] chickenparts Unlocked HeavyTurret
+Salem First Alpha InfestedAbomination |  Loss
+
+Salem Placed 1 Greaters.
+--------------------------------

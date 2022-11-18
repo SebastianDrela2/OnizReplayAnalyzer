@@ -1,0 +1,23 @@
+stardawn HumanWinsNormal 42
+stardawn ZombieRank 0
+stardawn VespeneHarvested 297800
+stardawn HumansRescued 59
+stardawn SecurityForcesKilled 0
+stardawn ZombiesKilled 57405
+stardawn FuelDiverted 98
+stardawn HumanRank 0
+stardawn NumberOfTimesCaptured 285
+stardawn TurretsBuilt 712
+stardawn ZombieWins 0
+stardawn GamesLeft 37
+stardawn GamesPlayedAsHuman 151
+stardawn GamesPlayedAsZombie 2
+stardawn HumansCaptured 0
+stardawn K/D Ratio 201,42
+stardawn Average Marine Winrate 28,000000000000004%
+stardawn Average Fuel Diverts PerGame 0,65
+stardawn Average Vespene Harvested PerGame 1972,19
+stardawn Average Zombie Winrate 0%
+stardawn Average Security Kills Per Game 0
+stardawn Average Deaths PerGame 1,89
+stardawn Average Infestation Class Class 1

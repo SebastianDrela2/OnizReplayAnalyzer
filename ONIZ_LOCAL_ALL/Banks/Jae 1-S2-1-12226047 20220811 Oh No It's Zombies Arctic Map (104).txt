@@ -1,0 +1,23 @@
+Jae HumanWinsNormal 0
+Jae ZombieRank 0
+Jae VespeneHarvested 1000
+Jae HumansRescued 1
+Jae SecurityForcesKilled 0
+Jae ZombiesKilled 179
+Jae FuelDiverted 0
+Jae HumanRank 0
+Jae NumberOfTimesCaptured 3
+Jae TurretsBuilt 5
+Jae ZombieWins 0
+Jae GamesLeft 0
+Jae GamesPlayedAsHuman 1
+Jae GamesPlayedAsZombie 0
+Jae HumansCaptured 0
+Jae K/D Ratio 59,67
+Jae Average Marine Winrate 0%
+Jae Average Fuel Diverts PerGame 0
+Jae Average Vespene Harvested PerGame 1000
+Jae Average Zombie Winrate NaN%
+Jae Average Security Kills Per Game NaN
+Jae Average Deaths PerGame 3
+Jae Average Infestation Class Class 1

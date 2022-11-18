@@ -1,0 +1,23 @@
+yadro HumanWinsNormal 0
+yadro ZombieRank 0
+yadro VespeneHarvested 0
+yadro HumansRescued 0
+yadro SecurityForcesKilled 0
+yadro ZombiesKilled 0
+yadro FuelDiverted 0
+yadro HumanRank 0
+yadro NumberOfTimesCaptured 0
+yadro TurretsBuilt 0
+yadro ZombieWins 0
+yadro GamesLeft 0
+yadro GamesPlayedAsHuman 0
+yadro GamesPlayedAsZombie 0
+yadro HumansCaptured 0
+yadro K/D Ratio NaN
+yadro Average Marine Winrate NaN%
+yadro Average Fuel Diverts PerGame NaN
+yadro Average Vespene Harvested PerGame NaN
+yadro Average Zombie Winrate NaN%
+yadro Average Security Kills Per Game NaN
+yadro Average Deaths PerGame NaN
+yadro Average Infestation Class Class 1

@@ -1,0 +1,23 @@
+Bearsaurus HumanWinsNormal 5
+Bearsaurus ZombieRank 0
+Bearsaurus VespeneHarvested 35060
+Bearsaurus HumansRescued 19
+Bearsaurus SecurityForcesKilled 0
+Bearsaurus ZombiesKilled 10329
+Bearsaurus FuelDiverted 42
+Bearsaurus HumanRank 2
+Bearsaurus NumberOfTimesCaptured 49
+Bearsaurus TurretsBuilt 50
+Bearsaurus ZombieWins 0
+Bearsaurus GamesLeft 3
+Bearsaurus GamesPlayedAsHuman 22
+Bearsaurus GamesPlayedAsZombie 0
+Bearsaurus HumansCaptured 0
+Bearsaurus K/D Ratio 210,8
+Bearsaurus Average Marine Winrate 23%
+Bearsaurus Average Fuel Diverts PerGame 1,91
+Bearsaurus Average Vespene Harvested PerGame 1593,64
+Bearsaurus Average Zombie Winrate NaN%
+Bearsaurus Average Security Kills Per Game NaN
+Bearsaurus Average Deaths PerGame 2,23
+Bearsaurus Average Infestation Class Class 1

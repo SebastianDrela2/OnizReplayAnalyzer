@@ -1,0 +1,23 @@
+spairbrains HumanWinsNormal 0
+spairbrains ZombieRank 0
+spairbrains VespeneHarvested 0
+spairbrains HumansRescued 0
+spairbrains SecurityForcesKilled 0
+spairbrains ZombiesKilled 0
+spairbrains FuelDiverted 0
+spairbrains HumanRank 0
+spairbrains NumberOfTimesCaptured 0
+spairbrains TurretsBuilt 0
+spairbrains ZombieWins 0
+spairbrains GamesLeft 1
+spairbrains GamesPlayedAsHuman 1
+spairbrains GamesPlayedAsZombie 0
+spairbrains HumansCaptured 0
+spairbrains K/D Ratio NaN
+spairbrains Average Marine Winrate 0%
+spairbrains Average Fuel Diverts PerGame 0
+spairbrains Average Vespene Harvested PerGame 0
+spairbrains Average Zombie Winrate NaN%
+spairbrains Average Security Kills Per Game NaN
+spairbrains Average Deaths PerGame 0
+spairbrains Average Infestation Class Class 1

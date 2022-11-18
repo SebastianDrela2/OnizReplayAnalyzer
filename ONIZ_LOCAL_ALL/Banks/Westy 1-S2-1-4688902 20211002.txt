@@ -1,0 +1,24 @@
+Westy HumanWinsNormal 162
+Westy ZombieRank 0
+Westy VespeneHarvested 782800
+Westy HumansRescued 289
+Westy SecurityForcesKilled 26037
+Westy ZombiesKilled 206591
+Westy FuelDiverted 421
+Westy PlayedRankedMode5.0 1
+Westy HumanRank 15.5002
+Westy NumberOfTimesCaptured 572
+Westy TurretsBuilt 1687
+Westy ZombieWins 26
+Westy GamesLeft 7
+Westy GamesPlayedAsHuman 324
+Westy GamesPlayedAsZombie 56
+Westy HumansCaptured 634
+Westy K/D Ratio 361,17
+Westy Average Marine Winrate 50%
+Westy Average Fuel Diverts PerGame 1,3
+Westy Average Vespene Harvested PerGame 2416,05
+Westy Average Zombie Winrate 46%
+Westy Average Security Kills Per Game 465
+Westy Average Deaths PerGame 1,77
+Westy Average Infestation Class Class 5

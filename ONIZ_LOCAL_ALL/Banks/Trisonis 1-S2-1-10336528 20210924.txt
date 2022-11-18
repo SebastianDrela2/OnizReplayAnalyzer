@@ -1,0 +1,23 @@
+Trisonis HumanWinsNormal 3
+Trisonis ZombieRank 0
+Trisonis VespeneHarvested 13900
+Trisonis HumansRescued 1
+Trisonis SecurityForcesKilled 861
+Trisonis ZombiesKilled 1578
+Trisonis FuelDiverted 7
+Trisonis HumanRank 7
+Trisonis NumberOfTimesCaptured 7
+Trisonis TurretsBuilt 24
+Trisonis ZombieWins 2
+Trisonis GamesLeft 0
+Trisonis GamesPlayedAsHuman 6
+Trisonis GamesPlayedAsZombie 2
+Trisonis HumansCaptured 0
+Trisonis K/D Ratio 225,43
+Trisonis Average Marine Winrate 50%
+Trisonis Average Fuel Diverts PerGame 1,17
+Trisonis Average Vespene Harvested PerGame 2316,67
+Trisonis Average Zombie Winrate 100%
+Trisonis Average Security Kills Per Game 430
+Trisonis Average Deaths PerGame 1,17
+Trisonis Average Infestation Class Class 5

@@ -1,0 +1,24 @@
+Atom HumanWinsNormal 100
+Atom ZombieRank 31
+Atom VespeneHarvested 561900
+Atom HumansRescued 80
+Atom SecurityForcesKilled 31469
+Atom ZombiesKilled 109106
+Atom FuelDiverted 109
+Atom PlayedRankedMode5.0 1
+Atom HumanRank 31
+Atom NumberOfTimesCaptured 162
+Atom TurretsBuilt 766
+Atom ZombieWins 54
+Atom GamesLeft 5
+Atom GamesPlayedAsHuman 161
+Atom GamesPlayedAsZombie 69
+Atom HumansCaptured 774
+Atom K/D Ratio 673,49
+Atom Average Marine Winrate 62%
+Atom Average Fuel Diverts PerGame 0,68
+Atom Average Vespene Harvested PerGame 3490,06
+Atom Average Zombie Winrate 78%
+Atom Average Security Kills Per Game 456
+Atom Average Deaths PerGame 1,01
+Atom Average Infestation Class Class 5

@@ -1,0 +1,25 @@
+Sandoken HumanWinsNormal 13
+Sandoken LeftLastGameAsZombie 0
+Sandoken ZombieRank 0
+Sandoken VespeneHarvested 85400
+Sandoken HumansRescued 40
+Sandoken SecurityForcesKilled 677
+Sandoken ZombiesKilled 20057
+Sandoken FuelDiverted 40
+Sandoken PlayedRankedMode5.0 1
+Sandoken HumanRank 2
+Sandoken NumberOfTimesCaptured 83
+Sandoken TurretsBuilt 188
+Sandoken ZombieWins 2
+Sandoken GamesLeft 1
+Sandoken GamesPlayedAsHuman 36
+Sandoken GamesPlayedAsZombie 2
+Sandoken HumansCaptured 1
+Sandoken K/D Ratio 241,65
+Sandoken Average Marine Winrate 36%
+Sandoken Average Fuel Diverts PerGame 1,11
+Sandoken Average Vespene Harvested PerGame 2372,22
+Sandoken Average Zombie Winrate 100%
+Sandoken Average Security Kills Per Game 338
+Sandoken Average Deaths PerGame 2,31
+Sandoken Average Infestation Class Class 4

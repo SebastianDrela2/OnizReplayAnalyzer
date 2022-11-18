@@ -1,0 +1,23 @@
+ONXY HumanWinsNormal 123
+ONXY ZombieRank 32
+ONXY VespeneHarvested 693900
+ONXY HumansRescued 99
+ONXY SecurityForcesKilled 49400
+ONXY ZombiesKilled 134282
+ONXY FuelDiverted 810
+ONXY HumanRank 16.9755
+ONXY NumberOfTimesCaptured 368
+ONXY TurretsBuilt 850
+ONXY ZombieWins 64
+ONXY GamesLeft 5
+ONXY GamesPlayedAsHuman 240
+ONXY GamesPlayedAsZombie 110
+ONXY HumansCaptured 1011
+ONXY K/D Ratio 364,9
+ONXY Average Marine Winrate 51%
+ONXY Average Fuel Diverts PerGame 3,38
+ONXY Average Vespene Harvested PerGame 2891,25
+ONXY Average Zombie Winrate 57,99999999999999%
+ONXY Average Security Kills Per Game 449
+ONXY Average Deaths PerGame 1,53
+ONXY Average Infestation Class Class 5

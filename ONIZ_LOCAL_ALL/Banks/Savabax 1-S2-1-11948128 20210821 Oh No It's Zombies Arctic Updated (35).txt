@@ -1,0 +1,23 @@
+Savabax HumanWinsNormal 4
+Savabax ZombieRank 0
+Savabax VespeneHarvested 51200
+Savabax HumansRescued 12
+Savabax SecurityForcesKilled 1372
+Savabax ZombiesKilled 9741
+Savabax FuelDiverted 13
+Savabax HumanRank 0
+Savabax NumberOfTimesCaptured 50
+Savabax TurretsBuilt 80
+Savabax ZombieWins 0
+Savabax GamesLeft 7
+Savabax GamesPlayedAsHuman 23
+Savabax GamesPlayedAsZombie 7
+Savabax HumansCaptured 20
+Savabax K/D Ratio 194,82
+Savabax Average Marine Winrate 17%
+Savabax Average Fuel Diverts PerGame 0,57
+Savabax Average Vespene Harvested PerGame 2226,09
+Savabax Average Zombie Winrate 0%
+Savabax Average Security Kills Per Game 196
+Savabax Average Deaths PerGame 2,17
+Savabax Average Infestation Class Class 3

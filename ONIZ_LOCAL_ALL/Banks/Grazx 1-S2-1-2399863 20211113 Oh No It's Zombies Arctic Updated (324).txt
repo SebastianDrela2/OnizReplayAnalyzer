@@ -1,0 +1,23 @@
+Grazx HumanWinsNormal 69
+Grazx ZombieRank 24.6655
+Grazx VespeneHarvested 336400
+Grazx HumansRescued 190
+Grazx SecurityForcesKilled 18800
+Grazx ZombiesKilled 99017
+Grazx FuelDiverted 93
+Grazx HumanRank 23.6
+Grazx NumberOfTimesCaptured 234
+Grazx TurretsBuilt 833
+Grazx ZombieWins 24
+Grazx GamesLeft 1
+Grazx GamesPlayedAsHuman 128
+Grazx GamesPlayedAsZombie 40
+Grazx HumansCaptured 481
+Grazx K/D Ratio 423,15
+Grazx Average Marine Winrate 54%
+Grazx Average Fuel Diverts PerGame 0,73
+Grazx Average Vespene Harvested PerGame 2628,12
+Grazx Average Zombie Winrate 60%
+Grazx Average Security Kills Per Game 470
+Grazx Average Deaths PerGame 1,83
+Grazx Average Infestation Class Class 5

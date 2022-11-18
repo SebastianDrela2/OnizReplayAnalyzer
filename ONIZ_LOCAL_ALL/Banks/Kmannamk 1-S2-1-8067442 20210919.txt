@@ -1,0 +1,25 @@
+Kmannamk HumanWinsNormal 8
+Kmannamk LeftLastGameAsZombie 0
+Kmannamk ZombieRank 4.5
+Kmannamk VespeneHarvested 39900
+Kmannamk HumansRescued 16
+Kmannamk SecurityForcesKilled 2221
+Kmannamk ZombiesKilled 6884
+Kmannamk FuelDiverted 49
+Kmannamk PlayedRankedMode5.0 1
+Kmannamk HumanRank 6.9167
+Kmannamk NumberOfTimesCaptured 33
+Kmannamk TurretsBuilt 78
+Kmannamk ZombieWins 2
+Kmannamk GamesLeft 1
+Kmannamk GamesPlayedAsHuman 17
+Kmannamk GamesPlayedAsZombie 7
+Kmannamk HumansCaptured 51
+Kmannamk K/D Ratio 208,61
+Kmannamk Average Marine Winrate 47%
+Kmannamk Average Fuel Diverts PerGame 2,88
+Kmannamk Average Vespene Harvested PerGame 2347,06
+Kmannamk Average Zombie Winrate 28,999999999999996%
+Kmannamk Average Security Kills Per Game 317
+Kmannamk Average Deaths PerGame 1,94
+Kmannamk Average Infestation Class Class 4

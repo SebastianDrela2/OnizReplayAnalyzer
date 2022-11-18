@@ -1,0 +1,23 @@
+TheOne HumanWinsNormal 2
+TheOne ZombieRank 0
+TheOne VespeneHarvested 4900
+TheOne HumansRescued 0
+TheOne SecurityForcesKilled 0
+TheOne ZombiesKilled 1140
+TheOne FuelDiverted 1
+TheOne HumanRank 2
+TheOne NumberOfTimesCaptured 4
+TheOne TurretsBuilt 25
+TheOne ZombieWins 0
+TheOne GamesLeft 0
+TheOne GamesPlayedAsHuman 2
+TheOne GamesPlayedAsZombie 0
+TheOne HumansCaptured 0
+TheOne K/D Ratio 285
+TheOne Average Marine Winrate 100%
+TheOne Average Fuel Diverts PerGame 0,5
+TheOne Average Vespene Harvested PerGame 2450
+TheOne Average Zombie Winrate NaN%
+TheOne Average Security Kills Per Game NaN
+TheOne Average Deaths PerGame 2
+TheOne Average Infestation Class Class 1

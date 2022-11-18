@@ -1,0 +1,24 @@
+Striker HumanWinsNormal 38
+Striker ZombieRank 0
+Striker VespeneHarvested 244000
+Striker HumansRescued 78
+Striker SecurityForcesKilled 241
+Striker ZombiesKilled 52373
+Striker FuelDiverted 230
+Striker PlayedRankedMode5.0 1
+Striker HumanRank 1
+Striker NumberOfTimesCaptured 180
+Striker TurretsBuilt 425
+Striker ZombieWins 0
+Striker GamesLeft 3
+Striker GamesPlayedAsHuman 86
+Striker GamesPlayedAsZombie 1
+Striker HumansCaptured 8
+Striker K/D Ratio 290,96
+Striker Average Marine Winrate 44%
+Striker Average Fuel Diverts PerGame 2,67
+Striker Average Vespene Harvested PerGame 2837,21
+Striker Average Zombie Winrate 0%
+Striker Average Security Kills Per Game 241
+Striker Average Deaths PerGame 2,09
+Striker Average Infestation Class Class 3

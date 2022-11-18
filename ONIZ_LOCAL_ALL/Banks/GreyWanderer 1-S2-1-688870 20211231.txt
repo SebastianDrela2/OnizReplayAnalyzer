@@ -1,0 +1,25 @@
+GreyWanderer HumanWinsNormal 121
+GreyWanderer LeftLastGameAsZombie 0
+GreyWanderer ZombieRank 0
+GreyWanderer VespeneHarvested 761080
+GreyWanderer HumansRescued 191
+GreyWanderer SecurityForcesKilled 70537
+GreyWanderer ZombiesKilled 135219
+GreyWanderer FuelDiverted 551
+GreyWanderer HumanRank 11
+GreyWanderer NumberOfTimesCaptured 435
+GreyWanderer TurretsBuilt 858
+GreyWanderer ZombieWins 85
+GreyWanderer GamesLeft 6
+GreyWanderer PlayedInRankedMode 1
+GreyWanderer GamesPlayedAsHuman 247
+GreyWanderer GamesPlayedAsZombie 157
+GreyWanderer HumansCaptured 1799
+GreyWanderer K/D Ratio 310,85
+GreyWanderer Average Marine Winrate 49%
+GreyWanderer Average Fuel Diverts PerGame 2,23
+GreyWanderer Average Vespene Harvested PerGame 3081,3
+GreyWanderer Average Zombie Winrate 54%
+GreyWanderer Average Security Kills Per Game 449
+GreyWanderer Average Deaths PerGame 1,76
+GreyWanderer Average Infestation Class Class 5

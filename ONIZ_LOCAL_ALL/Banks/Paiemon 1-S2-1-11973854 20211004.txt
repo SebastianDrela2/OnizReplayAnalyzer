@@ -1,0 +1,23 @@
+Paiemon HumanWinsNormal 1
+Paiemon ZombieRank 0
+Paiemon VespeneHarvested 8300
+Paiemon HumansRescued 7
+Paiemon SecurityForcesKilled 0
+Paiemon ZombiesKilled 1557
+Paiemon FuelDiverted 11
+Paiemon HumanRank 0
+Paiemon NumberOfTimesCaptured 6
+Paiemon TurretsBuilt 17
+Paiemon ZombieWins 0
+Paiemon GamesLeft 9
+Paiemon GamesPlayedAsHuman 13
+Paiemon GamesPlayedAsZombie 0
+Paiemon HumansCaptured 0
+Paiemon K/D Ratio 259,5
+Paiemon Average Marine Winrate 8%
+Paiemon Average Fuel Diverts PerGame 0,85
+Paiemon Average Vespene Harvested PerGame 638,46
+Paiemon Average Zombie Winrate NaN%
+Paiemon Average Security Kills Per Game NaN
+Paiemon Average Deaths PerGame 0,46
+Paiemon Average Infestation Class Class 1

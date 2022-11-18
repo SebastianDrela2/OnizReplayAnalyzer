@@ -1,0 +1,23 @@
+BenAssflex HumanWinsNormal 22
+BenAssflex ZombieRank 0
+BenAssflex VespeneHarvested 137100
+BenAssflex HumansRescued 20
+BenAssflex SecurityForcesKilled 0
+BenAssflex ZombiesKilled 17805
+BenAssflex FuelDiverted 104
+BenAssflex HumanRank 4.6
+BenAssflex NumberOfTimesCaptured 45
+BenAssflex TurretsBuilt 417
+BenAssflex ZombieWins 0
+BenAssflex GamesLeft 10
+BenAssflex GamesPlayedAsHuman 48
+BenAssflex GamesPlayedAsZombie 0
+BenAssflex HumansCaptured 0
+BenAssflex K/D Ratio 395,67
+BenAssflex Average Marine Winrate 46%
+BenAssflex Average Fuel Diverts PerGame 2,17
+BenAssflex Average Vespene Harvested PerGame 2856,25
+BenAssflex Average Zombie Winrate NaN%
+BenAssflex Average Security Kills Per Game NaN
+BenAssflex Average Deaths PerGame 0,94
+BenAssflex Average Infestation Class Class 1

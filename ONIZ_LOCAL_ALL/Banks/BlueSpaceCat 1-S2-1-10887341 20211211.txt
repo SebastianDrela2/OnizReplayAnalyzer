@@ -1,0 +1,25 @@
+BlueSpaceCat HumanWinsNormal 21
+BlueSpaceCat LeftLastGameAsZombie 0
+BlueSpaceCat ZombieRank 0
+BlueSpaceCat VespeneHarvested 66100
+BlueSpaceCat HumansRescued 34
+BlueSpaceCat SecurityForcesKilled 0
+BlueSpaceCat ZombiesKilled 9455
+BlueSpaceCat FuelDiverted 7
+BlueSpaceCat PlayedRankedMode5.0 1
+BlueSpaceCat HumanRank 0
+BlueSpaceCat NumberOfTimesCaptured 100
+BlueSpaceCat TurretsBuilt 142
+BlueSpaceCat ZombieWins 0
+BlueSpaceCat GamesLeft 25
+BlueSpaceCat GamesPlayedAsHuman 76
+BlueSpaceCat GamesPlayedAsZombie 2
+BlueSpaceCat HumansCaptured 0
+BlueSpaceCat K/D Ratio 94,55
+BlueSpaceCat Average Marine Winrate 28,000000000000004%
+BlueSpaceCat Average Fuel Diverts PerGame 0,09
+BlueSpaceCat Average Vespene Harvested PerGame 869,74
+BlueSpaceCat Average Zombie Winrate 0%
+BlueSpaceCat Average Security Kills Per Game 0
+BlueSpaceCat Average Deaths PerGame 1,32
+BlueSpaceCat Average Infestation Class Class 1

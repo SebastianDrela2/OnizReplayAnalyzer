@@ -1,0 +1,23 @@
+Jason HumanWinsNormal 4
+Jason ZombieRank 0
+Jason VespeneHarvested 17200
+Jason HumansRescued 10
+Jason SecurityForcesKilled 0
+Jason ZombiesKilled 7001
+Jason FuelDiverted 0
+Jason HumanRank 4
+Jason NumberOfTimesCaptured 22
+Jason TurretsBuilt 16
+Jason ZombieWins 0
+Jason GamesLeft 2
+Jason GamesPlayedAsHuman 12
+Jason GamesPlayedAsZombie 0
+Jason HumansCaptured 0
+Jason K/D Ratio 318,23
+Jason Average Marine Winrate 33%
+Jason Average Fuel Diverts PerGame 0
+Jason Average Vespene Harvested PerGame 1433,33
+Jason Average Zombie Winrate NaN%
+Jason Average Security Kills Per Game NaN
+Jason Average Deaths PerGame 1,83
+Jason Average Infestation Class Class 1

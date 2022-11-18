@@ -1,0 +1,23 @@
+Penguin HumanWinsNormal 19
+Penguin ZombieRank 0
+Penguin VespeneHarvested 119540
+Penguin HumansRescued 20
+Penguin SecurityForcesKilled 0
+Penguin ZombiesKilled 17117
+Penguin FuelDiverted 9
+Penguin HumanRank 5.75
+Penguin NumberOfTimesCaptured 32
+Penguin TurretsBuilt 198
+Penguin ZombieWins 0
+Penguin GamesLeft 3
+Penguin GamesPlayedAsHuman 41
+Penguin GamesPlayedAsZombie 0
+Penguin HumansCaptured 0
+Penguin K/D Ratio 534,91
+Penguin Average Marine Winrate 46%
+Penguin Average Fuel Diverts PerGame 0,22
+Penguin Average Vespene Harvested PerGame 2915,61
+Penguin Average Zombie Winrate NaN%
+Penguin Average Security Kills Per Game NaN
+Penguin Average Deaths PerGame 0,78
+Penguin Average Infestation Class Class 1

@@ -1,0 +1,203 @@
+Analyzed: Oh No It's Zombies Arctic Updated (418)
+
+ID : 0 PlayerName: Casual Race: Terran
+ID : 1 PlayerName: Toxicpanda Race: Zerg
+ID : 2 PlayerName: Sirius Race: Terran
+ID : 3 PlayerName: OrdersSir Race: Terran
+ID : 4 PlayerName: ForFun Race: Terran
+ID : 5 PlayerName: Frosky Race: Terran
+ID : 6 PlayerName: Apollo Race: Terran
+ID : 7 PlayerName: Security Race: Terran Tychus
+Toxicpanda Zombie Win
+Public Lobby
+
+Game Length:[29:089]
+Players ammount: 8
+Marine rank avg: 9,166666666666666
+GrandMaster ammount: 3
+PURCHASES: 
+[00:588] Casual Unlocked AssaultRifle
+[00:667] Casual Placed MiningDroid
+[00:882] Casual Unlocked AdvancedDroidEngines
+[04:452] Casual Unlocked SpecOpsAssaultRifle
+[07:084] Casual Unlocked AutoTargetingSystem
+[08:196] Casual Unlocked FragGrenade
+[08:203] Casual Unlocked SpecOpsFragGrenade
+[10:257] Casual Unlocked OverloadWeapon
+[11:447] Casual Unlocked CombatShield
+[13:476] Casual Unlocked EnergySuit
+[13:477] Casual Unlocked EnergySuit
+[13:487] Casual Unlocked AdvancedEnergySuit
+[13:488] Casual Unlocked EnergySuit
+[13:488] Casual Unlocked AdvancedEnergySuit
+[15:446] Casual Unlocked TurboDroidEngines
+[17:745] Casual Unlocked EnergyPack
+[17:752] Casual Unlocked AIAssistant
+[18:311] Casual Placed MiningDroid
+[23:052] Casual Unlocked MiningCharge
+[23:061] Casual Unlocked AdvancedMiningCharge
+[23:427] Casual Placed NukePack
+[27:802] Casual Placed NukePack
+[00:552] Toxicpanda Bought PlayerNumber
+[00:620] Toxicpanda Spawned MassiveCocoon
+[02:060] Toxicpanda Spawned Hunter
+[02:607] Toxicpanda Spawned MassiveCocoon
+[03:874] Toxicpanda Spawned MassiveCocoon
+[04:047] Toxicpanda Spawned Hunter
+[05:314] Toxicpanda Spawned PrimalTownHallUprooted
+[08:300] Toxicpanda Bought AdvancedInfestationSecurity
+[08:309] Toxicpanda Bought TrackHumans
+[10:447] Toxicpanda Placed/Upgraded ToxicNest
+[10:453] Toxicpanda Placed/Upgraded ToxicNest
+[10:925] Toxicpanda Bought TrackHumans
+[12:365] Toxicpanda Bought UnlockDropPods
+[13:290] Toxicpanda Bought TrackHumans
+[13:477] Toxicpanda Bought ShieldSuit
+[13:477] Toxicpanda Bought CombatSuit
+[13:477] Toxicpanda Bought HazmatSuit
+[14:085] Toxicpanda Placed/Upgraded PrimalSunkenColony
+[14:086] Toxicpanda Bought SunkenColony
+[14:303] Toxicpanda Bought SunkenColony
+[15:283] Toxicpanda Bought BuildExtractorScienceLabs
+[15:283] Toxicpanda Placed/Upgraded AutomatedExtractor
+[15:800] Toxicpanda Placed/Upgraded Virophage
+[16:442] Toxicpanda Bought AdvancedInfestationContainment
+[16:713] Toxicpanda Bought TrackHumans
+[17:374] Toxicpanda Placed/Upgraded ToxicNest
+[17:380] Toxicpanda Placed/Upgraded ToxicNest
+[17:409] Toxicpanda Placed/Upgraded ToxicNest
+[18:446] Toxicpanda Bought CreepSpeed
+[18:661] Toxicpanda Placed/Upgraded NydusCanalCreeper
+[19:655] Toxicpanda Bought TrackHumans
+[20:303] Toxicpanda Bought EvolveDropPods
+[20:305] Toxicpanda Bought EvolveDropPods
+[20:308] Toxicpanda Bought EvolveDropPods
+[22:072] Toxicpanda Bought CreepSpeed
+[22:103] Toxicpanda Bought TrackHumans
+[23:894] Toxicpanda Bought VirulentCreep
+[23:894] Toxicpanda Bought VirulentCreep
+[24:117] Toxicpanda Bought TrackHumans
+[24:473] Toxicpanda Placed/Upgraded Virophage
+[24:937] Toxicpanda Placed/Upgraded ToxicNest
+[24:946] Toxicpanda Placed/Upgraded ToxicNest
+[24:957] Toxicpanda Placed/Upgraded ToxicNest
+[24:960] Toxicpanda Placed/Upgraded ToxicNest
+[24:960] Toxicpanda Placed/Upgraded ToxicNest
+[25:538] Toxicpanda Placed/Upgraded Virophage
+[25:548] Toxicpanda Bought DropshipsFueled
+[26:007] Toxicpanda Spawned RoyalCocoon
+[26:007] Toxicpanda Bought SpawnHiveQueen
+[26:007] Toxicpanda Bought UltimateInfestationResearched
+[26:199] Toxicpanda Placed/Upgraded NydusCanalCreeper
+[26:726] Toxicpanda Spawned QueenCoop
+[27:789] Toxicpanda Bought SpawnNydusWorm
+[27:847] Toxicpanda Placed/Upgraded GreaterNydusWorm
+[00:588] Sirius Unlocked AssaultRifle
+[00:896] Sirius Unlocked SpecOpsAssaultRifle
+[02:141] Sirius Placed/Upgraded MiningDroid
+[07:683] Sirius Unlocked AutoTargetingSystem
+[07:819] Sirius Unlocked OverloadWeapon
+[11:823] Sirius Unlocked Teleporter
+[11:971] Sirius Unlocked MedicShield
+[12:085] Sirius Unlocked EnergyPack
+[12:180] Sirius Unlocked AIAssistant
+[17:756] Sirius Placed/Upgraded MiningDroid
+[23:291] Sirius Unlocked SpecOpsTeleporter
+[00:588] OrdersSir Unlocked AssaultRifle
+[00:786] OrdersSir Placed/Upgraded MiningDroid
+[01:186] OrdersSir Unlocked BeamRifle
+[06:140] OrdersSir Unlocked AdvancedDroidEngines
+[06:293] OrdersSir Unlocked Stimpack
+[10:907] OrdersSir Placed/Upgraded MiningDroid
+[11:124] OrdersSir Unlocked SpecOpsPlasmaRifle
+[11:479] OrdersSir Unlocked PlasmaRifleMod3
+[11:519] OrdersSir Unlocked CorrosivePlasma
+[19:723] OrdersSir Unlocked Teleporter
+[20:173] OrdersSir Unlocked CombatSuit
+[20:769] OrdersSir Unlocked AdvancedCombatSuit
+[21:361] OrdersSir Unlocked FragGrenade
+[21:388] OrdersSir Unlocked SpecOpsFragGrenade
+[00:588] ForFun Unlocked AssaultRifle
+[00:719] ForFun Unlocked Stimpack
+[01:990] ForFun Placed/Upgraded MiningDroid
+[04:699] ForFun Unlocked AdvancedDroidEngines
+[06:119] ForFun Unlocked TurboDroidEngines
+[08:579] ForFun Unlocked SpecOpsAssaultRifle
+[08:987] ForFun Unlocked CombatSuit
+[11:464] ForFun Placed/Upgraded MiningDroid
+[12:061] ForFun Unlocked TitaniumBulletCasings
+[13:884] ForFun Unlocked AdvancedCombatSuit
+[13:974] ForFun Unlocked MedicShield
+[15:117] ForFun Unlocked ExplorationDroid
+[15:148] ForFun Placed/Upgraded ExplorationDroid
+[15:157] ForFun Placed/Upgraded ExplorationDroid
+[15:246] ForFun Placed/Upgraded ExplorationDroid
+[19:972] ForFun Unlocked OverloadWeapon
+[20:174] ForFun Bought ShieldSuit
+[20:174] ForFun Bought CombatSuit
+[20:174] ForFun Bought HazmatSuit
+[20:174] ForFun Bought CombatSuit
+[20:770] ForFun Bought CombatSuit
+[23:212] ForFun Unlocked BioMechanicalRepairDrone
+[23:221] ForFun Unlocked SpecOpsBioMechanicalRepairDrone
+[23:496] ForFun Placed/Upgraded HealingDrone
+[27:151] ForFun Placed/Upgraded HealingDrone
+[00:588] Frosky Unlocked AssaultRifle
+[00:677] Frosky Placed/Upgraded MiningDroid
+[00:797] Frosky Unlocked ArcWelder
+[03:473] Frosky Unlocked AdvancedDroidEngines
+[04:396] Frosky Unlocked BioMechanicalRepairDrone
+[04:498] Frosky Unlocked CombatAccelerationDrone
+[04:537] Frosky Placed/Upgraded HealingDrone
+[05:267] Frosky Placed/Upgraded HealingDrone
+[05:726] Frosky Placed/Upgraded HealingDrone
+[06:699] Frosky Placed/Upgraded HealingDrone
+[07:404] Frosky Unlocked ExplorationDroid
+[07:443] Frosky Placed/Upgraded ExplorationDroid
+[07:500] Frosky Placed/Upgraded ExplorationDroid
+[07:616] Frosky Placed/Upgraded ExplorationDroid
+[08:485] Frosky Unlocked AutoTurret
+[08:680] Frosky Placed/Upgraded AutoTurret
+[08:988] Frosky Bought ShieldSuit
+[08:988] Frosky Bought CombatSuit
+[08:988] Frosky Bought HazmatSuit
+[08:988] Frosky Bought CombatSuit
+[09:040] Frosky Placed/Upgraded AutoTurret
+[09:190] Frosky Placed/Upgraded AutoTurret
+[09:392] Frosky Placed/Upgraded AutoTurret
+[10:050] Frosky Placed/Upgraded AutoTurret
+[11:479] Frosky Placed/Upgraded AutoTurret
+[13:161] Frosky Placed/Upgraded MiningDroid
+[13:885] Frosky Bought CombatSuit
+[14:742] Frosky Unlocked HeavyTurret
+[15:029] Frosky Placed/Upgraded AutoTurret
+[15:166] Frosky Placed/Upgraded AutoTurret
+[16:612] Frosky Placed/Upgraded AutoTurret
+[16:809] Frosky Unlocked SpecOpsBioMechanicalRepairDrone
+[17:580] Frosky Placed/Upgraded HealingDrone
+[20:217] Frosky Placed/Upgraded HealingDrone
+[28:897] Frosky Placed/Upgraded MiningDroid
+[00:588] Apollo Unlocked AssaultRifle
+[00:757] Apollo Unlocked AdvancedDroidEngines
+[03:712] Apollo Unlocked TurboDroidEngines
+[05:805] Apollo Unlocked Shotgun
+[07:264] Apollo Unlocked BeamRifle
+[10:058] Apollo Unlocked SpecOpsShotgun
+[10:166] Apollo Unlocked Stimpack
+[11:558] Apollo Unlocked HighPrecisionBeams
+[14:380] Apollo Unlocked Shieldsiotunlocked
+[14:390] Apollo Unlocked AdvancedShieldSuit
+[17:181] Apollo Unlocked CombatShield
+[17:195] Apollo Unlocked EnergyPack
+[17:221] Apollo Unlocked OpticalVisor
+[17:354] Apollo Unlocked BioMechanicalRepairDrone
+[24:313] Apollo Unlocked SuperStimpack
+[14:381] Security Bought ShieldSuit
+[14:381] Security Bought CombatSuit
+[14:381] Security Bought HazmatSuit
+[14:381] Security Bought ShieldSuit
+[14:391] Security Bought ShieldSuit
+Toxicpanda First Alpha Hunter |  Win
+
+Toxicpanda Placed 1 Greaters.
+--------------------------------

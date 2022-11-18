@@ -1,0 +1,23 @@
+Dorvon HumanWinsNormal 0
+Dorvon ZombieRank 0
+Dorvon VespeneHarvested 2800
+Dorvon HumansRescued 0
+Dorvon SecurityForcesKilled 0
+Dorvon ZombiesKilled 293
+Dorvon FuelDiverted 0
+Dorvon HumanRank 0
+Dorvon NumberOfTimesCaptured 0
+Dorvon TurretsBuilt 5
+Dorvon ZombieWins 0
+Dorvon GamesLeft 0
+Dorvon GamesPlayedAsHuman 1
+Dorvon GamesPlayedAsZombie 0
+Dorvon HumansCaptured 0
+Dorvon K/D Ratio ∞
+Dorvon Average Marine Winrate 0%
+Dorvon Average Fuel Diverts PerGame 0
+Dorvon Average Vespene Harvested PerGame 2800
+Dorvon Average Zombie Winrate NaN%
+Dorvon Average Security Kills Per Game NaN
+Dorvon Average Deaths PerGame 0
+Dorvon Average Infestation Class Class 1

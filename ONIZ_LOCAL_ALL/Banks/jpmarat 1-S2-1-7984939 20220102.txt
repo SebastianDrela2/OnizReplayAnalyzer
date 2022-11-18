@@ -1,0 +1,23 @@
+jpmarat HumanWinsNormal 5
+jpmarat ZombieRank 0
+jpmarat VespeneHarvested 35680
+jpmarat HumansRescued 16
+jpmarat SecurityForcesKilled 0
+jpmarat ZombiesKilled 12028
+jpmarat FuelDiverted 40
+jpmarat HumanRank 1
+jpmarat NumberOfTimesCaptured 38
+jpmarat TurretsBuilt 38
+jpmarat ZombieWins 0
+jpmarat GamesLeft 2
+jpmarat GamesPlayedAsHuman 21
+jpmarat GamesPlayedAsZombie 0
+jpmarat HumansCaptured 0
+jpmarat K/D Ratio 316,53
+jpmarat Average Marine Winrate 24%
+jpmarat Average Fuel Diverts PerGame 1,9
+jpmarat Average Vespene Harvested PerGame 1699,05
+jpmarat Average Zombie Winrate NaN%
+jpmarat Average Security Kills Per Game NaN
+jpmarat Average Deaths PerGame 1,81
+jpmarat Average Infestation Class Class 1

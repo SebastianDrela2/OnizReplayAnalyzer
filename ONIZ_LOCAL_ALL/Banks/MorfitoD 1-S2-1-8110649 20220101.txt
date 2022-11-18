@@ -1,0 +1,23 @@
+MorfitoD HumanWinsNormal 0
+MorfitoD ZombieRank 0
+MorfitoD VespeneHarvested 0
+MorfitoD HumansRescued 0
+MorfitoD SecurityForcesKilled 0
+MorfitoD ZombiesKilled 0
+MorfitoD FuelDiverted 0
+MorfitoD HumanRank 0
+MorfitoD NumberOfTimesCaptured 0
+MorfitoD TurretsBuilt 0
+MorfitoD ZombieWins 0
+MorfitoD GamesLeft 0
+MorfitoD GamesPlayedAsHuman 0
+MorfitoD GamesPlayedAsZombie 0
+MorfitoD HumansCaptured 0
+MorfitoD K/D Ratio NaN
+MorfitoD Average Marine Winrate NaN%
+MorfitoD Average Fuel Diverts PerGame NaN
+MorfitoD Average Vespene Harvested PerGame NaN
+MorfitoD Average Zombie Winrate NaN%
+MorfitoD Average Security Kills Per Game NaN
+MorfitoD Average Deaths PerGame NaN
+MorfitoD Average Infestation Class Class 1

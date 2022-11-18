@@ -1,0 +1,23 @@
+Yello HumanWinsNormal 87
+Yello ZombieRank 0
+Yello VespeneHarvested 454100
+Yello HumansRescued 161
+Yello SecurityForcesKilled 5616
+Yello ZombiesKilled 109972
+Yello FuelDiverted 7
+Yello HumanRank 5.3334
+Yello NumberOfTimesCaptured 215
+Yello TurretsBuilt 262
+Yello ZombieWins 2
+Yello GamesLeft 19
+Yello GamesPlayedAsHuman 183
+Yello GamesPlayedAsZombie 13
+Yello HumansCaptured 123
+Yello K/D Ratio 511,5
+Yello Average Marine Winrate 48%
+Yello Average Fuel Diverts PerGame 0,04
+Yello Average Vespene Harvested PerGame 2481,42
+Yello Average Zombie Winrate 15%
+Yello Average Security Kills Per Game 432
+Yello Average Deaths PerGame 1,17
+Yello Average Infestation Class Class 5

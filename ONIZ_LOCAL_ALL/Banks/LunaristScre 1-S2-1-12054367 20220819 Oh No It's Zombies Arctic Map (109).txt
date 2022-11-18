@@ -1,0 +1,23 @@
+LunaristScre HumanWinsNormal 33
+LunaristScre ZombieRank -0.8332
+LunaristScre VespeneHarvested 224600
+LunaristScre HumansRescued 17
+LunaristScre SecurityForcesKilled 22800
+LunaristScre ZombiesKilled 30225
+LunaristScre FuelDiverted 274
+LunaristScre HumanRank 1
+LunaristScre NumberOfTimesCaptured 172
+LunaristScre TurretsBuilt 495
+LunaristScre ZombieWins 7
+LunaristScre GamesLeft 8
+LunaristScre GamesPlayedAsHuman 92
+LunaristScre GamesPlayedAsZombie 53
+LunaristScre HumansCaptured 383
+LunaristScre K/D Ratio 175,73
+LunaristScre Average Marine Winrate 36%
+LunaristScre Average Fuel Diverts PerGame 2,98
+LunaristScre Average Vespene Harvested PerGame 2441,3
+LunaristScre Average Zombie Winrate 13%
+LunaristScre Average Security Kills Per Game 430
+LunaristScre Average Deaths PerGame 1,87
+LunaristScre Average Infestation Class Class 5

@@ -1,0 +1,23 @@
+kevin HumanWinsNormal 6
+kevin ZombieRank 0
+kevin VespeneHarvested 22100
+kevin HumansRescued 9
+kevin SecurityForcesKilled 0
+kevin ZombiesKilled 4322
+kevin FuelDiverted 1
+kevin HumanRank 1
+kevin NumberOfTimesCaptured 40
+kevin TurretsBuilt 50
+kevin ZombieWins 0
+kevin GamesLeft 6
+kevin GamesPlayedAsHuman 17
+kevin GamesPlayedAsZombie 4
+kevin HumansCaptured 0
+kevin K/D Ratio 108,05
+kevin Average Marine Winrate 35%
+kevin Average Fuel Diverts PerGame 0,06
+kevin Average Vespene Harvested PerGame 1300
+kevin Average Zombie Winrate 0%
+kevin Average Security Kills Per Game 0
+kevin Average Deaths PerGame 2,35
+kevin Average Infestation Class Class 1

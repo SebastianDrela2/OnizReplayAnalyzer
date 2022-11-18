@@ -1,0 +1,23 @@
+Markos HumanWinsNormal 1
+Markos ZombieRank 0
+Markos VespeneHarvested 18900
+Markos HumansRescued 5
+Markos SecurityForcesKilled 375
+Markos ZombiesKilled 2984
+Markos FuelDiverted 0
+Markos HumanRank -0.25
+Markos NumberOfTimesCaptured 19
+Markos TurretsBuilt 16
+Markos ZombieWins 0
+Markos GamesLeft 1
+Markos GamesPlayedAsHuman 9
+Markos GamesPlayedAsZombie 1
+Markos HumansCaptured 10
+Markos K/D Ratio 157,05
+Markos Average Marine Winrate 11%
+Markos Average Fuel Diverts PerGame 0
+Markos Average Vespene Harvested PerGame 2100
+Markos Average Zombie Winrate 0%
+Markos Average Security Kills Per Game 375
+Markos Average Deaths PerGame 2,11
+Markos Average Infestation Class Class 4

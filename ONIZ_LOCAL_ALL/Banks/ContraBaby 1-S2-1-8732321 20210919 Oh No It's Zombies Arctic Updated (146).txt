@@ -1,0 +1,24 @@
+ContraBaby HumanWinsNormal 37
+ContraBaby LeftLastGameAsZombie 0
+ContraBaby ZombieRank 0
+ContraBaby VespeneHarvested 207500
+ContraBaby HumansRescued 50
+ContraBaby SecurityForcesKilled 364
+ContraBaby ZombiesKilled 47940
+ContraBaby FuelDiverted 158
+ContraBaby HumanRank 0
+ContraBaby NumberOfTimesCaptured 118
+ContraBaby TurretsBuilt 299
+ContraBaby ZombieWins 0
+ContraBaby GamesLeft 27
+ContraBaby GamesPlayedAsHuman 94
+ContraBaby GamesPlayedAsZombie 2
+ContraBaby HumansCaptured 8
+ContraBaby K/D Ratio 406,27
+ContraBaby Average Marine Winrate 39%
+ContraBaby Average Fuel Diverts PerGame 1,68
+ContraBaby Average Vespene Harvested PerGame 2207,45
+ContraBaby Average Zombie Winrate 0%
+ContraBaby Average Security Kills Per Game 182
+ContraBaby Average Deaths PerGame 1,26
+ContraBaby Average Infestation Class Class 3

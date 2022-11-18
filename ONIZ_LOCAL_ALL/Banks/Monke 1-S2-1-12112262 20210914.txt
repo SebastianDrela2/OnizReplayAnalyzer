@@ -1,0 +1,23 @@
+Monke HumanWinsNormal 9
+Monke ZombieRank 0
+Monke VespeneHarvested 60800
+Monke HumansRescued 38
+Monke SecurityForcesKilled 3049
+Monke ZombiesKilled 13579
+Monke FuelDiverted 17
+Monke HumanRank 0
+Monke NumberOfTimesCaptured 21
+Monke TurretsBuilt 114
+Monke ZombieWins 2
+Monke GamesLeft 6
+Monke GamesPlayedAsHuman 25
+Monke GamesPlayedAsZombie 10
+Monke HumansCaptured 70
+Monke K/D Ratio 646,62
+Monke Average Marine Winrate 36%
+Monke Average Fuel Diverts PerGame 0,68
+Monke Average Vespene Harvested PerGame 2432
+Monke Average Zombie Winrate 20%
+Monke Average Security Kills Per Game 305
+Monke Average Deaths PerGame 0,84
+Monke Average Infestation Class Class 4

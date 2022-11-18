@@ -1,0 +1,23 @@
+Vycanon HumanWinsNormal 21
+Vycanon ZombieRank 0
+Vycanon VespeneHarvested 106000
+Vycanon HumansRescued 15
+Vycanon SecurityForcesKilled 1162
+Vycanon ZombiesKilled 16452
+Vycanon FuelDiverted 77
+Vycanon HumanRank 13
+Vycanon NumberOfTimesCaptured 59
+Vycanon TurretsBuilt 185
+Vycanon ZombieWins 0
+Vycanon GamesLeft 1
+Vycanon GamesPlayedAsHuman 41
+Vycanon GamesPlayedAsZombie 3
+Vycanon HumansCaptured 24
+Vycanon K/D Ratio 278,85
+Vycanon Average Marine Winrate 51%
+Vycanon Average Fuel Diverts PerGame 1,88
+Vycanon Average Vespene Harvested PerGame 2585,37
+Vycanon Average Zombie Winrate 0%
+Vycanon Average Security Kills Per Game 387
+Vycanon Average Deaths PerGame 1,44
+Vycanon Average Infestation Class Class 4

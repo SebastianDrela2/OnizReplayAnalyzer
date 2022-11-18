@@ -1,0 +1,24 @@
+CaptainAss HumanWinsNormal 5
+CaptainAss ZombieRank 0
+CaptainAss VespeneHarvested 32100
+CaptainAss HumansRescued 16
+CaptainAss SecurityForcesKilled 0
+CaptainAss ZombiesKilled 8767
+CaptainAss FuelDiverted 0
+CaptainAss PlayedRankedMode5.0 1
+CaptainAss HumanRank 1.5
+CaptainAss NumberOfTimesCaptured 72
+CaptainAss TurretsBuilt 119
+CaptainAss ZombieWins 0
+CaptainAss GamesLeft 0
+CaptainAss GamesPlayedAsHuman 20
+CaptainAss GamesPlayedAsZombie 0
+CaptainAss HumansCaptured 0
+CaptainAss K/D Ratio 121,76
+CaptainAss Average Marine Winrate 25%
+CaptainAss Average Fuel Diverts PerGame 0
+CaptainAss Average Vespene Harvested PerGame 1605
+CaptainAss Average Zombie Winrate NaN%
+CaptainAss Average Security Kills Per Game NaN
+CaptainAss Average Deaths PerGame 3,6
+CaptainAss Average Infestation Class Class 1

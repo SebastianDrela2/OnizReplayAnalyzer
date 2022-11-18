@@ -1,0 +1,23 @@
+Nami HumanWinsNormal 6
+Nami ZombieRank 0
+Nami VespeneHarvested 60800
+Nami HumansRescued 18
+Nami SecurityForcesKilled 6588
+Nami ZombiesKilled 10348
+Nami FuelDiverted 30
+Nami HumanRank 0
+Nami NumberOfTimesCaptured 73
+Nami TurretsBuilt 41
+Nami ZombieWins 0
+Nami GamesLeft 5
+Nami GamesPlayedAsHuman 29
+Nami GamesPlayedAsZombie 19
+Nami HumansCaptured 127
+Nami K/D Ratio 141,75
+Nami Average Marine Winrate 21%
+Nami Average Fuel Diverts PerGame 1,03
+Nami Average Vespene Harvested PerGame 2096,55
+Nami Average Zombie Winrate 0%
+Nami Average Security Kills Per Game 347
+Nami Average Deaths PerGame 2,52
+Nami Average Infestation Class Class 4

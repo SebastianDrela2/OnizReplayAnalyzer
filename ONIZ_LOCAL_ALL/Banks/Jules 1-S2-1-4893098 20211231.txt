@@ -1,0 +1,23 @@
+Jules HumanWinsNormal 1
+Jules ZombieRank 0
+Jules VespeneHarvested 7700
+Jules HumansRescued 7
+Jules SecurityForcesKilled 0
+Jules ZombiesKilled 2394
+Jules FuelDiverted 6
+Jules HumanRank 1
+Jules NumberOfTimesCaptured 7
+Jules TurretsBuilt 8
+Jules ZombieWins 0
+Jules GamesLeft 0
+Jules GamesPlayedAsHuman 3
+Jules GamesPlayedAsZombie 0
+Jules HumansCaptured 0
+Jules K/D Ratio 342
+Jules Average Marine Winrate 33%
+Jules Average Fuel Diverts PerGame 2
+Jules Average Vespene Harvested PerGame 2566,67
+Jules Average Zombie Winrate NaN%
+Jules Average Security Kills Per Game NaN
+Jules Average Deaths PerGame 2,33
+Jules Average Infestation Class Class 1

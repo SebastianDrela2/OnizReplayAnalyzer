@@ -1,0 +1,23 @@
+Barcode HumanWinsNormal 20
+Barcode ZombieRank 4.5
+Barcode VespeneHarvested 126100
+Barcode HumansRescued 31
+Barcode SecurityForcesKilled 10611
+Barcode ZombiesKilled 23567
+Barcode FuelDiverted 55
+Barcode HumanRank 0
+Barcode NumberOfTimesCaptured 95
+Barcode TurretsBuilt 249
+Barcode ZombieWins 7
+Barcode GamesLeft 4
+Barcode GamesPlayedAsHuman 57
+Barcode GamesPlayedAsZombie 23
+Barcode HumansCaptured 208
+Neutrino K/D Ratio 248,07
+Neutrino Average Marine Winrate 35%
+Neutrino Average Fuel Diverts PerGame 0,96
+Neutrino Average Vespene Harvested PerGame 2212,28
+Neutrino Average Zombie Winrate 30%
+Neutrino Average Security Kills Per Game 461
+Neutrino Average Deaths PerGame 1,67
+Neutrino Average Infestation Class Class 5

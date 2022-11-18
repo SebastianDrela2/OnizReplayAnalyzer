@@ -1,0 +1,24 @@
+Templario HumanWinsNormal 2
+Templario LeftLastGameAsZombie 0
+Templario ZombieRank 0
+Templario VespeneHarvested 12200
+Templario HumansRescued 10
+Templario SecurityForcesKilled 0
+Templario ZombiesKilled 1627
+Templario FuelDiverted 30
+Templario HumanRank 2
+Templario NumberOfTimesCaptured 28
+Templario TurretsBuilt 8
+Templario ZombieWins 0
+Templario GamesLeft 3
+Templario GamesPlayedAsHuman 9
+Templario GamesPlayedAsZombie 3
+Templario HumansCaptured 0
+Templario K/D Ratio 58,11
+Templario Average Marine Winrate 22%
+Templario Average Fuel Diverts PerGame 3,33
+Templario Average Vespene Harvested PerGame 1355,56
+Templario Average Zombie Winrate 0%
+Templario Average Security Kills Per Game 0
+Templario Average Deaths PerGame 3,11
+Templario Average Infestation Class Class 1

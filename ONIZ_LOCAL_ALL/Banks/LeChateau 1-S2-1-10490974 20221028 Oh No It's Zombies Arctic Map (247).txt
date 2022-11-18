@@ -1,0 +1,23 @@
+LeChateau HumanWinsNormal 78
+LeChateau ZombieRank 1.3334
+LeChateau VespeneHarvested 468660
+LeChateau HumansRescued 155
+LeChateau SecurityForcesKilled 41605
+LeChateau ZombiesKilled 85183
+LeChateau FuelDiverted 356
+LeChateau HumanRank 7.3334
+LeChateau NumberOfTimesCaptured 218
+LeChateau TurretsBuilt 937
+LeChateau ZombieWins 30
+LeChateau GamesLeft 6
+LeChateau GamesPlayedAsHuman 167
+LeChateau GamesPlayedAsZombie 96
+LeChateau HumansCaptured 901
+LeChateau K/D Ratio 390,75
+LeChateau Average Marine Winrate 47%
+LeChateau Average Fuel Diverts PerGame 2,13
+LeChateau Average Vespene Harvested PerGame 2806,35
+LeChateau Average Zombie Winrate 31%
+LeChateau Average Security Kills Per Game 433
+LeChateau Average Deaths PerGame 1,31
+LeChateau Average Infestation Class Class 5

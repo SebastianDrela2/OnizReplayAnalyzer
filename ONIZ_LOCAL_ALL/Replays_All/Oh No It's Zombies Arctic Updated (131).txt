@@ -1,0 +1,175 @@
+Analyzed: Oh No It's Zombies Arctic Updated (131)
+
+ID : 0 PlayerName: kevin Race: Terran
+ID : 1 PlayerName: Song Race: Terran
+ID : 2 PlayerName: LEGENDARY Race: Terran
+ID : 3 PlayerName: Frosky Race: Zerg
+ID : 4 PlayerName: Cruel Race: Terran
+ID : 5 PlayerName: Mandarina Race: Terran
+ID : 6 PlayerName: WildMutant Race: Terran
+ID : 7 PlayerName: Security Race: Primal Zerg
+Frosky Zombie Win
+Private Lobby
+
+Game Length:[34:976]
+Players ammount: 8
+Marine rank avg: 13,833333333333334
+GrandMaster ammount: 4
+PURCHASES: 
+[00:588] kevin Unlocked AssaultRifle
+[00:689] kevin Placed/Upgraded MiningDroid
+[00:919] kevin Unlocked Shotgun
+[05:359] kevin Unlocked SpecOpsShotgun
+[06:324] kevin Unlocked IncendiaryBullets
+[08:855] kevin Unlocked AdvancedDroidEngines
+[10:500] kevin Placed/Upgraded MiningDroid
+[11:334] kevin Unlocked Shieldsiotunlocked
+[12:661] kevin Unlocked AdvancedShieldSuit
+[16:180] kevin Unlocked Teleporter
+[16:267] kevin Unlocked CombatShield
+[16:298] kevin Unlocked AIAssistant
+[16:451] kevin Unlocked IncendiaryGrenade
+[19:477] kevin Unlocked Stimpack
+[19:606] kevin Unlocked SpecOpsIncendiaryGrenade
+[23:157] kevin Unlocked AutoTurret
+[23:264] kevin Unlocked SpecOpsTurret
+[23:644] kevin Placed/Upgraded AutoTurret
+[24:657] kevin Placed/Upgraded AutoTurret
+[25:918] kevin Placed/Upgraded AutoTurret
+[26:575] kevin Placed/Upgraded AutoTurret
+[27:952] kevin Placed/Upgraded AutoTurret
+[28:598] kevin Placed/Upgraded AutoTurret
+[00:588] Song Unlocked AssaultRifle
+[00:667] Song Placed/Upgraded MiningDroid
+[00:876] Song Unlocked AdvancedDroidEngines
+[03:847] Song Unlocked TurboDroidEngines
+[04:563] Song Unlocked FragGrenade
+[06:476] Song Unlocked Stimpack
+[07:380] Song Unlocked EnergyPack
+[07:502] Song Unlocked SpecOpsFragGrenade
+[09:006] Song Unlocked CombatSuit
+[11:335] Song Bought ShieldSuit
+[11:335] Song Bought CombatSuit
+[11:335] Song Bought HazmatSuit
+[11:335] Song Bought ShieldSuit
+[11:509] Song Unlocked AdvancedCombatSuit
+[12:662] Song Bought ShieldSuit
+[13:271] Song Unlocked SpecOpsAssaultRifle
+[13:296] Song Unlocked TitaniumBulletCasings
+[13:864] Song Unlocked CombatShield
+[13:876] Song Unlocked AIAssistant
+[15:858] Song Unlocked BioMechanicalRepairDrone
+[15:917] Song Placed/Upgraded HealingDrone
+[16:132] Song Placed/Upgraded MiningDroid
+[18:095] Song Placed/Upgraded MiningDroid
+[20:853] Song Unlocked SuperStimpack
+[20:860] Song Unlocked SpecOpsSuperStimpack
+[23:064] Song Unlocked MiningCharge
+[23:070] Song Unlocked AdvancedMiningCharge
+[26:507] Song Placed/Upgraded NukePack
+[26:629] Song Placed/Upgraded NukePack
+[27:868] Song Placed/Upgraded NukePack
+[27:902] Song Placed/Upgraded HealingDrone
+[28:144] Song Unlocked PsiDisrupter
+[28:158] Song Unlocked PsiDepressor
+[28:447] Song Placed/Upgraded HealingDrone
+[29:163] Song Placed/Upgraded PsiIndoctrinator
+[29:510] Song Placed/Upgraded NukePack
+[30:451] Song Placed/Upgraded HealingDrone
+[30:519] Song Placed/Upgraded NukePack
+[30:841] Song Placed/Upgraded HealingDrone
+[32:580] Song Placed/Upgraded HealingDrone
+[33:392] Song Placed/Upgraded HealingDrone
+[33:573] Song Placed/Upgraded NukePack
+[33:707] Song Placed/Upgraded HealingDrone
+[00:588] LEGENDARY Unlocked AssaultRifle
+[02:854] LEGENDARY Unlocked Shotgun
+[02:924] LEGENDARY Unlocked Stimpack
+[05:586] LEGENDARY Unlocked MotionSensor
+[05:841] LEGENDARY Placed SensorTower
+[09:007] LEGENDARY Bought ShieldSuit
+[09:007] LEGENDARY Bought CombatSuit
+[09:007] LEGENDARY Bought HazmatSuit
+[09:007] LEGENDARY Bought CombatSuit
+[11:510] LEGENDARY Bought CombatSuit
+[11:653] LEGENDARY Placed SensorTower
+[22:601] LEGENDARY Placed SensorTower
+[28:719] LEGENDARY Unlocked Teleporter
+[00:552] Frosky Bought PlayerNumber
+[00:995] Frosky Spawned MassiveCocoon
+[02:435] Frosky Spawned Hunter
+[04:614] Frosky Bought CreepSpeed
+[08:529] Frosky Bought VirulentCreep
+[08:529] Frosky Bought VirulentCreep
+[11:171] Frosky Bought CreepSpeed
+[13:449] Frosky Bought StrainSpeed
+[15:205] Frosky Bought StrainSpeed
+[15:575] Frosky Spawned MassiveCocoon
+[16:659] Frosky Bought PureStrainSpeed
+[17:015] Frosky Spawned Hunter
+[19:019] Frosky Bought StrainDamage
+[20:193] Frosky Placed/Upgraded Virophage
+[20:786] Frosky Bought StrainHealth
+[22:790] Frosky Bought PureStrainSpeed
+[22:809] Frosky Bought HunterlingStrain
+[24:994] Frosky Bought HunterlingStrain
+[26:188] Frosky Bought DropshipsFueled
+[26:507] Frosky Bought SweepingInfestation
+[26:507] Frosky Bought UltimateInfestationResearched
+[26:705] Frosky Bought PureStrainHealth
+[26:733] Frosky Bought TankStrain
+[27:791] Frosky Placed/Upgraded NydusCanalCreeper
+[28:866] Frosky Bought StrainSpeed
+[30:763] Frosky Bought PureStrainSpeed
+[31:915] Frosky Placed/Upgraded NydusCanalCreeper
+[32:482] Frosky Bought SpawnNydusWorm
+[32:531] Frosky Placed/Upgraded GreaterNydusWorm
+[00:588] Cruel Unlocked AssaultRifle
+[00:686] Cruel Placed/Upgraded MiningDroid
+[01:007] Cruel Unlocked AdvancedDroidEngines
+[04:623] Cruel Unlocked FragGrenade
+[04:740] Cruel Unlocked ExplorationDroid
+[04:833] Cruel Placed/Upgraded ExplorationDroid
+[06:407] Cruel Unlocked AdvancedExplorationDroid
+[06:732] Cruel Placed/Upgraded ExplorationDroid
+[07:437] Cruel Unlocked TurboDroidEngines
+[10:431] Cruel Unlocked BeamRifle
+[11:745] Cruel Placed/Upgraded ExplorationDroid
+[12:393] Cruel Unlocked PsiDisrupter
+[16:432] Cruel Placed/Upgraded PsiIndoctrinator
+[22:387] Cruel Placed/Upgraded MiningDroid
+[25:869] Cruel Unlocked SpecOpsPlasmaRifle
+[27:184] Cruel Unlocked MiningCharge
+[27:271] Cruel Placed/Upgraded NukePack
+[27:509] Cruel Placed/Upgraded NukePack
+[28:010] Cruel Unlocked LongRangeScope
+[28:782] Cruel Placed/Upgraded NukePack
+[00:588] Mandarina Unlocked AssaultRifle
+[00:768] Mandarina Placed/Upgraded MiningDroid
+[00:869] Mandarina Unlocked AdvancedDroidEngines
+[03:756] Mandarina Unlocked TurboDroidEngines
+[09:160] Mandarina Unlocked SpecOpsAssaultRifle
+[10:351] Mandarina Unlocked OverloadWeapon
+[14:026] Mandarina Placed/Upgraded MiningDroid
+[16:370] Mandarina Placed/Upgraded MiningDroid
+[17:280] Mandarina Unlocked Shotgun
+[20:730] Mandarina Placed/Upgraded MiningDroid
+[23:072] Mandarina Unlocked AutoTargetingSystem
+[27:941] Mandarina Unlocked Teleporter
+[28:152] Mandarina Unlocked MedicShield
+[28:214] Mandarina Unlocked OpticalVisor
+[00:588] WildMutant Unlocked AssaultRifle
+[00:935] WildMutant Unlocked Shotgun
+[02:832] WildMutant Unlocked AdvancedDroidEngines
+[05:049] WildMutant Unlocked SpecOpsShotgun
+[07:293] WildMutant Unlocked TurboDroidEngines
+[08:590] WildMutant Unlocked PsiDisrupter
+[20:759] WildMutant Unlocked BioMechanicalRepairDrone
+[24:256] WildMutant Unlocked Stimpack
+[26:752] WildMutant Unlocked PsiDepressor
+[27:644] WildMutant Unlocked SpecOpsBioMechanicalRepairDrone
+[27:715] WildMutant Unlocked MiningCharge
+Frosky First Alpha Hunter |  Win
+
+Frosky Placed 1 Greaters.
+--------------------------------

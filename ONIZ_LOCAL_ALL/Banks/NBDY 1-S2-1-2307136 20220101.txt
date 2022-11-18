@@ -1,0 +1,26 @@
+NBDY HumanWinsNormal 89
+NBDY LeftLastGameAsZombie 0
+NBDY ZombieRank 25.1667
+NBDY VespeneHarvested 704340
+NBDY HumansRescued 97
+NBDY SecurityForcesKilled 13798
+NBDY ZombiesKilled 72352
+NBDY FuelDiverted 336
+NBDY PlayedRankedMode5.0 1
+NBDY HumanRank 2.5
+NBDY NumberOfTimesCaptured 318
+NBDY TurretsBuilt 373
+NBDY ZombieWins 32
+NBDY GamesLeft 95
+NBDY GamesPlayedAsHuman 358
+NBDY GamesPlayedAsZombie 51
+NBDY HumansCaptured 109
+NBDY PlayedRankedMode2.0 1
+NBDY K/D Ratio 227,52
+NBDY Average Marine Winrate 25%
+NBDY Average Fuel Diverts PerGame 0,94
+NBDY Average Vespene Harvested PerGame 1967,43
+NBDY Average Zombie Winrate 63%
+NBDY Average Security Kills Per Game 271
+NBDY Average Deaths PerGame 0,89
+NBDY Average Infestation Class Class 3

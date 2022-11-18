@@ -1,0 +1,23 @@
+Trogdor HumanWinsNormal 49
+Trogdor ZombieRank 0.8332
+Trogdor VespeneHarvested 257800
+Trogdor HumansRescued 99
+Trogdor SecurityForcesKilled 3569
+Trogdor ZombiesKilled 64425
+Trogdor FuelDiverted 106
+Trogdor HumanRank 6.5
+Trogdor NumberOfTimesCaptured 277
+Trogdor TurretsBuilt 309
+Trogdor ZombieWins 2
+Trogdor GamesLeft 23
+Trogdor GamesPlayedAsHuman 146
+Trogdor GamesPlayedAsZombie 10
+Trogdor HumansCaptured 102
+Trogdor K/D Ratio 232,58
+Trogdor Average Marine Winrate 34%
+Trogdor Average Fuel Diverts PerGame 0,73
+Trogdor Average Vespene Harvested PerGame 1765,75
+Trogdor Average Zombie Winrate 20%
+Trogdor Average Security Kills Per Game 357
+Trogdor Average Deaths PerGame 1,9
+Trogdor Average Infestation Class Class 4

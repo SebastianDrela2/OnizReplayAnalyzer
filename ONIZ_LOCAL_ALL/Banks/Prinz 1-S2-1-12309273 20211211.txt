@@ -1,0 +1,23 @@
+Prinz HumanWinsNormal 1
+Prinz ZombieRank 0
+Prinz VespeneHarvested 7800
+Prinz HumansRescued 1
+Prinz SecurityForcesKilled 0
+Prinz ZombiesKilled 1739
+Prinz FuelDiverted 1
+Prinz HumanRank 1
+Prinz NumberOfTimesCaptured 8
+Prinz TurretsBuilt 36
+Prinz ZombieWins 0
+Prinz GamesLeft 0
+Prinz GamesPlayedAsHuman 3
+Prinz GamesPlayedAsZombie 0
+Prinz HumansCaptured 0
+Prinz K/D Ratio 217,38
+Prinz Average Marine Winrate 33%
+Prinz Average Fuel Diverts PerGame 0,33
+Prinz Average Vespene Harvested PerGame 2600
+Prinz Average Zombie Winrate NaN%
+Prinz Average Security Kills Per Game NaN
+Prinz Average Deaths PerGame 2,67
+Prinz Average Infestation Class Class 1

@@ -1,0 +1,25 @@
+Chaosweeds HumanWinsNormal 40
+Chaosweeds LeftLastGameAsZombie 0
+Chaosweeds ZombieRank 1.8332
+Chaosweeds VespeneHarvested 259400
+Chaosweeds HumansRescued 191
+Chaosweeds SecurityForcesKilled 2820
+Chaosweeds ZombiesKilled 45997
+Chaosweeds FuelDiverted 5
+Chaosweeds PlayedRankedMode5.0 1
+Chaosweeds HumanRank 2.3334
+Chaosweeds NumberOfTimesCaptured 294
+Chaosweeds TurretsBuilt 144
+Chaosweeds ZombieWins 1
+Chaosweeds GamesLeft 4
+Chaosweeds GamesPlayedAsHuman 110
+Chaosweeds GamesPlayedAsZombie 8
+Chaosweeds HumansCaptured 63
+Chaosweeds K/D Ratio 156,45
+Chaosweeds Average Marine Winrate 36%
+Chaosweeds Average Fuel Diverts PerGame 0,05
+Chaosweeds Average Vespene Harvested PerGame 2358,18
+Chaosweeds Average Zombie Winrate 12%
+Chaosweeds Average Security Kills Per Game 352
+Chaosweeds Average Deaths PerGame 2,67
+Chaosweeds Average Infestation Class Class 4

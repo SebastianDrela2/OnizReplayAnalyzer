@@ -1,0 +1,23 @@
+Lovianta HumanWinsNormal 6
+Lovianta ZombieRank 0
+Lovianta VespeneHarvested 21700
+Lovianta HumansRescued 6
+Lovianta SecurityForcesKilled 0
+Lovianta ZombiesKilled 6216
+Lovianta FuelDiverted 13
+Lovianta HumanRank 11
+Lovianta NumberOfTimesCaptured 18
+Lovianta TurretsBuilt 14
+Lovianta ZombieWins 0
+Lovianta GamesLeft 0
+Lovianta GamesPlayedAsHuman 9
+Lovianta GamesPlayedAsZombie 0
+Lovianta HumansCaptured 0
+Lovianta K/D Ratio 345,33
+Lovianta Average Marine Winrate 67%
+Lovianta Average Fuel Diverts PerGame 1,44
+Lovianta Average Vespene Harvested PerGame 2411,11
+Lovianta Average Zombie Winrate NaN%
+Lovianta Average Security Kills Per Game NaN
+Lovianta Average Deaths PerGame 2
+Lovianta Average Infestation Class Class 1

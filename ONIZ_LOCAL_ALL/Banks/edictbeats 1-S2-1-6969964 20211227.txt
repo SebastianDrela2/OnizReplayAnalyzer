@@ -1,0 +1,23 @@
+edictbeats HumanWinsNormal 7
+edictbeats ZombieRank 0
+edictbeats VespeneHarvested 48600
+edictbeats HumansRescued 16
+edictbeats SecurityForcesKilled 0
+edictbeats ZombiesKilled 8077
+edictbeats FuelDiverted 28
+edictbeats HumanRank 0
+edictbeats NumberOfTimesCaptured 24
+edictbeats TurretsBuilt 87
+edictbeats ZombieWins 0
+edictbeats GamesLeft 4
+edictbeats GamesPlayedAsHuman 26
+edictbeats GamesPlayedAsZombie 0
+edictbeats HumansCaptured 0
+edictbeats K/D Ratio 336,54
+edictbeats Average Marine Winrate 27%
+edictbeats Average Fuel Diverts PerGame 1,08
+edictbeats Average Vespene Harvested PerGame 1869,23
+edictbeats Average Zombie Winrate NaN%
+edictbeats Average Security Kills Per Game NaN
+edictbeats Average Deaths PerGame 0,92
+edictbeats Average Infestation Class Class 1

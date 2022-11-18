@@ -1,0 +1,23 @@
+Oryx HumanWinsNormal 3
+Oryx ZombieRank 0
+Oryx VespeneHarvested 23600
+Oryx HumansRescued 7
+Oryx SecurityForcesKilled 0
+Oryx ZombiesKilled 3411
+Oryx FuelDiverted 11
+Oryx HumanRank 3.5
+Oryx NumberOfTimesCaptured 19
+Oryx TurretsBuilt 30
+Oryx ZombieWins 0
+Oryx GamesLeft 0
+Oryx GamesPlayedAsHuman 10
+Oryx GamesPlayedAsZombie 0
+Oryx HumansCaptured 0
+Oryx K/D Ratio 179,53
+Oryx Average Marine Winrate 30%
+Oryx Average Fuel Diverts PerGame 1,1
+Oryx Average Vespene Harvested PerGame 2360
+Oryx Average Zombie Winrate NaN%
+Oryx Average Security Kills Per Game NaN
+Oryx Average Deaths PerGame 1,9
+Oryx Average Infestation Class Class 1

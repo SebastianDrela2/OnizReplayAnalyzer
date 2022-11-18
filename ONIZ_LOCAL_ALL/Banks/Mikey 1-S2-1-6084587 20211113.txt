@@ -1,0 +1,24 @@
+Mikey HumanWinsNormal 11
+Mikey LeftLastGameAsZombie 0
+Mikey ZombieRank 3.1667
+Mikey VespeneHarvested 71600
+Mikey HumansRescued 10
+Mikey SecurityForcesKilled 5445
+Mikey ZombiesKilled 11940
+Mikey FuelDiverted 40
+Mikey HumanRank 5.3334
+Mikey NumberOfTimesCaptured 28
+Mikey TurretsBuilt 178
+Mikey ZombieWins 3
+Mikey GamesLeft 3
+Mikey GamesPlayedAsHuman 24
+Mikey GamesPlayedAsZombie 12
+Mikey HumansCaptured 90
+Mikey K/D Ratio 426,43
+Mikey Average Marine Winrate 46%
+Mikey Average Fuel Diverts PerGame 1,67
+Mikey Average Vespene Harvested PerGame 2983,33
+Mikey Average Zombie Winrate 25%
+Mikey Average Security Kills Per Game 454
+Mikey Average Deaths PerGame 1,17
+Mikey Average Infestation Class Class 5

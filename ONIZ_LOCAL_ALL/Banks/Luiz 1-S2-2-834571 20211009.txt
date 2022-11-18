@@ -1,0 +1,23 @@
+Luiz HumanWinsNormal 7
+Luiz ZombieRank 0
+Luiz VespeneHarvested 48300
+Luiz HumansRescued 40
+Luiz SecurityForcesKilled 486
+Luiz ZombiesKilled 13133
+Luiz FuelDiverted 18
+Luiz HumanRank 2.1
+Luiz NumberOfTimesCaptured 34
+Luiz TurretsBuilt 213
+Luiz ZombieWins 1
+Luiz GamesLeft 2
+Luiz GamesPlayedAsHuman 20
+Luiz GamesPlayedAsZombie 1
+Luiz HumansCaptured 0
+Luiz K/D Ratio 386,26
+Luiz Average Marine Winrate 35%
+Luiz Average Fuel Diverts PerGame 0,9
+Luiz Average Vespene Harvested PerGame 2415
+Luiz Average Zombie Winrate 100%
+Luiz Average Security Kills Per Game 486
+Luiz Average Deaths PerGame 1,7
+Luiz Average Infestation Class Class 5

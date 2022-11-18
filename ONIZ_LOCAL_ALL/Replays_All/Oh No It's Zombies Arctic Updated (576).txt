@@ -1,0 +1,205 @@
+Analyzed: Oh No It's Zombies Arctic Updated (576)
+
+ID : 0 PlayerName: Gafe Race: Terran
+ID : 1 PlayerName: Kira Race: Terran
+ID : 2 PlayerName: Frosky Race: Zerg
+ID : 3 PlayerName: MAYE Race: Terran
+ID : 4 PlayerName: BumpTheNight Race: Terran
+ID : 5 PlayerName: Dougstyles Race: Terran
+ID : 6 PlayerName: Hazen Race: Terran
+ID : 7 PlayerName: Security Race: Zerg
+Frosky Zombie Win
+Public Lobby
+
+Game Length:[32:491]
+Players ammount: 8
+Marine rank avg: 9,666666666666666
+GrandMaster ammount: 2
+PURCHASES: 
+[00:588] Gafe Unlocked AssaultRifle
+[00:792] Gafe Placed/Upgraded MiningDroid
+[02:887] Gafe Unlocked Shotgun
+[04:342] Gafe Unlocked AdvancedDroidEngines
+[05:919] Gafe Unlocked Stimpack
+[08:180] Gafe Unlocked SpecOpsShotgun
+[09:464] Gafe Unlocked SuperStimpack
+[11:741] Gafe Placed/Upgraded MiningDroid
+[13:820] Gafe Unlocked Shieldsiotunlocked
+[13:893] Gafe Unlocked MedicShield
+[15:635] Gafe Unlocked HighPrecisionBeams
+[17:331] Gafe Unlocked MiningCharge
+[17:339] Gafe Unlocked AdvancedMiningCharge
+[17:507] Gafe Placed/Upgraded NukePack
+[18:085] Gafe Placed/Upgraded NukePack
+[20:443] Gafe Placed/Upgraded NukePack
+[25:389] Gafe Unlocked AdvancedShieldSuit
+[26:048] Gafe Unlocked EnergyPack
+[26:345] Gafe Placed/Upgraded NukePack
+[00:588] Kira Unlocked AssaultRifle
+[00:978] Kira Unlocked ArcWelder
+[01:288] Kira Placed MiningDroid
+[02:747] Kira Unlocked BioMechanicalRepairDrone
+[02:760] Kira Unlocked CombatAccelerationDrone
+[02:892] Kira Placed HealingDrone
+[03:432] Kira Placed HealingDrone
+[03:715] Kira Placed HealingDrone
+[04:574] Kira Unlocked MotionSensor
+[04:852] Kira Placed HealingDrone
+[04:928] Kira Placed SensorTower
+[05:944] Kira Unlocked AutoTurret
+[05:952] Kira Unlocked SpecOpsTurret
+[06:660] Kira Placed AutoTurret
+[07:305] Kira Placed AutoTurret
+[08:039] Kira Placed AutoTurret
+[08:279] Kira Placed AutoTurret
+[08:623] Kira Placed AutoTurret
+[09:088] Kira Placed SensorTower
+[10:738] Kira Placed HealingDrone
+[10:911] Kira Placed MiningDroid
+[11:632] Kira Placed HealingDrone
+[12:187] Kira Unlocked CombatSuit
+[12:926] Kira Unlocked AdvancedCombatSuit
+[13:690] Kira Unlocked Stimpack
+[13:821] Kira Bought ShieldSuit
+[13:821] Kira Bought CombatSuit
+[13:821] Kira Bought HazmatSuit
+[13:821] Kira Bought ShieldSuit
+[14:228] Kira Unlocked AdvancedDroidEngines
+[15:294] Kira Unlocked HeavyTurret
+[15:348] Kira Placed AutoTurret
+[15:957] Kira Unlocked AIAssistant
+[17:011] Kira Placed AutoTurret
+[17:141] Kira Unlocked SpecOpsBioMechanicalRepairDrone
+[17:195] Kira Placed HealingDrone
+[17:333] Kira Placed HealingDrone
+[18:272] Kira Unlocked ForceFieldGrenade
+[18:281] Kira Unlocked SpecOpsForcefieldGrenade
+[19:722] Kira Placed AutoTurret
+[19:909] Kira Placed AutoTurret
+[20:274] Kira Unlocked EnergyPack
+[20:728] Kira Placed AutoTurret
+[21:141] Kira Placed AutoTurret
+[21:569] Kira Placed AutoTurret
+[25:390] Kira Bought ShieldSuit
+[00:552] Frosky Bought PlayerNumber
+[00:641] Frosky Spawned MassiveCocoon
+[02:081] Frosky Spawned Hunter
+[02:996] Frosky Spawned MassiveCocoon
+[04:436] Frosky Spawned Hunter
+[05:542] Frosky Spawned MassiveCocoon
+[06:982] Frosky Spawned PrimalTownHallUprooted
+[08:703] Frosky Bought CreepSpeed
+[09:879] Frosky Bought BuildExtractorScienceLabs
+[09:879] Frosky Placed/Upgraded AutomatedExtractor
+[12:188] Frosky Bought ShieldSuit
+[12:188] Frosky Bought CombatSuit
+[12:188] Frosky Bought HazmatSuit
+[12:188] Frosky Bought CombatSuit
+[12:501] Frosky Bought CreepSpeed
+[12:927] Frosky Bought CombatSuit
+[13:761] Frosky Spawned MassiveCocoon
+[14:591] Frosky Bought AdvancedInfestationContainment
+[14:764] Frosky Placed/Upgraded Virophage
+[15:201] Frosky Spawned Anubalisk
+[17:732] Frosky Bought SpawnNydusWorm
+[17:757] Frosky Placed/Upgraded GreaterNydusWorm
+[19:127] Frosky Placed/Upgraded NydusCanalCreeper
+[19:427] Frosky Bought BuildExtractorProcessingFacilities
+[19:427] Frosky Placed/Upgraded AutomatedExtractor
+[19:450] Frosky Bought BuildExtractorManufacturingSector
+[19:450] Frosky Placed/Upgraded AutomatedExtractor
+[19:494] Frosky Placed/Upgraded Virophage
+[20:818] Frosky Bought StrainHealth
+[20:831] Frosky Bought PureStrainHealth
+[21:454] Frosky Bought UnlockDropPods
+[21:561] Frosky Bought EvolveDropPods
+[22:671] Frosky Placed/Upgraded NydusCanalCreeper
+[23:030] Frosky Placed/Upgraded Virophage
+[23:059] Frosky Bought StrainVolatile
+[23:923] Frosky Bought TankStrain
+[23:943] Frosky Bought PureStrainVolatile
+[24:473] Frosky Placed/Upgraded NydusCanalCreeper
+[24:762] Frosky Bought EvolveDropPods
+[24:766] Frosky Bought EvolveDropPods
+[24:768] Frosky Bought EvolveDropPods
+[25:383] Frosky Placed/Upgraded GreaterNydusWorm
+[25:486] Frosky Bought KaboomerStrain
+[25:600] Frosky Bought EvolveDropPods
+[26:416] Frosky Bought EvolveDropPods
+[26:805] Frosky Bought StrainSpeed
+[27:510] Frosky Bought VirulentCreep
+[27:510] Frosky Bought VirulentCreep
+[31:051] Frosky Bought PureStrainSpeed
+[31:068] Frosky Bought HunterlingStrain
+[31:080] Frosky Bought StrainHealth
+[31:088] Frosky Bought PureStrainHealth
+[31:098] Frosky Bought TankStrain
+[31:308] Frosky Bought DropshipsFueled
+[00:588] MAYE Unlocked AssaultRifle
+[00:891] MAYE Placed/Upgraded MiningDroid
+[01:003] MAYE Unlocked AdvancedDroidEngines
+[03:700] MAYE Unlocked CombatSuit
+[08:792] MAYE Unlocked AdvancedCombatSuit
+[09:494] MAYE Unlocked FragGrenade
+[10:496] MAYE Unlocked SpecOpsFragGrenade
+[11:794] MAYE Unlocked EnergyPack
+[13:278] MAYE Unlocked AIAssistant
+[13:301] MAYE Unlocked CombatShield
+[15:943] MAYE Unlocked SpecOpsAssaultRifle
+[17:070] MAYE Unlocked AutoTargetingSystem
+[17:961] MAYE Unlocked Stimpack
+[20:034] MAYE Unlocked BioMechanicalRepairDrone
+[20:054] MAYE Unlocked SpecOpsBioMechanicalRepairDrone
+[20:613] MAYE Placed/Upgraded HealingDrone
+[23:708] MAYE Placed/Upgraded HealingDrone
+[00:588] BumpTheNight Unlocked AssaultRifle
+[00:667] BumpTheNight Placed/Upgraded MiningDroid
+[00:932] BumpTheNight Unlocked AdvancedDroidEngines
+[03:701] BumpTheNight Bought ShieldSuit
+[03:701] BumpTheNight Bought CombatSuit
+[03:701] BumpTheNight Bought HazmatSuit
+[03:701] BumpTheNight Bought CombatSuit
+[03:804] BumpTheNight Unlocked TurboDroidEngines
+[07:289] BumpTheNight Unlocked HellfireRocketLauncher
+[08:793] BumpTheNight Bought CombatSuit
+[08:879] BumpTheNight Unlocked SpecOpsHellfireRocketLauncher
+[09:677] BumpTheNight Placed/Upgraded MiningDroid
+[14:666] BumpTheNight Placed/Upgraded MiningDroid
+[17:447] BumpTheNight Unlocked ShockwaveMissiles
+[17:503] BumpTheNight Unlocked CombatSuit
+[17:518] BumpTheNight Unlocked AdvancedCombatSuit
+[19:834] BumpTheNight Unlocked MedicShield
+[19:991] BumpTheNight Unlocked AIAssistant
+[00:588] Dougstyles Unlocked AssaultRifle
+[00:795] Dougstyles Placed/Upgraded MiningDroid
+[02:567] Dougstyles Unlocked SpecOpsAssaultRifle
+[04:548] Dougstyles Unlocked TitaniumBulletCasings
+[12:805] Dougstyles Unlocked CombatSuit
+[12:936] Dougstyles Unlocked OverloadWeapon
+[16:614] Dougstyles Unlocked SuperStimpack
+[16:632] Dougstyles Unlocked SpecOpsSuperStimpack
+[17:504] Dougstyles Bought ShieldSuit
+[17:504] Dougstyles Bought CombatSuit
+[17:504] Dougstyles Bought HazmatSuit
+[17:504] Dougstyles Bought CombatSuit
+[17:519] Dougstyles Bought CombatSuit
+[25:888] Dougstyles Unlocked CombatShield
+[00:588] Hazen Unlocked AssaultRifle
+[01:404] Hazen Unlocked BeamRifle
+[05:000] Hazen Unlocked Shieldsiotunlocked
+[06:447] Hazen Unlocked SpecOpsPlasmaRifle
+[12:806] Hazen Bought ShieldSuit
+[12:806] Hazen Bought CombatSuit
+[12:806] Hazen Bought HazmatSuit
+[12:806] Hazen Bought CombatSuit
+[13:507] Hazen Unlocked OpticalVisor
+[16:100] Hazen Unlocked CombatShield
+[25:606] Hazen Unlocked MedicShield
+[05:001] Security Bought ShieldSuit
+[05:001] Security Bought CombatSuit
+[05:001] Security Bought HazmatSuit
+[05:001] Security Bought ShieldSuit
+Frosky First Alpha Hunter |  Win
+
+Frosky Placed 2 Greaters.
+--------------------------------

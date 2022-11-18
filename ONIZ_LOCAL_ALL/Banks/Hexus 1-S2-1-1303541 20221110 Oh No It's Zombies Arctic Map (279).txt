@@ -1,0 +1,23 @@
+Hexus HumanWinsNormal 0
+Hexus ZombieRank 0
+Hexus VespeneHarvested 0
+Hexus HumansRescued 0
+Hexus SecurityForcesKilled 0
+Hexus ZombiesKilled 0
+Hexus FuelDiverted 0
+Hexus HumanRank 0
+Hexus NumberOfTimesCaptured 0
+Hexus TurretsBuilt 0
+Hexus ZombieWins 0
+Hexus GamesLeft 0
+Hexus GamesPlayedAsHuman 0
+Hexus GamesPlayedAsZombie 0
+Hexus HumansCaptured 0
+Hexus K/D Ratio NaN
+Hexus Average Marine Winrate NaN%
+Hexus Average Fuel Diverts PerGame NaN
+Hexus Average Vespene Harvested PerGame NaN
+Hexus Average Zombie Winrate NaN%
+Hexus Average Security Kills Per Game NaN
+Hexus Average Deaths PerGame NaN
+Hexus Average Infestation Class Class 1

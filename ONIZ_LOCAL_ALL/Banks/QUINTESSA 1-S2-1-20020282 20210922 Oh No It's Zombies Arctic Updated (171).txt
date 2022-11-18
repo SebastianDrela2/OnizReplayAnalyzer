@@ -1,0 +1,23 @@
+QUINTESSA HumanWinsNormal 28
+QUINTESSA ZombieRank 0
+QUINTESSA VespeneHarvested 132600
+QUINTESSA HumansRescued 37
+QUINTESSA SecurityForcesKilled 515
+QUINTESSA ZombiesKilled 38419
+QUINTESSA FuelDiverted 0
+QUINTESSA HumanRank 3.75
+QUINTESSA NumberOfTimesCaptured 78
+QUINTESSA TurretsBuilt 165
+QUINTESSA ZombieWins 0
+QUINTESSA GamesLeft 9
+QUINTESSA GamesPlayedAsHuman 62
+QUINTESSA GamesPlayedAsZombie 1
+QUINTESSA HumansCaptured 8
+QUINTESSA K/D Ratio 492,55
+QUINTESSA Average Marine Winrate 45%
+QUINTESSA Average Fuel Diverts PerGame 0
+QUINTESSA Average Vespene Harvested PerGame 2138,71
+QUINTESSA Average Zombie Winrate 0%
+QUINTESSA Average Security Kills Per Game 515
+QUINTESSA Average Deaths PerGame 1,26
+QUINTESSA Average Infestation Class Class 5

@@ -1,0 +1,183 @@
+Analyzed: Oh No It's Zombies Arctic Map (253)
+
+ID : 0 PlayerName: Roxadar Race: Terran
+ID : 1 PlayerName: Bread Race: Terran
+ID : 2 PlayerName: Tin Race: Terran
+ID : 3 PlayerName: Frosky Race: Terran
+ID : 4 PlayerName: RedReaperz Race: Zerg
+ID : 5 PlayerName: MarFly Race: Terran
+ID : 6 PlayerName: Yokai Race: Terran
+ID : 7 PlayerName: Security Race: Zerg
+RedReaperz Zombie Win
+Private Lobby
+
+Game Length:[24:018]
+Players ammount: 8
+Marine rank avg: 17,833333333333332
+GrandMaster ammount: 4
+PURCHASES: 
+[00:572] Roxadar Unlocked AssaultRifle
+[00:651] Roxadar Placed/Upgraded MiningDroid
+[00:860] Roxadar Unlocked BeamRifle
+[03:526] Roxadar Unlocked SpecOpsPlasmaRifle
+[06:060] Roxadar Unlocked Stimpack
+[08:225] Roxadar Placed/Upgraded MiningDroid
+[10:627] Roxadar Unlocked SuperStimpack
+[11:984] Roxadar Unlocked HazmatSuit
+[15:337] Roxadar Unlocked AdvancedDroidEngines
+[17:702] Roxadar Unlocked BioMechanicalRepairDrone
+[17:774] Roxadar Unlocked LongRangeScope
+[17:837] Roxadar Placed/Upgraded HealingDrone
+[18:088] Roxadar Placed/Upgraded HealingDrone
+[21:168] Roxadar Unlocked ExplorationDroid
+[21:185] Roxadar Placed/Upgraded ExplorationDroid
+[22:361] Roxadar Placed/Upgraded HealingDrone
+[00:572] Bread Unlocked AssaultRifle
+[00:652] Bread Placed/Upgraded MiningDroid
+[00:702] Bread Unlocked AdvancedDroidEngines
+[03:258] Bread Unlocked TurboDroidEngines
+[05:418] Bread Unlocked Shotgun
+[07:021] Bread Unlocked SpecOpsShotgun
+[07:105] Bread Unlocked BioMechanicalRepairDrone
+[08:915] Bread Unlocked SuperStimpack
+[10:618] Bread Unlocked ConcussiveShot
+[10:696] Bread Placed/Upgraded HealingDrone
+[10:873] Bread Placed/Upgraded HealingDrone
+[11:656] Bread Placed/Upgraded HealingDrone
+[11:985] Bread Bought ShieldSuit
+[11:985] Bread Bought CombatSuit
+[11:985] Bread Bought HazmatSuit
+[11:985] Bread Bought HazmatSuit
+[15:845] Bread Unlocked SpecOpsSuperStimpack
+[17:783] Bread Placed/Upgraded HealingDrone
+[00:572] Tin Unlocked AssaultRifle
+[00:745] Tin Placed/Upgraded MiningDroid
+[00:954] Tin Unlocked FragGrenade
+[00:960] Tin Unlocked SpecOpsFragGrenade
+[04:256] Tin Unlocked EnergySuit
+[04:257] Tin Unlocked EnergySuit
+[04:335] Tin Unlocked AdvancedEnergySuit
+[04:336] Tin Unlocked EnergySuit
+[04:336] Tin Unlocked AdvancedEnergySuit
+[06:597] Tin Unlocked Stimpack
+[07:912] Tin Unlocked MedicShield
+[11:652] Tin Unlocked PowerConverter
+[11:675] Tin Unlocked SpecOpsPowerConverter
+[14:768] Tin Unlocked SpecOpsAssaultRifle
+[17:680] Tin Unlocked TitaniumBulletCasings
+[21:151] Tin Unlocked BioMechanicalRepairDrone
+[21:171] Tin Placed/Upgraded HealingDrone
+[21:354] Tin Placed/Upgraded HealingDrone
+[00:572] Frosky Unlocked AssaultRifle
+[00:651] Frosky Placed MiningDroid
+[00:703] Frosky Unlocked Shotgun
+[03:379] Frosky Unlocked AdvancedDroidEngines
+[04:257] Frosky Bought ShieldSuit
+[04:257] Frosky Bought CombatSuit
+[04:257] Frosky Bought HazmatSuit
+[09:647] Frosky Unlocked Stimpack
+[10:798] Frosky Unlocked SpecOpsShotgun
+[12:842] Frosky Unlocked SuperStimpack
+[15:284] Frosky Unlocked AIAssistant
+[15:291] Frosky Unlocked CombatShield
+[16:356] Frosky Unlocked BioMechanicalRepairDrone
+[16:455] Frosky Placed HealingDrone
+[16:782] Frosky Placed HealingDrone
+[00:568] RedReaperz Bought PlayerNumber
+[00:741] RedReaperz Spawned MassiveCocoon
+[02:181] RedReaperz Spawned Hunter
+[02:454] RedReaperz Placed/Upgraded NydusCanalCreeper
+[03:345] RedReaperz Placed/Upgraded PrimalSunkenColony
+[03:346] RedReaperz Bought SunkenColony
+[03:590] RedReaperz Placed/Upgraded ToxicNest
+[03:925] RedReaperz Placed/Upgraded PrimalSunkenColony
+[03:926] RedReaperz Bought SunkenColony
+[04:165] RedReaperz Placed/Upgraded LocustNest
+[04:447] RedReaperz Placed/Upgraded NydusCanalCreeper
+[05:970] RedReaperz Bought SunkenColony
+[06:201] RedReaperz Placed/Upgraded LocustNest
+[06:216] RedReaperz Bought SunkenColony
+[06:668] RedReaperz Spawned MassiveCocoon
+[07:111] RedReaperz Spawned MassiveCocoon
+[07:260] RedReaperz Placed/Upgraded LocustNest
+[07:665] RedReaperz Placed/Upgraded LocustNest
+[08:042] RedReaperz Placed/Upgraded NydusCanalCreeper
+[08:108] RedReaperz Spawned InfestedAbomination
+[08:191] RedReaperz Spawned Underseer
+[08:570] RedReaperz Placed/Upgraded PrimalSunkenColony
+[08:571] RedReaperz Bought SunkenColony
+[09:290] RedReaperz Placed/Upgraded PrimalSunkenColony
+[09:291] RedReaperz Bought SunkenColony
+[09:848] RedReaperz Bought SunkenColony
+[10:878] RedReaperz Bought UnlockDropPods
+[12:505] RedReaperz Bought SpawnNydusWorm
+[12:566] RedReaperz Placed/Upgraded GreaterNydusWorm
+[13:280] RedReaperz Placed/Upgraded LesserNydusWorm
+[13:281] RedReaperz Bought GreaterNydus
+[13:757] RedReaperz Bought EvolveDropPods
+[14:515] RedReaperz Bought EvolveDropPods
+[15:257] RedReaperz Bought GreaterNydus
+[15:908] RedReaperz Bought EvolveDropPods
+[16:377] RedReaperz Bought AdvancedInfestationContainment
+[16:402] RedReaperz Bought AdvancedPowerInfestation
+[17:262] RedReaperz Bought StrainVolatile
+[18:350] RedReaperz Placed/Upgraded LesserNydusWorm
+[18:351] RedReaperz Bought GreaterNydus
+[18:634] RedReaperz Bought ConstructiveCreep
+[18:995] RedReaperz Spawned MassiveCocoon
+[19:369] RedReaperz Placed/Upgraded GreaterNydusWorm
+[19:635] RedReaperz Placed/Upgraded Virophage
+[19:693] RedReaperz Placed/Upgraded LesserNydusWorm
+[19:694] RedReaperz Bought GreaterNydus
+[20:435] RedReaperz Spawned Hunter
+[20:441] RedReaperz Placed/Upgraded Virophage
+[21:046] RedReaperz Placed/Upgraded NydusCanalCreeper
+[21:429] RedReaperz Bought SunkenColony
+[21:429] RedReaperz Placed/Upgraded PrimalSunkenColony
+[21:672] RedReaperz Bought SunkenColony
+[22:235] RedReaperz Placed/Upgraded ToxicNest
+[22:235] RedReaperz Placed/Upgraded ToxicNest
+[22:583] RedReaperz Placed/Upgraded ToxicNest
+[22:591] RedReaperz Placed/Upgraded ToxicNest
+[22:754] RedReaperz Placed/Upgraded LesserNydusWorm
+[22:755] RedReaperz Bought GreaterNydus
+[23:030] RedReaperz Spawned MassiveCocoon
+[23:176] RedReaperz Placed/Upgraded LocustNest
+[23:917] RedReaperz Bought StrainSpeed
+[00:572] MarFly Unlocked AssaultRifle
+[00:651] MarFly Placed/Upgraded MiningDroid
+[01:368] MarFly Unlocked AdvancedDroidEngines
+[04:633] MarFly Unlocked Stimpack
+[06:893] MarFly Unlocked SpecOpsAssaultRifle
+[08:849] MarFly Unlocked AutoTargetingSystem
+[09:886] MarFly Unlocked ExplorationDroid
+[10:188] MarFly Placed/Upgraded ExplorationDroid
+[10:414] MarFly Placed/Upgraded ExplorationDroid
+[10:941] MarFly Unlocked MedicShield
+[13:502] MarFly Unlocked IncendiaryGrenade
+[13:513] MarFly Unlocked SpecOpsIncendiaryGrenade
+[16:411] MarFly Unlocked AutoTurret
+[16:438] MarFly Unlocked HeavyTurret
+[19:837] MarFly Unlocked FlameTurret
+[19:911] MarFly Placed/Upgraded AutoTurret
+[20:281] MarFly Placed/Upgraded AutoTurret
+[20:650] MarFly Placed/Upgraded MiningDroid
+[00:572] Yokai Unlocked AssaultRifle
+[01:561] Yokai Unlocked Stimpack
+[03:477] Yokai Unlocked AdvancedDroidEngines
+[06:408] Yokai Unlocked BeamRifle
+[06:575] Yokai Unlocked MedicShield
+[07:905] Yokai Unlocked SpecOpsPlasmaRifle
+[08:715] Yokai Unlocked MotionSensor
+[11:298] Yokai Unlocked HazmatSuit
+[11:561] Yokai Unlocked CorrosivePlasma
+[14:155] Yokai Unlocked AutoTurret
+[16:534] Yokai Unlocked TurboDroidEngines
+[11:299] Security Bought ShieldSuit
+[11:299] Security Bought CombatSuit
+[11:299] Security Bought HazmatSuit
+[11:299] Security Bought HazmatSuit
+RedReaperz First Alpha Hunter |  Win
+
+RedReaperz Placed 2 Greaters.
+--------------------------------

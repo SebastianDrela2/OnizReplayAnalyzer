@@ -1,0 +1,173 @@
+Analyzed: Oh No It's Zombies Arctic Updated (573)
+
+ID : 0 PlayerName: Toxicpanda Race: Terran
+ID : 1 PlayerName: Frosky Race: Terran
+ID : 2 PlayerName: ProDem Race: Zerg
+ID : 3 PlayerName: Harambe Race: Terran
+ID : 4 PlayerName: quemer Race: Terran
+ID : 5 PlayerName: lman Race: Terran
+ID : 6 PlayerName: Juhani Race: Terran
+ID : 7 PlayerName: Security Race: MechaZerg
+ProDem Zombie Win
+Public Lobby
+
+Game Length:[23:130]
+Players ammount: 8
+Marine rank avg: 8,5
+GrandMaster ammount: 3
+PURCHASES: 
+[00:588] Toxicpanda Unlocked AssaultRifle
+[01:563] Toxicpanda Placed/Upgraded MiningDroid
+[01:699] Toxicpanda Unlocked AdvancedDroidEngines
+[02:883] Toxicpanda Unlocked IncendiaryGrenade
+[05:075] Toxicpanda Unlocked Flamethrower
+[05:636] Toxicpanda Unlocked SpecOpsFlamethrower
+[07:978] Toxicpanda Placed/Upgraded MiningDroid
+[09:589] Toxicpanda Unlocked Stimpack
+[11:761] Toxicpanda Placed/Upgraded MiningDroid
+[13:545] Toxicpanda Unlocked BioMechanicalRepairDrone
+[13:736] Toxicpanda Placed/Upgraded HealingDrone
+[21:917] Toxicpanda Placed/Upgraded HealingDrone
+[00:588] Frosky Unlocked AssaultRifle
+[00:667] Frosky Placed MiningDroid
+[00:702] Frosky Unlocked Shotgun
+[03:420] Frosky Unlocked SpecOpsShotgun
+[04:996] Frosky Unlocked Stimpack
+[07:665] Frosky Unlocked AdvancedDroidEngines
+[10:443] Frosky Unlocked HazmatSuit
+[14:194] Frosky Unlocked SuperStimpack
+[15:310] Frosky Unlocked BioMechanicalRepairDrone
+[15:790] Frosky Unlocked ExplorationDroid
+[16:091] Frosky Placed ExplorationDroid
+[16:098] Frosky Placed ExplorationDroid
+[16:304] Frosky Placed ExplorationDroid
+[17:421] Frosky Placed HealingDrone
+[18:744] Frosky Unlocked CombatShield
+[19:874] Frosky Unlocked HighPrecisionBeams
+[19:922] Frosky Unlocked AdvancedHazmatSuit
+[20:105] Frosky Placed ExplorationDroid
+[00:552] ProDem Bought PlayerNumber
+[01:134] ProDem Placed/Upgraded PrimalSunkenColony
+[01:135] ProDem Bought SunkenColony
+[01:449] ProDem Placed/Upgraded PrimalSunkenColony
+[01:450] ProDem Bought SunkenColony
+[01:894] ProDem Bought SunkenColony
+[02:332] ProDem Spawned MassiveCocoon
+[03:772] ProDem Spawned Hunter
+[04:261] ProDem Bought UnlockDropPods
+[04:271] ProDem Bought EvolveDropPods
+[04:431] ProDem Bought EvolveDropPods
+[04:637] ProDem Bought SunkenColony
+[05:508] ProDem Bought EvolveDropPods
+[05:850] ProDem Bought EvolveDropPods
+[06:416] ProDem Bought EvolveDropPods
+[06:703] ProDem Bought EvolveDropPods
+[09:380] ProDem Bought CreepSpeed
+[10:444] ProDem Bought ShieldSuit
+[10:444] ProDem Bought CombatSuit
+[10:444] ProDem Bought HazmatSuit
+[10:444] ProDem Bought HazmatSuit
+[10:579] ProDem Placed/Upgraded ToxicNest
+[10:839] ProDem Placed/Upgraded ToxicNest
+[10:846] ProDem Placed/Upgraded ToxicNest
+[11:098] ProDem Placed/Upgraded ToxicNest
+[11:210] ProDem Bought BuildExtractorManufacturingSector
+[11:210] ProDem Placed/Upgraded AutomatedExtractor
+[12:634] ProDem Spawned MassiveCocoon
+[12:831] ProDem Placed/Upgraded ToxicNest
+[13:346] ProDem Placed/Upgraded PrimalSunkenColony
+[13:347] ProDem Bought SunkenColony
+[13:714] ProDem Spawned Underseer
+[14:723] ProDem Bought BuildExtractorProcessingFacilities
+[14:723] ProDem Placed/Upgraded AutomatedExtractor
+[15:757] ProDem Placed/Upgraded PrimalSunkenColony
+[15:758] ProDem Bought SunkenColony
+[16:158] ProDem Bought CreepSpeed
+[16:298] ProDem Bought ExtractorCostReductionManufacturingSector
+[16:298] ProDem Bought BuildExtractorManufacturingSector
+[16:474] ProDem Placed/Upgraded NydusCanalCreeper
+[17:122] ProDem Placed/Upgraded PrimalSunkenColony
+[17:123] ProDem Bought SunkenColony
+[17:828] ProDem Bought VirulentCreep
+[17:828] ProDem Bought VirulentCreep
+[19:491] ProDem Bought SunkenColony
+[19:923] ProDem Bought HazmatSuit
+[20:049] ProDem Bought ConstructiveCreep
+[20:085] ProDem Placed/Upgraded Virophage
+[20:228] ProDem Placed/Upgraded Virophage
+[20:280] ProDem Placed/Upgraded LesserNydusWorm
+[20:281] ProDem Bought GreaterNydus
+[20:454] ProDem Bought AdvancedInfestationContainment
+[20:701] ProDem Bought BuildExtractorScienceLabs
+[20:701] ProDem Placed/Upgraded AutomatedExtractor
+[20:994] ProDem Placed/Upgraded NydusCanalCreeper
+[21:058] ProDem Bought SunkenColony
+[21:745] ProDem Placed/Upgraded NydusCanalCreeper
+[21:860] ProDem Bought AdvancedPowerInfestation
+[22:836] ProDem Placed/Upgraded LesserNydusWorm
+[22:837] ProDem Bought GreaterNydus
+[23:036] ProDem Bought StrainVolatile
+[23:045] ProDem Bought PureStrainVolatile
+[23:105] ProDem Bought StrainSpeed
+[00:588] Harambe Unlocked AssaultRifle
+[01:191] Harambe Placed/Upgraded MiningDroid
+[02:752] Harambe Unlocked HellfireRocketLauncher
+[06:932] Harambe Unlocked SpecOpsHellfireRocketLauncher
+[10:117] Harambe Unlocked ShockwaveMissiles
+[17:667] Harambe Placed/Upgraded MiningDroid
+[00:588] quemer Unlocked AssaultRifle
+[00:772] quemer Placed/Upgraded MiningDroid
+[02:799] quemer Unlocked Flamethrower
+[06:258] quemer Unlocked IncendiaryGrenade
+[06:383] quemer Unlocked BioMechanicalRepairDrone
+[06:522] quemer Unlocked CombatAccelerationDrone
+[07:491] quemer Placed/Upgraded HealingDrone
+[10:546] quemer Placed/Upgraded MiningDroid
+[10:749] quemer Placed/Upgraded HealingDrone
+[12:628] quemer Placed/Upgraded HealingDrone
+[13:471] quemer Unlocked EnergySuit
+[13:472] quemer Unlocked EnergySuit
+[16:912] quemer Placed/Upgraded HealingDrone
+[17:977] quemer Placed/Upgraded HealingDrone
+[00:588] lman Unlocked AssaultRifle
+[00:994] lman Placed/Upgraded MiningDroid
+[01:771] lman Unlocked AdvancedDroidEngines
+[07:323] lman Unlocked TurboDroidEngines
+[07:416] lman Unlocked SpecOpsAssaultRifle
+[13:130] lman Unlocked CombatSuit
+[13:135] lman Unlocked AdvancedCombatSuit
+[13:263] lman Unlocked CombatShield
+[13:472] lman Bought ShieldSuit
+[13:472] lman Bought CombatSuit
+[13:472] lman Bought HazmatSuit
+[20:156] lman Unlocked CloakingDevice
+[20:162] lman Unlocked SpecOpsCloakingDevice
+[20:261] lman Unlocked AutoTargetingSystem
+[00:588] Juhani Unlocked AssaultRifle
+[00:790] Juhani Unlocked FragGrenade
+[00:824] Juhani Unlocked SpecOpsFragGrenade
+[03:182] Juhani Unlocked AdvancedDroidEngines
+[05:824] Juhani Unlocked TurboDroidEngines
+[06:759] Juhani Unlocked EnergySuit
+[06:760] Juhani Unlocked EnergySuit
+[08:276] Juhani Unlocked Stimpack
+[09:791] Juhani Unlocked HellfireRocketLauncher
+[10:759] Juhani Unlocked EnergyPack
+[11:433] Juhani Unlocked AdvancedEnergySuit
+[11:434] Juhani Unlocked EnergySuit
+[11:434] Juhani Unlocked AdvancedEnergySuit
+[12:930] Juhani Unlocked PowerConverter
+[13:131] Juhani Bought ShieldSuit
+[13:131] Juhani Bought CombatSuit
+[13:131] Juhani Bought HazmatSuit
+[13:131] Juhani Bought CombatSuit
+[13:136] Juhani Bought CombatSuit
+[14:750] Juhani Unlocked SpecOpsHellfireRocketLauncher
+[14:775] Juhani Unlocked RocketLauncherMod1
+[06:760] Security Bought ShieldSuit
+[06:760] Security Bought CombatSuit
+[06:760] Security Bought HazmatSuit
+ProDem First Alpha Hunter |  Win
+
+ProDem Placed 0 Greaters.
+--------------------------------

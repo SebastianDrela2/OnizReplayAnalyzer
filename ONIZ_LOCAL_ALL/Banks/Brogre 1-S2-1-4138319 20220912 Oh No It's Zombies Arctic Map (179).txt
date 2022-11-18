@@ -1,0 +1,23 @@
+Brogre HumanWinsNormal 3
+Brogre ZombieRank 0
+Brogre VespeneHarvested 20440
+Brogre HumansRescued 1
+Brogre SecurityForcesKilled 0
+Brogre ZombiesKilled 3406
+Brogre FuelDiverted 13
+Brogre HumanRank 5
+Brogre NumberOfTimesCaptured 4
+Brogre TurretsBuilt 44
+Brogre ZombieWins 0
+Brogre GamesLeft 3
+Brogre GamesPlayedAsHuman 8
+Brogre GamesPlayedAsZombie 1
+Brogre HumansCaptured 0
+Brogre K/D Ratio 851,5
+Brogre Average Marine Winrate 38%
+Brogre Average Fuel Diverts PerGame 1,62
+Brogre Average Vespene Harvested PerGame 2555
+Brogre Average Zombie Winrate 0%
+Brogre Average Security Kills Per Game 0
+Brogre Average Deaths PerGame 0,5
+Brogre Average Infestation Class Class 1

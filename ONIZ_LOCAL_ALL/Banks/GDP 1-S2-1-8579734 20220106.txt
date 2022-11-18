@@ -1,0 +1,24 @@
+GDP HumanWinsNormal 69
+GDP ZombieRank 15.8325
+GDP VespeneHarvested 423500
+GDP HumansRescued 121
+GDP SecurityForcesKilled 9972
+GDP ZombiesKilled 104480
+GDP FuelDiverted 153
+GDP PlayedRankedMode5.0 1
+GDP HumanRank 5.75
+GDP NumberOfTimesCaptured 326
+GDP TurretsBuilt 510
+GDP ZombieWins 18
+GDP GamesLeft 6
+GDP GamesPlayedAsHuman 157
+GDP GamesPlayedAsZombie 26
+GDP HumansCaptured 257
+GDP K/D Ratio 320,49
+GDP Average Marine Winrate 44%
+GDP Average Fuel Diverts PerGame 0,97
+GDP Average Vespene Harvested PerGame 2697,45
+GDP Average Zombie Winrate 69%
+GDP Average Security Kills Per Game 384
+GDP Average Deaths PerGame 2,08
+GDP Average Infestation Class Class 4

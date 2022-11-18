@@ -1,0 +1,23 @@
+Wuarike HumanWinsNormal 0
+Wuarike ZombieRank 0
+Wuarike VespeneHarvested 1000
+Wuarike HumansRescued 0
+Wuarike SecurityForcesKilled 0
+Wuarike ZombiesKilled 228
+Wuarike FuelDiverted 0
+Wuarike HumanRank 0
+Wuarike NumberOfTimesCaptured 3
+Wuarike TurretsBuilt 0
+Wuarike ZombieWins 0
+Wuarike GamesLeft 1
+Wuarike GamesPlayedAsHuman 2
+Wuarike GamesPlayedAsZombie 0
+Wuarike HumansCaptured 0
+Wuarike K/D Ratio 76
+Wuarike Average Marine Winrate 0%
+Wuarike Average Fuel Diverts PerGame 0
+Wuarike Average Vespene Harvested PerGame 500
+Wuarike Average Zombie Winrate NaN%
+Wuarike Average Security Kills Per Game NaN
+Wuarike Average Deaths PerGame 1,5
+Wuarike Average Infestation Class Class 1

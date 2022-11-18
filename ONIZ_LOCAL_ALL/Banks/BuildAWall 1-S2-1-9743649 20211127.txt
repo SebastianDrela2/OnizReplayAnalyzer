@@ -1,0 +1,23 @@
+BuildAWall HumanWinsNormal 196
+BuildAWall ZombieRank 31
+BuildAWall VespeneHarvested 1163200
+BuildAWall HumansRescued 392
+BuildAWall SecurityForcesKilled 117460
+BuildAWall ZombiesKilled 317944
+BuildAWall FuelDiverted 791
+BuildAWall HumanRank 23.542
+BuildAWall NumberOfTimesCaptured 697
+BuildAWall TurretsBuilt 1986
+BuildAWall ZombieWins 134
+BuildAWall GamesLeft 6
+BuildAWall GamesPlayedAsHuman 424
+BuildAWall GamesPlayedAsZombie 259
+BuildAWall HumansCaptured 2866
+BuildAWall K/D Ratio 456,16
+BuildAWall Average Marine Winrate 46%
+BuildAWall Average Fuel Diverts PerGame 1,87
+BuildAWall Average Vespene Harvested PerGame 2743,4
+BuildAWall Average Zombie Winrate 52%
+BuildAWall Average Security Kills Per Game 454
+BuildAWall Average Deaths PerGame 1,64
+BuildAWall Average Infestation Class Class 5

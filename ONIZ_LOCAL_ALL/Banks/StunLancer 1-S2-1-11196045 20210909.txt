@@ -1,0 +1,23 @@
+StunLancer HumanWinsNormal 85
+StunLancer ZombieRank 12.4995
+StunLancer VespeneHarvested 463400
+StunLancer HumansRescued 138
+StunLancer SecurityForcesKilled 8251
+StunLancer ZombiesKilled 104840
+StunLancer FuelDiverted 416
+StunLancer HumanRank 30
+StunLancer NumberOfTimesCaptured 154
+StunLancer TurretsBuilt 684
+StunLancer ZombieWins 7
+StunLancer GamesLeft 6
+StunLancer GamesPlayedAsHuman 145
+StunLancer GamesPlayedAsZombie 18
+StunLancer HumansCaptured 231
+StunLancer K/D Ratio 680,78
+StunLancer Average Marine Winrate 59%
+StunLancer Average Fuel Diverts PerGame 2,87
+StunLancer Average Vespene Harvested PerGame 3195,86
+StunLancer Average Zombie Winrate 39%
+StunLancer Average Security Kills Per Game 458
+StunLancer Average Deaths PerGame 1,06
+StunLancer Average Infestation Class Class 5

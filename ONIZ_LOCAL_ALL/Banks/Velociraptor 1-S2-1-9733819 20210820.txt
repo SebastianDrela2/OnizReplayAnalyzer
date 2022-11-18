@@ -1,0 +1,27 @@
+Velociraptor HumanWinsNormal 20
+Velociraptor LeftLastGameAsZombie 0
+Velociraptor ZombieRank 0
+Velociraptor PlayedRankedMode 1
+Velociraptor VespeneHarvested 111700
+Velociraptor HumansRescued 26
+Velociraptor SecurityForcesKilled 465
+Velociraptor ZombiesKilled 27746
+Velociraptor FuelDiverted 22
+Velociraptor PlayedRankedMode5.0 1
+Velociraptor HumanRank 3
+Velociraptor NumberOfTimesCaptured 61
+Velociraptor TurretsBuilt 98
+Velociraptor ZombieWins 0
+Velociraptor GamesLeft 2
+Velociraptor GamesPlayedAsHuman 47
+Velociraptor GamesPlayedAsZombie 1
+Velociraptor HumansCaptured 14
+Velociraptor PlayedRankedMode2.0 1
+Velociraptor K/D Ratio 454,85
+Velociraptor Average Marine Winrate 43%
+Velociraptor Average Fuel Diverts PerGame 0,47
+Velociraptor Average Vespene Harvested PerGame 2376,6
+Velociraptor Average Zombie Winrate 0%
+Velociraptor Average Security Kills Per Game 465
+Velociraptor Average Deaths PerGame 1,3
+Velociraptor Average Infestation Class Class 5

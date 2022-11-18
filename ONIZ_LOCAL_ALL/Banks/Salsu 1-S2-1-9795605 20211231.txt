@@ -1,0 +1,23 @@
+Salsu HumanWinsNormal 32
+Salsu ZombieRank 0
+Salsu VespeneHarvested 240380
+Salsu HumansRescued 32
+Salsu SecurityForcesKilled 0
+Salsu ZombiesKilled 41206
+Salsu FuelDiverted 182
+Salsu HumanRank 0
+Salsu NumberOfTimesCaptured 45
+Salsu TurretsBuilt 508
+Salsu ZombieWins 0
+Salsu GamesLeft 6
+Salsu GamesPlayedAsHuman 74
+Salsu GamesPlayedAsZombie 0
+Salsu HumansCaptured 0
+Salsu K/D Ratio 915,69
+Salsu Average Marine Winrate 43%
+Salsu Average Fuel Diverts PerGame 2,46
+Salsu Average Vespene Harvested PerGame 3248,38
+Salsu Average Zombie Winrate NaN%
+Salsu Average Security Kills Per Game NaN
+Salsu Average Deaths PerGame 0,61
+Salsu Average Infestation Class Class 1

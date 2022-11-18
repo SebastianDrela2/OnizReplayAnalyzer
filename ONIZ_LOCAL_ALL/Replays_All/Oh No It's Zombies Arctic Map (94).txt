@@ -1,0 +1,109 @@
+Analyzed: Oh No It's Zombies Arctic Map (94)
+
+ID : 0 PlayerName: SkyJio Race: Terran
+ID : 1 PlayerName: BaoJio Race: Terran
+ID : 2 PlayerName: MarFly Race: Terran
+ID : 3 PlayerName: Wooky Race: Terran
+ID : 4 PlayerName: Salem Race: Zerg
+ID : 5 PlayerName: Frosky Race: Terran
+ID : 6 PlayerName: valkarian Race: Terran
+ID : 7 PlayerName: Security Race: Infested Terran
+Salem Zombie Win
+Private Lobby
+
+Game Length:[14:447]
+Players ammount: 8
+Marine rank avg: 19,833333333333332
+GrandMaster ammount: 5
+PURCHASES: 
+[00:572] SkyJio Unlocked AssaultRifle
+[01:488] SkyJio Placed/Upgraded MiningDroid
+[01:629] SkyJio Unlocked Ares
+[02:499] SkyJio Placed/Upgraded PrototypeAresTankMode
+[07:922] SkyJio Placed/Upgraded PrototypeAresTankMode
+[09:392] SkyJio Unlocked AresMod3
+[10:700] SkyJio Placed/Upgraded PrototypeAresTankMode
+[13:840] SkyJio Unlocked AresMod2
+[00:572] BaoJio Unlocked AssaultRifle
+[00:651] BaoJio Placed/Upgraded MiningDroid
+[00:744] BaoJio Unlocked AdvancedDroidEngines
+[03:759] BaoJio Unlocked SpecOpsAssaultRifle
+[06:520] BaoJio Unlocked AutoTargetingSystem
+[06:569] BaoJio Unlocked BioMechanicalRepairDrone
+[08:482] BaoJio Unlocked FlashBang
+[08:485] BaoJio Unlocked SpecOpsFlashbang
+[08:800] BaoJio Placed/Upgraded HealingDrone
+[12:733] BaoJio Unlocked OverloadWeapon
+[00:572] MarFly Unlocked AssaultRifle
+[00:651] MarFly Placed/Upgraded MiningDroid
+[01:199] MarFly Unlocked FragGrenade
+[03:139] MarFly Unlocked HellfireRocketLauncher
+[04:220] MarFly Unlocked SpecOpsHellfireRocketLauncher
+[08:680] MarFly Placed/Upgraded MiningDroid
+[13:268] MarFly Unlocked SuperStimpack
+[00:572] Wooky Unlocked AssaultRifle
+[00:651] Wooky Placed MiningDroid
+[00:711] Wooky Unlocked AdvancedDroidEngines
+[05:680] Wooky Unlocked SpecOpsAssaultRifle
+[05:701] Wooky Unlocked AutoTargetingSystem
+[07:932] Wooky Unlocked Shieldsiotunlocked
+[08:823] Wooky Unlocked FragGrenade
+[10:269] Wooky Placed MiningDroid
+[10:325] Wooky Unlocked MiningCharge
+[11:476] Wooky Placed NukePack
+[00:568] Salem Bought PlayerNumber
+[00:622] Salem Spawned MassiveCocoon
+[00:846] Salem Placed/Upgraded PrimalSunkenColony
+[00:847] Salem Bought SunkenColony
+[02:062] Salem Spawned InfestedAbomination
+[03:257] Salem Bought SunkenColony
+[03:760] Salem Spawned MassiveCocoon
+[03:985] Salem Placed/Upgraded LocustNest
+[04:354] Salem Placed/Upgraded PrimalSunkenColony
+[04:355] Salem Bought SunkenColony
+[04:804] Salem Placed/Upgraded LocustNest
+[05:200] Salem Spawned InfestedAbomination
+[05:459] Salem Placed/Upgraded LocustNest
+[05:871] Salem Placed/Upgraded PrimalSunkenColony
+[05:872] Salem Bought SunkenColony
+[07:252] Salem Bought SunkenColony
+[07:372] Salem Bought AdvancedInfestationContainment
+[07:581] Salem Bought SunkenColony
+[07:933] Salem Bought ShieldSuit
+[07:933] Salem Bought CombatSuit
+[07:933] Salem Bought HazmatSuit
+[07:933] Salem Bought ShieldSuit
+[08:031] Salem Bought UnlockDropPods
+[08:378] Salem Bought EvolveDropPods
+[08:382] Salem Bought EvolveDropPods
+[09:501] Salem Bought EvolveDropPods
+[09:505] Salem Bought EvolveDropPods
+[09:508] Salem Bought EvolveDropPods
+[09:511] Salem Bought EvolveDropPods
+[10:822] Salem Bought BuildExtractorScienceLabs
+[10:822] Salem Placed/Upgraded AutomatedExtractor
+[11:443] Salem Bought BuildExtractorExcavationZone
+[11:443] Salem Placed/Upgraded AutomatedExtractor
+[13:528] Salem Bought ConstructiveCreep
+[13:579] Salem Placed/Upgraded Virophage
+[13:720] Salem Placed/Upgraded Virophage
+[13:740] Salem Placed/Upgraded Virophage
+[00:572] Frosky Unlocked AssaultRifle
+[00:713] Frosky Placed/Upgraded MiningDroid
+[00:754] Frosky Unlocked Shotgun
+[03:836] Frosky Unlocked ExplorationDroid
+[03:929] Frosky Placed/Upgraded ExplorationDroid
+[03:938] Frosky Placed/Upgraded ExplorationDroid
+[05:590] Frosky Unlocked Flamethrower
+[06:860] Frosky Placed/Upgraded ExplorationDroid
+[06:943] Frosky Placed/Upgraded ExplorationDroid
+[11:737] Frosky Unlocked SpecOpsShotgun
+[00:572] valkarian Unlocked AssaultRifle
+[00:839] valkarian Unlocked AdvancedDroidEngines
+[03:407] valkarian Unlocked Ares
+[08:727] valkarian Unlocked SpecOpsAres
+[13:094] valkarian Unlocked AresMod2
+Salem First Alpha InfestedAbomination |  Win
+
+Salem Placed 0 Greaters.
+--------------------------------

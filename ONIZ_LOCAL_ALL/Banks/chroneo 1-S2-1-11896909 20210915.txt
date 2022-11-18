@@ -1,0 +1,23 @@
+chroneo HumanWinsNormal 15
+chroneo ZombieRank 9
+chroneo VespeneHarvested 138400
+chroneo HumansRescued 45
+chroneo SecurityForcesKilled 2060
+chroneo ZombiesKilled 22816
+chroneo FuelDiverted 62
+chroneo HumanRank 1.5
+chroneo NumberOfTimesCaptured 188
+chroneo TurretsBuilt 42
+chroneo ZombieWins 3
+chroneo GamesLeft 6
+chroneo GamesPlayedAsHuman 71
+chroneo GamesPlayedAsZombie 5
+chroneo HumansCaptured 8
+chroneo K/D Ratio 121,36
+chroneo Average Marine Winrate 21%
+chroneo Average Fuel Diverts PerGame 0,87
+chroneo Average Vespene Harvested PerGame 1949,3
+chroneo Average Zombie Winrate 60%
+chroneo Average Security Kills Per Game 412
+chroneo Average Deaths PerGame 2,65
+chroneo Average Infestation Class Class 5

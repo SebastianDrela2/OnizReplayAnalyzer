@@ -1,0 +1,25 @@
+SilverWolf HumanWinsNormal 318
+SilverWolf LeftLastGameAsZombie 0
+SilverWolf ZombieRank 2.8332
+SilverWolf VespeneHarvested 2215900
+SilverWolf HumansRescued 682
+SilverWolf SecurityForcesKilled 1737
+SilverWolf ZombiesKilled 461327
+SilverWolf FuelDiverted 1529
+SilverWolf PlayedRankedMode5.0 1
+SilverWolf HumanRank 25.292
+SilverWolf NumberOfTimesCaptured 1386
+SilverWolf TurretsBuilt 5863
+SilverWolf ZombieWins 1
+SilverWolf GamesLeft 4
+SilverWolf GamesPlayedAsHuman 610
+SilverWolf GamesPlayedAsZombie 6
+SilverWolf HumansCaptured 34
+SilverWolf K/D Ratio 332,85
+SilverWolf Average Marine Winrate 52%
+SilverWolf Average Fuel Diverts PerGame 2,51
+SilverWolf Average Vespene Harvested PerGame 3632,62
+SilverWolf Average Zombie Winrate 17%
+SilverWolf Average Security Kills Per Game 290
+SilverWolf Average Deaths PerGame 2,27
+SilverWolf Average Infestation Class Class 3

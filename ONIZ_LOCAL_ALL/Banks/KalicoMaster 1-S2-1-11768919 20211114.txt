@@ -1,0 +1,23 @@
+KalicoMaster HumanWinsNormal 0
+KalicoMaster ZombieRank 0
+KalicoMaster VespeneHarvested 1100
+KalicoMaster HumansRescued 0
+KalicoMaster SecurityForcesKilled 0
+KalicoMaster ZombiesKilled 142
+KalicoMaster FuelDiverted 1
+KalicoMaster HumanRank 0
+KalicoMaster NumberOfTimesCaptured 4
+KalicoMaster TurretsBuilt 0
+KalicoMaster ZombieWins 0
+KalicoMaster GamesLeft 0
+KalicoMaster GamesPlayedAsHuman 2
+KalicoMaster GamesPlayedAsZombie 0
+KalicoMaster HumansCaptured 0
+KalicoMaster K/D Ratio 35,5
+KalicoMaster Average Marine Winrate 0%
+KalicoMaster Average Fuel Diverts PerGame 0,5
+KalicoMaster Average Vespene Harvested PerGame 550
+KalicoMaster Average Zombie Winrate NaN%
+KalicoMaster Average Security Kills Per Game NaN
+KalicoMaster Average Deaths PerGame 2
+KalicoMaster Average Infestation Class Class 1

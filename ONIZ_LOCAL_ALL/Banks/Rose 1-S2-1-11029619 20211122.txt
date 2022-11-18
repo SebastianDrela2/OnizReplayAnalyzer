@@ -1,0 +1,23 @@
+Rose HumanWinsNormal 2
+Rose ZombieRank 0
+Rose VespeneHarvested 6400
+Rose HumansRescued 3
+Rose SecurityForcesKilled 0
+Rose ZombiesKilled 1774
+Rose FuelDiverted 1
+Rose HumanRank 1
+Rose NumberOfTimesCaptured 9
+Rose TurretsBuilt 4
+Rose ZombieWins 0
+Rose GamesLeft 0
+Rose GamesPlayedAsHuman 4
+Rose GamesPlayedAsZombie 0
+Rose HumansCaptured 0
+Rose K/D Ratio 197,11
+Rose Average Marine Winrate 50%
+Rose Average Fuel Diverts PerGame 0,25
+Rose Average Vespene Harvested PerGame 1600
+Rose Average Zombie Winrate NaN%
+Rose Average Security Kills Per Game NaN
+Rose Average Deaths PerGame 2,25
+Rose Average Infestation Class Class 1

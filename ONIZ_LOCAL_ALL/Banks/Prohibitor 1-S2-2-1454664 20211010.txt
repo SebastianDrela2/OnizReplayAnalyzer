@@ -1,0 +1,23 @@
+Prohibitor HumanWinsNormal 19
+Prohibitor ZombieRank 0
+Prohibitor VespeneHarvested 118100
+Prohibitor HumansRescued 44
+Prohibitor SecurityForcesKilled 0
+Prohibitor ZombiesKilled 36504
+Prohibitor FuelDiverted 6
+Prohibitor HumanRank 3.5
+Prohibitor NumberOfTimesCaptured 113
+Prohibitor TurretsBuilt 97
+Prohibitor ZombieWins 0
+Prohibitor GamesLeft 2
+Prohibitor GamesPlayedAsHuman 55
+Prohibitor GamesPlayedAsZombie 0
+Prohibitor HumansCaptured 0
+Prohibitor K/D Ratio 323,04
+Prohibitor Average Marine Winrate 35%
+Prohibitor Average Fuel Diverts PerGame 0,11
+Prohibitor Average Vespene Harvested PerGame 2147,27
+Prohibitor Average Zombie Winrate NaN%
+Prohibitor Average Security Kills Per Game NaN
+Prohibitor Average Deaths PerGame 2,05
+Prohibitor Average Infestation Class Class 1

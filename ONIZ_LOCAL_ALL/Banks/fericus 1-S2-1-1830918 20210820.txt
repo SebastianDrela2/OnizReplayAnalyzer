@@ -1,0 +1,23 @@
+fericus HumanWinsNormal 0
+fericus ZombieRank 0
+fericus VespeneHarvested 1700
+fericus HumansRescued 0
+fericus SecurityForcesKilled 0
+fericus ZombiesKilled 512
+fericus FuelDiverted 0
+fericus HumanRank 0
+fericus NumberOfTimesCaptured 6
+fericus TurretsBuilt 0
+fericus ZombieWins 0
+fericus GamesLeft 0
+fericus GamesPlayedAsHuman 1
+fericus GamesPlayedAsZombie 0
+fericus HumansCaptured 0
+fericus K/D Ratio 85,33
+fericus Average Marine Winrate 0%
+fericus Average Fuel Diverts PerGame 0
+fericus Average Vespene Harvested PerGame 1700
+fericus Average Zombie Winrate NaN%
+fericus Average Security Kills Per Game NaN
+fericus Average Deaths PerGame 6
+fericus Average Infestation Class Class 1

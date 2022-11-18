@@ -1,0 +1,23 @@
+QAI HumanWinsNormal 6
+QAI ZombieRank 0
+QAI VespeneHarvested 14200
+QAI HumansRescued 4
+QAI SecurityForcesKilled 0
+QAI ZombiesKilled 4041
+QAI FuelDiverted 26
+QAI HumanRank 7
+QAI NumberOfTimesCaptured 12
+QAI TurretsBuilt 8
+QAI ZombieWins 0
+QAI GamesLeft 1
+QAI GamesPlayedAsHuman 12
+QAI GamesPlayedAsZombie 0
+QAI HumansCaptured 0
+QAI K/D Ratio 336,75
+QAI Average Marine Winrate 50%
+QAI Average Fuel Diverts PerGame 2,17
+QAI Average Vespene Harvested PerGame 1183,33
+QAI Average Zombie Winrate NaN%
+QAI Average Security Kills Per Game NaN
+QAI Average Deaths PerGame 1
+QAI Average Infestation Class Class 1

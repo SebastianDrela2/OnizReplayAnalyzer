@@ -1,0 +1,24 @@
+krazeyo HumanWinsNormal 264
+krazeyo ZombieRank 31
+krazeyo VespeneHarvested 1769800
+krazeyo HumansRescued 321
+krazeyo SecurityForcesKilled 126005
+krazeyo ZombiesKilled 273223
+krazeyo FuelDiverted 1855
+krazeyo PlayedRankedMode5.0 1
+krazeyo HumanRank 31
+krazeyo NumberOfTimesCaptured 544
+krazeyo TurretsBuilt 2472
+krazeyo ZombieWins 190
+krazeyo GamesLeft 10
+krazeyo GamesPlayedAsHuman 429
+krazeyo GamesPlayedAsZombie 271
+krazeyo HumansCaptured 3113
+krazeyo K/D Ratio 502,25
+krazeyo Average Marine Winrate 62%
+krazeyo Average Fuel Diverts PerGame 4,32
+krazeyo Average Vespene Harvested PerGame 4125,41
+krazeyo Average Zombie Winrate 70%
+krazeyo Average Security Kills Per Game 465
+krazeyo Average Deaths PerGame 1,27
+krazeyo Average Infestation Class Class 5

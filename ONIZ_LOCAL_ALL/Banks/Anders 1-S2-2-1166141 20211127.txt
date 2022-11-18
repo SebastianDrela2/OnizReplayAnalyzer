@@ -1,0 +1,22 @@
+Anders HumanWinsNormal 0
+Anders LeftLastGameAsZombie 0
+Anders VespeneHarvested 0
+Anders HumansRescued 0
+Anders SecurityForcesKilled 1069
+Anders ZombiesKilled 0
+Anders FuelDiverted 0
+Anders NumberOfTimesCaptured 0
+Anders TurretsBuilt 0
+Anders ZombieWins 3
+Anders GamesLeft 1
+Anders GamesPlayedAsHuman 1
+Anders GamesPlayedAsZombie 3
+Anders HumansCaptured 0
+Anders K/D Ratio NaN
+Anders Average Marine Winrate 0%
+Anders Average Fuel Diverts PerGame 0
+Anders Average Vespene Harvested PerGame 0
+Anders Average Zombie Winrate 100%
+Anders Average Security Kills Per Game 356
+Anders Average Deaths PerGame 0
+Anders Average Infestation Class Class 4

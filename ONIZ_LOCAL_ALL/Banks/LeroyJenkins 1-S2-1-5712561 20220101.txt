@@ -1,0 +1,24 @@
+LeroyJenkins HumanWinsNormal 60
+LeroyJenkins ZombieRank 0
+LeroyJenkins VespeneHarvested 420300
+LeroyJenkins HumansRescued 85
+LeroyJenkins SecurityForcesKilled 44191
+LeroyJenkins ZombiesKilled 74968
+LeroyJenkins FuelDiverted 70
+LeroyJenkins PlayedRankedMode5.0 1
+LeroyJenkins HumanRank 0
+LeroyJenkins NumberOfTimesCaptured 313
+LeroyJenkins TurretsBuilt 736
+LeroyJenkins ZombieWins 38
+LeroyJenkins GamesLeft 5
+LeroyJenkins GamesPlayedAsHuman 147
+LeroyJenkins GamesPlayedAsZombie 98
+LeroyJenkins HumansCaptured 931
+LeroyJenkins K/D Ratio 239,51
+LeroyJenkins Average Marine Winrate 41%
+LeroyJenkins Average Fuel Diverts PerGame 0,48
+LeroyJenkins Average Vespene Harvested PerGame 2859,18
+LeroyJenkins Average Zombie Winrate 39%
+LeroyJenkins Average Security Kills Per Game 451
+LeroyJenkins Average Deaths PerGame 2,13
+LeroyJenkins Average Infestation Class Class 5

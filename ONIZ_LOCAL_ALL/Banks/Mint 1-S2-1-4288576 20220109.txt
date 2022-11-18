@@ -1,0 +1,24 @@
+Mint HumanWinsNormal 98
+Mint ZombieRank 0
+Mint VespeneHarvested 583200
+Mint HumansRescued 150
+Mint SecurityForcesKilled 0
+Mint ZombiesKilled 122476
+Mint FuelDiverted 1166
+Mint PlayedRankedMode5.0 1
+Mint HumanRank 20.5
+Mint NumberOfTimesCaptured 373
+Mint TurretsBuilt 537
+Mint ZombieWins 0
+Mint GamesLeft 8
+Mint GamesPlayedAsHuman 200
+Mint GamesPlayedAsZombie 1
+Mint HumansCaptured 0
+Mint K/D Ratio 328,35
+Mint Average Marine Winrate 49%
+Mint Average Fuel Diverts PerGame 5,83
+Mint Average Vespene Harvested PerGame 2916
+Mint Average Zombie Winrate 0%
+Mint Average Security Kills Per Game 0
+Mint Average Deaths PerGame 1,86
+Mint Average Infestation Class Class 1

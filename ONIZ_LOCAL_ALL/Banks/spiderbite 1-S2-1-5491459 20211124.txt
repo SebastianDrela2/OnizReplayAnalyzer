@@ -1,0 +1,24 @@
+spiderbite HumanWinsNormal 1
+spiderbite ZombieRank 0
+spiderbite VespeneHarvested 17200
+spiderbite HumansRescued 3
+spiderbite SecurityForcesKilled 445
+spiderbite ZombiesKilled 3449
+spiderbite FuelDiverted 23
+spiderbite PlayedRankedMode5.0 1
+spiderbite HumanRank 0
+spiderbite NumberOfTimesCaptured 6
+spiderbite TurretsBuilt 38
+spiderbite ZombieWins 1
+spiderbite GamesLeft 2
+spiderbite GamesPlayedAsHuman 8
+spiderbite GamesPlayedAsZombie 1
+spiderbite HumansCaptured 0
+spiderbite K/D Ratio 574,83
+spiderbite Average Marine Winrate 12%
+spiderbite Average Fuel Diverts PerGame 2,88
+spiderbite Average Vespene Harvested PerGame 2150
+spiderbite Average Zombie Winrate 100%
+spiderbite Average Security Kills Per Game 445
+spiderbite Average Deaths PerGame 0,75
+spiderbite Average Infestation Class Class 5

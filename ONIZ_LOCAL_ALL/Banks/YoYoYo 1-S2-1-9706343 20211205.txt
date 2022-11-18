@@ -1,0 +1,23 @@
+YoYoYo HumanWinsNormal 28
+YoYoYo ZombieRank 4.5
+YoYoYo VespeneHarvested 137700
+YoYoYo HumansRescued 20
+YoYoYo SecurityForcesKilled 3433
+YoYoYo ZombiesKilled 26290
+YoYoYo FuelDiverted 98
+YoYoYo HumanRank 5.5
+YoYoYo NumberOfTimesCaptured 61
+YoYoYo TurretsBuilt 131
+YoYoYo ZombieWins 3
+YoYoYo GamesLeft 7
+YoYoYo GamesPlayedAsHuman 58
+YoYoYo GamesPlayedAsZombie 9
+YoYoYo HumansCaptured 88
+YoYoYo K/D Ratio 430,98
+YoYoYo Average Marine Winrate 48%
+YoYoYo Average Fuel Diverts PerGame 1,69
+YoYoYo Average Vespene Harvested PerGame 2374,14
+YoYoYo Average Zombie Winrate 33%
+YoYoYo Average Security Kills Per Game 381
+YoYoYo Average Deaths PerGame 1,05
+YoYoYo Average Infestation Class Class 4

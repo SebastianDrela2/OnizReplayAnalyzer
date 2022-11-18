@@ -1,0 +1,23 @@
+CarLawyer HumanWinsNormal 217
+CarLawyer ZombieRank 28.333
+CarLawyer VespeneHarvested 1037100
+CarLawyer HumansRescued 425
+CarLawyer SecurityForcesKilled 107178
+CarLawyer ZombiesKilled 236723
+CarLawyer FuelDiverted 1887
+CarLawyer HumanRank 30
+CarLawyer NumberOfTimesCaptured 960
+CarLawyer TurretsBuilt 2137
+CarLawyer ZombieWins 155
+CarLawyer GamesLeft 24
+CarLawyer GamesPlayedAsHuman 450
+CarLawyer GamesPlayedAsZombie 264
+CarLawyer HumansCaptured 2651
+CarLawyer K/D Ratio 246,59
+CarLawyer Average Marine Winrate 48%
+CarLawyer Average Fuel Diverts PerGame 4,19
+CarLawyer Average Vespene Harvested PerGame 2304,67
+CarLawyer Average Zombie Winrate 59%
+CarLawyer Average Security Kills Per Game 406
+CarLawyer Average Deaths PerGame 2,13
+CarLawyer Average Infestation Class Class 4

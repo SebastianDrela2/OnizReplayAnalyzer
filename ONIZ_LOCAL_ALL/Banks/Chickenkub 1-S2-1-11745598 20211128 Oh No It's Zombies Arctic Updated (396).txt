@@ -1,0 +1,23 @@
+Chickenkub HumanWinsNormal 1
+Chickenkub ZombieRank 0
+Chickenkub VespeneHarvested 10100
+Chickenkub HumansRescued 8
+Chickenkub SecurityForcesKilled 279
+Chickenkub ZombiesKilled 4518
+Chickenkub FuelDiverted 2
+Chickenkub HumanRank 1
+Chickenkub NumberOfTimesCaptured 14
+Chickenkub TurretsBuilt 52
+Chickenkub ZombieWins 0
+Chickenkub GamesLeft 7
+Chickenkub GamesPlayedAsHuman 16
+Chickenkub GamesPlayedAsZombie 1
+Chickenkub HumansCaptured 4
+Chickenkub K/D Ratio 322,71
+Chickenkub Average Marine Winrate 6%
+Chickenkub Average Fuel Diverts PerGame 0,12
+Chickenkub Average Vespene Harvested PerGame 631,25
+Chickenkub Average Zombie Winrate 0%
+Chickenkub Average Security Kills Per Game 279
+Chickenkub Average Deaths PerGame 0,88
+Chickenkub Average Infestation Class Class 3

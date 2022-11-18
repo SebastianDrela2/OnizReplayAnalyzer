@@ -1,0 +1,23 @@
+Lughar HumanWinsNormal 26
+Lughar ZombieRank 0
+Lughar VespeneHarvested 231700
+Lughar HumansRescued 41
+Lughar SecurityForcesKilled 300
+Lughar ZombiesKilled 38133
+Lughar FuelDiverted 0
+Lughar HumanRank 0
+Lughar NumberOfTimesCaptured 257
+Lughar TurretsBuilt 309
+Lughar ZombieWins 0
+Lughar GamesLeft 49
+Lughar GamesPlayedAsHuman 143
+Lughar GamesPlayedAsZombie 2
+Lughar HumansCaptured 7
+Lughar K/D Ratio 148,38
+Lughar Average Marine Winrate 18%
+Lughar Average Fuel Diverts PerGame 0
+Lughar Average Vespene Harvested PerGame 1620,28
+Lughar Average Zombie Winrate 0%
+Lughar Average Security Kills Per Game 150
+Lughar Average Deaths PerGame 1,8
+Lughar Average Infestation Class Class 2

@@ -1,0 +1,23 @@
+MrLoaf HumanWinsNormal 27
+MrLoaf ZombieRank 13.166
+MrLoaf VespeneHarvested 192200
+MrLoaf HumansRescued 52
+MrLoaf SecurityForcesKilled 13167
+MrLoaf ZombiesKilled 49739
+MrLoaf FuelDiverted 83
+MrLoaf HumanRank 4.5834
+MrLoaf NumberOfTimesCaptured 86
+MrLoaf TurretsBuilt 434
+MrLoaf ZombieWins 14
+MrLoaf GamesLeft 2
+MrLoaf GamesPlayedAsHuman 59
+MrLoaf GamesPlayedAsZombie 26
+MrLoaf HumansCaptured 329
+MrLoaf K/D Ratio 578,36
+MrLoaf Average Marine Winrate 46%
+MrLoaf Average Fuel Diverts PerGame 1,41
+MrLoaf Average Vespene Harvested PerGame 3257,63
+MrLoaf Average Zombie Winrate 54%
+MrLoaf Average Security Kills Per Game 506
+MrLoaf Average Deaths PerGame 1,46
+MrLoaf Average Infestation Class Class 5

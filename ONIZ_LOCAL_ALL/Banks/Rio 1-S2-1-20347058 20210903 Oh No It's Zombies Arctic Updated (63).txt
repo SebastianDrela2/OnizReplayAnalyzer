@@ -1,0 +1,23 @@
+Rio HumanWinsNormal 3
+Rio ZombieRank 0
+Rio VespeneHarvested 17300
+Rio HumansRescued 1
+Rio SecurityForcesKilled 401
+Rio ZombiesKilled 3432
+Rio FuelDiverted 4
+Rio HumanRank 4
+Rio NumberOfTimesCaptured 15
+Rio TurretsBuilt 15
+Rio ZombieWins 0
+Rio GamesLeft 1
+Rio GamesPlayedAsHuman 8
+Rio GamesPlayedAsZombie 1
+Rio HumansCaptured 11
+Happypanda K/D Ratio 228,8
+Happypanda Average Marine Winrate 38%
+Happypanda Average Fuel Diverts PerGame 0,5
+Happypanda Average Vespene Harvested PerGame 2162,5
+Happypanda Average Zombie Winrate 0%
+Happypanda Average Security Kills Per Game 401
+Happypanda Average Deaths PerGame 1,88
+Happypanda Average Infestation Class Class 4

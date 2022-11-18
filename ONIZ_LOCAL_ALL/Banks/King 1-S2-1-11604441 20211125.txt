@@ -1,0 +1,24 @@
+King HumanWinsNormal 209
+King ZombieRank 0
+King VespeneHarvested 1257400
+King HumansRescued 210
+King SecurityForcesKilled 26126
+King ZombiesKilled 337872
+King FuelDiverted 749
+King PlayedRankedMode5.0 1
+King HumanRank 13.5
+King NumberOfTimesCaptured 723
+King TurretsBuilt 5681
+King ZombieWins 29
+King GamesLeft 10
+King GamesPlayedAsHuman 388
+King GamesPlayedAsZombie 63
+King HumansCaptured 525
+King K/D Ratio 467,32
+King Average Marine Winrate 54%
+King Average Fuel Diverts PerGame 1,93
+King Average Vespene Harvested PerGame 3240,72
+King Average Zombie Winrate 46%
+King Average Security Kills Per Game 415
+King Average Deaths PerGame 1,86
+King Average Infestation Class Class 5

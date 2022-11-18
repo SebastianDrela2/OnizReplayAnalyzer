@@ -1,0 +1,23 @@
+Fireform HumanWinsNormal 5
+Fireform ZombieRank 12
+Fireform VespeneHarvested 33500
+Fireform HumansRescued 11
+Fireform SecurityForcesKilled 3039
+Fireform ZombiesKilled 10057
+Fireform FuelDiverted 54
+Fireform HumanRank 3
+Fireform NumberOfTimesCaptured 18
+Fireform TurretsBuilt 124
+Fireform ZombieWins 4
+Fireform GamesLeft 0
+Fireform GamesPlayedAsHuman 16
+Fireform GamesPlayedAsZombie 6
+Fireform HumansCaptured 66
+Fireform K/D Ratio 558,72
+Fireform Average Marine Winrate 31%
+Fireform Average Fuel Diverts PerGame 3,38
+Fireform Average Vespene Harvested PerGame 2093,75
+Fireform Average Zombie Winrate 67%
+Fireform Average Security Kills Per Game 506
+Fireform Average Deaths PerGame 1,12
+Fireform Average Infestation Class Class 5

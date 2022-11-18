@@ -1,0 +1,23 @@
+BarcodesOP HumanWinsNormal 15
+BarcodesOP ZombieRank 0
+BarcodesOP VespeneHarvested 70300
+BarcodesOP HumansRescued 22
+BarcodesOP SecurityForcesKilled 0
+BarcodesOP ZombiesKilled 16746
+BarcodesOP FuelDiverted 127
+BarcodesOP HumanRank 7.5
+BarcodesOP NumberOfTimesCaptured 32
+BarcodesOP TurretsBuilt 82
+BarcodesOP ZombieWins 0
+BarcodesOP GamesLeft 1
+BarcodesOP GamesPlayedAsHuman 28
+BarcodesOP GamesPlayedAsZombie 1
+BarcodesOP HumansCaptured 0
+BarcodesOP K/D Ratio 523,31
+BarcodesOP Average Marine Winrate 54%
+BarcodesOP Average Fuel Diverts PerGame 4,54
+BarcodesOP Average Vespene Harvested PerGame 2510,71
+BarcodesOP Average Zombie Winrate 0%
+BarcodesOP Average Security Kills Per Game 0
+BarcodesOP Average Deaths PerGame 1,14
+BarcodesOP Average Infestation Class Class 1

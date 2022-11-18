@@ -1,0 +1,190 @@
+Analyzed: Oh No It's Zombies Arctic Updated (301)
+
+ID : 0 PlayerName: Frosky Race: Zerg
+ID : 1 PlayerName: Aywel Race: Terran
+ID : 2 PlayerName: QurIzE Race: Terran
+ID : 3 PlayerName: Nami Race: Terran
+ID : 4 PlayerName: WorldsPlague Race: Terran
+ID : 5 PlayerName: Paiemon Race: Terran
+ID : 6 PlayerName: DoozyBanana Race: Terran
+ID : 7 PlayerName: Security Race: Terran
+Frosky Zombie Win
+Public Lobby
+
+Game Length:[37:064]
+Players ammount: 8
+Marine rank avg: 4
+GrandMaster ammount: 1
+PURCHASES: 
+[00:998] Frosky Spawned MassiveCocoon
+[02:438] Frosky Spawned Hunter
+[05:443] Frosky Spawned MassiveCocoon
+[06:112] Frosky Bought CreepSpeed
+[06:883] Frosky Spawned InfestedAbomination
+[08:924] Frosky Placed/Upgraded ToxicNest
+[08:931] Frosky Placed/Upgraded ToxicNest
+[09:657] Frosky Placed/Upgraded ToxicNest
+[09:660] Frosky Placed/Upgraded ToxicNest
+[10:670] Frosky Bought VirulentCreep
+[13:635] Frosky Bought CreepSpeed
+[16:200] Frosky Bought UnlockDropPods
+[16:207] Frosky Bought EvolveDropPods
+[16:210] Frosky Bought EvolveDropPods
+[17:640] Frosky Bought EvolveDropPods
+[17:642] Frosky Bought EvolveDropPods
+[18:947] Frosky Bought AdvancedInfestationContainment
+[20:609] Frosky Placed/Upgraded Virophage
+[21:909] Frosky Bought EvolveDropPods
+[21:912] Frosky Bought EvolveDropPods
+[22:246] Frosky Placed/Upgraded NydusCanalCreeper
+[24:074] Frosky Bought StrainVolatile
+[25:161] Frosky Bought PureStrainVolatile
+[26:039] Frosky Bought StrainSpeed
+[26:377] Frosky Bought AdvancedPowerInfestation
+[26:702] Frosky Placed/Upgraded Virophage
+[27:208] Frosky Bought SiphonFuel
+[27:916] Frosky Bought PureStrainSpeed
+[28:345] Frosky Placed/Upgraded Virophage
+[29:031] Frosky Bought StrainSpeed
+[29:557] Frosky Bought PureStrainSpeed
+[29:816] Frosky Bought HunterlingStrain
+[30:402] Frosky Bought SiphonFuel
+[31:017] Frosky Placed/Upgraded NydusCanalCreeper
+[32:335] Frosky Placed/Upgraded NydusCanalCreeper
+[32:454] Frosky Bought HunterlingStrain
+[32:556] Frosky Spawned MassiveCocoon
+[33:166] Frosky Bought DropshipsFueled
+[33:291] Frosky Bought UltimateInfestationResearched
+[33:328] Frosky Bought StrainSpeed
+[33:354] Frosky Bought SpawnNydusWorm
+[33:379] Frosky Bought PureStrainSpeed
+[33:391] Frosky Bought HunterlingStrain
+[34:064] Frosky Bought StrainSpeed
+[35:237] Frosky Placed/Upgraded NydusCanalCreeper
+[35:712] Frosky Placed/Upgraded GreaterNydusWorm
+[00:588] Aywel Unlocked AssaultRifle
+[00:668] Aywel Placed/Upgraded MiningDroid
+[00:896] Aywel Unlocked FlashBang
+[00:993] Aywel Unlocked SpecOpsFlashbang
+[03:237] Aywel Unlocked EnergyPack
+[06:455] Aywel Unlocked BioMechanicalRepairDrone
+[06:604] Aywel Unlocked HellfireRocketLauncher
+[07:336] Aywel Placed/Upgraded MiningDroid
+[08:915] Aywel Unlocked SpecOpsHellfireRocketLauncher
+[13:264] Aywel Placed/Upgraded HealingDrone
+[13:502] Aywel Placed/Upgraded HealingDrone
+[15:353] Aywel Unlocked Teleporter
+[16:783] Aywel Placed/Upgraded HealingDrone
+[16:891] Aywel Unlocked SpecOpsBioMechanicalRepairDrone
+[18:314] Aywel Placed/Upgraded HealingDrone
+[24:611] Aywel Placed/Upgraded HealingDrone
+[24:984] Aywel Placed/Upgraded HealingDrone
+[27:168] Aywel Placed/Upgraded HealingDrone
+[33:311] Aywel Placed/Upgraded HealingDrone
+[35:752] Aywel Placed/Upgraded HealingDrone
+[00:588] QurIzE Unlocked AssaultRifle
+[00:680] QurIzE Placed/Upgraded MiningDroid
+[03:143] QurIzE Unlocked AIAssistant
+[03:152] QurIzE Unlocked MedicShield
+[05:468] QurIzE Unlocked HellfireRocketLauncher
+[05:484] QurIzE Unlocked SpecOpsHellfireRocketLauncher
+[05:570] QurIzE Unlocked ShockwaveMissiles
+[06:254] QurIzE Unlocked Stimpack
+[09:504] QurIzE Unlocked BioMechanicalRepairDrone
+[09:555] QurIzE Unlocked SpecOpsBioMechanicalRepairDrone
+[09:575] QurIzE Unlocked RechargeDrone
+[09:801] QurIzE Placed/Upgraded HealingDrone
+[10:003] QurIzE Placed/Upgraded HealingDrone
+[10:287] QurIzE Unlocked AutoTurret
+[10:307] QurIzE Unlocked SpecOpsTurret
+[10:594] QurIzE Placed/Upgraded AutoTurret
+[11:443] QurIzE Placed/Upgraded AutoTurret
+[12:185] QurIzE Placed/Upgraded AutoTurret
+[12:504] QurIzE Placed/Upgraded AutoTurret
+[12:780] QurIzE Placed/Upgraded HealingDrone
+[13:079] QurIzE Placed/Upgraded HealingDrone
+[13:631] QurIzE Placed/Upgraded HealingDrone
+[14:174] QurIzE Placed/Upgraded AutoTurret
+[16:637] QurIzE Placed/Upgraded AutoTurret
+[16:839] QurIzE Placed/Upgraded AutoTurret
+[17:027] QurIzE Placed/Upgraded AutoTurret
+[17:401] QurIzE Placed/Upgraded HealingDrone
+[17:594] QurIzE Placed/Upgraded HealingDrone
+[18:509] QurIzE Placed/Upgraded HealingDrone
+[19:131] QurIzE Unlocked Shieldsiotunlocked
+[19:132] QurIzE Unlocked ShieldSuit
+[19:132] QurIzE Unlocked AdvancedShieldSuit
+[19:132] QurIzE Unlocked CombatSuit
+[19:132] QurIzE Unlocked AdvancedCombatSuit
+[19:132] QurIzE Unlocked HazmatSuit
+[19:132] QurIzE Unlocked AdvancedHazmatSuit
+[19:132] QurIzE Unlocked ShieldSuit
+[22:026] QurIzE Unlocked SuperStimpack
+[25:322] QurIzE Placed/Upgraded AutoTurret
+[26:255] QurIzE Placed/Upgraded AutoTurret
+[27:392] QurIzE Placed/Upgraded AutoTurret
+[29:253] QurIzE Placed/Upgraded HealingDrone
+[30:161] QurIzE Placed/Upgraded HealingDrone
+[30:523] QurIzE Placed/Upgraded AutoTurret
+[00:588] Nami Unlocked AssaultRifle
+[00:726] Nami Unlocked Shotgun
+[00:784] Nami Placed/Upgraded MiningDroid
+[03:384] Nami Unlocked SpecOpsShotgun
+[05:351] Nami Unlocked AdvancedDroidEngines
+[05:367] Nami Unlocked TurboDroidEngines
+[08:105] Nami Unlocked HighPrecisionBeams
+[12:585] Nami Unlocked AutoTurret
+[12:602] Nami Unlocked BioMechanicalRepairDrone
+[12:756] Nami Unlocked HeavyTurret
+[12:867] Nami Placed/Upgraded AutoTurret
+[13:325] Nami Unlocked SpecOpsBioMechanicalRepairDrone
+[13:400] Nami Placed/Upgraded MiningDroid
+[15:108] Nami Unlocked OverloadWeapon
+[18:378] Nami Unlocked Stimpack
+[18:479] Nami Unlocked MedicShield
+[20:368] Nami Unlocked PsiDisrupter
+[22:392] Nami Unlocked MiningCharge
+[27:834] Nami Unlocked HazmatSuit
+[27:835] Nami Unlocked ShieldSuit
+[27:835] Nami Unlocked AdvancedShieldSuit
+[27:835] Nami Unlocked CombatSuit
+[27:835] Nami Unlocked AdvancedCombatSuit
+[27:835] Nami Unlocked HazmatSuit
+[27:835] Nami Unlocked AdvancedHazmatSuit
+[27:835] Nami Unlocked HazmatSuit
+[28:635] Nami Unlocked AdvancedMiningCharge
+[29:047] Nami Placed/Upgraded PsiIndoctrinator
+[00:588] WorldsPlague Unlocked AssaultRifle
+[00:768] WorldsPlague Placed/Upgraded MiningDroid
+[01:089] WorldsPlague Unlocked AutoTurret
+[01:402] WorldsPlague Placed/Upgraded AutoTurret
+[01:587] WorldsPlague Placed/Upgraded AutoTurret
+[04:698] WorldsPlague Placed/Upgraded AutoTurret
+[04:903] WorldsPlague Placed/Upgraded AutoTurret
+[05:164] WorldsPlague Placed/Upgraded AutoTurret
+[06:134] WorldsPlague Unlocked AdvancedDroidEngines
+[06:226] WorldsPlague Placed/Upgraded AutoTurret
+[07:236] WorldsPlague Placed/Upgraded MiningDroid
+[08:789] WorldsPlague Unlocked PsiDisrupter
+[10:394] WorldsPlague Placed/Upgraded PsiIndoctrinator
+[11:210] WorldsPlague Placed/Upgraded PsiIndoctrinator
+[11:375] WorldsPlague Unlocked BeamRifle
+[11:768] WorldsPlague Unlocked FlameTurret
+[11:780] WorldsPlague Unlocked HeavyTurret
+[14:394] WorldsPlague Placed/Upgraded AutoTurret
+[14:626] WorldsPlague Unlocked SpecOpsPsiDisruptor
+[14:769] WorldsPlague Placed/Upgraded PsiIndoctrinator
+[15:249] WorldsPlague Unlocked DefensiveMatrix
+[15:466] WorldsPlague Placed/Upgraded AutoTurret
+[15:861] WorldsPlague Unlocked SpecOpsTurret
+[15:918] WorldsPlague Placed/Upgraded AutoTurret
+[16:592] WorldsPlague Placed/Upgraded AutoTurret
+[20:418] WorldsPlague Placed/Upgraded PsiIndoctrinator
+[00:588] Paiemon Unlocked AssaultRifle
+[00:861] Paiemon Placed/Upgraded MiningDroid
+[01:147] Paiemon Unlocked HellfireRocketLauncher
+[00:588] DoozyBanana Unlocked AssaultRifle
+Frosky First Alpha Hunter |  Win
+
+Frosky Placed 1 Greaters.
+--------------------------------

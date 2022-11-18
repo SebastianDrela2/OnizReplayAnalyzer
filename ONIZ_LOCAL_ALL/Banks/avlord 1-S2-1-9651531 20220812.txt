@@ -1,0 +1,23 @@
+avlord HumanWinsNormal 6
+avlord ZombieRank 0.3332
+avlord VespeneHarvested 57660
+avlord HumansRescued 13
+avlord SecurityForcesKilled 900
+avlord ZombiesKilled 10602
+avlord FuelDiverted 85
+avlord HumanRank 1
+avlord NumberOfTimesCaptured 31
+avlord TurretsBuilt 56
+avlord ZombieWins 1
+avlord GamesLeft 1
+avlord GamesPlayedAsHuman 17
+avlord GamesPlayedAsZombie 2
+avlord HumansCaptured 17
+avlord K/D Ratio 342
+avlord Average Marine Winrate 35%
+avlord Average Fuel Diverts PerGame 5
+avlord Average Vespene Harvested PerGame 3391,76
+avlord Average Zombie Winrate 50%
+avlord Average Security Kills Per Game 450
+avlord Average Deaths PerGame 1,82
+avlord Average Infestation Class Class 5

@@ -1,0 +1,23 @@
+Oglethorpe HumanWinsNormal 9
+Oglethorpe ZombieRank 14.9997
+Oglethorpe VespeneHarvested 68200
+Oglethorpe HumansRescued 20
+Oglethorpe SecurityForcesKilled 4652
+Oglethorpe ZombiesKilled 15884
+Oglethorpe FuelDiverted 73
+Oglethorpe HumanRank 1
+Oglethorpe NumberOfTimesCaptured 68
+Oglethorpe TurretsBuilt 110
+Oglethorpe ZombieWins 7
+Oglethorpe GamesLeft 5
+Oglethorpe GamesPlayedAsHuman 32
+Oglethorpe GamesPlayedAsZombie 10
+Oglethorpe HumansCaptured 103
+Oglethorpe K/D Ratio 233,59
+Oglethorpe Average Marine Winrate 28,000000000000004%
+Oglethorpe Average Fuel Diverts PerGame 2,28
+Oglethorpe Average Vespene Harvested PerGame 2131,25
+Oglethorpe Average Zombie Winrate 70%
+Oglethorpe Average Security Kills Per Game 465
+Oglethorpe Average Deaths PerGame 2,12
+Oglethorpe Average Infestation Class Class 5

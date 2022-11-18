@@ -1,0 +1,23 @@
+VOLCANO HumanWinsNormal 0
+VOLCANO ZombieRank 0
+VOLCANO VespeneHarvested 13400
+VOLCANO HumansRescued 1
+VOLCANO SecurityForcesKilled 0
+VOLCANO ZombiesKilled 4575
+VOLCANO FuelDiverted 9
+VOLCANO HumanRank 0
+VOLCANO NumberOfTimesCaptured 19
+VOLCANO TurretsBuilt 100
+VOLCANO ZombieWins 0
+VOLCANO GamesLeft 2
+VOLCANO GamesPlayedAsHuman 9
+VOLCANO GamesPlayedAsZombie 1
+VOLCANO HumansCaptured 0
+VOLCANO K/D Ratio 240,79
+VOLCANO Average Marine Winrate 0%
+VOLCANO Average Fuel Diverts PerGame 1
+VOLCANO Average Vespene Harvested PerGame 1488,89
+VOLCANO Average Zombie Winrate 0%
+VOLCANO Average Security Kills Per Game 0
+VOLCANO Average Deaths PerGame 2,11
+VOLCANO Average Infestation Class Class 1

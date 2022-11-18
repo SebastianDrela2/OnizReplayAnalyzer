@@ -1,0 +1,24 @@
+PowerPiglet HumanWinsNormal 4
+PowerPiglet LeftLastGameAsZombie 0
+PowerPiglet ZombieRank 0
+PowerPiglet VespeneHarvested 26100
+PowerPiglet HumansRescued 4
+PowerPiglet SecurityForcesKilled 200
+PowerPiglet ZombiesKilled 2443
+PowerPiglet FuelDiverted 1
+PowerPiglet HumanRank 1
+PowerPiglet NumberOfTimesCaptured 30
+PowerPiglet TurretsBuilt 22
+PowerPiglet ZombieWins 0
+PowerPiglet GamesLeft 2
+PowerPiglet GamesPlayedAsHuman 14
+PowerPiglet GamesPlayedAsZombie 2
+PowerPiglet HumansCaptured 1
+PowerPiglet K/D Ratio 81,43
+PowerPiglet Average Marine Winrate 28,999999999999996%
+PowerPiglet Average Fuel Diverts PerGame 0,07
+PowerPiglet Average Vespene Harvested PerGame 1864,29
+PowerPiglet Average Zombie Winrate 0%
+PowerPiglet Average Security Kills Per Game 100
+PowerPiglet Average Deaths PerGame 2,14
+PowerPiglet Average Infestation Class Class 2

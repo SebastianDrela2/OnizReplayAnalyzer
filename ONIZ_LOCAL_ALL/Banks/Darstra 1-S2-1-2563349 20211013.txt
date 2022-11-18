@@ -1,0 +1,23 @@
+Darstra HumanWinsNormal 0
+Darstra ZombieRank 0
+Darstra VespeneHarvested 17900
+Darstra HumansRescued 1
+Darstra SecurityForcesKilled 0
+Darstra ZombiesKilled 3067
+Darstra FuelDiverted 3
+Darstra HumanRank 0
+Darstra NumberOfTimesCaptured 29
+Darstra TurretsBuilt 32
+Darstra ZombieWins 0
+Darstra GamesLeft 6
+Darstra GamesPlayedAsHuman 16
+Darstra GamesPlayedAsZombie 1
+Darstra HumansCaptured 0
+Darstra K/D Ratio 105,76
+Darstra Average Marine Winrate 0%
+Darstra Average Fuel Diverts PerGame 0,19
+Darstra Average Vespene Harvested PerGame 1118,75
+Darstra Average Zombie Winrate 0%
+Darstra Average Security Kills Per Game 0
+Darstra Average Deaths PerGame 1,81
+Darstra Average Infestation Class Class 1

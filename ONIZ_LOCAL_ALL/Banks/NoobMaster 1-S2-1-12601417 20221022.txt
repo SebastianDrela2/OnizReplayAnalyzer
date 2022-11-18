@@ -1,0 +1,23 @@
+NoobMaster HumanWinsNormal 54
+NoobMaster ZombieRank 18.1662
+NoobMaster VespeneHarvested 304700
+NoobMaster HumansRescued 17
+NoobMaster SecurityForcesKilled 14057
+NoobMaster ZombiesKilled 59649
+NoobMaster FuelDiverted 180
+NoobMaster HumanRank 11.8334
+NoobMaster NumberOfTimesCaptured 71
+NoobMaster TurretsBuilt 1126
+NoobMaster ZombieWins 21
+NoobMaster GamesLeft 1
+NoobMaster GamesPlayedAsHuman 84
+NoobMaster GamesPlayedAsZombie 32
+NoobMaster HumansCaptured 271
+NoobMaster K/D Ratio 840,13
+NoobMaster Average Marine Winrate 64%
+NoobMaster Average Fuel Diverts PerGame 2,14
+NoobMaster Average Vespene Harvested PerGame 3627,38
+NoobMaster Average Zombie Winrate 66%
+NoobMaster Average Security Kills Per Game 439
+NoobMaster Average Deaths PerGame 0,85
+NoobMaster Average Infestation Class Class 5

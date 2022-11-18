@@ -1,0 +1,23 @@
+Wooky HumanWinsNormal 379
+Wooky ZombieRank 0
+Wooky VespeneHarvested 1856520
+Wooky HumansRescued 1060
+Wooky SecurityForcesKilled 426
+Wooky ZombiesKilled 627036
+Wooky FuelDiverted 287
+Wooky HumanRank 25.0922
+Wooky NumberOfTimesCaptured 1034
+Wooky TurretsBuilt 4057
+Wooky ZombieWins 3
+Wooky GamesLeft 68
+Wooky GamesPlayedAsHuman 785
+Wooky GamesPlayedAsZombie 12
+Wooky HumansCaptured 15
+Wooky K/D Ratio 606,42
+Wooky Average Marine Winrate 48%
+Wooky Average Fuel Diverts PerGame 0,37
+Wooky Average Vespene Harvested PerGame 2364,99
+Wooky Average Zombie Winrate 25%
+Wooky Average Security Kills Per Game 36
+Wooky Average Deaths PerGame 1,32
+Wooky Average Infestation Class Class 1

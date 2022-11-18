@@ -1,0 +1,23 @@
+Tassadar HumanWinsNormal 3
+Tassadar ZombieRank 14.5
+Tassadar VespeneHarvested 17900
+Tassadar HumansRescued 6
+Tassadar SecurityForcesKilled 3178
+Tassadar ZombiesKilled 3604
+Tassadar FuelDiverted 25
+Tassadar HumanRank 5
+Tassadar NumberOfTimesCaptured 12
+Tassadar TurretsBuilt 30
+Tassadar ZombieWins 5
+Tassadar GamesLeft 1
+Tassadar GamesPlayedAsHuman 8
+Tassadar GamesPlayedAsZombie 8
+Tassadar HumansCaptured 71
+Tassadar K/D Ratio 300,33
+Tassadar Average Marine Winrate 38%
+Tassadar Average Fuel Diverts PerGame 3,12
+Tassadar Average Vespene Harvested PerGame 2237,5
+Tassadar Average Zombie Winrate 62%
+Tassadar Average Security Kills Per Game 397
+Tassadar Average Deaths PerGame 1,5
+Tassadar Average Infestation Class Class 4

@@ -1,0 +1,23 @@
+BlasterJ HumanWinsNormal 0
+BlasterJ ZombieRank 0
+BlasterJ VespeneHarvested 6500
+BlasterJ HumansRescued 2
+BlasterJ SecurityForcesKilled 0
+BlasterJ ZombiesKilled 1393
+BlasterJ FuelDiverted 0
+BlasterJ HumanRank 0
+BlasterJ NumberOfTimesCaptured 11
+BlasterJ TurretsBuilt 5
+BlasterJ ZombieWins 0
+BlasterJ GamesLeft 0
+BlasterJ GamesPlayedAsHuman 4
+BlasterJ GamesPlayedAsZombie 0
+BlasterJ HumansCaptured 0
+BlasterJ K/D Ratio 126,64
+BlasterJ Average Marine Winrate 0%
+BlasterJ Average Fuel Diverts PerGame 0
+BlasterJ Average Vespene Harvested PerGame 1625
+BlasterJ Average Zombie Winrate NaN%
+BlasterJ Average Security Kills Per Game NaN
+BlasterJ Average Deaths PerGame 2,75
+BlasterJ Average Infestation Class Class 1

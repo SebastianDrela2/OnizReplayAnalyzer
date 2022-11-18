@@ -1,0 +1,23 @@
+Plotato HumanWinsNormal 93
+Plotato ZombieRank 0
+Plotato VespeneHarvested 555700
+Plotato HumansRescued 151
+Plotato SecurityForcesKilled 490
+Plotato ZombiesKilled 98239
+Plotato FuelDiverted 123
+Plotato HumanRank 31
+Plotato NumberOfTimesCaptured 154
+Plotato TurretsBuilt 1550
+Plotato ZombieWins 1
+Plotato GamesLeft 22
+Plotato GamesPlayedAsHuman 158
+Plotato GamesPlayedAsZombie 4
+Plotato HumansCaptured 0
+Plotato K/D Ratio 637,92
+Plotato Average Marine Winrate 59%
+Plotato Average Fuel Diverts PerGame 0,78
+Plotato Average Vespene Harvested PerGame 3517,09
+Plotato Average Zombie Winrate 25%
+Plotato Average Security Kills Per Game 122
+Plotato Average Deaths PerGame 0,97
+Plotato Average Infestation Class Class 2

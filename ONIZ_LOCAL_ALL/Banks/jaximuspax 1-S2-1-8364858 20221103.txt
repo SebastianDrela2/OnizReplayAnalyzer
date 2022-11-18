@@ -1,0 +1,23 @@
+jaximuspax HumanWinsNormal 4
+jaximuspax ZombieRank 0.6665
+jaximuspax VespeneHarvested 18200
+jaximuspax HumansRescued 5
+jaximuspax SecurityForcesKilled 1166
+jaximuspax ZombiesKilled 2269
+jaximuspax FuelDiverted 17
+jaximuspax HumanRank 9
+jaximuspax NumberOfTimesCaptured 13
+jaximuspax TurretsBuilt 72
+jaximuspax ZombieWins 1
+jaximuspax GamesLeft 1
+jaximuspax GamesPlayedAsHuman 7
+jaximuspax GamesPlayedAsZombie 3
+jaximuspax HumansCaptured 18
+jaximuspax K/D Ratio 174,54
+jaximuspax Average Marine Winrate 56,99999999999999%
+jaximuspax Average Fuel Diverts PerGame 2,43
+jaximuspax Average Vespene Harvested PerGame 2600
+jaximuspax Average Zombie Winrate 33%
+jaximuspax Average Security Kills Per Game 389
+jaximuspax Average Deaths PerGame 1,86
+jaximuspax Average Infestation Class Class 4

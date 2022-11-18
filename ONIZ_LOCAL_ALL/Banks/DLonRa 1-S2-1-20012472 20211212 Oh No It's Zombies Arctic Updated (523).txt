@@ -1,0 +1,25 @@
+DLonRa HumanWinsNormal 272
+DLonRa LeftLastGameAsZombie 0
+DLonRa ZombieRank 0
+DLonRa VespeneHarvested 2122400
+DLonRa HumansRescued 530
+DLonRa SecurityForcesKilled 7807
+DLonRa ZombiesKilled 264142
+DLonRa FuelDiverted 1262
+DLonRa PlayedRankedMode5.0 1
+DLonRa HumanRank 3
+DLonRa NumberOfTimesCaptured 1182
+DLonRa TurretsBuilt 5029
+DLonRa ZombieWins 4
+DLonRa GamesLeft 20
+DLonRa GamesPlayedAsHuman 596
+DLonRa GamesPlayedAsZombie 18
+DLonRa HumansCaptured 151
+NutDusty K/D Ratio 223,47
+NutDusty Average Marine Winrate 27200%
+NutDusty Average Fuel Diverts PerGame 1262
+NutDusty Average Vespene Harvested PerGame 2122400
+NutDusty Average Zombie Winrate 22%
+NutDusty Average Security Kills Per Game 434
+NutDusty Average Deaths PerGame 1182
+NutDusty Average Infestation Class Class 5

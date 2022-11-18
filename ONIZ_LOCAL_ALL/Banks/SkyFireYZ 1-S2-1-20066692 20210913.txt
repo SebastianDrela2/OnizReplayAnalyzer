@@ -1,0 +1,24 @@
+SkyFireYZ HumanWinsNormal 32
+SkyFireYZ LeftLastGameAsZombie 0
+SkyFireYZ ZombieRank 0
+SkyFireYZ VespeneHarvested 162300
+SkyFireYZ HumansRescued 60
+SkyFireYZ SecurityForcesKilled 1447
+SkyFireYZ ZombiesKilled 26350
+SkyFireYZ FuelDiverted 20
+SkyFireYZ HumanRank 10.125
+SkyFireYZ NumberOfTimesCaptured 114
+SkyFireYZ TurretsBuilt 198
+SkyFireYZ ZombieWins 2
+SkyFireYZ GamesLeft 5
+SkyFireYZ GamesPlayedAsHuman 64
+SkyFireYZ GamesPlayedAsZombie 3
+SkyFireYZ HumansCaptured 40
+SkyFireYZ K/D Ratio 231,14
+SkyFireYZ Average Marine Winrate 50%
+SkyFireYZ Average Fuel Diverts PerGame 0,31
+SkyFireYZ Average Vespene Harvested PerGame 2535,94
+SkyFireYZ Average Zombie Winrate 67%
+SkyFireYZ Average Security Kills Per Game 482
+SkyFireYZ Average Deaths PerGame 1,78
+SkyFireYZ Average Infestation Class Class 5

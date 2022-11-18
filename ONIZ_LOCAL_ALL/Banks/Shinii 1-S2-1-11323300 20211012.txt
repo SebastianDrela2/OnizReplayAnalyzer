@@ -1,0 +1,23 @@
+Shinii HumanWinsNormal 4
+Shinii ZombieRank 0
+Shinii VespeneHarvested 28500
+Shinii HumansRescued 15
+Shinii SecurityForcesKilled 0
+Shinii ZombiesKilled 8157
+Shinii FuelDiverted 1
+Shinii HumanRank 4.5
+Shinii NumberOfTimesCaptured 27
+Shinii TurretsBuilt 29
+Shinii ZombieWins 0
+Shinii GamesLeft 0
+Shinii GamesPlayedAsHuman 13
+Shinii GamesPlayedAsZombie 0
+Shinii HumansCaptured 0
+Shinii K/D Ratio 302,11
+Shinii Average Marine Winrate 31%
+Shinii Average Fuel Diverts PerGame 0,08
+Shinii Average Vespene Harvested PerGame 2192,31
+Shinii Average Zombie Winrate NaN%
+Shinii Average Security Kills Per Game NaN
+Shinii Average Deaths PerGame 2,08
+Shinii Average Infestation Class Class 1

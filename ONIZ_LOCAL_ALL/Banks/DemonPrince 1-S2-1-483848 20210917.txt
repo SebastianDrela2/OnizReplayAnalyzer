@@ -1,0 +1,23 @@
+DemonPrince HumanWinsNormal 2
+DemonPrince ZombieRank 0
+DemonPrince VespeneHarvested 5600
+DemonPrince HumansRescued 4
+DemonPrince SecurityForcesKilled 192
+DemonPrince ZombiesKilled 1729
+DemonPrince FuelDiverted 23
+DemonPrince HumanRank 6
+DemonPrince NumberOfTimesCaptured 11
+DemonPrince TurretsBuilt 34
+DemonPrince ZombieWins 2
+DemonPrince GamesLeft 0
+DemonPrince GamesPlayedAsHuman 6
+DemonPrince GamesPlayedAsZombie 2
+DemonPrince HumansCaptured 4
+DemonPrince K/D Ratio 157,18
+DemonPrince Average Marine Winrate 33%
+DemonPrince Average Fuel Diverts PerGame 3,83
+DemonPrince Average Vespene Harvested PerGame 933,33
+DemonPrince Average Zombie Winrate 100%
+DemonPrince Average Security Kills Per Game 96
+DemonPrince Average Deaths PerGame 1,83
+DemonPrince Average Infestation Class Class 2

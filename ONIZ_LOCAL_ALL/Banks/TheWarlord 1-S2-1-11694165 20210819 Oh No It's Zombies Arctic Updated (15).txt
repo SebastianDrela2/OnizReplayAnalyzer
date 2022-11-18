@@ -1,0 +1,23 @@
+TheWarlord HumanWinsNormal 5
+TheWarlord ZombieRank 0
+TheWarlord VespeneHarvested 17400
+TheWarlord HumansRescued 5
+TheWarlord SecurityForcesKilled 1270
+TheWarlord ZombiesKilled 2936
+TheWarlord FuelDiverted 13
+TheWarlord HumanRank 5
+TheWarlord NumberOfTimesCaptured 41
+TheWarlord TurretsBuilt 34
+TheWarlord ZombieWins 0
+TheWarlord GamesLeft 1
+TheWarlord GamesPlayedAsHuman 12
+TheWarlord GamesPlayedAsZombie 4
+TheWarlord HumansCaptured 29
+TheWarlord K/D Ratio 71,61
+TheWarlord Average Marine Winrate 42%
+TheWarlord Average Fuel Diverts PerGame 1,08
+TheWarlord Average Vespene Harvested PerGame 1450
+TheWarlord Average Zombie Winrate 0%
+TheWarlord Average Security Kills Per Game 318
+TheWarlord Average Deaths PerGame 3,42
+TheWarlord Average Infestation Class Class 4

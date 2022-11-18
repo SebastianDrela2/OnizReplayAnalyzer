@@ -1,0 +1,23 @@
+diego HumanWinsNormal 0
+diego ZombieRank 0
+diego VespeneHarvested 2000
+diego HumansRescued 0
+diego SecurityForcesKilled 0
+diego ZombiesKilled 289
+diego FuelDiverted 1
+diego HumanRank 0
+diego NumberOfTimesCaptured 8
+diego TurretsBuilt 0
+diego ZombieWins 0
+diego GamesLeft 1
+diego GamesPlayedAsHuman 3
+diego GamesPlayedAsZombie 0
+diego HumansCaptured 0
+diego K/D Ratio 36,12
+diego Average Marine Winrate 0%
+diego Average Fuel Diverts PerGame 0,33
+diego Average Vespene Harvested PerGame 666,67
+diego Average Zombie Winrate NaN%
+diego Average Security Kills Per Game NaN
+diego Average Deaths PerGame 2,67
+diego Average Infestation Class Class 1

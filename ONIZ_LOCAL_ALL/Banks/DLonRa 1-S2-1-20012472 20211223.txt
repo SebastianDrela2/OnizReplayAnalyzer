@@ -1,0 +1,25 @@
+DLonRa HumanWinsNormal 284
+DLonRa LeftLastGameAsZombie 0
+DLonRa ZombieRank 0
+DLonRa VespeneHarvested 2236000
+DLonRa HumansRescued 556
+DLonRa SecurityForcesKilled 8241
+DLonRa ZombiesKilled 279463
+DLonRa FuelDiverted 1389
+DLonRa PlayedRankedMode5.0 1
+DLonRa HumanRank 0.875
+DLonRa NumberOfTimesCaptured 1240
+DLonRa TurretsBuilt 5331
+DLonRa ZombieWins 4
+DLonRa GamesLeft 23
+DLonRa GamesPlayedAsHuman 631
+DLonRa GamesPlayedAsZombie 19
+DLonRa HumansCaptured 158
+DLonRa K/D Ratio 225,37
+DLonRa Average Marine Winrate 45%
+DLonRa Average Fuel Diverts PerGame 2,2
+DLonRa Average Vespene Harvested PerGame 3543,58
+DLonRa Average Zombie Winrate 21%
+DLonRa Average Security Kills Per Game 434
+DLonRa Average Deaths PerGame 1,97
+DLonRa Average Infestation Class Class 5

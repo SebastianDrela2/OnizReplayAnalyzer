@@ -1,0 +1,24 @@
+Tabender HumanWinsNormal 50
+Tabender ZombieRank 5.999
+Tabender VespeneHarvested 267500
+Tabender HumansRescued 78
+Tabender SecurityForcesKilled 21124
+Tabender ZombiesKilled 57884
+Tabender FuelDiverted 41
+Tabender PlayedRankedMode5.0 1
+Tabender HumanRank 4.8334
+Tabender NumberOfTimesCaptured 211
+Tabender TurretsBuilt 414
+Tabender ZombieWins 22
+Tabender GamesLeft 10
+Tabender GamesPlayedAsHuman 101
+Tabender GamesPlayedAsZombie 52
+Tabender HumansCaptured 594
+Tabender K/D Ratio 274,33
+Tabender Average Marine Winrate 50%
+Tabender Average Fuel Diverts PerGame 0,41
+Tabender Average Vespene Harvested PerGame 2648,51
+Tabender Average Zombie Winrate 42%
+Tabender Average Security Kills Per Game 406
+Tabender Average Deaths PerGame 2,09
+Tabender Average Infestation Class Class 4

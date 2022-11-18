@@ -1,0 +1,23 @@
+AmuletNaka HumanWinsNormal 0
+AmuletNaka ZombieRank 0
+AmuletNaka VespeneHarvested 3100
+AmuletNaka HumansRescued 1
+AmuletNaka SecurityForcesKilled 0
+AmuletNaka ZombiesKilled 1052
+AmuletNaka FuelDiverted 1
+AmuletNaka HumanRank 0
+AmuletNaka NumberOfTimesCaptured 3
+AmuletNaka TurretsBuilt 8
+AmuletNaka ZombieWins 0
+AmuletNaka GamesLeft 0
+AmuletNaka GamesPlayedAsHuman 2
+AmuletNaka GamesPlayedAsZombie 0
+AmuletNaka HumansCaptured 0
+AmuletNaka K/D Ratio 350,67
+AmuletNaka Average Marine Winrate 0%
+AmuletNaka Average Fuel Diverts PerGame 0,5
+AmuletNaka Average Vespene Harvested PerGame 1550
+AmuletNaka Average Zombie Winrate NaN%
+AmuletNaka Average Security Kills Per Game NaN
+AmuletNaka Average Deaths PerGame 1,5
+AmuletNaka Average Infestation Class Class 1

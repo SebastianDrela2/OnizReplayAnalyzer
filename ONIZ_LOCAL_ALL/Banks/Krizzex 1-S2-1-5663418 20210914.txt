@@ -1,0 +1,25 @@
+Krizzex HumanWinsNormal 3
+Krizzex LeftLastGameAsZombie 0
+Krizzex ZombieRank 0
+Krizzex VespeneHarvested 42200
+Krizzex HumansRescued 0
+Krizzex SecurityForcesKilled 919
+Krizzex ZombiesKilled 4212
+Krizzex FuelDiverted 21
+Krizzex PlayedRankedMode5.0 1
+Krizzex HumanRank 1.1
+Krizzex NumberOfTimesCaptured 16
+Krizzex TurretsBuilt 82
+Krizzex ZombieWins 0
+Krizzex GamesLeft 1
+Krizzex GamesPlayedAsHuman 13
+Krizzex GamesPlayedAsZombie 4
+Krizzex HumansCaptured 21
+Krizzex K/D Ratio 263,25
+Krizzex Average Marine Winrate 23%
+Krizzex Average Fuel Diverts PerGame 1,62
+Krizzex Average Vespene Harvested PerGame 3246,15
+Krizzex Average Zombie Winrate 0%
+Krizzex Average Security Kills Per Game 230
+Krizzex Average Deaths PerGame 1,23
+Krizzex Average Infestation Class Class 3

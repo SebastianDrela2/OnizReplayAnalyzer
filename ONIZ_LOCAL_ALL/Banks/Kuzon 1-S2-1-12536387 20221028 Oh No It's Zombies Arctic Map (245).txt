@@ -1,0 +1,23 @@
+Kuzon HumanWinsNormal 0
+Kuzon ZombieRank 0
+Kuzon VespeneHarvested 0
+Kuzon HumansRescued 0
+Kuzon SecurityForcesKilled 0
+Kuzon ZombiesKilled 0
+Kuzon FuelDiverted 0
+Kuzon HumanRank 0
+Kuzon NumberOfTimesCaptured 0
+Kuzon TurretsBuilt 0
+Kuzon ZombieWins 0
+Kuzon GamesLeft 0
+Kuzon GamesPlayedAsHuman 0
+Kuzon GamesPlayedAsZombie 0
+Kuzon HumansCaptured 0
+Kuzon K/D Ratio NaN
+Kuzon Average Marine Winrate NaN%
+Kuzon Average Fuel Diverts PerGame NaN
+Kuzon Average Vespene Harvested PerGame NaN
+Kuzon Average Zombie Winrate NaN%
+Kuzon Average Security Kills Per Game NaN
+Kuzon Average Deaths PerGame NaN
+Kuzon Average Infestation Class Class 1

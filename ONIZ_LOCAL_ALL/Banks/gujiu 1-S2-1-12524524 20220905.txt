@@ -1,0 +1,23 @@
+gujiu HumanWinsNormal 13
+gujiu ZombieRank 0
+gujiu VespeneHarvested 71780
+gujiu HumansRescued 25
+gujiu SecurityForcesKilled 0
+gujiu ZombiesKilled 22232
+gujiu FuelDiverted 0
+gujiu HumanRank 1
+gujiu NumberOfTimesCaptured 82
+gujiu TurretsBuilt 209
+gujiu ZombieWins 0
+gujiu GamesLeft 5
+gujiu GamesPlayedAsHuman 44
+gujiu GamesPlayedAsZombie 0
+gujiu HumansCaptured 0
+gujiu K/D Ratio 271,12
+gujiu Average Marine Winrate 30%
+gujiu Average Fuel Diverts PerGame 0
+gujiu Average Vespene Harvested PerGame 1631,36
+gujiu Average Zombie Winrate NaN%
+gujiu Average Security Kills Per Game NaN
+gujiu Average Deaths PerGame 1,86
+gujiu Average Infestation Class Class 1

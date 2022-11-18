@@ -1,0 +1,24 @@
+APLegend HumanWinsNormal 25
+APLegend ZombieRank 0
+APLegend VespeneHarvested 161900
+APLegend HumansRescued 58
+APLegend SecurityForcesKilled 1129
+APLegend ZombiesKilled 50465
+APLegend FuelDiverted 77
+APLegend PlayedRankedMode5.0 1
+APLegend HumanRank 1
+APLegend NumberOfTimesCaptured 247
+APLegend TurretsBuilt 244
+APLegend ZombieWins 0
+APLegend GamesLeft 6
+APLegend GamesPlayedAsHuman 90
+APLegend GamesPlayedAsZombie 3
+APLegend HumansCaptured 17
+APLegend K/D Ratio 204,31
+APLegend Average Marine Winrate 28,000000000000004%
+APLegend Average Fuel Diverts PerGame 0,86
+APLegend Average Vespene Harvested PerGame 1798,89
+APLegend Average Zombie Winrate 0%
+APLegend Average Security Kills Per Game 376
+APLegend Average Deaths PerGame 2,74
+APLegend Average Infestation Class Class 4

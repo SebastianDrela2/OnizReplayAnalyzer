@@ -1,0 +1,197 @@
+Analyzed: Oh No It's Zombies Arctic Updated (351)
+
+ID : 0 PlayerName: Dalas Race: Terran
+ID : 1 PlayerName: archdracon Race: Terran
+ID : 2 PlayerName: Fun Race: Terran
+ID : 3 PlayerName: ROY Race: Terran
+ID : 4 PlayerName: Frosky Race: Zerg
+ID : 5 PlayerName: YAAAAY Race: Terran
+ID : 6 PlayerName: Nehemir Race: Terran
+ID : 7 PlayerName: Security Race: Zerg
+Frosky Zombie Win
+Public Lobby
+
+Game Length:[33:962]
+Players ammount: 8
+Marine rank avg: 6,833333333333333
+GrandMaster ammount: 2
+PURCHASES: 
+[00:588] Dalas Unlocked AssaultRifle
+[00:667] Dalas Placed/Upgraded MiningDroid
+[01:039] Dalas Unlocked AdvancedDroidEngines
+[02:840] Dalas Unlocked Shotgun
+[05:002] Dalas Unlocked SpecOpsShotgun
+[06:725] Dalas Unlocked OverloadWeapon
+[08:774] Dalas Unlocked EnergySuit
+[08:775] Dalas Unlocked EnergySuit
+[08:780] Dalas Unlocked AdvancedEnergySuit
+[08:781] Dalas Unlocked EnergySuit
+[08:781] Dalas Unlocked AdvancedEnergySuit
+[10:155] Dalas Placed/Upgraded MiningDroid
+[12:511] Dalas Unlocked SuperHealingDrone
+[14:532] Dalas Unlocked BioMechanicalRepairDrone
+[14:630] Dalas Placed/Upgraded HealingDrone
+[15:625] Dalas Unlocked CombatShield
+[15:638] Dalas Unlocked OpticalVisor
+[15:960] Dalas Placed/Upgraded HealingDrone
+[20:515] Dalas Unlocked IncendiaryBullets
+[21:760] Dalas Placed/Upgraded HealingDrone
+[21:961] Dalas Placed/Upgraded HealingDrone
+[22:547] Dalas Placed/Upgraded HealingDrone
+[22:803] Dalas Placed/Upgraded HealingDrone
+[00:588] archdracon Unlocked AssaultRifle
+[00:672] archdracon Placed/Upgraded MiningDroid
+[00:804] archdracon Unlocked AdvancedDroidEngines
+[03:559] archdracon Unlocked TurboDroidEngines
+[05:010] archdracon Unlocked Stimpack
+[06:360] archdracon Unlocked BeamRifle
+[07:865] archdracon Unlocked MotionSensor
+[07:940] archdracon Placed/Upgraded SensorTower
+[08:581] archdracon Placed/Upgraded MiningDroid
+[08:775] archdracon Bought ShieldSuit
+[08:775] archdracon Bought CombatSuit
+[08:775] archdracon Bought HazmatSuit
+[09:326] archdracon Placed/Upgraded SensorTower
+[10:339] archdracon Unlocked SpecOpsPlasmaRifle
+[10:526] archdracon Placed/Upgraded SensorTower
+[11:871] archdracon Unlocked BioMechanicalRepairDrone
+[12:561] archdracon Placed/Upgraded SensorTower
+[13:029] archdracon Unlocked CombatSuit
+[14:246] archdracon Unlocked AdvancedCombatSuit
+[15:400] archdracon Unlocked AutoTurret
+[15:432] archdracon Unlocked SpecOpsTurret
+[15:551] archdracon Placed/Upgraded AutoTurret
+[15:736] archdracon Placed/Upgraded AutoTurret
+[16:779] archdracon Placed/Upgraded HealingDrone
+[00:588] Fun Unlocked AssaultRifle
+[00:722] Fun Placed/Upgraded MiningDroid
+[00:757] Fun Unlocked AdvancedDroidEngines
+[03:525] Fun Unlocked TurboDroidEngines
+[05:750] Fun Unlocked HellfireRocketLauncher
+[06:713] Fun Unlocked SpecOpsHellfireRocketLauncher
+[07:881] Fun Unlocked MotionSensor
+[08:021] Fun Placed/Upgraded SensorTower
+[08:323] Fun Placed/Upgraded SensorTower
+[09:805] Fun Unlocked Stimpack
+[11:676] Fun Unlocked BioMechanicalRepairDrone
+[11:766] Fun Placed/Upgraded MiningDroid
+[11:916] Fun Placed/Upgraded SensorTower
+[13:030] Fun Bought ShieldSuit
+[13:030] Fun Bought CombatSuit
+[13:030] Fun Bought HazmatSuit
+[13:030] Fun Bought CombatSuit
+[13:101] Fun Placed/Upgraded SensorTower
+[13:165] Fun Placed/Upgraded HealingDrone
+[13:490] Fun Placed/Upgraded HealingDrone
+[14:181] Fun Placed/Upgraded MiningDroid
+[14:247] Fun Bought CombatSuit
+[15:498] Fun Unlocked SuperStimpack
+[16:188] Fun Placed/Upgraded HealingDrone
+[16:907] Fun Unlocked EnergySuit
+[16:908] Fun Unlocked EnergySuit
+[18:196] Fun Placed/Upgraded SensorTower
+[19:427] Fun Placed/Upgraded MiningDroid
+[20:304] Fun Placed/Upgraded HealingDrone
+[00:588] ROY Unlocked AssaultRifle
+[01:673] ROY Placed MiningDroid
+[01:750] ROY Unlocked AdvancedDroidEngines
+[01:877] ROY Unlocked FragGrenade
+[03:289] ROY Unlocked ExplorationDroid
+[03:349] ROY Placed ExplorationDroid
+[03:366] ROY Placed ExplorationDroid
+[04:825] ROY Unlocked BioMechanicalRepairDrone
+[05:347] ROY Placed ExplorationDroid
+[07:945] ROY Placed HealingDrone
+[08:819] ROY Unlocked SpecOpsAssaultRifle
+[10:869] ROY Unlocked AutoTargetingSystem
+[13:234] ROY Placed HealingDrone
+[15:306] ROY Placed MiningDroid
+[16:766] ROY Placed HealingDrone
+[16:908] ROY Bought ShieldSuit
+[16:908] ROY Bought CombatSuit
+[16:908] ROY Bought HazmatSuit
+[17:492] ROY Unlocked OverloadWeapon
+[21:072] ROY Placed MiningDroid
+[22:495] ROY Unlocked PowerConverter
+[22:648] ROY Unlocked MedicShield
+[24:701] ROY Placed HealingDrone
+[25:276] ROY Placed ExplorationDroid
+[25:414] ROY Placed HealingDrone
+[25:842] ROY Unlocked EnergySuit
+[25:843] ROY Unlocked EnergySuit
+[25:861] ROY Unlocked AdvancedEnergySuit
+[25:862] ROY Unlocked EnergySuit
+[25:862] ROY Unlocked AdvancedEnergySuit
+[31:701] ROY Placed ExplorationDroid
+[00:552] Frosky Bought PlayerNumber
+[01:211] Frosky Spawned MassiveCocoon
+[02:651] Frosky Spawned Hunter
+[02:900] Frosky Placed/Upgraded ToxicNest
+[02:909] Frosky Placed/Upgraded ToxicNest
+[02:943] Frosky Placed/Upgraded ToxicNest
+[03:203] Frosky Spawned MassiveCocoon
+[04:444] Frosky Spawned MassiveCocoon
+[04:643] Frosky Spawned Hunter
+[05:884] Frosky Spawned Anubalisk
+[06:731] Frosky Bought CreepSpeed
+[12:900] Frosky Spawned MassiveCocoon
+[14:340] Frosky Spawned Anubalisk
+[15:005] Frosky Placed/Upgraded ToxicNest
+[15:009] Frosky Placed/Upgraded ToxicNest
+[15:145] Frosky Bought StrainSpeed
+[15:157] Frosky Bought PureStrainSpeed
+[16:231] Frosky Placed/Upgraded NydusCanalCreeper
+[17:195] Frosky Bought VirulentCreep
+[17:195] Frosky Bought VirulentCreep
+[18:379] Frosky Spawned MassiveCocoon
+[18:636] Frosky Placed/Upgraded ToxicNest
+[19:819] Frosky Spawned Anubalisk
+[20:480] Frosky Bought StrainVolatile
+[21:243] Frosky Bought SpawnNydusWorm
+[21:289] Frosky Placed/Upgraded GreaterNydusWorm
+[23:498] Frosky Bought SiphonFuel
+[24:169] Frosky Placed/Upgraded NydusCanalCreeper
+[24:935] Frosky Placed/Upgraded Virophage
+[25:843] Frosky Bought ShieldSuit
+[25:843] Frosky Bought CombatSuit
+[25:843] Frosky Bought HazmatSuit
+[26:381] Frosky Bought SiphonFuel
+[27:471] Frosky Bought UnlockDropPods
+[27:665] Frosky Bought EvolveDropPods
+[27:670] Frosky Bought EvolveDropPods
+[28:206] Frosky Bought DropshipsFueled
+[28:512] Frosky Bought SweepingInfestation
+[28:512] Frosky Bought UltimateInfestationResearched
+[29:383] Frosky Placed/Upgraded GreaterNydusWorm
+[29:737] Frosky Placed/Upgraded NydusCanalCreeper
+[30:520] Frosky Bought PureStrainVolatile
+[30:772] Frosky Placed/Upgraded NydusCanalCreeper
+[31:719] Frosky Bought EvolveDropPods
+[31:722] Frosky Bought EvolveDropPods
+[31:725] Frosky Bought EvolveDropPods
+[32:320] Frosky Placed/Upgraded NydusCanalCreeper
+[00:588] YAAAAY Unlocked AssaultRifle
+[00:715] YAAAAY Unlocked ArcWelder
+[00:731] YAAAAY Placed/Upgraded MiningDroid
+[02:081] YAAAAY Unlocked BioMechanicalRepairDrone
+[02:147] YAAAAY Unlocked CombatAccelerationDrone
+[03:314] YAAAAY Placed/Upgraded HealingDrone
+[03:456] YAAAAY Placed/Upgraded HealingDrone
+[04:624] YAAAAY Placed/Upgraded HealingDrone
+[06:075] YAAAAY Placed/Upgraded HealingDrone
+[00:588] Nehemir Unlocked AssaultRifle
+[01:474] Nehemir Unlocked SpecOpsAssaultRifle
+[09:104] Nehemir Unlocked AutoTargetingSystem
+[10:620] Nehemir Unlocked CombatSuit
+[20:392] Nehemir Unlocked PsiDisrupter
+[22:546] Nehemir Unlocked AdvancedDroidEngines
+[25:181] Nehemir Unlocked MedicShield
+[25:744] Nehemir Unlocked AutoTurret
+[10:621] Security Bought ShieldSuit
+[10:621] Security Bought CombatSuit
+[10:621] Security Bought HazmatSuit
+[10:621] Security Bought CombatSuit
+Frosky First Alpha Hunter |  Win
+
+Frosky Placed 2 Greaters.
+--------------------------------

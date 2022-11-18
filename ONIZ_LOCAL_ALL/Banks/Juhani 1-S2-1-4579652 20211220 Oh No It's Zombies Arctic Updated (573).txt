@@ -1,0 +1,23 @@
+Juhani HumanWinsNormal 85
+Juhani ZombieRank 13.4997
+Juhani VespeneHarvested 497400
+Juhani HumansRescued 141
+Juhani SecurityForcesKilled 11807
+Juhani ZombiesKilled 118038
+Juhani FuelDiverted 1026
+Juhani HumanRank 22.417
+Juhani NumberOfTimesCaptured 135
+Juhani TurretsBuilt 1083
+Juhani ZombieWins 19
+Juhani GamesLeft 14
+Juhani GamesPlayedAsHuman 155
+Juhani GamesPlayedAsZombie 32
+Juhani HumansCaptured 229
+Juhani K/D Ratio 874,36
+Juhani Average Marine Winrate 55,00000000000001%
+Juhani Average Fuel Diverts PerGame 6,62
+Juhani Average Vespene Harvested PerGame 3209,03
+Juhani Average Zombie Winrate 59%
+Juhani Average Security Kills Per Game 369
+Juhani Average Deaths PerGame 0,87
+Juhani Average Infestation Class Class 4

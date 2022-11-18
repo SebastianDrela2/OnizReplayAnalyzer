@@ -1,0 +1,23 @@
+Vitek HumanWinsNormal 6
+Vitek ZombieRank 0
+Vitek VespeneHarvested 52300
+Vitek HumansRescued 8
+Vitek SecurityForcesKilled 0
+Vitek ZombiesKilled 8070
+Vitek FuelDiverted 35
+Vitek HumanRank 0
+Vitek NumberOfTimesCaptured 67
+Vitek TurretsBuilt 114
+Vitek ZombieWins 0
+Vitek GamesLeft 2
+Vitek GamesPlayedAsHuman 22
+Vitek GamesPlayedAsZombie 0
+Vitek HumansCaptured 0
+Vitek K/D Ratio 120,45
+Vitek Average Marine Winrate 27%
+Vitek Average Fuel Diverts PerGame 1,59
+Vitek Average Vespene Harvested PerGame 2377,27
+Vitek Average Zombie Winrate NaN%
+Vitek Average Security Kills Per Game NaN
+Vitek Average Deaths PerGame 3,05
+Vitek Average Infestation Class Class 1

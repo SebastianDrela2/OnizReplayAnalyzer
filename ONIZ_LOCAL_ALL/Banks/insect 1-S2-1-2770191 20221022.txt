@@ -1,0 +1,23 @@
+insect HumanWinsNormal 0
+insect ZombieRank 0
+insect VespeneHarvested 8700
+insect HumansRescued 4
+insect SecurityForcesKilled 228
+insect ZombiesKilled 764
+insect FuelDiverted 0
+insect HumanRank 0
+insect NumberOfTimesCaptured 12
+insect TurretsBuilt 9
+insect ZombieWins 1
+insect GamesLeft 15
+insect GamesPlayedAsHuman 21
+insect GamesPlayedAsZombie 2
+insect HumansCaptured 0
+insect K/D Ratio 63,67
+insect Average Marine Winrate 0%
+insect Average Fuel Diverts PerGame 0
+insect Average Vespene Harvested PerGame 414,29
+insect Average Zombie Winrate 50%
+insect Average Security Kills Per Game 114
+insect Average Deaths PerGame 0,57
+insect Average Infestation Class Class 2

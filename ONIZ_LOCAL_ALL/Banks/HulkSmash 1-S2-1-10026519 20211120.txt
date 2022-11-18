@@ -1,0 +1,24 @@
+HulkSmash HumanWinsNormal 49
+HulkSmash LeftLastGameAsZombie 0
+HulkSmash ZombieRank 4.6665
+HulkSmash VespeneHarvested 170000
+HulkSmash HumansRescued 117
+HulkSmash SecurityForcesKilled 12664
+HulkSmash ZombiesKilled 87205
+HulkSmash FuelDiverted 158
+HulkSmash HumanRank 7.35
+HulkSmash NumberOfTimesCaptured 201
+HulkSmash TurretsBuilt 424
+HulkSmash ZombieWins 11
+HulkSmash GamesLeft 9
+HulkSmash GamesPlayedAsHuman 107
+HulkSmash GamesPlayedAsZombie 33
+HulkSmash HumansCaptured 294
+HulkSmash K/D Ratio 433,86
+HulkSmash Average Marine Winrate 46%
+HulkSmash Average Fuel Diverts PerGame 1,48
+HulkSmash Average Vespene Harvested PerGame 1588,79
+HulkSmash Average Zombie Winrate 33%
+HulkSmash Average Security Kills Per Game 384
+HulkSmash Average Deaths PerGame 1,88
+HulkSmash Average Infestation Class Class 4

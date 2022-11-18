@@ -1,0 +1,23 @@
+notazergling HumanWinsNormal 4
+notazergling ZombieRank 0
+notazergling VespeneHarvested 7200
+notazergling HumansRescued 2
+notazergling SecurityForcesKilled 0
+notazergling ZombiesKilled 1358
+notazergling FuelDiverted 4
+notazergling HumanRank 7
+notazergling NumberOfTimesCaptured 18
+notazergling TurretsBuilt 10
+notazergling ZombieWins 0
+notazergling GamesLeft 1
+notazergling GamesPlayedAsHuman 9
+notazergling GamesPlayedAsZombie 0
+notazergling HumansCaptured 0
+oneandonly K/D Ratio 75,44
+oneandonly Average Marine Winrate 400%
+oneandonly Average Fuel Diverts PerGame 4
+oneandonly Average Vespene Harvested PerGame 7200
+oneandonly Average Zombie Winrate NaN%
+oneandonly Average Security Kills Per Game NaN
+oneandonly Average Deaths PerGame 18
+oneandonly Average Infestation Class Class 1

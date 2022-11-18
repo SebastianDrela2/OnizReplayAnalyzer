@@ -1,0 +1,24 @@
+Obliteration HumanWinsNormal 0
+Obliteration LeftLastGameAsZombie 0
+Obliteration ZombieRank 0
+Obliteration VespeneHarvested 4400
+Obliteration HumansRescued 1
+Obliteration SecurityForcesKilled 0
+Obliteration ZombiesKilled 1160
+Obliteration FuelDiverted 0
+Obliteration HumanRank 0
+Obliteration NumberOfTimesCaptured 9
+Obliteration TurretsBuilt 10
+Obliteration ZombieWins 0
+Obliteration GamesLeft 2
+Obliteration GamesPlayedAsHuman 4
+Obliteration GamesPlayedAsZombie 0
+Obliteration HumansCaptured 0
+Obliteration K/D Ratio 128,89
+Obliteration Average Marine Winrate 0%
+Obliteration Average Fuel Diverts PerGame 0
+Obliteration Average Vespene Harvested PerGame 1100
+Obliteration Average Zombie Winrate NaN%
+Obliteration Average Security Kills Per Game NaN
+Obliteration Average Deaths PerGame 2,25
+Obliteration Average Infestation Class Class 1

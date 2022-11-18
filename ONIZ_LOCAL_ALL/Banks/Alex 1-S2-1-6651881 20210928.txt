@@ -1,0 +1,24 @@
+Alex HumanWinsNormal 1116
+Alex ZombieRank 16.665
+Alex VespeneHarvested 963670
+Alex HumansRescued 4579
+Alex SecurityForcesKilled 21451
+Alex ZombiesKilled 4154643
+Alex FuelDiverted 3632
+Alex PlayedRankedMode5.0 1
+Alex HumanRank 31
+Alex NumberOfTimesCaptured 636
+Alex TurretsBuilt 23954
+Alex ZombieWins 28
+Alex GamesLeft 19
+Alex GamesPlayedAsHuman 1564
+Alex GamesPlayedAsZombie 40
+Alex HumansCaptured 362
+Alex K/D Ratio 6532,46
+Alex Average Marine Winrate 71%
+Alex Average Fuel Diverts PerGame 2,32
+Alex Average Vespene Harvested PerGame 616,16
+Alex Average Zombie Winrate 70%
+Alex Average Security Kills Per Game 536
+Alex Average Deaths PerGame 0,41
+Alex Average Infestation Class Class 6

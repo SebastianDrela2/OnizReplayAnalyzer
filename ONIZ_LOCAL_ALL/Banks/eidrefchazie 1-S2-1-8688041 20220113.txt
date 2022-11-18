@@ -1,0 +1,23 @@
+eidrefchazie HumanWinsNormal 42
+eidrefchazie ZombieRank 7.6667
+eidrefchazie VespeneHarvested 312020
+eidrefchazie HumansRescued 45
+eidrefchazie SecurityForcesKilled 6799
+eidrefchazie ZombiesKilled 55264
+eidrefchazie FuelDiverted 156
+eidrefchazie HumanRank 8
+eidrefchazie NumberOfTimesCaptured 126
+eidrefchazie TurretsBuilt 371
+eidrefchazie ZombieWins 5
+eidrefchazie GamesLeft 9
+eidrefchazie GamesPlayedAsHuman 92
+eidrefchazie GamesPlayedAsZombie 18
+eidrefchazie HumansCaptured 80
+eidrefchazie K/D Ratio 438,6
+eidrefchazie Average Marine Winrate 46%
+eidrefchazie Average Fuel Diverts PerGame 1,7
+eidrefchazie Average Vespene Harvested PerGame 3391,52
+eidrefchazie Average Zombie Winrate 28,000000000000004%
+eidrefchazie Average Security Kills Per Game 378
+eidrefchazie Average Deaths PerGame 1,37
+eidrefchazie Average Infestation Class Class 4

@@ -1,0 +1,23 @@
+Xemadus HumanWinsNormal 5
+Xemadus ZombieRank 0
+Xemadus VespeneHarvested 23000
+Xemadus HumansRescued 6
+Xemadus SecurityForcesKilled 0
+Xemadus ZombiesKilled 4535
+Xemadus FuelDiverted 12
+Xemadus HumanRank 5.5
+Xemadus NumberOfTimesCaptured 21
+Xemadus TurretsBuilt 18
+Xemadus ZombieWins 0
+Xemadus GamesLeft 4
+Xemadus GamesPlayedAsHuman 13
+Xemadus GamesPlayedAsZombie 0
+Xemadus HumansCaptured 0
+Xemadus K/D Ratio 215,95
+Xemadus Average Marine Winrate 38%
+Xemadus Average Fuel Diverts PerGame 0,92
+Xemadus Average Vespene Harvested PerGame 1769,23
+Xemadus Average Zombie Winrate NaN%
+Xemadus Average Security Kills Per Game NaN
+Xemadus Average Deaths PerGame 1,62
+Xemadus Average Infestation Class Class 1

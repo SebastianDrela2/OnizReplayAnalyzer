@@ -1,0 +1,23 @@
+Smithereen HumanWinsNormal 0
+Smithereen ZombieRank 0
+Smithereen VespeneHarvested 1500
+Smithereen HumansRescued 3
+Smithereen SecurityForcesKilled 0
+Smithereen ZombiesKilled 567
+Smithereen FuelDiverted 5
+Smithereen HumanRank 0
+Smithereen NumberOfTimesCaptured 1
+Smithereen TurretsBuilt 1
+Smithereen ZombieWins 0
+Smithereen GamesLeft 0
+Smithereen GamesPlayedAsHuman 1
+Smithereen GamesPlayedAsZombie 0
+Smithereen HumansCaptured 0
+Smithereen K/D Ratio 567
+Smithereen Average Marine Winrate 0%
+Smithereen Average Fuel Diverts PerGame 5
+Smithereen Average Vespene Harvested PerGame 1500
+Smithereen Average Zombie Winrate NaN%
+Smithereen Average Security Kills Per Game NaN
+Smithereen Average Deaths PerGame 1
+Smithereen Average Infestation Class Class 1

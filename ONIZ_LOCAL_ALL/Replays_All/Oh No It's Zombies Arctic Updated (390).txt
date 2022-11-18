@@ -1,0 +1,133 @@
+Analyzed: Oh No It's Zombies Arctic Updated (390)
+
+ID : 0 PlayerName: WildMutant Race: Terran
+ID : 1 PlayerName: Puppetmaker Race: Terran
+ID : 2 PlayerName: Frosky Race: Zerg
+ID : 3 PlayerName: ironstone Race: Terran
+ID : 4 PlayerName: ZaqazDeath Race: Terran
+ID : 5 PlayerName: dwarfplanet Race: Terran
+ID : 6 PlayerName: gggg Race: Terran
+ID : 7 PlayerName: Security Race: Terran Horner
+Frosky Zombie Win
+Public Lobby
+
+Game Length:[27:982]
+Players ammount: 8
+Marine rank avg: 10,333333333333334
+GrandMaster ammount: 2
+PURCHASES: 
+[00:864] Frosky Bought SunkenColony
+[00:864] Frosky Placed/Upgraded PrimalSunkenColony
+[02:023] Frosky Bought StrainDamage
+[03:366] Frosky Bought StrainSpeed
+[03:403] Frosky Bought SunkenColony
+[05:247] Frosky Bought BuildExtractorScienceLabs
+[05:247] Frosky Placed/Upgraded AutomatedExtractor
+[05:786] Frosky Bought BuildExtractorScienceLabs
+[05:820] Frosky Bought PureStrainSpeed
+[07:091] Frosky Bought PureStrainDamage
+[08:934] Frosky Bought StrainHealth
+[10:612] Frosky Bought HunterlingStrain
+[10:860] Frosky Placed/Upgraded Virophage
+[12:964] Frosky Bought StrainSpeed
+[15:475] Frosky Bought PureStrainSpeed
+[17:000] Frosky Bought HunterlingStrain
+[18:174] Frosky Placed/Upgraded NydusCanalCreeper
+[19:168] Frosky Placed/Upgraded Virophage
+[20:770] Frosky Placed/Upgraded Virophage
+[21:813] Frosky Bought UnlockDropPods
+[21:825] Frosky Bought EvolveDropPods
+[21:828] Frosky Bought EvolveDropPods
+[22:499] Frosky Bought EvolveDropPods
+[23:127] Frosky Bought EvolveDropPods
+[23:577] Frosky Bought EvolveDropPods
+[24:169] Frosky Bought EvolveDropPods
+[26:357] Frosky Bought PureStrainHealth
+[27:948] Frosky Bought DropshipsFueled
+[00:588] ironstone Unlocked AssaultRifle
+[02:056] ironstone Placed/Upgraded MiningDroid
+[02:149] ironstone Unlocked SpecOpsAssaultRifle
+[02:213] ironstone Unlocked Stimpack
+[02:310] ironstone Unlocked MedicShield
+[03:559] ironstone Unlocked AdvancedDroidEngines
+[03:673] ironstone Unlocked TurboDroidEngines
+[04:486] ironstone Unlocked AutoTargetingSystem
+[06:119] ironstone Unlocked MotionSensor
+[06:289] ironstone Placed/Upgraded SensorTower
+[06:842] ironstone Placed/Upgraded SensorTower
+[07:446] ironstone Unlocked CombatSuit
+[07:462] ironstone Unlocked AdvancedCombatSuit
+[08:449] ironstone Unlocked PsiDisrupter
+[08:472] ironstone Unlocked PsiDepressor
+[08:580] ironstone Placed/Upgraded PsiIndoctrinator
+[09:452] ironstone Placed/Upgraded PsiIndoctrinator
+[10:428] ironstone Placed/Upgraded PsiIndoctrinator
+[11:078] ironstone Placed/Upgraded SensorTower
+[11:230] ironstone Placed/Upgraded PsiIndoctrinator
+[13:288] ironstone Placed/Upgraded PsiIndoctrinator
+[14:365] ironstone Unlocked AIAssistant
+[14:380] ironstone Unlocked EnergyPack
+[14:711] ironstone Unlocked SuperStimpack
+[15:859] ironstone Placed/Upgraded PsiIndoctrinator
+[16:958] ironstone Unlocked ExplorationDroid
+[17:065] ironstone Placed/Upgraded ExplorationDroid
+[18:591] ironstone Placed/Upgraded ExplorationDroid
+[19:419] ironstone Placed/Upgraded PsiIndoctrinator
+[19:909] ironstone Unlocked BioMechanicalRepairDrone
+[20:018] ironstone Placed/Upgraded HealingDrone
+[21:249] ironstone Unlocked SpecOpsPsiDisruptor
+[21:860] ironstone Placed/Upgraded PsiIndoctrinator
+[24:636] ironstone Placed/Upgraded PsiIndoctrinator
+[07:447] ZaqazDeath Bought ShieldSuit
+[07:447] ZaqazDeath Bought CombatSuit
+[07:447] ZaqazDeath Bought HazmatSuit
+[07:447] ZaqazDeath Bought CombatSuit
+[07:463] ZaqazDeath Bought CombatSuit
+[00:588] dwarfplanet Unlocked AssaultRifle
+[00:952] dwarfplanet Placed/Upgraded MiningDroid
+[01:072] dwarfplanet Unlocked AdvancedDroidEngines
+[01:095] dwarfplanet Unlocked TurboDroidEngines
+[02:344] dwarfplanet Unlocked SpecOpsAssaultRifle
+[03:281] dwarfplanet Unlocked MedicShield
+[03:335] dwarfplanet Unlocked Stimpack
+[05:229] dwarfplanet Unlocked PsiDisrupter
+[05:311] dwarfplanet Unlocked SpecOpsPsiDisruptor
+[05:392] dwarfplanet Unlocked TitaniumBulletCasings
+[05:455] dwarfplanet Placed/Upgraded PsiIndoctrinator
+[00:588] gggg Unlocked AssaultRifle
+[02:924] gggg Unlocked SpecOpsAssaultRifle
+[03:720] gggg Unlocked TitaniumBulletCasings
+[03:751] gggg Unlocked Bayonette
+[06:025] gggg Unlocked AutoTurret
+[06:293] gggg Unlocked CombatSuit
+[06:381] gggg Unlocked AdvancedCombatSuit
+[07:007] gggg Unlocked SuperStimpack
+[07:034] gggg Unlocked SpecOpsSuperStimpack
+[07:276] gggg Unlocked Stimpack
+[07:352] gggg Unlocked OverloadWeapon
+[07:611] gggg Unlocked FlameTurret
+[10:094] gggg Unlocked SpecOpsTurret
+[12:038] gggg Unlocked BioMechanicalRepairDrone
+[12:108] gggg Unlocked RechargeDrone
+[13:663] gggg Unlocked PsiDisrupter
+[13:755] gggg Unlocked PsiDepressor
+[16:005] gggg Unlocked AIAssistant
+[16:055] gggg Unlocked OpticalVisor
+[17:081] gggg Unlocked BeamRifle
+[17:119] gggg Unlocked SpecOpsPlasmaRifle
+[17:188] gggg Unlocked CorrosivePlasma
+[17:441] gggg Unlocked MedicShield
+[17:497] gggg Unlocked QuantumBackpack
+[24:607] gggg Unlocked AdvancedDroidEngines
+[24:636] gggg Unlocked TurboDroidEngines
+[24:761] gggg Unlocked MotionSensor
+[24:806] gggg Unlocked MiningCharge
+[24:967] gggg Unlocked AdvancedMotionSensor
+[06:294] Security Bought ShieldSuit
+[06:294] Security Bought CombatSuit
+[06:294] Security Bought HazmatSuit
+[06:294] Security Bought CombatSuit
+[06:382] Security Bought CombatSuit
+
+Frosky Placed 0 Greaters.
+--------------------------------

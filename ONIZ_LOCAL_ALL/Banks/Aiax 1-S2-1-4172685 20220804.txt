@@ -1,0 +1,23 @@
+Aiax HumanWinsNormal 29
+Aiax ZombieRank 1.1665
+Aiax VespeneHarvested 216740
+Aiax HumansRescued 47
+Aiax SecurityForcesKilled 1953
+Aiax ZombiesKilled 36456
+Aiax FuelDiverted 247
+Aiax HumanRank 4
+Aiax NumberOfTimesCaptured 84
+Aiax TurretsBuilt 310
+Aiax ZombieWins 2
+Aiax GamesLeft 2
+Aiax GamesPlayedAsHuman 64
+Aiax GamesPlayedAsZombie 4
+Aiax HumansCaptured 41
+Aiax K/D Ratio 434
+Aiax Average Marine Winrate 45%
+Aiax Average Fuel Diverts PerGame 3,86
+Aiax Average Vespene Harvested PerGame 3386,56
+Aiax Average Zombie Winrate 50%
+Aiax Average Security Kills Per Game 488
+Aiax Average Deaths PerGame 1,31
+Aiax Average Infestation Class Class 5

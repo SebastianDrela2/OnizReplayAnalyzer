@@ -1,0 +1,23 @@
+ArrImapirate HumanWinsNormal 119
+ArrImapirate ZombieRank 3
+ArrImapirate VespeneHarvested 934300
+ArrImapirate HumansRescued 51
+ArrImapirate SecurityForcesKilled 568
+ArrImapirate ZombiesKilled 116819
+ArrImapirate FuelDiverted 265
+ArrImapirate HumanRank 0
+ArrImapirate NumberOfTimesCaptured 263
+ArrImapirate TurretsBuilt 2418
+ArrImapirate ZombieWins 2
+ArrImapirate GamesLeft 151
+ArrImapirate GamesPlayedAsZombie 9
+ArrImapirate GamesPlayedAsHuman 370
+ArrImapirate HumansCaptured 19
+ArrImapirate K/D Ratio 444,18
+ArrImapirate Average Marine Winrate 32%
+ArrImapirate Average Fuel Diverts PerGame 0,72
+ArrImapirate Average Vespene Harvested PerGame 2525,14
+ArrImapirate Average Zombie Winrate 22%
+ArrImapirate Average Security Kills Per Game 63
+ArrImapirate Average Deaths PerGame 0,71
+ArrImapirate Average Infestation Class Class 2

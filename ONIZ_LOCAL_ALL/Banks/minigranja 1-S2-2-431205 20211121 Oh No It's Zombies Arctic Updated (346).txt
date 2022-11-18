@@ -1,0 +1,27 @@
+minigranja HumanWinsNormal 167
+minigranja LeftLastGameAsZombie 0
+minigranja ZombieRank 31
+minigranja PlayedRankedMode 1
+minigranja VespeneHarvested 971200
+minigranja HumansRescued 342
+minigranja SecurityForcesKilled 116791
+minigranja ZombiesKilled 233745
+minigranja FuelDiverted 1323
+minigranja PlayedRankedMode5.0 1
+minigranja HumanRank 6.6
+minigranja NumberOfTimesCaptured 997
+minigranja TurretsBuilt 2594
+minigranja ZombieWins 124
+minigranja GamesLeft 11
+minigranja GamesPlayedAsHuman 401
+minigranja GamesPlayedAsZombie 262
+minigranja HumansCaptured 2835
+minigranja PlayedRankedMode2.0 1
+minigranja K/D Ratio 234,45
+minigranja Average Marine Winrate 42%
+minigranja Average Fuel Diverts PerGame 3,3
+minigranja Average Vespene Harvested PerGame 2421,95
+minigranja Average Zombie Winrate 47%
+minigranja Average Security Kills Per Game 446
+minigranja Average Deaths PerGame 2,49
+minigranja Average Infestation Class Class 5

@@ -1,0 +1,23 @@
+Savvwah HumanWinsNormal 1
+Savvwah ZombieRank 0
+Savvwah VespeneHarvested 6600
+Savvwah HumansRescued 1
+Savvwah SecurityForcesKilled 0
+Savvwah ZombiesKilled 1468
+Savvwah FuelDiverted 0
+Savvwah HumanRank 2
+Savvwah NumberOfTimesCaptured 10
+Savvwah TurretsBuilt 15
+Savvwah ZombieWins 0
+Savvwah GamesLeft 1
+Savvwah GamesPlayedAsHuman 6
+Savvwah GamesPlayedAsZombie 0
+Savvwah HumansCaptured 0
+Savvwah K/D Ratio 146,8
+Savvwah Average Marine Winrate 17%
+Savvwah Average Fuel Diverts PerGame 0
+Savvwah Average Vespene Harvested PerGame 1100
+Savvwah Average Zombie Winrate NaN%
+Savvwah Average Security Kills Per Game NaN
+Savvwah Average Deaths PerGame 1,67
+Savvwah Average Infestation Class Class 1

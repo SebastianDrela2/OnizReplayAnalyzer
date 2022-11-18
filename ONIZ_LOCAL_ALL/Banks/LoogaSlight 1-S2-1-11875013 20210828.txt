@@ -1,0 +1,23 @@
+LoogaSlight HumanWinsNormal 10
+LoogaSlight ZombieRank 0
+LoogaSlight VespeneHarvested 97200
+LoogaSlight HumansRescued 12
+LoogaSlight SecurityForcesKilled 660
+LoogaSlight ZombiesKilled 15377
+LoogaSlight FuelDiverted 9
+LoogaSlight HumanRank -0.5
+LoogaSlight NumberOfTimesCaptured 106
+LoogaSlight TurretsBuilt 380
+LoogaSlight ZombieWins 1
+LoogaSlight GamesLeft 2
+LoogaSlight GamesPlayedAsHuman 40
+LoogaSlight GamesPlayedAsZombie 4
+LoogaSlight HumansCaptured 12
+LoogaSlight K/D Ratio 145,07
+LoogaSlight Average Marine Winrate 25%
+LoogaSlight Average Fuel Diverts PerGame 0,22
+LoogaSlight Average Vespene Harvested PerGame 2430
+LoogaSlight Average Zombie Winrate 25%
+LoogaSlight Average Security Kills Per Game 165
+LoogaSlight Average Deaths PerGame 2,65
+LoogaSlight Average Infestation Class Class 2

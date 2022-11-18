@@ -1,0 +1,23 @@
+Nation HumanWinsNormal 3
+Nation ZombieRank 0
+Nation VespeneHarvested 46100
+Nation HumansRescued 10
+Nation SecurityForcesKilled 332
+Nation ZombiesKilled 12704
+Nation FuelDiverted 18
+Nation HumanRank 0
+Nation NumberOfTimesCaptured 37
+Nation TurretsBuilt 213
+Nation ZombieWins 0
+Nation GamesLeft 3
+Nation GamesPlayedAsHuman 25
+Nation GamesPlayedAsZombie 2
+Nation HumansCaptured 6
+Nation K/D Ratio 343,35
+Nation Average Marine Winrate 12%
+Nation Average Fuel Diverts PerGame 0,72
+Nation Average Vespene Harvested PerGame 1844
+Nation Average Zombie Winrate 0%
+Nation Average Security Kills Per Game 166
+Nation Average Deaths PerGame 1,48
+Nation Average Infestation Class Class 2

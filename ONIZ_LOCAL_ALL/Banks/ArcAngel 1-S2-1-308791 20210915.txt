@@ -1,0 +1,23 @@
+ArcAngel HumanWinsNormal 3
+ArcAngel ZombieRank 0
+ArcAngel VespeneHarvested 12000
+ArcAngel HumansRescued 0
+ArcAngel SecurityForcesKilled 283
+ArcAngel ZombiesKilled 2997
+ArcAngel FuelDiverted 32
+ArcAngel HumanRank 1
+ArcAngel NumberOfTimesCaptured 0
+ArcAngel TurretsBuilt 43
+ArcAngel ZombieWins 1
+ArcAngel GamesLeft 0
+ArcAngel GamesPlayedAsHuman 3
+ArcAngel GamesPlayedAsZombie 1
+ArcAngel HumansCaptured 1
+ArcAngel K/D Ratio ∞
+ArcAngel Average Marine Winrate 100%
+ArcAngel Average Fuel Diverts PerGame 10,67
+ArcAngel Average Vespene Harvested PerGame 4000
+ArcAngel Average Zombie Winrate 100%
+ArcAngel Average Security Kills Per Game 283
+ArcAngel Average Deaths PerGame 0
+ArcAngel Average Infestation Class Class 3

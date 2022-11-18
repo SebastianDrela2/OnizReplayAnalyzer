@@ -1,0 +1,23 @@
+Dawnseeker HumanWinsNormal 21
+Dawnseeker ZombieRank 0
+Dawnseeker VespeneHarvested 115520
+Dawnseeker HumansRescued 34
+Dawnseeker SecurityForcesKilled 552
+Dawnseeker ZombiesKilled 33046
+Dawnseeker FuelDiverted 106
+Dawnseeker HumanRank 2.5
+Dawnseeker NumberOfTimesCaptured 97
+Dawnseeker TurretsBuilt 18
+Dawnseeker ZombieWins 0
+Dawnseeker GamesLeft 4
+Dawnseeker GamesPlayedAsHuman 55
+Dawnseeker GamesPlayedAsZombie 1
+Dawnseeker HumansCaptured 10
+Dawnseeker K/D Ratio 340,68
+Dawnseeker Average Marine Winrate 38%
+Dawnseeker Average Fuel Diverts PerGame 1,93
+Dawnseeker Average Vespene Harvested PerGame 2100,36
+Dawnseeker Average Zombie Winrate 0%
+Dawnseeker Average Security Kills Per Game 552
+Dawnseeker Average Deaths PerGame 1,76
+Dawnseeker Average Infestation Class Class 6

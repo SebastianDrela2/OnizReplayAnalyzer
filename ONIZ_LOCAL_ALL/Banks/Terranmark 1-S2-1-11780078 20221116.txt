@@ -1,0 +1,23 @@
+Terranmark HumanWinsNormal 1
+Terranmark ZombieRank 0
+Terranmark VespeneHarvested 11300
+Terranmark HumansRescued 0
+Terranmark SecurityForcesKilled 0
+Terranmark ZombiesKilled 2424
+Terranmark FuelDiverted 0
+Terranmark HumanRank 0
+Terranmark NumberOfTimesCaptured 5
+Terranmark TurretsBuilt 39
+Terranmark ZombieWins 0
+Terranmark GamesLeft 0
+Terranmark GamesPlayedAsHuman 4
+Terranmark GamesPlayedAsZombie 0
+Terranmark HumansCaptured 0
+Terranmark K/D Ratio 484,8
+Terranmark Average Marine Winrate 25%
+Terranmark Average Fuel Diverts PerGame 0
+Terranmark Average Vespene Harvested PerGame 2825
+Terranmark Average Zombie Winrate NaN%
+Terranmark Average Security Kills Per Game NaN
+Terranmark Average Deaths PerGame 1,25
+Terranmark Average Infestation Class Class 1

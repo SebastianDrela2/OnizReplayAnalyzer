@@ -1,0 +1,23 @@
+FirceShadow HumanWinsNormal 2
+FirceShadow ZombieRank 0
+FirceShadow VespeneHarvested 8300
+FirceShadow HumansRescued 4
+FirceShadow SecurityForcesKilled 0
+FirceShadow ZombiesKilled 2213
+FirceShadow FuelDiverted 22
+FirceShadow HumanRank 0
+FirceShadow NumberOfTimesCaptured 11
+FirceShadow TurretsBuilt 7
+FirceShadow ZombieWins 0
+FirceShadow GamesLeft 0
+FirceShadow GamesPlayedAsHuman 5
+FirceShadow GamesPlayedAsZombie 0
+FirceShadow HumansCaptured 0
+FirceShadow K/D Ratio 201,18
+FirceShadow Average Marine Winrate 40%
+FirceShadow Average Fuel Diverts PerGame 4,4
+FirceShadow Average Vespene Harvested PerGame 1660
+FirceShadow Average Zombie Winrate NaN%
+FirceShadow Average Security Kills Per Game NaN
+FirceShadow Average Deaths PerGame 2,2
+FirceShadow Average Infestation Class Class 1

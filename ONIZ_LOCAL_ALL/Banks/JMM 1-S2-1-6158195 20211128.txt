@@ -1,0 +1,23 @@
+JMM HumanWinsNormal 4
+JMM ZombieRank 0
+JMM VespeneHarvested 71100
+JMM HumansRescued 14
+JMM SecurityForcesKilled 230
+JMM ZombiesKilled 23193
+JMM FuelDiverted 29
+JMM HumanRank 0
+JMM NumberOfTimesCaptured 24
+JMM TurretsBuilt 81
+JMM ZombieWins 0
+JMM GamesLeft 1
+JMM GamesPlayedAsHuman 31
+JMM GamesPlayedAsZombie 1
+JMM HumansCaptured 8
+JMM K/D Ratio 966,38
+JMM Average Marine Winrate 13%
+JMM Average Fuel Diverts PerGame 0,94
+JMM Average Vespene Harvested PerGame 2293,55
+JMM Average Zombie Winrate 0%
+JMM Average Security Kills Per Game 230
+JMM Average Deaths PerGame 0,77
+JMM Average Infestation Class Class 3

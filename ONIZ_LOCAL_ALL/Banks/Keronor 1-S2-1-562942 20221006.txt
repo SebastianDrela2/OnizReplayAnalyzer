@@ -1,0 +1,23 @@
+Keronor HumanWinsNormal 11
+Keronor ZombieRank 10.9997
+Keronor VespeneHarvested 87460
+Keronor HumansRescued 13
+Keronor SecurityForcesKilled 6599
+Keronor ZombiesKilled 18319
+Keronor FuelDiverted 16
+Keronor HumanRank 2.35
+Keronor NumberOfTimesCaptured 27
+Keronor TurretsBuilt 28
+Keronor ZombieWins 8
+Keronor GamesLeft 1
+Keronor GamesPlayedAsHuman 28
+Keronor GamesPlayedAsZombie 15
+Keronor HumansCaptured 116
+Keronor K/D Ratio 678,48
+Keronor Average Marine Winrate 39%
+Keronor Average Fuel Diverts PerGame 0,57
+Keronor Average Vespene Harvested PerGame 3123,57
+Keronor Average Zombie Winrate 53%
+Keronor Average Security Kills Per Game 440
+Keronor Average Deaths PerGame 0,96
+Keronor Average Infestation Class Class 5

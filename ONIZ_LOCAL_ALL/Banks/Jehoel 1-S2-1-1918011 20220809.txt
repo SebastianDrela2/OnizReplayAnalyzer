@@ -1,0 +1,23 @@
+Jehoel HumanWinsNormal 22
+Jehoel ZombieRank 0
+Jehoel VespeneHarvested 157920
+Jehoel HumansRescued 27
+Jehoel SecurityForcesKilled 513
+Jehoel ZombiesKilled 25018
+Jehoel FuelDiverted 96
+Jehoel HumanRank 0
+Jehoel NumberOfTimesCaptured 72
+Jehoel TurretsBuilt 347
+Jehoel ZombieWins 0
+Jehoel GamesLeft 10
+Jehoel GamesPlayedAsHuman 59
+Jehoel GamesPlayedAsZombie 1
+Jehoel HumansCaptured 1
+Jehoel K/D Ratio 347,47
+Jehoel Average Marine Winrate 37%
+Jehoel Average Fuel Diverts PerGame 1,63
+Jehoel Average Vespene Harvested PerGame 2676,61
+Jehoel Average Zombie Winrate 0%
+Jehoel Average Security Kills Per Game 513
+Jehoel Average Deaths PerGame 1,22
+Jehoel Average Infestation Class Class 5

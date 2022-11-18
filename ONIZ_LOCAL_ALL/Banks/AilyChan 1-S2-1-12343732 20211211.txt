@@ -1,0 +1,23 @@
+AilyChan HumanWinsNormal 1
+AilyChan ZombieRank 0
+AilyChan VespeneHarvested 2000
+AilyChan HumansRescued 0
+AilyChan SecurityForcesKilled 0
+AilyChan ZombiesKilled 1074
+AilyChan FuelDiverted 5
+AilyChan HumanRank 1
+AilyChan NumberOfTimesCaptured 9
+AilyChan TurretsBuilt 11
+AilyChan ZombieWins 0
+AilyChan GamesLeft 0
+AilyChan GamesPlayedAsHuman 2
+AilyChan GamesPlayedAsZombie 0
+AilyChan HumansCaptured 0
+AilyChan K/D Ratio 119,33
+AilyChan Average Marine Winrate 50%
+AilyChan Average Fuel Diverts PerGame 2,5
+AilyChan Average Vespene Harvested PerGame 1000
+AilyChan Average Zombie Winrate NaN%
+AilyChan Average Security Kills Per Game NaN
+AilyChan Average Deaths PerGame 4,5
+AilyChan Average Infestation Class Class 1

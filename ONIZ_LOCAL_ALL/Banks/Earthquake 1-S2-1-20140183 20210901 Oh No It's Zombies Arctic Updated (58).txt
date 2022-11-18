@@ -1,0 +1,23 @@
+Earthquake HumanWinsNormal 3
+Earthquake ZombieRank 0
+Earthquake VespeneHarvested 7500
+Earthquake HumansRescued 1
+Earthquake SecurityForcesKilled 0
+Earthquake ZombiesKilled 2021
+Earthquake FuelDiverted 1
+Earthquake HumanRank 0.5
+Earthquake NumberOfTimesCaptured 5
+Earthquake TurretsBuilt 16
+Earthquake ZombieWins 0
+Earthquake GamesLeft 0
+Earthquake GamesPlayedAsHuman 5
+Earthquake GamesPlayedAsZombie 0
+Earthquake HumansCaptured 0
+Earthquake K/D Ratio 404,2
+Earthquake Average Marine Winrate 60%
+Earthquake Average Fuel Diverts PerGame 0,2
+Earthquake Average Vespene Harvested PerGame 1500
+Earthquake Average Zombie Winrate NaN%
+Earthquake Average Security Kills Per Game NaN
+Earthquake Average Deaths PerGame 1
+Earthquake Average Infestation Class Class 1

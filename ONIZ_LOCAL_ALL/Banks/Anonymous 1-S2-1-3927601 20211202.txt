@@ -1,0 +1,23 @@
+Anonymous HumanWinsNormal 4
+Anonymous ZombieRank 0
+Anonymous VespeneHarvested 11500
+Anonymous HumansRescued 4
+Anonymous SecurityForcesKilled 0
+Anonymous ZombiesKilled 3207
+Anonymous FuelDiverted 6
+Anonymous HumanRank 2.5
+Anonymous NumberOfTimesCaptured 7
+Anonymous TurretsBuilt 29
+Anonymous ZombieWins 0
+Anonymous GamesLeft 0
+Anonymous GamesPlayedAsHuman 5
+Anonymous GamesPlayedAsZombie 0
+Anonymous HumansCaptured 0
+Anonymous K/D Ratio 458,14
+Anonymous Average Marine Winrate 80%
+Anonymous Average Fuel Diverts PerGame 1,2
+Anonymous Average Vespene Harvested PerGame 2300
+Anonymous Average Zombie Winrate NaN%
+Anonymous Average Security Kills Per Game NaN
+Anonymous Average Deaths PerGame 1,4
+Anonymous Average Infestation Class Class 1

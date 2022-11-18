@@ -1,0 +1,23 @@
+binghong HumanWinsNormal 4
+binghong ZombieRank 0
+binghong VespeneHarvested 21300
+binghong HumansRescued 21
+binghong SecurityForcesKilled 0
+binghong ZombiesKilled 5635
+binghong FuelDiverted 7
+binghong HumanRank 1.5
+binghong NumberOfTimesCaptured 35
+binghong TurretsBuilt 79
+binghong ZombieWins 0
+binghong GamesLeft 0
+binghong GamesPlayedAsHuman 12
+binghong GamesPlayedAsZombie 0
+binghong HumansCaptured 0
+binghong K/D Ratio 161
+binghong Average Marine Winrate 33%
+binghong Average Fuel Diverts PerGame 0,58
+binghong Average Vespene Harvested PerGame 1775
+binghong Average Zombie Winrate NaN%
+binghong Average Security Kills Per Game NaN
+binghong Average Deaths PerGame 2,92
+binghong Average Infestation Class Class 1

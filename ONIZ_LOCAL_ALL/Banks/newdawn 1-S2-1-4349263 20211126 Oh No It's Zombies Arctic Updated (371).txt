@@ -1,0 +1,23 @@
+newdawn HumanWinsNormal 14
+newdawn ZombieRank 0
+newdawn VespeneHarvested 99800
+newdawn HumansRescued 48
+newdawn SecurityForcesKilled 687
+newdawn ZombiesKilled 21493
+newdawn FuelDiverted 16
+newdawn HumanRank -0.6665
+newdawn NumberOfTimesCaptured 91
+newdawn TurretsBuilt 252
+newdawn ZombieWins 1
+newdawn GamesLeft 1
+newdawn GamesPlayedAsHuman 39
+newdawn GamesPlayedAsZombie 2
+newdawn HumansCaptured 6
+newdawn K/D Ratio 236,19
+newdawn Average Marine Winrate 36%
+newdawn Average Fuel Diverts PerGame 0,41
+newdawn Average Vespene Harvested PerGame 2558,97
+newdawn Average Zombie Winrate 50%
+newdawn Average Security Kills Per Game 344
+newdawn Average Deaths PerGame 2,33
+newdawn Average Infestation Class Class 4

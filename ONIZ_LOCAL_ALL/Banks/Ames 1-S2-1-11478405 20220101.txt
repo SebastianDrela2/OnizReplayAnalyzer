@@ -1,0 +1,23 @@
+Ames HumanWinsNormal 1
+Ames ZombieRank 0
+Ames VespeneHarvested 6000
+Ames HumansRescued 4
+Ames SecurityForcesKilled 474
+Ames ZombiesKilled 808
+Ames FuelDiverted 3
+Ames HumanRank 2
+Ames NumberOfTimesCaptured 15
+Ames TurretsBuilt 15
+Ames ZombieWins 1
+Ames GamesLeft 2
+Ames GamesPlayedAsHuman 6
+Ames GamesPlayedAsZombie 2
+Ames HumansCaptured 0
+Ames K/D Ratio 53,87
+Ames Average Marine Winrate 17%
+Ames Average Fuel Diverts PerGame 0,5
+Ames Average Vespene Harvested PerGame 1000
+Ames Average Zombie Winrate 50%
+Ames Average Security Kills Per Game 237
+Ames Average Deaths PerGame 2,5
+Ames Average Infestation Class Class 3

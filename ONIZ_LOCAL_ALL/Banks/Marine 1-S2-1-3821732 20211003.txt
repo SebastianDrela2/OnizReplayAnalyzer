@@ -1,0 +1,23 @@
+Marine HumanWinsNormal 26
+Marine ZombieRank 15.1665
+Marine VespeneHarvested 142500
+Marine HumansRescued 49
+Marine SecurityForcesKilled 3236
+Marine ZombiesKilled 38748
+Marine FuelDiverted 199
+Marine HumanRank 7.4335
+Marine NumberOfTimesCaptured 103
+Marine TurretsBuilt 416
+Marine ZombieWins 6
+Marine GamesLeft 2
+Marine GamesPlayedAsHuman 54
+Marine GamesPlayedAsZombie 7
+Marine HumansCaptured 111
+Marine K/D Ratio 376,19
+Marine Average Marine Winrate 48%
+Marine Average Fuel Diverts PerGame 3,69
+Marine Average Vespene Harvested PerGame 2638,89
+Marine Average Zombie Winrate 86%
+Marine Average Security Kills Per Game 462
+Marine Average Deaths PerGame 1,91
+Marine Average Infestation Class Class 5

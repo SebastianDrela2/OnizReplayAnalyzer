@@ -1,0 +1,23 @@
+DARKNESS HumanWinsNormal 5
+DARKNESS ZombieRank 0
+DARKNESS VespeneHarvested 24800
+DARKNESS HumansRescued 7
+DARKNESS SecurityForcesKilled 0
+DARKNESS ZombiesKilled 8549
+DARKNESS FuelDiverted 2
+DARKNESS HumanRank 2.5
+DARKNESS NumberOfTimesCaptured 15
+DARKNESS TurretsBuilt 39
+DARKNESS ZombieWins 0
+DARKNESS GamesLeft 1
+DARKNESS GamesPlayedAsHuman 9
+DARKNESS GamesPlayedAsZombie 0
+DARKNESS HumansCaptured 0
+DARKNESS K/D Ratio 569,93
+DARKNESS Average Marine Winrate 56,00000000000001%
+DARKNESS Average Fuel Diverts PerGame 0,22
+DARKNESS Average Vespene Harvested PerGame 2755,56
+DARKNESS Average Zombie Winrate NaN%
+DARKNESS Average Security Kills Per Game NaN
+DARKNESS Average Deaths PerGame 1,67
+DARKNESS Average Infestation Class Class 1

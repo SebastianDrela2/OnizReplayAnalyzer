@@ -1,0 +1,23 @@
+Toxicpanda HumanWinsNormal 121
+Toxicpanda ZombieRank 22.6665
+Toxicpanda VespeneHarvested 773210
+Toxicpanda HumansRescued 72
+Toxicpanda SecurityForcesKilled 92110
+Toxicpanda ZombiesKilled 171461
+Toxicpanda FuelDiverted 709
+Toxicpanda HumanRank 0
+Toxicpanda NumberOfTimesCaptured 595
+Toxicpanda TurretsBuilt 1065
+Toxicpanda ZombieWins 119
+Toxicpanda GamesLeft 21
+Toxicpanda GamesPlayedAsHuman 289
+Toxicpanda GamesPlayedAsZombie 220
+Toxicpanda HumansCaptured 1507
+Toxicpanda K/D Ratio 288,17
+Toxicpanda Average Marine Winrate 42%
+Toxicpanda Average Fuel Diverts PerGame 2,45
+Toxicpanda Average Vespene Harvested PerGame 2675,47
+Toxicpanda Average Zombie Winrate 54%
+Toxicpanda Average Security Kills Per Game 419
+Toxicpanda Average Deaths PerGame 2,06
+Toxicpanda Average Infestation Class Class 5

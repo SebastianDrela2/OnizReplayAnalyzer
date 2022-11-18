@@ -1,0 +1,23 @@
+Snap HumanWinsNormal 53
+Snap ZombieRank 0
+Snap VespeneHarvested 674000
+Snap HumansRescued 140
+Snap SecurityForcesKilled 30394
+Snap ZombiesKilled 137082
+Snap FuelDiverted 574
+Snap HumanRank 0
+Snap NumberOfTimesCaptured 371
+Snap TurretsBuilt 831
+Snap ZombieWins 35
+Snap GamesLeft 12
+Snap GamesPlayedAsHuman 213
+Snap GamesPlayedAsZombie 73
+Snap HumansCaptured 552
+Snap K/D Ratio 369,49
+Snap Average Marine Winrate 25%
+Snap Average Fuel Diverts PerGame 2,69
+Snap Average Vespene Harvested PerGame 3164,32
+Snap Average Zombie Winrate 48%
+Snap Average Security Kills Per Game 416
+Snap Average Deaths PerGame 1,74
+Snap Average Infestation Class Class 5

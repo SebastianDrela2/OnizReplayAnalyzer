@@ -1,0 +1,25 @@
+Deeproat HumanWinsNormal 89
+Deeproat LeftLastGameAsZombie 0
+Deeproat ZombieRank 0.4995
+Deeproat VespeneHarvested 537200
+Deeproat HumansRescued 133
+Deeproat SecurityForcesKilled 21705
+Deeproat ZombiesKilled 97411
+Deeproat FuelDiverted 267
+Deeproat PlayedRankedMode5.0 1
+Deeproat HumanRank 2.125
+Deeproat NumberOfTimesCaptured 244
+Deeproat TurretsBuilt 1221
+Deeproat ZombieWins 15
+Deeproat GamesLeft 6
+Deeproat GamesPlayedAsHuman 178
+Deeproat GamesPlayedAsZombie 56
+Deeproat HumansCaptured 516
+Deeproat K/D Ratio 399,23
+Deeproat Average Marine Winrate 50%
+Deeproat Average Fuel Diverts PerGame 1,5
+Deeproat Average Vespene Harvested PerGame 3017,98
+Deeproat Average Zombie Winrate 27%
+Deeproat Average Security Kills Per Game 388
+Deeproat Average Deaths PerGame 1,37
+Deeproat Average Infestation Class Class 4

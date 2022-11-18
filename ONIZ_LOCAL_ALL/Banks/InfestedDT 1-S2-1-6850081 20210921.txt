@@ -1,0 +1,23 @@
+InfestedDT HumanWinsNormal 6
+InfestedDT ZombieRank 0
+InfestedDT VespeneHarvested 32100
+InfestedDT HumansRescued 17
+InfestedDT SecurityForcesKilled 0
+InfestedDT ZombiesKilled 5217
+InfestedDT FuelDiverted 18
+InfestedDT HumanRank 5.5
+InfestedDT NumberOfTimesCaptured 21
+InfestedDT TurretsBuilt 59
+InfestedDT ZombieWins 0
+InfestedDT GamesLeft 2
+InfestedDT GamesPlayedAsHuman 12
+InfestedDT GamesPlayedAsZombie 0
+InfestedDT HumansCaptured 0
+InfestedDT K/D Ratio 248,43
+InfestedDT Average Marine Winrate 50%
+InfestedDT Average Fuel Diverts PerGame 1,5
+InfestedDT Average Vespene Harvested PerGame 2675
+InfestedDT Average Zombie Winrate NaN%
+InfestedDT Average Security Kills Per Game NaN
+InfestedDT Average Deaths PerGame 1,75
+InfestedDT Average Infestation Class Class 1

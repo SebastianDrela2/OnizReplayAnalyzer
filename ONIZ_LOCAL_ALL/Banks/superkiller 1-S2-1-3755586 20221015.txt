@@ -1,0 +1,23 @@
+superkiller HumanWinsNormal 17
+superkiller ZombieRank -0.6667
+superkiller VespeneHarvested 116480
+superkiller HumansRescued 28
+superkiller SecurityForcesKilled 761
+superkiller ZombiesKilled 29748
+superkiller FuelDiverted 34
+superkiller HumanRank 1
+superkiller NumberOfTimesCaptured 87
+superkiller TurretsBuilt 111
+superkiller ZombieWins 0
+superkiller GamesLeft 0
+superkiller GamesPlayedAsHuman 49
+superkiller GamesPlayedAsZombie 2
+superkiller HumansCaptured 8
+superkiller K/D Ratio 341,93
+superkiller Average Marine Winrate 35%
+superkiller Average Fuel Diverts PerGame 0,69
+superkiller Average Vespene Harvested PerGame 2377,14
+superkiller Average Zombie Winrate 0%
+superkiller Average Security Kills Per Game 380
+superkiller Average Deaths PerGame 1,78
+superkiller Average Infestation Class Class 4

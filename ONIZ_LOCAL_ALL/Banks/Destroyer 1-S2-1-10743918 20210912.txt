@@ -1,0 +1,23 @@
+Destroyer HumanWinsNormal 0
+Destroyer ZombieRank 0
+Destroyer VespeneHarvested 2900
+Destroyer HumansRescued 1
+Destroyer SecurityForcesKilled 0
+Destroyer ZombiesKilled 703
+Destroyer FuelDiverted 2
+Destroyer HumanRank 0
+Destroyer NumberOfTimesCaptured 2
+Destroyer TurretsBuilt 1
+Destroyer ZombieWins 0
+Destroyer GamesLeft 2
+Destroyer GamesPlayedAsHuman 3
+Destroyer GamesPlayedAsZombie 0
+Destroyer HumansCaptured 0
+Destroyer K/D Ratio 351,5
+Destroyer Average Marine Winrate 0%
+Destroyer Average Fuel Diverts PerGame 0,67
+Destroyer Average Vespene Harvested PerGame 966,67
+Destroyer Average Zombie Winrate NaN%
+Destroyer Average Security Kills Per Game NaN
+Destroyer Average Deaths PerGame 0,67
+Destroyer Average Infestation Class Class 1

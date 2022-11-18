@@ -1,0 +1,25 @@
+GustavAldogg HumanWinsNormal 46
+GustavAldogg LeftLastGameAsZombie 0
+GustavAldogg ZombieRank 0
+GustavAldogg VespeneHarvested 215475
+GustavAldogg HumansRescued 87
+GustavAldogg SecurityForcesKilled 0
+GustavAldogg ZombiesKilled 57730
+GustavAldogg FuelDiverted 243
+GustavAldogg PlayedRankedMode5.0 1
+GustavAldogg HumanRank 24
+GustavAldogg NumberOfTimesCaptured 186
+GustavAldogg TurretsBuilt 258
+GustavAldogg ZombieWins 0
+GustavAldogg GamesLeft 8
+GustavAldogg GamesPlayedAsHuman 84
+GustavAldogg GamesPlayedAsZombie 2
+GustavAldogg HumansCaptured 0
+GustavAldogg K/D Ratio 310,38
+GustavAldogg Average Marine Winrate 55,00000000000001%
+GustavAldogg Average Fuel Diverts PerGame 2,89
+GustavAldogg Average Vespene Harvested PerGame 2565,18
+GustavAldogg Average Zombie Winrate 0%
+GustavAldogg Average Security Kills Per Game 0
+GustavAldogg Average Deaths PerGame 2,21
+GustavAldogg Average Infestation Class Class 1

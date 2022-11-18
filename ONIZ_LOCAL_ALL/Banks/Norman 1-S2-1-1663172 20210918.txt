@@ -1,0 +1,25 @@
+Norman HumanWinsNormal 8
+Norman LeftLastGameAsZombie 0
+Norman ZombieRank 0
+Norman VespeneHarvested 60900
+Norman HumansRescued 6
+Norman SecurityForcesKilled 0
+Norman ZombiesKilled 9816
+Norman FuelDiverted 13
+Norman PlayedRankedMode5.0 1
+Norman HumanRank 0
+Norman NumberOfTimesCaptured 38
+Norman TurretsBuilt 140
+Norman ZombieWins 0
+Norman GamesLeft 0
+Norman GamesPlayedAsHuman 22
+Norman GamesPlayedAsZombie 0
+Norman HumansCaptured 0
+Norman K/D Ratio 258,32
+Norman Average Marine Winrate 36%
+Norman Average Fuel Diverts PerGame 0,59
+Norman Average Vespene Harvested PerGame 2768,18
+Norman Average Zombie Winrate NaN%
+Norman Average Security Kills Per Game NaN
+Norman Average Deaths PerGame 1,73
+Norman Average Infestation Class Class 1

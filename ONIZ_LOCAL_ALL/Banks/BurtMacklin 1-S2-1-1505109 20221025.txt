@@ -1,0 +1,23 @@
+BurtMacklin HumanWinsNormal 27
+BurtMacklin ZombieRank 0.1667
+BurtMacklin VespeneHarvested 88620
+BurtMacklin HumansRescued 28
+BurtMacklin SecurityForcesKilled 0
+BurtMacklin ZombiesKilled 35360
+BurtMacklin FuelDiverted 17
+BurtMacklin HumanRank 17
+BurtMacklin NumberOfTimesCaptured 50
+BurtMacklin TurretsBuilt 50
+BurtMacklin ZombieWins 0
+BurtMacklin GamesLeft 2
+BurtMacklin GamesPlayedAsHuman 45
+BurtMacklin GamesPlayedAsZombie 3
+BurtMacklin HumansCaptured 1
+BurtMacklin K/D Ratio 707,2
+BurtMacklin Average Marine Winrate 60%
+BurtMacklin Average Fuel Diverts PerGame 0,38
+BurtMacklin Average Vespene Harvested PerGame 1969,33
+BurtMacklin Average Zombie Winrate 0%
+BurtMacklin Average Security Kills Per Game 0
+BurtMacklin Average Deaths PerGame 1,11
+BurtMacklin Average Infestation Class Class 1

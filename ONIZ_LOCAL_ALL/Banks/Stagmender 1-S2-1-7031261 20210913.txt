@@ -1,0 +1,23 @@
+Stagmender HumanWinsNormal 11
+Stagmender ZombieRank 4.6665
+Stagmender VespeneHarvested 47500
+Stagmender HumansRescued 35
+Stagmender SecurityForcesKilled 5224
+Stagmender ZombiesKilled 15534
+Stagmender FuelDiverted 77
+Stagmender HumanRank 0.25
+Stagmender NumberOfTimesCaptured 91
+Stagmender TurretsBuilt 120
+Stagmender ZombieWins 6
+Stagmender GamesLeft 3
+Stagmender GamesPlayedAsHuman 29
+Stagmender GamesPlayedAsZombie 13
+Stagmender HumansCaptured 125
+Stagmender K/D Ratio 170,7
+Stagmender Average Marine Winrate 38%
+Stagmender Average Fuel Diverts PerGame 2,66
+Stagmender Average Vespene Harvested PerGame 1637,93
+Stagmender Average Zombie Winrate 46%
+Stagmender Average Security Kills Per Game 402
+Stagmender Average Deaths PerGame 3,14
+Stagmender Average Infestation Class Class 4

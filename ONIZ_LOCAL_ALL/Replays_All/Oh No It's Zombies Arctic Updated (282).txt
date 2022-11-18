@@ -1,0 +1,34 @@
+Analyzed: Oh No It's Zombies Arctic Updated (282)
+
+ID : 0 PlayerName: Frosky Race: Zerg
+ID : 7 PlayerName: Security Race: Infested Terran
+Frosky Zombie Win
+Public Lobby
+
+Game Length:[26:002]
+Players ammount: 2
+Marine rank avg: 2,5
+GrandMaster ammount: 1
+PURCHASES: 
+[00:649] Frosky Spawned MassiveCocoon
+[01:713] Frosky Bought UnlockDropPods
+[02:250] Frosky Bought EvolveDropPods
+[03:062] Frosky Bought EvolveDropPods
+[03:213] Frosky Bought EvolveDropPods
+[03:838] Frosky Bought EvolveDropPods
+[03:841] Frosky Bought EvolveDropPods
+[04:346] Frosky Bought EvolveDropPods
+[06:864] Frosky Bought StrainVolatile
+[08:480] Frosky Bought PureStrainVolatile
+[10:458] Frosky Bought StrainVolatile
+[12:011] Frosky Bought VirulentCreep
+[13:457] Frosky Bought PureStrainVolatile
+[15:013] Frosky Bought CreepSpeed
+[17:781] Frosky Bought StrainVolatile
+[19:581] Frosky Bought CreepSpeed
+[21:599] Frosky Bought StrainHealth
+[24:163] Frosky Bought PureStrainHealth
+[24:392] Frosky Bought StrainDamage
+
+Frosky Placed 0 Greaters.
+--------------------------------

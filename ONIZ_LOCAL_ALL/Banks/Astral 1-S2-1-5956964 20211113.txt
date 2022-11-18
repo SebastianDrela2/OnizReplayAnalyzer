@@ -1,0 +1,23 @@
+Astral HumanWinsNormal 41
+Astral ZombieRank 0
+Astral VespeneHarvested 164900
+Astral HumansRescued 67
+Astral SecurityForcesKilled 929
+Astral ZombiesKilled 54398
+Astral FuelDiverted 96
+Astral HumanRank 1.5
+Astral NumberOfTimesCaptured 270
+Astral TurretsBuilt 181
+Astral ZombieWins 0
+Astral GamesLeft 22
+Astral GamesPlayedAsHuman 120
+Astral GamesPlayedAsZombie 4
+Astral HumansCaptured 30
+Astral K/D Ratio 201,47
+Astral Average Marine Winrate 34%
+Astral Average Fuel Diverts PerGame 0,8
+Astral Average Vespene Harvested PerGame 1374,17
+Astral Average Zombie Winrate 0%
+Astral Average Security Kills Per Game 232
+Astral Average Deaths PerGame 2,25
+Astral Average Infestation Class Class 3

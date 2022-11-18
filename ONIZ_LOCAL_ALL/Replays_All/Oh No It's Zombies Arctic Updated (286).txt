@@ -1,0 +1,130 @@
+Analyzed: Oh No It's Zombies Arctic Updated (286)
+
+ID : 0 PlayerName: Mochi Race: Terran
+ID : 1 PlayerName: Thingy Race: Terran
+ID : 2 PlayerName: Amon Race: Terran
+ID : 3 PlayerName: Danny Race: Zerg
+ID : 4 PlayerName: Frosky Race: Terran
+ID : 5 PlayerName: Tin Race: Terran
+ID : 6 PlayerName: Marine Race: Terran
+ID : 7 PlayerName: Security Race: Zerg
+Danny Zombie Win
+Public Lobby
+
+Game Length:[16:306]
+Players ammount: 8
+Marine rank avg: 7,166666666666667
+GrandMaster ammount: 2
+PURCHASES: 
+[00:588] Mochi Unlocked AssaultRifle
+[00:745] Mochi Placed/Upgraded MiningDroid
+[00:778] Mochi Unlocked AdvancedDroidEngines
+[04:082] Mochi Unlocked TurboDroidEngines
+[05:232] Mochi Unlocked CombatSuit
+[06:493] Mochi Unlocked AdvancedCombatSuit
+[08:510] Mochi Unlocked BeamRifle
+[09:740] Mochi Unlocked SpecOpsPlasmaRifle
+[10:945] Mochi Unlocked OverloadWeapon
+[12:308] Mochi Unlocked CorrosivePlasma
+[14:008] Mochi Unlocked MedicShield
+[14:090] Mochi Unlocked AIAssistant
+[00:588] Thingy Unlocked AssaultRifle
+[00:710] Thingy Placed/Upgraded MiningDroid
+[00:791] Thingy Unlocked AdvancedDroidEngines
+[03:880] Thingy Unlocked BeamRifle
+[05:233] Thingy Bought ShieldSuit
+[05:233] Thingy Bought CombatSuit
+[05:233] Thingy Bought HazmatSuit
+[05:233] Thingy Bought CombatSuit
+[06:494] Thingy Bought CombatSuit
+[07:640] Thingy Unlocked SpecOpsPlasmaRifle
+[07:708] Thingy Unlocked MedicShield
+[07:823] Thingy Unlocked Stimpack
+[10:814] Thingy Unlocked CorrosivePlasma
+[00:588] Amon Unlocked AssaultRifle
+[00:683] Amon Placed MiningDroid
+[00:755] Amon Unlocked AdvancedDroidEngines
+[03:831] Amon Unlocked BeamRifle
+[03:993] Amon Unlocked MedicShield
+[05:920] Amon Unlocked SpecOpsPlasmaRifle
+[08:217] Amon Unlocked PlasmaRifleMod3
+[08:806] Amon Unlocked CombatSuit
+[10:603] Amon Unlocked AdvancedCombatSuit
+[10:659] Amon Unlocked AIAssistant
+[13:951] Amon Unlocked MiningCharge
+[13:974] Amon Unlocked AdvancedMiningCharge
+[14:065] Amon Placed NukePack
+[00:552] Danny Bought PlayerNumber
+[01:009] Danny Spawned MassiveCocoon
+[02:278] Danny Bought StrainHealth
+[02:449] Danny Spawned Anubalisk
+[03:628] Danny Bought PureStrainHealth
+[05:347] Danny Bought CreepSpeed
+[07:192] Danny Bought TankStrain
+[08:738] Danny Bought UnlockDropPods
+[08:745] Danny Bought EvolveDropPods
+[08:807] Danny Bought ShieldSuit
+[08:807] Danny Bought CombatSuit
+[08:807] Danny Bought HazmatSuit
+[08:807] Danny Bought CombatSuit
+[09:600] Danny Bought EvolveDropPods
+[09:615] Danny Bought EvolveDropPods
+[10:356] Danny Bought EvolveDropPods
+[10:604] Danny Bought CombatSuit
+[11:217] Danny Bought EvolveDropPods
+[12:305] Danny Spawned MassiveCocoon
+[13:077] Danny Placed/Upgraded PrimalSunkenColony
+[13:078] Danny Bought SunkenColony
+[00:588] Frosky Unlocked AssaultRifle
+[00:775] Frosky Unlocked ArcWelder
+[00:807] Frosky Placed/Upgraded MiningDroid
+[02:439] Frosky Unlocked BioMechanicalRepairDrone
+[02:533] Frosky Unlocked CombatAccelerationDrone
+[02:583] Frosky Placed/Upgraded HealingDrone
+[03:585] Frosky Placed/Upgraded HealingDrone
+[03:830] Frosky Placed/Upgraded HealingDrone
+[03:978] Frosky Placed/Upgraded HealingDrone
+[04:303] Frosky Placed/Upgraded HealingDrone
+[04:629] Frosky Unlocked AdvancedDroidEngines
+[06:041] Frosky Unlocked TurboDroidEngines
+[06:825] Frosky Unlocked PsiDisrupter
+[07:164] Frosky Placed/Upgraded PsiIndoctrinator
+[08:014] Frosky Unlocked ExplorationDroid
+[08:047] Frosky Placed/Upgraded ExplorationDroid
+[08:116] Frosky Placed/Upgraded ExplorationDroid
+[09:084] Frosky Placed/Upgraded ExplorationDroid
+[09:517] Frosky Placed/Upgraded PsiIndoctrinator
+[10:677] Frosky Placed/Upgraded PsiIndoctrinator
+[11:734] Frosky Placed/Upgraded HealingDrone
+[12:064] Frosky Placed/Upgraded HealingDrone
+[14:469] Frosky Placed/Upgraded MiningDroid
+[00:588] Tin Unlocked AssaultRifle
+[00:689] Tin Placed/Upgraded MiningDroid
+[01:022] Tin Unlocked AdvancedDroidEngines
+[03:181] Tin Unlocked HellfireRocketLauncher
+[04:509] Tin Unlocked SpecOpsHellfireRocketLauncher
+[06:638] Tin Unlocked Stimpack
+[06:667] Tin Unlocked BioMechanicalRepairDrone
+[07:061] Tin Placed/Upgraded HealingDrone
+[08:859] Tin Unlocked SuperStimpack
+[12:594] Tin Placed/Upgraded HealingDrone
+[12:788] Tin Unlocked ShockwaveMissiles
+[13:992] Tin Placed/Upgraded MiningDroid
+[14:268] Tin Placed/Upgraded HealingDrone
+[00:588] Marine Unlocked AssaultRifle
+[00:929] Marine Unlocked AdvancedDroidEngines
+[03:731] Marine Unlocked SpecOpsAssaultRifle
+[05:540] Marine Unlocked OverloadWeapon
+[08:340] Marine Unlocked AutoTargetingSystem
+[11:116] Marine Unlocked CombatSuit
+[11:122] Marine Unlocked AdvancedCombatSuit
+[12:488] Marine Unlocked TurboDroidEngines
+[11:117] Security Bought ShieldSuit
+[11:117] Security Bought CombatSuit
+[11:117] Security Bought HazmatSuit
+[11:117] Security Bought CombatSuit
+[11:123] Security Bought CombatSuit
+Danny First Alpha Anubalisk |  Win
+
+Danny Placed 0 Greaters.
+--------------------------------

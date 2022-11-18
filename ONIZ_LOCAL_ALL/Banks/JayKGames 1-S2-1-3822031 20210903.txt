@@ -1,0 +1,23 @@
+JayKGames HumanWinsNormal 9
+JayKGames ZombieRank 0
+JayKGames VespeneHarvested 50100
+JayKGames HumansRescued 16
+JayKGames SecurityForcesKilled 0
+JayKGames ZombiesKilled 8590
+JayKGames FuelDiverted 41
+JayKGames HumanRank 11.5
+JayKGames NumberOfTimesCaptured 13
+JayKGames TurretsBuilt 137
+JayKGames ZombieWins 0
+JayKGames GamesLeft 2
+JayKGames GamesPlayedAsHuman 15
+JayKGames GamesPlayedAsZombie 1
+JayKGames HumansCaptured 0
+JayKGames K/D Ratio 660,77
+JayKGames Average Marine Winrate 60%
+JayKGames Average Fuel Diverts PerGame 2,73
+JayKGames Average Vespene Harvested PerGame 3340
+JayKGames Average Zombie Winrate 0%
+JayKGames Average Security Kills Per Game 0
+JayKGames Average Deaths PerGame 0,87
+JayKGames Average Infestation Class Class 1

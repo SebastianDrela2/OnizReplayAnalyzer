@@ -1,0 +1,25 @@
+Kerncobb HumanWinsNormal 12
+Kerncobb LeftLastGameAsZombie 0
+Kerncobb ZombieRank 2.1665
+Kerncobb VespeneHarvested 89220
+Kerncobb HumansRescued 14
+Kerncobb SecurityForcesKilled 4202
+Kerncobb ZombiesKilled 19324
+Kerncobb FuelDiverted 129
+Kerncobb PlayedRankedMode5.0 1
+Kerncobb HumanRank 6
+Kerncobb NumberOfTimesCaptured 46
+Kerncobb TurretsBuilt 258
+Kerncobb ZombieWins 2
+Kerncobb GamesLeft 8
+Kerncobb GamesPlayedAsHuman 40
+Kerncobb GamesPlayedAsZombie 12
+Kerncobb HumansCaptured 75
+Kerncobb K/D Ratio 420,09
+Kerncobb Average Marine Winrate 30%
+Kerncobb Average Fuel Diverts PerGame 3,22
+Kerncobb Average Vespene Harvested PerGame 2230,5
+Kerncobb Average Zombie Winrate 17%
+Kerncobb Average Security Kills Per Game 350
+Kerncobb Average Deaths PerGame 1,15
+Kerncobb Average Infestation Class Class 4

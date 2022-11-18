@@ -1,0 +1,23 @@
+Harambe HumanWinsNormal 2
+Harambe ZombieRank 0
+Harambe VespeneHarvested 19800
+Harambe HumansRescued 5
+Harambe SecurityForcesKilled 0
+Harambe ZombiesKilled 4297
+Harambe FuelDiverted 6
+Harambe HumanRank 0
+Harambe NumberOfTimesCaptured 55
+Harambe TurretsBuilt 7
+Harambe ZombieWins 0
+Harambe GamesLeft 2
+Harambe GamesPlayedAsHuman 19
+Harambe GamesPlayedAsZombie 0
+Harambe HumansCaptured 0
+Harambe K/D Ratio 78,13
+Harambe Average Marine Winrate 11%
+Harambe Average Fuel Diverts PerGame 0,32
+Harambe Average Vespene Harvested PerGame 1042,11
+Harambe Average Zombie Winrate NaN%
+Harambe Average Security Kills Per Game NaN
+Harambe Average Deaths PerGame 2,89
+Harambe Average Infestation Class Class 1

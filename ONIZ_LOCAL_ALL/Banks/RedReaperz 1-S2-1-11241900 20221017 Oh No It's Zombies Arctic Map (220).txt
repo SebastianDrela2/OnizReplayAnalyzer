@@ -1,0 +1,23 @@
+RedReaperz HumanWinsNormal 200
+RedReaperz ZombieRank 25.4997
+RedReaperz VespeneHarvested 1158220
+RedReaperz HumansRescued 234
+RedReaperz SecurityForcesKilled 75851
+RedReaperz ZombiesKilled 261623
+RedReaperz FuelDiverted 1056
+RedReaperz HumanRank 25.2836
+RedReaperz NumberOfTimesCaptured 446
+RedReaperz TurretsBuilt 1606
+RedReaperz ZombieWins 80
+RedReaperz GamesLeft 11
+RedReaperz GamesPlayedAsHuman 407
+RedReaperz GamesPlayedAsZombie 175
+RedReaperz HumansCaptured 1523
+RedReaperz K/D Ratio 586,6
+RedReaperz Average Marine Winrate 49%
+RedReaperz Average Fuel Diverts PerGame 2,59
+RedReaperz Average Vespene Harvested PerGame 2845,75
+RedReaperz Average Zombie Winrate 46%
+RedReaperz Average Security Kills Per Game 433
+RedReaperz Average Deaths PerGame 1,1
+RedReaperz Average Infestation Class Class 5

@@ -1,0 +1,23 @@
+DTZeratul HumanWinsNormal 4
+DTZeratul ZombieRank 0
+DTZeratul VespeneHarvested 17400
+DTZeratul HumansRescued 2
+DTZeratul SecurityForcesKilled 0
+DTZeratul ZombiesKilled 2222
+DTZeratul FuelDiverted 19
+DTZeratul HumanRank 10
+DTZeratul NumberOfTimesCaptured 8
+DTZeratul TurretsBuilt 10
+DTZeratul ZombieWins 0
+DTZeratul GamesLeft 0
+DTZeratul GamesPlayedAsHuman 6
+DTZeratul GamesPlayedAsZombie 0
+DTZeratul HumansCaptured 0
+DTZeratul K/D Ratio 277,75
+DTZeratul Average Marine Winrate 67%
+DTZeratul Average Fuel Diverts PerGame 3,17
+DTZeratul Average Vespene Harvested PerGame 2900
+DTZeratul Average Zombie Winrate NaN%
+DTZeratul Average Security Kills Per Game NaN
+DTZeratul Average Deaths PerGame 1,33
+DTZeratul Average Infestation Class Class 1

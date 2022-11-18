@@ -1,0 +1,23 @@
+potatoLORD HumanWinsNormal 2
+potatoLORD ZombieRank 0
+potatoLORD VespeneHarvested 15300
+potatoLORD HumansRescued 13
+potatoLORD SecurityForcesKilled 0
+potatoLORD ZombiesKilled 3286
+potatoLORD FuelDiverted 1
+potatoLORD HumanRank 1
+potatoLORD NumberOfTimesCaptured 17
+potatoLORD TurretsBuilt 40
+potatoLORD ZombieWins 0
+potatoLORD GamesLeft 0
+potatoLORD GamesPlayedAsHuman 5
+potatoLORD GamesPlayedAsZombie 0
+potatoLORD HumansCaptured 0
+potatoLORD K/D Ratio 193,29
+potatoLORD Average Marine Winrate 40%
+potatoLORD Average Fuel Diverts PerGame 0,2
+potatoLORD Average Vespene Harvested PerGame 3060
+potatoLORD Average Zombie Winrate NaN%
+potatoLORD Average Security Kills Per Game NaN
+potatoLORD Average Deaths PerGame 3,4
+potatoLORD Average Infestation Class Class 1

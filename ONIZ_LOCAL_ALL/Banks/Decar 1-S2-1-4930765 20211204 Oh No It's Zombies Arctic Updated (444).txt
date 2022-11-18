@@ -1,0 +1,23 @@
+Decar HumanWinsNormal 67
+Decar ZombieRank 14.9992
+Decar VespeneHarvested 432400
+Decar HumansRescued 137
+Decar SecurityForcesKilled 31421
+Decar ZombiesKilled 99418
+Decar FuelDiverted 282
+Decar HumanRank 20.5
+Decar NumberOfTimesCaptured 151
+Decar TurretsBuilt 1104
+Decar ZombieWins 31
+Decar GamesLeft 1
+Decar GamesPlayedAsHuman 124
+Decar GamesPlayedAsZombie 67
+Decar HumansCaptured 802
+Decar K/D Ratio 658,4
+Decar Average Marine Winrate 54%
+Decar Average Fuel Diverts PerGame 2,27
+Decar Average Vespene Harvested PerGame 3487,1
+Decar Average Zombie Winrate 46%
+Decar Average Security Kills Per Game 469
+Decar Average Deaths PerGame 1,22
+Decar Average Infestation Class Class 5

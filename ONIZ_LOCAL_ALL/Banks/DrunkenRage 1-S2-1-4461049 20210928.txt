@@ -1,0 +1,23 @@
+DrunkenRage HumanWinsNormal 3
+DrunkenRage ZombieRank 0
+DrunkenRage VespeneHarvested 10800
+DrunkenRage HumansRescued 2
+DrunkenRage SecurityForcesKilled 0
+DrunkenRage ZombiesKilled 2047
+DrunkenRage FuelDiverted 0
+DrunkenRage HumanRank 8
+DrunkenRage NumberOfTimesCaptured 5
+DrunkenRage TurretsBuilt 32
+DrunkenRage ZombieWins 0
+DrunkenRage GamesLeft 1
+DrunkenRage GamesPlayedAsHuman 6
+DrunkenRage GamesPlayedAsZombie 0
+DrunkenRage HumansCaptured 0
+DrunkenRage K/D Ratio 409,4
+DrunkenRage Average Marine Winrate 50%
+DrunkenRage Average Fuel Diverts PerGame 0
+DrunkenRage Average Vespene Harvested PerGame 1800
+DrunkenRage Average Zombie Winrate NaN%
+DrunkenRage Average Security Kills Per Game NaN
+DrunkenRage Average Deaths PerGame 0,83
+DrunkenRage Average Infestation Class Class 1

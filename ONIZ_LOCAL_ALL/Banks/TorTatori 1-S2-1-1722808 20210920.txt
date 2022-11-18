@@ -1,0 +1,23 @@
+TorTatori HumanWinsNormal 4
+TorTatori ZombieRank 0
+TorTatori VespeneHarvested 18500
+TorTatori HumansRescued 5
+TorTatori SecurityForcesKilled 510
+TorTatori ZombiesKilled 4014
+TorTatori FuelDiverted 30
+TorTatori HumanRank 6.5
+TorTatori NumberOfTimesCaptured 21
+TorTatori TurretsBuilt 4
+TorTatori ZombieWins 1
+TorTatori GamesLeft 1
+TorTatori GamesPlayedAsHuman 9
+TorTatori GamesPlayedAsZombie 1
+TorTatori HumansCaptured 12
+TorTatori K/D Ratio 191,14
+TorTatori Average Marine Winrate 44%
+TorTatori Average Fuel Diverts PerGame 3,33
+TorTatori Average Vespene Harvested PerGame 2055,56
+TorTatori Average Zombie Winrate 100%
+TorTatori Average Security Kills Per Game 510
+TorTatori Average Deaths PerGame 2,33
+TorTatori Average Infestation Class Class 5

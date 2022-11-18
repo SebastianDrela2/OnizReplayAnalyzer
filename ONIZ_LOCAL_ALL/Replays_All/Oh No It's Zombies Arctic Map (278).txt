@@ -1,0 +1,232 @@
+Analyzed: Oh No It's Zombies Arctic Map (278)
+
+ID : 1 PlayerName: Frosky Race: Terran
+ID : 2 PlayerName: CrzyZeo Race: Terran
+ID : 3 PlayerName: DrLoaf Race: Zerg
+ID : 4 PlayerName: Theda Race: Terran
+ID : 5 PlayerName: Kocke Race: Terran
+ID : 7 PlayerName: Security Race: Terran Horner
+DrLoaf Zombie Win
+Public Lobby
+
+Game Length:[22:475]
+Players ammount: 6
+Marine rank avg: 0,8333333333333334
+GrandMaster ammount: 1
+PURCHASES: 
+[00:572] Frosky Unlocked AssaultRifle
+[00:651] Frosky Placed/Upgraded MiningDroid
+[00:827] Frosky Unlocked ArcWelder
+[00:869] Frosky Unlocked BioMechanicalRepairDrone
+[01:607] Frosky Unlocked CombatAccelerationDrone
+[01:706] Frosky Placed/Upgraded HealingDrone
+[01:843] Frosky Placed/Upgraded HealingDrone
+[02:224] Frosky Placed/Upgraded HealingDrone
+[03:099] Frosky Unlocked AdvancedDroidEngines
+[03:155] Frosky Unlocked AIAssistant
+[04:456] Frosky Unlocked TurboDroidEngines
+[05:194] Frosky Unlocked AutoTurret
+[05:354] Frosky Unlocked Stimpack
+[05:648] Frosky Placed/Upgraded AutoTurret
+[05:916] Frosky Unlocked FlameTurret
+[06:071] Frosky Placed/Upgraded AutoTurret
+[06:291] Frosky Placed/Upgraded AutoTurret
+[06:988] Frosky Unlocked ExplorationDroid
+[07:011] Frosky Placed/Upgraded ExplorationDroid
+[07:036] Frosky Placed/Upgraded ExplorationDroid
+[07:434] Frosky Placed/Upgraded AutoTurret
+[07:473] Frosky Unlocked PsiDisrupter
+[08:448] Frosky Placed/Upgraded PsiIndoctrinator
+[08:884] Frosky Unlocked HazmatSuit
+[08:891] Frosky Unlocked AdvancedHazmatSuit
+[09:583] Frosky Placed/Upgraded AutoTurret
+[10:264] Frosky Placed/Upgraded PsiIndoctrinator
+[10:894] Frosky Placed/Upgraded AutoTurret
+[10:961] Frosky Unlocked HeavyTurret
+[11:253] Frosky Placed/Upgraded AutoTurret
+[11:396] Frosky Placed/Upgraded AutoTurret
+[12:034] Frosky Placed/Upgraded AutoTurret
+[12:230] Frosky Placed/Upgraded AutoTurret
+[13:365] Frosky Unlocked SpecOpsPsiDisruptor
+[13:491] Frosky Placed/Upgraded AutoTurret
+[13:556] Frosky Unlocked SpecOpsBioMechanicalRepairDrone
+[13:633] Frosky Placed/Upgraded HealingDrone
+[14:002] Frosky Placed/Upgraded HealingDrone
+[14:339] Frosky Placed/Upgraded AutoTurret
+[14:555] Frosky Unlocked QuantumBackpack
+[14:562] Frosky Unlocked CombatShield
+[14:878] Frosky Placed/Upgraded AutoTurret
+[15:193] Frosky Placed/Upgraded AutoTurret
+[15:272] Frosky Placed/Upgraded ExplorationDroid
+[15:348] Frosky Placed/Upgraded AutoTurret
+[15:759] Frosky Placed/Upgraded AutoTurret
+[16:155] Frosky Placed/Upgraded HealingDrone
+[16:942] Frosky Unlocked SpecOpsArcWelder
+[17:749] Frosky Unlocked ArcWelderMod3
+[18:735] Frosky Placed/Upgraded AutoTurret
+[18:968] Frosky Placed/Upgraded PsiIndoctrinator
+[19:432] Frosky Placed/Upgraded AutoTurret
+[19:545] Frosky Placed/Upgraded ExplorationDroid
+[00:572] CrzyZeo Unlocked AssaultRifle
+[00:679] CrzyZeo Placed MiningDroid
+[00:885] CrzyZeo Unlocked SpecOpsAssaultRifle
+[02:321] CrzyZeo Unlocked AdvancedDroidEngines
+[03:847] CrzyZeo Unlocked TurboDroidEngines
+[04:453] CrzyZeo Unlocked AutoTargetingSystem
+[04:616] CrzyZeo Unlocked EnergySuit
+[04:617] CrzyZeo Unlocked EnergySuit
+[06:507] CrzyZeo Unlocked Stimpack
+[07:325] CrzyZeo Unlocked MedicShield
+[07:423] CrzyZeo Unlocked EnergyPack
+[07:490] CrzyZeo Unlocked OpticalVisor
+[08:412] CrzyZeo Unlocked Teleporter
+[08:684] CrzyZeo Unlocked SpecOpsTeleporter
+[08:885] CrzyZeo Bought ShieldSuit
+[08:885] CrzyZeo Bought CombatSuit
+[08:885] CrzyZeo Bought HazmatSuit
+[08:885] CrzyZeo Bought HazmatSuit
+[08:892] CrzyZeo Bought HazmatSuit
+[10:066] CrzyZeo Unlocked AdvancedEnergySuit
+[10:067] CrzyZeo Unlocked EnergySuit
+[10:067] CrzyZeo Unlocked AdvancedEnergySuit
+[11:029] CrzyZeo Unlocked HellfireRocketLauncher
+[11:046] CrzyZeo Unlocked SpecOpsHellfireRocketLauncher
+[11:675] CrzyZeo Unlocked RocketLauncherMod1
+[15:973] CrzyZeo Unlocked RocketLauncherLockOnUpgrade
+[16:014] CrzyZeo Unlocked RocketLauncherLockOnUpgrade
+[16:014] CrzyZeo Unlocked RocketLauncherLockOnUpgradeRemove
+[16:014] CrzyZeo Unlocked RocketLauncherLockOnUpgradeRemove
+[17:173] CrzyZeo Unlocked RocketLauncherLockOnUpgrade
+[17:173] CrzyZeo Unlocked RocketLauncherLockOnUpgrade
+[17:173] CrzyZeo Unlocked RocketLauncherLockOnUpgradeRemove
+[17:173] CrzyZeo Unlocked RocketLauncherLockOnUpgradeRemove
+[17:760] CrzyZeo Unlocked RocketLauncherLockOnUpgrade
+[17:760] CrzyZeo Unlocked RocketLauncherLockOnUpgrade
+[17:760] CrzyZeo Unlocked RocketLauncherLockOnUpgradeRemove
+[17:760] CrzyZeo Unlocked RocketLauncherLockOnUpgradeRemove
+[18:542] CrzyZeo Unlocked RocketLauncherLockOnUpgrade
+[18:542] CrzyZeo Unlocked RocketLauncherLockOnUpgrade
+[18:542] CrzyZeo Unlocked RocketLauncherLockOnUpgradeRemove
+[18:542] CrzyZeo Unlocked RocketLauncherLockOnUpgradeRemove
+[18:642] CrzyZeo Unlocked RocketLauncherLockOnUpgrade
+[18:642] CrzyZeo Unlocked RocketLauncherLockOnUpgrade
+[18:642] CrzyZeo Unlocked RocketLauncherLockOnUpgradeRemove
+[18:642] CrzyZeo Unlocked RocketLauncherLockOnUpgradeRemove
+[18:810] CrzyZeo Unlocked RocketLauncherLockOnUpgrade
+[18:846] CrzyZeo Unlocked RocketLauncherLockOnUpgrade
+[18:846] CrzyZeo Unlocked RocketLauncherLockOnUpgradeRemove
+[18:846] CrzyZeo Unlocked RocketLauncherLockOnUpgradeRemove
+[21:200] CrzyZeo Unlocked PsiDisrupter
+[21:256] CrzyZeo Unlocked SpecOpsPsiDisruptor
+[21:661] CrzyZeo Unlocked RocketLauncherLockOnUpgrade
+[21:661] CrzyZeo Unlocked RocketLauncherLockOnUpgrade
+[21:661] CrzyZeo Unlocked RocketLauncherLockOnUpgradeRemove
+[21:661] CrzyZeo Unlocked RocketLauncherLockOnUpgradeRemove
+[21:826] CrzyZeo Unlocked RocketLauncherLockOnUpgrade
+[21:826] CrzyZeo Unlocked RocketLauncherLockOnUpgrade
+[21:826] CrzyZeo Unlocked RocketLauncherLockOnUpgradeRemove
+[21:826] CrzyZeo Unlocked RocketLauncherLockOnUpgradeRemove
+[22:072] CrzyZeo Unlocked RocketLauncherLockOnUpgrade
+[22:072] CrzyZeo Unlocked RocketLauncherLockOnUpgrade
+[22:072] CrzyZeo Unlocked RocketLauncherLockOnUpgradeRemove
+[22:072] CrzyZeo Unlocked RocketLauncherLockOnUpgradeRemove
+[22:180] CrzyZeo Unlocked RocketLauncherLockOnUpgrade
+[22:180] CrzyZeo Unlocked RocketLauncherLockOnUpgrade
+[22:180] CrzyZeo Unlocked RocketLauncherLockOnUpgradeRemove
+[22:180] CrzyZeo Unlocked RocketLauncherLockOnUpgradeRemove
+[00:568] DrLoaf Bought PlayerNumber
+[01:116] DrLoaf Spawned MassiveCocoon
+[02:556] DrLoaf Spawned InfestedAbomination
+[02:780] DrLoaf Bought StrainSpeed
+[03:981] DrLoaf Bought PureStrainSpeed
+[04:617] DrLoaf Bought ShieldSuit
+[04:617] DrLoaf Bought CombatSuit
+[04:617] DrLoaf Bought HazmatSuit
+[04:631] DrLoaf Bought HunterlingStrain
+[06:841] DrLoaf Bought UnlockDropPods
+[06:939] DrLoaf Bought EvolveDropPods
+[09:076] DrLoaf Bought BuildExtractorProcessingFacilities
+[09:076] DrLoaf Placed/Upgraded AutomatedExtractor
+[09:111] DrLoaf Bought SiphonFuel
+[10:255] DrLoaf Bought BuildExtractorScienceLabs
+[10:255] DrLoaf Placed/Upgraded AutomatedExtractor
+[10:537] DrLoaf Bought EvolveDropPods
+[12:499] DrLoaf Bought SiphonFuel
+[12:879] DrLoaf Bought CreepSpeed
+[13:376] DrLoaf Bought EvolveDropPods
+[13:920] DrLoaf Spawned MassiveCocoon
+[14:850] DrLoaf Bought BuildExtractorExcavationZone
+[14:850] DrLoaf Placed/Upgraded AutomatedExtractor
+[15:000] DrLoaf Spawned Underseer
+[15:629] DrLoaf Bought SiphonFuel
+[16:381] DrLoaf Bought AdvancedInfestationContainment
+[17:638] DrLoaf Bought VirulentCreep
+[17:638] DrLoaf Bought VirulentCreep
+[17:880] DrLoaf Bought EvolveDropPods
+[18:259] DrLoaf Bought EvolveDropPods
+[18:824] DrLoaf Bought EvolveDropPods
+[19:236] DrLoaf Placed/Upgraded NydusCanalCreeper
+[19:685] DrLoaf Bought AdvancedPowerInfestation
+[20:054] DrLoaf Bought SiphonFuel
+[21:179] DrLoaf Bought StrainVolatile
+[21:194] DrLoaf Bought PureStrainVolatile
+[21:640] DrLoaf Placed/Upgraded Virophage
+[22:089] DrLoaf Placed/Upgraded Virophage
+[00:572] Theda Unlocked AssaultRifle
+[00:769] Theda Placed/Upgraded MiningDroid
+[01:145] Theda Unlocked AdvancedDroidEngines
+[02:798] Theda Unlocked HellfireRocketLauncher
+[02:847] Theda Unlocked OverloadWeapon
+[04:341] Theda Unlocked PsiDisrupter
+[04:472] Theda Placed/Upgraded PsiIndoctrinator
+[05:936] Theda Placed/Upgraded PsiIndoctrinator
+[06:206] Theda Unlocked ForceFieldGrenade
+[06:228] Theda Unlocked SpecOpsForcefieldGrenade
+[06:291] Theda Placed/Upgraded PsiIndoctrinator
+[07:737] Theda Unlocked SpecOpsPsiDisruptor
+[08:744] Theda Unlocked BeamRifle
+[10:431] Theda Placed/Upgraded PsiIndoctrinator
+[12:111] Theda Unlocked Teleporter
+[14:296] Theda Unlocked TurboDroidEngines
+[15:189] Theda Unlocked SpecOpsPlasmaRifle
+[16:208] Theda Unlocked FlashBang
+[16:215] Theda Unlocked SpecOpsFlashbang
+[17:546] Theda Unlocked AutoTurret
+[17:569] Theda Unlocked HeavyTurret
+[17:652] Theda Unlocked CombatSuit
+[18:258] Theda Placed/Upgraded AutoTurret
+[18:976] Theda Placed/Upgraded MiningDroid
+[19:122] Theda Placed/Upgraded AutoTurret
+[19:303] Theda Placed/Upgraded AutoTurret
+[00:572] Kocke Unlocked AssaultRifle
+[00:651] Kocke Placed/Upgraded MiningDroid
+[00:737] Kocke Unlocked AdvancedDroidEngines
+[06:669] Kocke Placed/Upgraded MiningDroid
+[07:555] Kocke Unlocked Shotgun
+[07:583] Kocke Unlocked SpecOpsShotgun
+[07:824] Kocke Unlocked HighPrecisionBeams
+[09:236] Kocke Unlocked TurboDroidEngines
+[14:630] Kocke Unlocked Stimpack
+[14:702] Kocke Unlocked Shieldsiotunlocked
+[14:711] Kocke Unlocked AdvancedShieldSuit
+[15:517] Kocke Unlocked MotionSensor
+[15:819] Kocke Placed/Upgraded SensorTower
+[16:194] Kocke Placed/Upgraded SensorTower
+[16:762] Kocke Unlocked BioMechanicalRepairDrone
+[16:886] Kocke Unlocked ForceFieldGrenade
+[16:922] Kocke Unlocked SpecOpsForcefieldGrenade
+[17:653] Kocke Bought ShieldSuit
+[17:653] Kocke Bought CombatSuit
+[17:653] Kocke Bought HazmatSuit
+[17:653] Kocke Bought CombatSuit
+[20:336] Kocke Placed/Upgraded HealingDrone
+[20:552] Kocke Placed/Upgraded HealingDrone
+[14:703]  Bought ShieldSuit
+[14:703]  Bought CombatSuit
+[14:703]  Bought HazmatSuit
+[14:703]  Bought ShieldSuit
+[14:712]  Bought ShieldSuit
+DrLoaf First Alpha InfestedAbomination |  Win
+
+DrLoaf Placed 0 Greaters.
+--------------------------------

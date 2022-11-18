@@ -1,0 +1,25 @@
+hellfire HumanWinsNormal 50
+hellfire LeftLastGameAsZombie 0
+hellfire ZombieRank 0
+hellfire VespeneHarvested 221700
+hellfire HumansRescued 73
+hellfire SecurityForcesKilled 370
+hellfire ZombiesKilled 53464
+hellfire FuelDiverted 81
+hellfire PlayedRankedMode5.0 1
+hellfire HumanRank -0.5
+hellfire NumberOfTimesCaptured 227
+hellfire TurretsBuilt 86
+hellfire ZombieWins 0
+hellfire GamesLeft 31
+hellfire GamesPlayedAsHuman 138
+hellfire GamesPlayedAsZombie 2
+hellfire HumansCaptured 9
+BrainlessKiw K/D Ratio 235,52
+BrainlessKiw Average Marine Winrate 36%
+BrainlessKiw Average Fuel Diverts PerGame 0,59
+BrainlessKiw Average Vespene Harvested PerGame 1606,52
+BrainlessKiw Average Zombie Winrate 0%
+BrainlessKiw Average Security Kills Per Game 185
+BrainlessKiw Average Deaths PerGame 1,64
+BrainlessKiw Average Infestation Class Class 3

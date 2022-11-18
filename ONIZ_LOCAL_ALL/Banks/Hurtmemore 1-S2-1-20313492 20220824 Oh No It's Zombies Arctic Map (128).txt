@@ -1,0 +1,23 @@
+Hurtmemore HumanWinsNormal 19
+Hurtmemore ZombieRank 0
+Hurtmemore VespeneHarvested 133240
+Hurtmemore HumansRescued 26
+Hurtmemore SecurityForcesKilled 169
+Hurtmemore ZombiesKilled 14749
+Hurtmemore FuelDiverted 100
+Hurtmemore HumanRank 2.6
+Hurtmemore NumberOfTimesCaptured 106
+Hurtmemore TurretsBuilt 205
+Hurtmemore ZombieWins 0
+Hurtmemore GamesLeft 1
+Hurtmemore GamesPlayedAsHuman 52
+Hurtmemore GamesPlayedAsZombie 1
+Hurtmemore HumansCaptured 8
+Hurtmemore K/D Ratio 139,14
+Hurtmemore Average Marine Winrate 37%
+Hurtmemore Average Fuel Diverts PerGame 1,92
+Hurtmemore Average Vespene Harvested PerGame 2562,31
+Hurtmemore Average Zombie Winrate 0%
+Hurtmemore Average Security Kills Per Game 169
+Hurtmemore Average Deaths PerGame 2,04
+Hurtmemore Average Infestation Class Class 2

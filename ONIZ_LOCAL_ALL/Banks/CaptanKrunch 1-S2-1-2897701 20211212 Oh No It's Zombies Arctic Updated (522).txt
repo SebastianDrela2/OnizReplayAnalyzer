@@ -1,0 +1,25 @@
+CaptanKrunch HumanWinsNormal 120
+CaptanKrunch LeftLastGameAsZombie 0
+CaptanKrunch ZombieRank 13.832
+CaptanKrunch VespeneHarvested 508800
+CaptanKrunch HumansRescued 214
+CaptanKrunch SecurityForcesKilled 23855
+CaptanKrunch ZombiesKilled 178897
+CaptanKrunch FuelDiverted 947
+CaptanKrunch PlayedRankedMode5.0 1
+CaptanKrunch HumanRank 19
+CaptanKrunch NumberOfTimesCaptured 351
+CaptanKrunch TurretsBuilt 969
+CaptanKrunch ZombieWins 27
+CaptanKrunch GamesLeft 10
+CaptanKrunch GamesPlayedAsHuman 237
+CaptanKrunch GamesPlayedAsZombie 50
+CaptanKrunch HumansCaptured 600
+CaptanKrunch K/D Ratio 509,68
+CaptanKrunch Average Marine Winrate 51%
+CaptanKrunch Average Fuel Diverts PerGame 4
+CaptanKrunch Average Vespene Harvested PerGame 2146,84
+CaptanKrunch Average Zombie Winrate 54%
+CaptanKrunch Average Security Kills Per Game 477
+CaptanKrunch Average Deaths PerGame 1,48
+CaptanKrunch Average Infestation Class Class 5

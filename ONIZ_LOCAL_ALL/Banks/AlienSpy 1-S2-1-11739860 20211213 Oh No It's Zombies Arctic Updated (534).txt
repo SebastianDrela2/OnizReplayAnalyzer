@@ -1,0 +1,23 @@
+AlienSpy HumanWinsNormal 2
+AlienSpy ZombieRank 11.5
+AlienSpy VespeneHarvested 12800
+AlienSpy HumansRescued 8
+AlienSpy SecurityForcesKilled 2104
+AlienSpy ZombiesKilled 1535
+AlienSpy FuelDiverted 4
+AlienSpy HumanRank 0
+AlienSpy NumberOfTimesCaptured 31
+AlienSpy TurretsBuilt 21
+AlienSpy ZombieWins 7
+AlienSpy GamesLeft 1
+AlienSpy GamesPlayedAsHuman 10
+AlienSpy GamesPlayedAsZombie 9
+AlienSpy HumansCaptured 15
+AlienSpy K/D Ratio 49,52
+AlienSpy Average Marine Winrate 20%
+AlienSpy Average Fuel Diverts PerGame 0,4
+AlienSpy Average Vespene Harvested PerGame 1280
+AlienSpy Average Zombie Winrate 78%
+AlienSpy Average Security Kills Per Game 234
+AlienSpy Average Deaths PerGame 3,1
+AlienSpy Average Infestation Class Class 3

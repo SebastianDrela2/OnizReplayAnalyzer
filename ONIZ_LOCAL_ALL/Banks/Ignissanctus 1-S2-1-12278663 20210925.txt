@@ -1,0 +1,23 @@
+Ignissanctus HumanWinsNormal 1
+Ignissanctus ZombieRank 0
+Ignissanctus VespeneHarvested 8900
+Ignissanctus HumansRescued 1
+Ignissanctus SecurityForcesKilled 0
+Ignissanctus ZombiesKilled 1278
+Ignissanctus FuelDiverted 3
+Ignissanctus HumanRank 0
+Ignissanctus NumberOfTimesCaptured 2
+Ignissanctus TurretsBuilt 8
+Ignissanctus ZombieWins 0
+Ignissanctus GamesLeft 0
+Ignissanctus GamesPlayedAsHuman 3
+Ignissanctus GamesPlayedAsZombie 0
+Ignissanctus HumansCaptured 0
+Ignissanctus K/D Ratio 639
+Ignissanctus Average Marine Winrate 33%
+Ignissanctus Average Fuel Diverts PerGame 1
+Ignissanctus Average Vespene Harvested PerGame 2966,67
+Ignissanctus Average Zombie Winrate NaN%
+Ignissanctus Average Security Kills Per Game NaN
+Ignissanctus Average Deaths PerGame 0,67
+Ignissanctus Average Infestation Class Class 1

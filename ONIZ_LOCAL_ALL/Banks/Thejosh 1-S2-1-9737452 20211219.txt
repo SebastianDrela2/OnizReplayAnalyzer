@@ -1,0 +1,23 @@
+Thejosh HumanWinsNormal 11
+Thejosh ZombieRank 0
+Thejosh VespeneHarvested 47100
+Thejosh HumansRescued 38
+Thejosh SecurityForcesKilled 7375
+Thejosh ZombiesKilled 21955
+Thejosh FuelDiverted 125
+Thejosh HumanRank 1
+Thejosh NumberOfTimesCaptured 54
+Thejosh TurretsBuilt 75
+Thejosh ZombieWins 4
+Thejosh GamesLeft 0
+Thejosh GamesPlayedAsHuman 30
+Thejosh GamesPlayedAsZombie 16
+Thejosh HumansCaptured 195
+Thejosh K/D Ratio 406,57
+Thejosh Average Marine Winrate 37%
+Thejosh Average Fuel Diverts PerGame 4,17
+Thejosh Average Vespene Harvested PerGame 1570
+Thejosh Average Zombie Winrate 25%
+Thejosh Average Security Kills Per Game 461
+Thejosh Average Deaths PerGame 1,8
+Thejosh Average Infestation Class Class 5

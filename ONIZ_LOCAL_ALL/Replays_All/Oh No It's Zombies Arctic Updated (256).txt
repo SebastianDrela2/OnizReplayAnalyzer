@@ -1,0 +1,151 @@
+Analyzed: Oh No It's Zombies Arctic Updated (256)
+
+ID : 0 PlayerName: SLTHHH Race: Terran
+ID : 0 PlayerName: archdracon Race: Terran
+ID : 0 PlayerName: JMM Race: Terran
+ID : 0 PlayerName: Salem Race: Terran
+ID : 0 PlayerName: Frosky Race: Zerg
+ID : 0 PlayerName: Gafe Race: Terran
+ID : 0 PlayerName: Kira Race: Terran
+ID : 0 PlayerName: Security Race: Zerg
+SLTHHH Zombie Loss
+Public Lobby
+
+Game Length:[51:900]
+Players ammount: 8
+Marine rank avg: 0
+GrandMaster ammount: 0
+PURCHASES: 
+[00:588] SLTHHH Unlocked AssaultRifle
+[00:631] SLTHHH Spawned MassiveCocoon
+[00:673] SLTHHH Placed/Upgraded MiningDroid
+[02:071] SLTHHH Spawned Hunter
+[02:524] SLTHHH Unlocked AdvancedDroidEngines
+[04:658] SLTHHH Bought CreepSpeed
+[04:675] SLTHHH Unlocked TurboDroidEngines
+[07:163] SLTHHH Unlocked Stimpack
+[07:698] SLTHHH Bought StrainSpeed
+[07:701] SLTHHH Bought StrainSpeed
+[08:667] SLTHHH Bought VirulentCreep
+[10:400] SLTHHH Bought StrainHealth
+[10:823] SLTHHH Unlocked SpecOpsAssaultRifle
+[10:861] SLTHHH Unlocked CombatSuit
+[10:862] SLTHHH Unlocked ShieldSuit
+[10:862] SLTHHH Unlocked AdvancedShieldSuit
+[10:862] SLTHHH Unlocked CombatSuit
+[10:862] SLTHHH Unlocked AdvancedCombatSuit
+[10:862] SLTHHH Unlocked HazmatSuit
+[10:862] SLTHHH Unlocked AdvancedHazmatSuit
+[10:862] SLTHHH Unlocked CombatSuit
+[11:440] SLTHHH Bought BuildExtractorScienceLabs
+[12:532] SLTHHH Placed/Upgraded MiningDroid
+[13:240] SLTHHH Bought CreepSpeed
+[14:083] SLTHHH Spawned MassiveCocoon
+[14:130] SLTHHH Unlocked FragGrenade
+[14:179] SLTHHH Unlocked SpecOpsFragGrenade
+[15:225] SLTHHH Bought PureStrainHealth
+[15:376] SLTHHH Unlocked Teleporter
+[15:523] SLTHHH Spawned Hunter
+[15:754] SLTHHH Bought PureStrainSpeed
+[16:762] SLTHHH Bought PureStrainSpeed
+[17:361] SLTHHH Unlocked TitaniumBulletCasings
+[17:423] SLTHHH Bought StrainVolatile
+[18:275] SLTHHH Unlocked MedicShield
+[18:337] SLTHHH Bought PureStrainVolatile
+[19:121] SLTHHH Bought StrainVolatile
+[31:788] SLTHHH Bought DropshipsFueled
+[00:588]  Unlocked AssaultRifle
+[00:711]  Placed/Upgraded MiningDroid
+[02:737]  Unlocked AdvancedDroidEngines
+[04:280]  Unlocked TurboDroidEngines
+[07:326]  Placed/Upgraded MiningDroid
+[08:355]  Unlocked Shotgun
+[08:363]  Unlocked SpecOpsShotgun
+[09:257]  Unlocked MotionSensor
+[09:709]  Placed/Upgraded SensorTower
+[10:320]  Placed/Upgraded SensorTower
+[14:138]  Placed/Upgraded SensorTower
+[14:485]  Unlocked Stimpack
+[15:631]  Unlocked BioMechanicalRepairDrone
+[17:389]  Placed/Upgraded SensorTower
+[17:612]  Placed/Upgraded MiningDroid
+[19:454]  Placed/Upgraded HealingDrone
+[19:801]  Placed/Upgraded HealingDrone
+[20:453]  Unlocked CombatSuit
+[20:454]  Unlocked ShieldSuit
+[20:454]  Unlocked AdvancedShieldSuit
+[20:454]  Unlocked CombatSuit
+[20:454]  Unlocked AdvancedCombatSuit
+[20:454]  Unlocked HazmatSuit
+[20:454]  Unlocked AdvancedHazmatSuit
+[20:454]  Unlocked CombatSuit
+[20:456]  Unlocked AdvancedCombatSuit
+[20:457]  Unlocked CombatSuit
+[20:457]  Unlocked AdvancedCombatSuit
+[20:543]  Placed/Upgraded HealingDrone
+[20:751]  Placed/Upgraded HealingDrone
+[00:588]  Unlocked AssaultRifle
+[01:428]  Placed/Upgraded MiningDroid
+[02:662]  Unlocked Stimpack
+[04:998]  Unlocked Shotgun
+[07:340]  Unlocked SpecOpsShotgun
+[17:940]  Unlocked HazmatSuit
+[17:941]  Unlocked ShieldSuit
+[17:941]  Unlocked AdvancedShieldSuit
+[17:941]  Unlocked CombatSuit
+[17:941]  Unlocked AdvancedCombatSuit
+[17:941]  Unlocked HazmatSuit
+[17:941]  Unlocked AdvancedHazmatSuit
+[17:941]  Unlocked HazmatSuit
+[17:952]  Unlocked AdvancedHazmatSuit
+[17:953]  Unlocked HazmatSuit
+[17:953]  Unlocked AdvancedHazmatSuit
+[20:443]  Unlocked SuperStimpack
+[00:588]  Unlocked AssaultRifle
+[00:667]  Placed/Upgraded MiningDroid
+[03:320]  Unlocked AdvancedDroidEngines
+[04:959]  Unlocked TurboDroidEngines
+[06:374]  Unlocked Shotgun
+[08:048]  Unlocked SpecOpsShotgun
+[08:663]  Unlocked HighPrecisionBeams
+[12:679]  Unlocked SuperStimpack
+[04:535]  Placed/Upgraded ToxicNest
+[04:549]  Placed/Upgraded ToxicNest
+[08:855]  Placed/Upgraded ToxicNest
+[08:861]  Placed/Upgraded ToxicNest
+[10:236]  Placed/Upgraded ToxicNest
+[10:239]  Placed/Upgraded ToxicNest
+[11:440]  Placed/Upgraded AutomatedExtractor
+[18:820]  Placed/Upgraded NydusCanalCreeper
+[20:018]  Placed/Upgraded Virophage
+[21:236]  Placed/Upgraded Virophage
+[00:588]  Unlocked AssaultRifle
+[00:751]  Placed/Upgraded MiningDroid
+[03:296]  Unlocked AdvancedDroidEngines
+[03:351]  Unlocked Shotgun
+[08:242]  Unlocked SuperStimpack
+[13:616]  Unlocked SpecOpsShotgun
+[13:678]  Unlocked IncendiaryBullets
+[15:448]  Unlocked Stimpack
+[17:143]  Unlocked MedicShield
+[18:281]  Unlocked Shieldsiotunlocked
+[18:282]  Unlocked ShieldSuit
+[18:282]  Unlocked AdvancedShieldSuit
+[18:282]  Unlocked CombatSuit
+[18:282]  Unlocked AdvancedCombatSuit
+[18:282]  Unlocked HazmatSuit
+[18:282]  Unlocked AdvancedHazmatSuit
+[18:282]  Unlocked ShieldSuit
+[00:588]  Unlocked AssaultRifle
+[02:909]  Unlocked SpecOpsAssaultRifle
+[05:778]  Unlocked AdvancedDroidEngines
+[07:851]  Unlocked TurboDroidEngines
+[08:982]  Unlocked SuperStimpack
+[15:920]  Unlocked AutoTurret
+[16:447]  Unlocked FlameTurret
+[17:571]  Unlocked HeavyTurret
+[17:631]  Unlocked AIAssistant
+SLTHHH First Alpha Hunter |  Loss
+
+SLTHHH Placed 0 Greaters.
+--------------------------------

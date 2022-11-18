@@ -1,0 +1,23 @@
+PhantomGuard HumanWinsNormal 14
+PhantomGuard ZombieRank 1.3327
+PhantomGuard VespeneHarvested 123740
+PhantomGuard HumansRescued 37
+PhantomGuard SecurityForcesKilled 12462
+PhantomGuard ZombiesKilled 19848
+PhantomGuard FuelDiverted 153
+PhantomGuard HumanRank 0
+PhantomGuard NumberOfTimesCaptured 105
+PhantomGuard TurretsBuilt 249
+PhantomGuard ZombieWins 8
+PhantomGuard GamesLeft 2
+PhantomGuard GamesPlayedAsHuman 47
+PhantomGuard GamesPlayedAsZombie 27
+PhantomGuard HumansCaptured 236
+PhantomGuard K/D Ratio 189,03
+PhantomGuard Average Marine Winrate 30%
+PhantomGuard Average Fuel Diverts PerGame 3,26
+PhantomGuard Average Vespene Harvested PerGame 2632,77
+PhantomGuard Average Zombie Winrate 30%
+PhantomGuard Average Security Kills Per Game 462
+PhantomGuard Average Deaths PerGame 2,23
+PhantomGuard Average Infestation Class Class 5

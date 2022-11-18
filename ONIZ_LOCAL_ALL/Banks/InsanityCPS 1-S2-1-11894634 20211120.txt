@@ -1,0 +1,23 @@
+InsanityCPS HumanWinsNormal 0
+InsanityCPS ZombieRank 0
+InsanityCPS VespeneHarvested 0
+InsanityCPS HumansRescued 0
+InsanityCPS SecurityForcesKilled 216
+InsanityCPS ZombiesKilled 0
+InsanityCPS FuelDiverted 0
+InsanityCPS HumanRank 0
+InsanityCPS NumberOfTimesCaptured 0
+InsanityCPS TurretsBuilt 0
+InsanityCPS ZombieWins 0
+InsanityCPS GamesLeft 0
+InsanityCPS GamesPlayedAsHuman 0
+InsanityCPS GamesPlayedAsZombie 1
+InsanityCPS HumansCaptured 1
+InsanityCPS K/D Ratio NaN
+InsanityCPS Average Marine Winrate NaN%
+InsanityCPS Average Fuel Diverts PerGame NaN
+InsanityCPS Average Vespene Harvested PerGame NaN
+InsanityCPS Average Zombie Winrate 0%
+InsanityCPS Average Security Kills Per Game 216
+InsanityCPS Average Deaths PerGame NaN
+InsanityCPS Average Infestation Class Class 3

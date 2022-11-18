@@ -1,0 +1,23 @@
+Kyuzee HumanWinsNormal 0
+Kyuzee ZombieRank 0
+Kyuzee VespeneHarvested 3700
+Kyuzee HumansRescued 2
+Kyuzee SecurityForcesKilled 0
+Kyuzee ZombiesKilled 1238
+Kyuzee FuelDiverted 5
+Kyuzee HumanRank 0
+Kyuzee NumberOfTimesCaptured 4
+Kyuzee TurretsBuilt 16
+Kyuzee ZombieWins 0
+Kyuzee GamesLeft 0
+Kyuzee GamesPlayedAsHuman 2
+Kyuzee GamesPlayedAsZombie 0
+Kyuzee HumansCaptured 0
+Kyuzee K/D Ratio 309,5
+Kyuzee Average Marine Winrate 0%
+Kyuzee Average Fuel Diverts PerGame 2,5
+Kyuzee Average Vespene Harvested PerGame 1850
+Kyuzee Average Zombie Winrate NaN%
+Kyuzee Average Security Kills Per Game NaN
+Kyuzee Average Deaths PerGame 2
+Kyuzee Average Infestation Class Class 1

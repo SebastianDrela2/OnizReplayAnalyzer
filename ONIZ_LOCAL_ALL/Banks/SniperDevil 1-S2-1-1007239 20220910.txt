@@ -1,0 +1,23 @@
+SniperDevil HumanWinsNormal 47
+SniperDevil ZombieRank 1.1667
+SniperDevil VespeneHarvested 220680
+SniperDevil HumansRescued 72
+SniperDevil SecurityForcesKilled 2511
+SniperDevil ZombiesKilled 75486
+SniperDevil FuelDiverted 175
+SniperDevil HumanRank 6
+SniperDevil NumberOfTimesCaptured 128
+SniperDevil TurretsBuilt 427
+SniperDevil ZombieWins 2
+SniperDevil GamesLeft 10
+SniperDevil GamesPlayedAsHuman 106
+SniperDevil GamesPlayedAsZombie 9
+SniperDevil HumansCaptured 59
+SniperDevil K/D Ratio 589,73
+SniperDevil Average Marine Winrate 44%
+SniperDevil Average Fuel Diverts PerGame 1,65
+SniperDevil Average Vespene Harvested PerGame 2081,89
+SniperDevil Average Zombie Winrate 22%
+SniperDevil Average Security Kills Per Game 279
+SniperDevil Average Deaths PerGame 1,21
+SniperDevil Average Infestation Class Class 3

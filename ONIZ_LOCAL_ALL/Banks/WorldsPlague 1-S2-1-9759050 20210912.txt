@@ -1,0 +1,23 @@
+WorldsPlague HumanWinsNormal 0
+WorldsPlague ZombieRank 0
+WorldsPlague VespeneHarvested 500
+WorldsPlague HumansRescued 0
+WorldsPlague SecurityForcesKilled 0
+WorldsPlague ZombiesKilled 353
+WorldsPlague FuelDiverted 1
+WorldsPlague HumanRank 0
+WorldsPlague NumberOfTimesCaptured 4
+WorldsPlague TurretsBuilt 10
+WorldsPlague ZombieWins 0
+WorldsPlague GamesLeft 0
+WorldsPlague GamesPlayedAsHuman 1
+WorldsPlague GamesPlayedAsZombie 0
+WorldsPlague HumansCaptured 0
+WorldsPlague K/D Ratio 88,25
+WorldsPlague Average Marine Winrate 0%
+WorldsPlague Average Fuel Diverts PerGame 1
+WorldsPlague Average Vespene Harvested PerGame 500
+WorldsPlague Average Zombie Winrate NaN%
+WorldsPlague Average Security Kills Per Game NaN
+WorldsPlague Average Deaths PerGame 4
+WorldsPlague Average Infestation Class Class 1

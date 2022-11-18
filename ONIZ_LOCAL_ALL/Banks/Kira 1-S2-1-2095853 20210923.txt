@@ -1,0 +1,23 @@
+Kira HumanWinsNormal 132
+Kira ZombieRank 5.833
+Kira VespeneHarvested 889400
+Kira HumansRescued 109
+Kira SecurityForcesKilled 6537
+Kira ZombiesKilled 107368
+Kira FuelDiverted 2043
+Kira HumanRank 26.8334
+Kira NumberOfTimesCaptured 207
+Kira TurretsBuilt 2252
+Kira ZombieWins 7
+Kira GamesLeft 10
+Kira GamesPlayedAsHuman 214
+Kira GamesPlayedAsZombie 15
+Kira HumansCaptured 136
+Kira K/D Ratio 518,69
+Kira Average Marine Winrate 13200%
+Kira Average Fuel Diverts PerGame 2043
+Kira Average Vespene Harvested PerGame 889400
+Kira Average Zombie Winrate 47%
+Kira Average Security Kills Per Game 436
+Kira Average Deaths PerGame 207
+Kira Average Infestation Class Class 5

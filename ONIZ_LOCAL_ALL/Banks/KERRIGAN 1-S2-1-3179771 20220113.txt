@@ -1,0 +1,23 @@
+KERRIGAN HumanWinsNormal 0
+KERRIGAN ZombieRank 0
+KERRIGAN VespeneHarvested 0
+KERRIGAN HumansRescued 0
+KERRIGAN SecurityForcesKilled 0
+KERRIGAN ZombiesKilled 0
+KERRIGAN FuelDiverted 0
+KERRIGAN HumanRank 0
+KERRIGAN NumberOfTimesCaptured 0
+KERRIGAN TurretsBuilt 0
+KERRIGAN ZombieWins 0
+KERRIGAN GamesLeft 0
+KERRIGAN GamesPlayedAsHuman 0
+KERRIGAN GamesPlayedAsZombie 0
+KERRIGAN HumansCaptured 0
+KERRIGAN K/D Ratio NaN
+KERRIGAN Average Marine Winrate NaN%
+KERRIGAN Average Fuel Diverts PerGame NaN
+KERRIGAN Average Vespene Harvested PerGame NaN
+KERRIGAN Average Zombie Winrate NaN%
+KERRIGAN Average Security Kills Per Game NaN
+KERRIGAN Average Deaths PerGame NaN
+KERRIGAN Average Infestation Class Class 1

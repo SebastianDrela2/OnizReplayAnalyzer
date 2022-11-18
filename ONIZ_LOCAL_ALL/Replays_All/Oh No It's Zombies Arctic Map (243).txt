@@ -1,0 +1,188 @@
+Analyzed: Oh No It's Zombies Arctic Map (243)
+
+ID : 0 PlayerName: WildMutant Race: Terran
+ID : 1 PlayerName: CrazyEightz Race: Terran
+ID : 2 PlayerName: Partisan Race: Terran
+ID : 3 PlayerName: AIzombie Race: Zerg
+ID : 4 PlayerName: Potato Race: Terran
+ID : 5 PlayerName: Frosky Race: Terran
+ID : 6 PlayerName: RedReaperz Race: Terran
+ID : 7 PlayerName: Security Race: Primal Zerg
+AIzombie Zombie Win
+Private Lobby
+
+Game Length:[23:530]
+Players ammount: 8
+Marine rank avg: 15,166666666666666
+GrandMaster ammount: 4
+PURCHASES: 
+[00:572] WildMutant Unlocked AssaultRifle
+[00:686] WildMutant Placed/Upgraded MiningDroid
+[00:849] WildMutant Unlocked AdvancedDroidEngines
+[04:386] WildMutant Unlocked TurboDroidEngines
+[07:564] WildMutant Unlocked Ares
+[07:607] WildMutant Placed/Upgraded PrototypeAresTankMode
+[10:169] WildMutant Unlocked AresMod8
+[10:237] WildMutant Unlocked AresMod2
+[13:044] WildMutant Unlocked SpecOpsAres
+[16:570] WildMutant Placed/Upgraded MiningDroid
+[17:447] WildMutant Unlocked ExplorationDroid
+[17:470] WildMutant Placed/Upgraded ExplorationDroid
+[17:485] WildMutant Placed/Upgraded ExplorationDroid
+[00:572] CrazyEightz Unlocked AssaultRifle
+[00:755] CrazyEightz Placed/Upgraded MiningDroid
+[00:879] CrazyEightz Unlocked MotionSensor
+[01:127] CrazyEightz Placed/Upgraded SensorTower
+[03:605] CrazyEightz Unlocked ArcWelder
+[05:507] CrazyEightz Unlocked AutoTurret
+[05:861] CrazyEightz Placed/Upgraded AutoTurret
+[06:006] CrazyEightz Placed/Upgraded AutoTurret
+[06:738] CrazyEightz Unlocked AdvancedDroidEngines
+[07:122] CrazyEightz Placed/Upgraded AutoTurret
+[07:968] CrazyEightz Placed/Upgraded AutoTurret
+[08:894] CrazyEightz Placed/Upgraded AutoTurret
+[09:033] CrazyEightz Placed/Upgraded AutoTurret
+[09:631] CrazyEightz Placed/Upgraded AutoTurret
+[10:323] CrazyEightz Unlocked SpecOpsTurret
+[11:686] CrazyEightz Placed/Upgraded AutoTurret
+[12:107] CrazyEightz Placed/Upgraded SensorTower
+[12:295] CrazyEightz Placed/Upgraded AutoTurret
+[19:744] CrazyEightz Placed/Upgraded SensorTower
+[22:847] CrazyEightz Placed/Upgraded AutoTurret
+[00:572] Partisan Unlocked AssaultRifle
+[00:741] Partisan Placed MiningDroid
+[00:781] Partisan Unlocked Shotgun
+[07:607] Partisan Unlocked SpecOpsShotgun
+[09:802] Partisan Unlocked SuperStimpack
+[10:138] Partisan Unlocked MedicShield
+[11:766] Partisan Unlocked HighPrecisionBeams
+[13:879] Partisan Unlocked BioMechanicalRepairDrone
+[17:557] Partisan Unlocked Stimpack
+[18:697] Partisan Unlocked HazmatSuit
+[18:876] Partisan Placed HealingDrone
+[20:499] Partisan Unlocked AdvancedHazmatSuit
+[20:584] Partisan Unlocked EnergyPack
+[00:568] AIzombie Bought PlayerNumber
+[00:631] AIzombie Spawned MassiveCocoon
+[01:246] AIzombie Placed/Upgraded NydusCanalCreeper
+[02:071] AIzombie Spawned Hunter
+[02:432] AIzombie Placed/Upgraded NydusCanalCreeper
+[02:673] AIzombie Placed/Upgraded LocustNest
+[03:742] AIzombie Placed/Upgraded PrimalSunkenColony
+[03:743] AIzombie Bought SunkenColony
+[04:451] AIzombie Spawned MassiveCocoon
+[04:605] AIzombie Bought SunkenColony
+[04:717] AIzombie Placed/Upgraded PrimalSunkenColony
+[04:718] AIzombie Bought SunkenColony
+[05:186] AIzombie Placed/Upgraded ToxicNest
+[05:194] AIzombie Placed/Upgraded ToxicNest
+[05:206] AIzombie Placed/Upgraded ToxicNest
+[05:891] AIzombie Spawned InfestedAbomination
+[06:330] AIzombie Bought SunkenColony
+[06:926] AIzombie Placed/Upgraded LocustNest
+[07:762] AIzombie Spawned MassiveCocoon
+[07:837] AIzombie Placed/Upgraded PrimalSunkenColony
+[07:838] AIzombie Bought SunkenColony
+[08:233] AIzombie Bought SunkenColony
+[08:864] AIzombie Spawned MassiveCocoon
+[08:953] AIzombie Placed/Upgraded PrimalSunkenColony
+[08:954] AIzombie Bought SunkenColony
+[09:202] AIzombie Spawned InfestedAbomination
+[09:678] AIzombie Bought SunkenColony
+[09:944] AIzombie Spawned Underseer
+[10:123] AIzombie Placed/Upgraded PrimalSunkenColony
+[10:124] AIzombie Bought SunkenColony
+[10:731] AIzombie Bought SunkenColony
+[11:139] AIzombie Bought VirulentCreep
+[11:139] AIzombie Bought VirulentCreep
+[12:843] AIzombie Spawned MassiveCocoon
+[13:636] AIzombie Bought UnlockDropPods
+[14:283] AIzombie Spawned Hunter
+[14:382] AIzombie Bought AdvancedInfestationSecurity
+[14:664] AIzombie Bought TrackHumans
+[14:710] AIzombie Bought BuildExtractorManufacturingSector
+[14:710] AIzombie Placed/Upgraded AutomatedExtractor
+[15:882] AIzombie Bought EvolveDropPods
+[16:068] AIzombie Bought EvolveDropPods
+[16:071] AIzombie Bought EvolveDropPods
+[16:073] AIzombie Bought EvolveDropPods
+[16:084] AIzombie Bought EvolveDropPods
+[16:088] AIzombie Bought EvolveDropPods
+[16:694] AIzombie Bought TrackHumans
+[17:779] AIzombie Bought AdvancedInfestationGateControl
+[18:549] AIzombie Spawned MassiveCocoon
+[18:580] AIzombie Bought SiphonFuel
+[18:595] AIzombie Bought TrackHumans
+[18:698] AIzombie Bought ShieldSuit
+[18:698] AIzombie Bought CombatSuit
+[18:698] AIzombie Bought HazmatSuit
+[18:698] AIzombie Bought HazmatSuit
+[19:050] AIzombie Bought BuildExtractorProcessingFacilities
+[19:050] AIzombie Placed/Upgraded AutomatedExtractor
+[19:989] AIzombie Spawned Hunter
+[20:242] AIzombie Bought BuildExtractorScienceLabs
+[20:242] AIzombie Placed/Upgraded AutomatedExtractor
+[20:285] AIzombie Bought TrackHumans
+[20:349] AIzombie Placed/Upgraded Virophage
+[20:500] AIzombie Bought HazmatSuit
+[20:956] AIzombie Placed/Upgraded Virophage
+[21:054] AIzombie Placed/Upgraded Virophage
+[22:371] AIzombie Bought SiphonFuel
+[22:403] AIzombie Bought TrackHumans
+[22:679] AIzombie Bought AdvancedInfestationContainment
+[23:230] AIzombie Bought BuildExtractorExcavationZone
+[23:230] AIzombie Placed/Upgraded AutomatedExtractor
+[23:514] AIzombie Bought CreepSpeed
+[00:572] Potato Unlocked AssaultRifle
+[00:651] Potato Placed/Upgraded MiningDroid
+[00:728] Potato Unlocked AdvancedDroidEngines
+[03:234] Potato Unlocked Stimpack
+[04:411] Potato Unlocked FragGrenade
+[05:936] Potato Unlocked BeamRifle
+[08:633] Potato Unlocked SpecOpsFragGrenade
+[09:832] Potato Unlocked SpecOpsPlasmaRifle
+[09:991] Potato Unlocked CombatShield
+[11:888] Potato Unlocked PowerConverter
+[14:005] Potato Unlocked EnergyPack
+[15:833] Potato Unlocked HazmatSuit
+[00:572] Frosky Unlocked AssaultRifle
+[00:651] Frosky Placed/Upgraded MiningDroid
+[00:713] Frosky Unlocked IncendiaryGrenade
+[02:223] Frosky Unlocked AdvancedDroidEngines
+[03:905] Frosky Unlocked Shotgun
+[05:883] Frosky Unlocked SpecOpsShotgun
+[07:578] Frosky Unlocked ExplorationDroid
+[07:607] Frosky Placed/Upgraded ExplorationDroid
+[08:884] Frosky Unlocked SuperStimpack
+[10:011] Frosky Placed/Upgraded ExplorationDroid
+[10:509] Frosky Placed/Upgraded ExplorationDroid
+[10:962] Frosky Unlocked AutoTurret
+[10:995] Frosky Placed/Upgraded AutoTurret
+[11:203] Frosky Placed/Upgraded AutoTurret
+[14:433] Frosky Unlocked Stimpack
+[14:619] Frosky Unlocked AIAssistant
+[15:652] Frosky Unlocked MedicShield
+[15:834] Frosky Bought ShieldSuit
+[15:834] Frosky Bought CombatSuit
+[15:834] Frosky Bought HazmatSuit
+[15:834] Frosky Bought HazmatSuit
+[16:380] Frosky Placed/Upgraded AutoTurret
+[00:572] RedReaperz Unlocked AssaultRifle
+[00:757] RedReaperz Unlocked FragGrenade
+[03:936] RedReaperz Unlocked SpecOpsAssaultRifle
+[07:908] RedReaperz Unlocked OverloadWeapon
+[10:424] RedReaperz Unlocked TitaniumBulletCasings
+[13:031] RedReaperz Unlocked EnergySuit
+[13:032] RedReaperz Unlocked EnergySuit
+[13:051] RedReaperz Unlocked AdvancedEnergySuit
+[13:052] RedReaperz Unlocked EnergySuit
+[13:052] RedReaperz Unlocked AdvancedEnergySuit
+[17:325] RedReaperz Unlocked BioMechanicalRepairDrone
+[17:438] RedReaperz Unlocked SpecOpsBioMechanicalRepairDrone
+[13:032] Security Bought ShieldSuit
+[13:032] Security Bought CombatSuit
+[13:032] Security Bought HazmatSuit
+AIzombie First Alpha Hunter |  Win
+
+AIzombie Placed 0 Greaters.
+--------------------------------

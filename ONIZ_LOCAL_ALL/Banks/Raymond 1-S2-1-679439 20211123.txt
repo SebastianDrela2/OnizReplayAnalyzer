@@ -1,0 +1,23 @@
+Raymond HumanWinsNormal 2
+Raymond ZombieRank 0
+Raymond VespeneHarvested 16200
+Raymond HumansRescued 5
+Raymond SecurityForcesKilled 0
+Raymond ZombiesKilled 1894
+Raymond FuelDiverted 13
+Raymond HumanRank 5
+Raymond NumberOfTimesCaptured 8
+Raymond TurretsBuilt 9
+Raymond ZombieWins 0
+Raymond GamesLeft 0
+Raymond GamesPlayedAsHuman 6
+Raymond GamesPlayedAsZombie 0
+Raymond HumansCaptured 0
+Raymond K/D Ratio 236,75
+Raymond Average Marine Winrate 33%
+Raymond Average Fuel Diverts PerGame 2,17
+Raymond Average Vespene Harvested PerGame 2700
+Raymond Average Zombie Winrate NaN%
+Raymond Average Security Kills Per Game NaN
+Raymond Average Deaths PerGame 1,33
+Raymond Average Infestation Class Class 1

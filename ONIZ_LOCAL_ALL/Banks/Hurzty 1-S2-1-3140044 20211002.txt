@@ -1,0 +1,23 @@
+Hurzty HumanWinsNormal 0
+Hurzty ZombieRank 0
+Hurzty VespeneHarvested 1500
+Hurzty HumansRescued 1
+Hurzty SecurityForcesKilled 0
+Hurzty ZombiesKilled 223
+Hurzty FuelDiverted 0
+Hurzty HumanRank 0
+Hurzty NumberOfTimesCaptured 0
+Hurzty TurretsBuilt 0
+Hurzty ZombieWins 0
+Hurzty GamesLeft 0
+Hurzty GamesPlayedAsHuman 1
+Hurzty GamesPlayedAsZombie 0
+Hurzty HumansCaptured 0
+Hurzty K/D Ratio ∞
+Hurzty Average Marine Winrate 0%
+Hurzty Average Fuel Diverts PerGame 0
+Hurzty Average Vespene Harvested PerGame 1500
+Hurzty Average Zombie Winrate NaN%
+Hurzty Average Security Kills Per Game NaN
+Hurzty Average Deaths PerGame 0
+Hurzty Average Infestation Class Class 1

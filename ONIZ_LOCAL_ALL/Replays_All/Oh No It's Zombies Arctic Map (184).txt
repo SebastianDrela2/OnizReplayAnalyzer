@@ -1,0 +1,119 @@
+Analyzed: Oh No It's Zombies Arctic Map (184)
+
+ID : 0 PlayerName: BARUNA Race: Terran
+ID : 1 PlayerName: ONXY Race: Zerg
+ID : 2 PlayerName: MilfHunter Race: Terran
+ID : 3 PlayerName: Frosky Race: Terran
+ID : 4 PlayerName: MinerManner Race: Terran
+ID : 5 PlayerName: slayertanks Race: Terran
+ID : 6 PlayerName: Fayrrox Race: Terran
+ID : 7 PlayerName: Security Race: MechaZerg
+ONXY Zombie Loss
+Public Lobby
+
+Game Length:[36:588]
+Players ammount: 8
+Marine rank avg: 11,166666666666666
+GrandMaster ammount: 2
+PURCHASES: 
+[00:572] BARUNA Unlocked AssaultRifle
+[00:652] BARUNA Placed MiningDroid
+[00:708] BARUNA Unlocked AdvancedDroidEngines
+[02:418] BARUNA Unlocked TurboDroidEngines
+[03:984] BARUNA Unlocked ArcWelder
+[05:782] BARUNA Unlocked Stimpack
+[06:014] BARUNA Unlocked BioMechanicalRepairDrone
+[06:871] BARUNA Unlocked CombatAccelerationDrone
+[06:901] BARUNA Placed HealingDrone
+[07:061] BARUNA Placed HealingDrone
+[07:361] BARUNA Placed HealingDrone
+[07:620] BARUNA Placed HealingDrone
+[07:800] BARUNA Unlocked MotionSensor
+[08:077] BARUNA Placed SensorTower
+[09:293] BARUNA Unlocked AutoTurret
+[09:323] BARUNA Unlocked FlameTurret
+[09:759] BARUNA Placed SensorTower
+[12:015] BARUNA Placed AutoTurret
+[12:458] BARUNA Placed AutoTurret
+[00:568] ONXY Bought PlayerNumber
+[01:444] ONXY Spawned MassiveCocoon
+[02:785] ONXY Placed/Upgraded LocustNest
+[02:884] ONXY Spawned InfestedAbomination
+[03:273] ONXY Placed/Upgraded PrimalSunkenColony
+[03:274] ONXY Bought SunkenColony
+[05:189] ONXY Placed/Upgraded LocustNest
+[05:373] ONXY Bought BuildExtractorExcavationZone
+[05:373] ONXY Placed/Upgraded AutomatedExtractor
+[05:617] ONXY Bought SunkenColony
+[06:373] ONXY Placed/Upgraded PrimalSunkenColony
+[06:374] ONXY Bought SunkenColony
+[06:638] ONXY Placed/Upgraded LocustNest
+[06:981] ONXY Placed/Upgraded LocustNest
+[07:189] ONXY Bought CreepSpeed
+[08:115] ONXY Placed/Upgraded LocustNest
+[08:621] ONXY Spawned MassiveCocoon
+[08:972] ONXY Placed/Upgraded PrimalSunkenColony
+[08:973] ONXY Bought SunkenColony
+[09:701] ONXY Spawned Underseer
+[09:903] ONXY Placed/Upgraded PrimalSunkenColony
+[09:904] ONXY Bought SunkenColony
+[10:143] ONXY Placed/Upgraded LocustNest
+[10:168] ONXY Bought SunkenColony
+[10:264] ONXY Placed/Upgraded Virophage
+[11:427] ONXY Placed/Upgraded PrimalSunkenColony
+[11:428] ONXY Bought SunkenColony
+[11:668] ONXY Placed/Upgraded LocustNest
+[11:908] ONXY Bought SunkenColony
+[11:908] ONXY Placed/Upgraded PrimalSunkenColony
+[13:610] ONXY Spawned MassiveCocoon
+[15:050] ONXY Spawned InfestedAbomination
+[28:574] ONXY Bought DropshipsFueled
+[00:572] MilfHunter Unlocked AssaultRifle
+[00:651] MilfHunter Placed/Upgraded MiningDroid
+[01:036] MilfHunter Unlocked Flamethrower
+[03:844] MilfHunter Unlocked SpecOpsFlamethrower
+[04:742] MilfHunter Unlocked CryoFreeze
+[05:750] MilfHunter Unlocked Shieldsiotunlocked
+[09:149] MilfHunter Unlocked AdvancedDroidEngines
+[00:572] Frosky Unlocked AssaultRifle
+[00:651] Frosky Placed/Upgraded MiningDroid
+[00:729] Frosky Unlocked IncendiaryGrenade
+[05:751] Frosky Bought ShieldSuit
+[05:751] Frosky Bought CombatSuit
+[05:751] Frosky Bought HazmatSuit
+[05:751] Frosky Bought ShieldSuit
+[05:860] Frosky Unlocked ArcWelder
+[10:071] Frosky Unlocked PsiDisrupter
+[10:090] Frosky Unlocked PsiDepressor
+[10:158] Frosky Placed/Upgraded PsiIndoctrinator
+[10:640] Frosky Placed/Upgraded PsiIndoctrinator
+[00:572] MinerManner Unlocked AssaultRifle
+[00:670] MinerManner Placed/Upgraded MiningDroid
+[01:319] MinerManner Unlocked CombatSuit
+[01:961] MinerManner Unlocked AdvancedCombatSuit
+[04:203] MinerManner Unlocked SpecOpsAssaultRifle
+[06:496] MinerManner Unlocked AIAssistant
+[08:400] MinerManner Unlocked AutoTargetingSystem
+[12:801] MinerManner Unlocked Stimpack
+[00:572] slayertanks Unlocked AssaultRifle
+[00:652] slayertanks Placed/Upgraded MiningDroid
+[00:757] slayertanks Unlocked AdvancedDroidEngines
+[01:320] slayertanks Bought ShieldSuit
+[01:320] slayertanks Bought CombatSuit
+[01:320] slayertanks Bought HazmatSuit
+[01:320] slayertanks Bought CombatSuit
+[01:962] slayertanks Bought CombatSuit
+[04:132] slayertanks Placed/Upgraded MiningDroid
+[05:975] slayertanks Unlocked TurboDroidEngines
+[06:981] slayertanks Unlocked Shieldsiotunlocked
+[08:845] slayertanks Unlocked SpecOpsAssaultRifle
+[11:767] slayertanks Unlocked Bayonette
+[00:572] Fayrrox Unlocked AssaultRifle
+[06:982] Fayrrox Bought ShieldSuit
+[06:982] Fayrrox Bought CombatSuit
+[06:982] Fayrrox Bought HazmatSuit
+[06:982] Fayrrox Bought ShieldSuit
+ONXY First Alpha InfestedAbomination |  Loss
+
+ONXY Placed 0 Greaters.
+--------------------------------

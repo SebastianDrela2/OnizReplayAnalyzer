@@ -1,0 +1,25 @@
+Vearesarion HumanWinsNormal 7
+Vearesarion LeftLastGameAsZombie 0
+Vearesarion ZombieRank 0
+Vearesarion VespeneHarvested 23300
+Vearesarion HumansRescued 18
+Vearesarion SecurityForcesKilled 0
+Vearesarion ZombiesKilled 6250
+Vearesarion FuelDiverted 42
+Vearesarion PlayedRankedMode5.0 1
+Vearesarion HumanRank 9
+Vearesarion NumberOfTimesCaptured 19
+Vearesarion TurretsBuilt 38
+Vearesarion ZombieWins 0
+Vearesarion GamesLeft 1
+Vearesarion GamesPlayedAsHuman 13
+Vearesarion GamesPlayedAsZombie 0
+Vearesarion HumansCaptured 0
+Vearesarion K/D Ratio 328,95
+Vearesarion Average Marine Winrate 54%
+Vearesarion Average Fuel Diverts PerGame 3,23
+Vearesarion Average Vespene Harvested PerGame 1792,31
+Vearesarion Average Zombie Winrate NaN%
+Vearesarion Average Security Kills Per Game NaN
+Vearesarion Average Deaths PerGame 1,46
+Vearesarion Average Infestation Class Class 1

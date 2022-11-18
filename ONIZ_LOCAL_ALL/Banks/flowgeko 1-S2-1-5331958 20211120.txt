@@ -1,0 +1,23 @@
+flowgeko HumanWinsNormal 1
+flowgeko ZombieRank 0
+flowgeko VespeneHarvested 5500
+flowgeko HumansRescued 1
+flowgeko SecurityForcesKilled 515
+flowgeko ZombiesKilled 1436
+flowgeko FuelDiverted 2
+flowgeko HumanRank 0
+flowgeko NumberOfTimesCaptured 12
+flowgeko TurretsBuilt 32
+flowgeko ZombieWins 2
+flowgeko GamesLeft 0
+flowgeko GamesPlayedAsHuman 4
+flowgeko GamesPlayedAsZombie 2
+flowgeko HumansCaptured 4
+flowgeko K/D Ratio 119,67
+flowgeko Average Marine Winrate 25%
+flowgeko Average Fuel Diverts PerGame 0,5
+flowgeko Average Vespene Harvested PerGame 1375
+flowgeko Average Zombie Winrate 100%
+flowgeko Average Security Kills Per Game 258
+flowgeko Average Deaths PerGame 3
+flowgeko Average Infestation Class Class 3

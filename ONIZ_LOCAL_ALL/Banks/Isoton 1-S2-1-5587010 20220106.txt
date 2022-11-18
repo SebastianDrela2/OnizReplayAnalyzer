@@ -1,0 +1,23 @@
+Isoton HumanWinsNormal 60
+Isoton ZombieRank 0
+Isoton VespeneHarvested 555480
+Isoton HumansRescued 95
+Isoton SecurityForcesKilled 32000
+Isoton ZombiesKilled 100618
+Isoton FuelDiverted 305
+Isoton HumanRank 1
+Isoton NumberOfTimesCaptured 295
+Isoton TurretsBuilt 1041
+Isoton ZombieWins 17
+Isoton GamesLeft 5
+Isoton GamesPlayedAsHuman 189
+Isoton GamesPlayedAsZombie 70
+Isoton HumansCaptured 599
+Isoton K/D Ratio 341,08
+Isoton Average Marine Winrate 32%
+Isoton Average Fuel Diverts PerGame 1,61
+Isoton Average Vespene Harvested PerGame 2939,05
+Isoton Average Zombie Winrate 24%
+Isoton Average Security Kills Per Game 457
+Isoton Average Deaths PerGame 1,56
+Isoton Average Infestation Class Class 5

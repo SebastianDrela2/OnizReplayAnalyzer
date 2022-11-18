@@ -1,0 +1,23 @@
+gookgook HumanWinsNormal 7
+gookgook ZombieRank 0
+gookgook VespeneHarvested 90500
+gookgook HumansRescued 36
+gookgook SecurityForcesKilled 481
+gookgook ZombiesKilled 18654
+gookgook FuelDiverted 0
+gookgook HumanRank 1
+gookgook NumberOfTimesCaptured 99
+gookgook TurretsBuilt 92
+gookgook ZombieWins 1
+gookgook GamesLeft 2
+gookgook GamesPlayedAsHuman 36
+gookgook GamesPlayedAsZombie 2
+gookgook HumansCaptured 0
+gookgook K/D Ratio 188,42
+gookgook Average Marine Winrate 19%
+gookgook Average Fuel Diverts PerGame 0
+gookgook Average Vespene Harvested PerGame 2513,89
+gookgook Average Zombie Winrate 50%
+gookgook Average Security Kills Per Game 240
+gookgook Average Deaths PerGame 2,75
+gookgook Average Infestation Class Class 3

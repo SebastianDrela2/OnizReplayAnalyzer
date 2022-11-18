@@ -1,0 +1,23 @@
+DementorFury HumanWinsNormal 1
+DementorFury ZombieRank 0
+DementorFury VespeneHarvested 1600
+DementorFury HumansRescued 0
+DementorFury SecurityForcesKilled 0
+DementorFury ZombiesKilled 569
+DementorFury FuelDiverted 7
+DementorFury HumanRank 1
+DementorFury NumberOfTimesCaptured 0
+DementorFury TurretsBuilt 15
+DementorFury ZombieWins 0
+DementorFury GamesLeft 1
+DementorFury GamesPlayedAsHuman 2
+DementorFury GamesPlayedAsZombie 0
+DementorFury HumansCaptured 0
+DementorFury K/D Ratio ∞
+DementorFury Average Marine Winrate 50%
+DementorFury Average Fuel Diverts PerGame 3,5
+DementorFury Average Vespene Harvested PerGame 800
+DementorFury Average Zombie Winrate NaN%
+DementorFury Average Security Kills Per Game NaN
+DementorFury Average Deaths PerGame 0
+DementorFury Average Infestation Class Class 1

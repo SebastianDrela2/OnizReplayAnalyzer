@@ -1,0 +1,23 @@
+Zeus HumanWinsNormal 3
+Zeus ZombieRank 0
+Zeus VespeneHarvested 17400
+Zeus HumansRescued 2
+Zeus SecurityForcesKilled 0
+Zeus ZombiesKilled 2642
+Zeus FuelDiverted 1
+Zeus HumanRank 1
+Zeus NumberOfTimesCaptured 33
+Zeus TurretsBuilt 3
+Zeus ZombieWins 0
+Zeus GamesLeft 4
+Zeus GamesPlayedAsHuman 13
+Zeus GamesPlayedAsZombie 0
+Zeus HumansCaptured 0
+Zeus K/D Ratio 80,06
+Zeus Average Marine Winrate 23%
+Zeus Average Fuel Diverts PerGame 0,08
+Zeus Average Vespene Harvested PerGame 1338,46
+Zeus Average Zombie Winrate NaN%
+Zeus Average Security Kills Per Game NaN
+Zeus Average Deaths PerGame 2,54
+Zeus Average Infestation Class Class 1

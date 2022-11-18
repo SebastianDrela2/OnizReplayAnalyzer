@@ -1,0 +1,23 @@
+fisjek HumanWinsNormal 0
+fisjek ZombieRank 0
+fisjek VespeneHarvested 2100
+fisjek HumansRescued 1
+fisjek SecurityForcesKilled 0
+fisjek ZombiesKilled 887
+fisjek FuelDiverted 7
+fisjek HumanRank 0
+fisjek NumberOfTimesCaptured 0
+fisjek TurretsBuilt 5
+fisjek ZombieWins 0
+fisjek GamesLeft 1
+fisjek GamesPlayedAsHuman 2
+fisjek GamesPlayedAsZombie 0
+fisjek HumansCaptured 0
+fisjek K/D Ratio ∞
+fisjek Average Marine Winrate 0%
+fisjek Average Fuel Diverts PerGame 3,5
+fisjek Average Vespene Harvested PerGame 1050
+fisjek Average Zombie Winrate NaN%
+fisjek Average Security Kills Per Game NaN
+fisjek Average Deaths PerGame 0
+fisjek Average Infestation Class Class 1

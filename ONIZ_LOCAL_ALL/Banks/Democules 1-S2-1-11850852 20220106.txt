@@ -1,0 +1,23 @@
+Democules HumanWinsNormal 0
+Democules ZombieRank 0
+Democules VespeneHarvested 0
+Democules HumansRescued 0
+Democules SecurityForcesKilled 0
+Democules ZombiesKilled 0
+Democules FuelDiverted 0
+Democules HumanRank 0
+Democules NumberOfTimesCaptured 0
+Democules TurretsBuilt 0
+Democules ZombieWins 0
+Democules GamesLeft 0
+Democules GamesPlayedAsHuman 0
+Democules GamesPlayedAsZombie 0
+Democules HumansCaptured 0
+Democules K/D Ratio NaN
+Democules Average Marine Winrate NaN%
+Democules Average Fuel Diverts PerGame NaN
+Democules Average Vespene Harvested PerGame NaN
+Democules Average Zombie Winrate NaN%
+Democules Average Security Kills Per Game NaN
+Democules Average Deaths PerGame NaN
+Democules Average Infestation Class Class 1

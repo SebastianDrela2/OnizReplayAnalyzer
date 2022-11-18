@@ -1,0 +1,23 @@
+Might HumanWinsNormal 23
+Might ZombieRank 22.3325
+Might VespeneHarvested 140500
+Might HumansRescued 13
+Might SecurityForcesKilled 21996
+Might ZombiesKilled 28406
+Might FuelDiverted 66
+Might HumanRank 0
+Might NumberOfTimesCaptured 80
+Might TurretsBuilt 60
+Might ZombieWins 37
+Might GamesLeft 13
+Might GamesPlayedAsHuman 66
+Might GamesPlayedAsZombie 55
+Might HumansCaptured 489
+Might K/D Ratio 355,08
+Might Average Marine Winrate 35%
+Might Average Fuel Diverts PerGame 1
+Might Average Vespene Harvested PerGame 2128,79
+Might Average Zombie Winrate 67%
+Might Average Security Kills Per Game 400
+Might Average Deaths PerGame 1,21
+Might Average Infestation Class Class 4

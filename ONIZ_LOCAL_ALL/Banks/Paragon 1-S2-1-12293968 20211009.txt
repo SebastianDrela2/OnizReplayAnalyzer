@@ -1,0 +1,23 @@
+Paragon HumanWinsNormal 1
+Paragon ZombieRank 0
+Paragon VespeneHarvested 7200
+Paragon HumansRescued 2
+Paragon SecurityForcesKilled 0
+Paragon ZombiesKilled 1429
+Paragon FuelDiverted 28
+Paragon HumanRank 0
+Paragon NumberOfTimesCaptured 4
+Paragon TurretsBuilt 9
+Paragon ZombieWins 0
+Paragon GamesLeft 1
+Paragon GamesPlayedAsHuman 5
+Paragon GamesPlayedAsZombie 0
+Paragon HumansCaptured 0
+Paragon K/D Ratio 357,25
+Paragon Average Marine Winrate 20%
+Paragon Average Fuel Diverts PerGame 5,6
+Paragon Average Vespene Harvested PerGame 1440
+Paragon Average Zombie Winrate NaN%
+Paragon Average Security Kills Per Game NaN
+Paragon Average Deaths PerGame 0,8
+Paragon Average Infestation Class Class 1

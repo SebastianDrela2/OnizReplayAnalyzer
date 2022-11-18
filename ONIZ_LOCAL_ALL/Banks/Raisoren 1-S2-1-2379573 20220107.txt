@@ -1,0 +1,25 @@
+Raisoren HumanWinsNormal 32
+Raisoren LeftLastGameAsZombie 0
+Raisoren ZombieRank 0
+Raisoren VespeneHarvested 267200
+Raisoren HumansRescued 107
+Raisoren SecurityForcesKilled 0
+Raisoren ZombiesKilled 47993
+Raisoren FuelDiverted 164
+Raisoren PlayedRankedMode5.0 1
+Raisoren HumanRank 4.4335
+Raisoren NumberOfTimesCaptured 236
+Raisoren TurretsBuilt 304
+Raisoren ZombieWins 0
+Raisoren GamesLeft 7
+Raisoren GamesPlayedAsHuman 101
+Raisoren GamesPlayedAsZombie 0
+Raisoren HumansCaptured 0
+Raisoren K/D Ratio 203,36
+Raisoren Average Marine Winrate 32%
+Raisoren Average Fuel Diverts PerGame 1,62
+Raisoren Average Vespene Harvested PerGame 2645,54
+Raisoren Average Zombie Winrate NaN%
+Raisoren Average Security Kills Per Game NaN
+Raisoren Average Deaths PerGame 2,34
+Raisoren Average Infestation Class Class 1

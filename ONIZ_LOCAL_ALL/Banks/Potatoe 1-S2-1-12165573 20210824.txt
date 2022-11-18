@@ -1,0 +1,23 @@
+Potatoe HumanWinsNormal 0
+Potatoe ZombieRank 0
+Potatoe VespeneHarvested 3800
+Potatoe HumansRescued 1
+Potatoe SecurityForcesKilled 0
+Potatoe ZombiesKilled 502
+Potatoe FuelDiverted 7
+Potatoe HumanRank 0
+Potatoe NumberOfTimesCaptured 7
+Potatoe TurretsBuilt 0
+Potatoe ZombieWins 0
+Potatoe GamesLeft 1
+Potatoe GamesPlayedAsHuman 5
+Potatoe GamesPlayedAsZombie 0
+Potatoe HumansCaptured 0
+Potatoe K/D Ratio 71,71
+Potatoe Average Marine Winrate 0%
+Potatoe Average Fuel Diverts PerGame 1,4
+Potatoe Average Vespene Harvested PerGame 760
+Potatoe Average Zombie Winrate NaN%
+Potatoe Average Security Kills Per Game NaN
+Potatoe Average Deaths PerGame 1,4
+Potatoe Average Infestation Class Class 1

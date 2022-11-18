@@ -1,0 +1,25 @@
+SteirylSleiy HumanWinsNormal 103
+SteirylSleiy LeftLastGameAsZombie 0
+SteirylSleiy ZombieRank 5.1657
+SteirylSleiy VespeneHarvested 600400
+SteirylSleiy HumansRescued 186
+SteirylSleiy SecurityForcesKilled 14904
+SteirylSleiy ZombiesKilled 154471
+SteirylSleiy FuelDiverted 145
+SteirylSleiy PlayedRankedMode5.0 1
+SteirylSleiy HumanRank 15.1
+SteirylSleiy NumberOfTimesCaptured 291
+SteirylSleiy TurretsBuilt 784
+SteirylSleiy ZombieWins 14
+SteirylSleiy GamesLeft 21
+SteirylSleiy GamesPlayedAsHuman 216
+SteirylSleiy GamesPlayedAsZombie 32
+SteirylSleiy HumansCaptured 375
+SteirylSleiy K/D Ratio 530,83
+SteirylSleiy Average Marine Winrate 48%
+SteirylSleiy Average Fuel Diverts PerGame 0,67
+SteirylSleiy Average Vespene Harvested PerGame 2779,63
+SteirylSleiy Average Zombie Winrate 44%
+SteirylSleiy Average Security Kills Per Game 466
+SteirylSleiy Average Deaths PerGame 1,35
+SteirylSleiy Average Infestation Class Class 5

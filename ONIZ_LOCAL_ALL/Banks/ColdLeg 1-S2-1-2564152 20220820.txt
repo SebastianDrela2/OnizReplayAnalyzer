@@ -1,0 +1,23 @@
+ColdLeg HumanWinsNormal 22
+ColdLeg ZombieRank 0
+ColdLeg VespeneHarvested 179560
+ColdLeg HumansRescued 42
+ColdLeg SecurityForcesKilled 14005
+ColdLeg ZombiesKilled 40911
+ColdLeg FuelDiverted 105
+ColdLeg HumanRank 3
+ColdLeg NumberOfTimesCaptured 159
+ColdLeg TurretsBuilt 260
+ColdLeg ZombieWins 3
+ColdLeg GamesLeft 9
+ColdLeg GamesPlayedAsHuman 80
+ColdLeg GamesPlayedAsZombie 32
+ColdLeg HumansCaptured 220
+ColdLeg K/D Ratio 257,3
+ColdLeg Average Marine Winrate 28,000000000000004%
+ColdLeg Average Fuel Diverts PerGame 1,31
+ColdLeg Average Vespene Harvested PerGame 2244,5
+ColdLeg Average Zombie Winrate 9%
+ColdLeg Average Security Kills Per Game 438
+ColdLeg Average Deaths PerGame 1,99
+ColdLeg Average Infestation Class Class 5

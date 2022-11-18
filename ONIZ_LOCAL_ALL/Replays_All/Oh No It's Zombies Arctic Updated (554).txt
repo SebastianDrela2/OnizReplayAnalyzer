@@ -1,0 +1,197 @@
+Analyzed: Oh No It's Zombies Arctic Updated (554)
+
+ID : 0 PlayerName: Casual Race: Terran
+ID : 1 PlayerName: Basilic Race: Terran
+ID : 2 PlayerName: Juhani Race: Terran
+ID : 3 PlayerName: Zepherd Race: Zerg
+ID : 4 PlayerName: Frosky Race: Terran
+ID : 5 PlayerName: UltraBrood Race: Terran
+ID : 6 PlayerName: Corbacho Race: Terran
+ID : 7 PlayerName: Security Race: Terran Tychus
+Zepherd Zombie Win
+Public Lobby
+
+Game Length:[31:298]
+Players ammount: 8
+Marine rank avg: 10,166666666666666
+GrandMaster ammount: 3
+PURCHASES: 
+[00:588] Casual Unlocked AssaultRifle
+[00:667] Casual Placed/Upgraded MiningDroid
+[02:110] Casual Unlocked SpecOpsAssaultRifle
+[05:478] Casual Unlocked Bayonette
+[05:520] Casual Unlocked CombatShield
+[06:205] Casual Unlocked MedicShield
+[11:289] Casual Unlocked Shieldsiotunlocked
+[11:293] Casual Unlocked AdvancedShieldSuit
+[15:389] Casual Unlocked AutoTurret
+[15:415] Casual Unlocked FlameTurret
+[17:017] Casual Placed/Upgraded AutoTurret
+[19:108] Casual Placed/Upgraded AutoTurret
+[25:629] Casual Placed/Upgraded AutoTurret
+[28:300] Casual Placed/Upgraded AutoTurret
+[28:981] Casual Placed/Upgraded AutoTurret
+[00:588] Basilic Unlocked AssaultRifle
+[00:690] Basilic Placed/Upgraded MiningDroid
+[06:614] Basilic Unlocked SpecOpsAssaultRifle
+[11:290] Basilic Bought ShieldSuit
+[11:290] Basilic Bought CombatSuit
+[11:290] Basilic Bought HazmatSuit
+[11:290] Basilic Bought ShieldSuit
+[11:294] Basilic Bought ShieldSuit
+[11:790] Basilic Unlocked TitaniumBulletCasings
+[12:642] Basilic Unlocked CombatSuit
+[13:467] Basilic Unlocked AdvancedCombatSuit
+[16:637] Basilic Unlocked IncendiaryGrenade
+[00:588] Juhani Unlocked AssaultRifle
+[00:718] Juhani Placed MiningDroid
+[00:768] Juhani Unlocked AdvancedDroidEngines
+[01:607] Juhani Unlocked OverloadWeapon
+[05:043] Juhani Unlocked TurboDroidEngines
+[06:411] Juhani Unlocked CombatSuit
+[06:418] Juhani Unlocked AdvancedCombatSuit
+[07:911] Juhani Unlocked SuperStimpack
+[10:641] Juhani Unlocked Shotgun
+[10:653] Juhani Unlocked SpecOpsShotgun
+[11:935] Juhani Unlocked HighPrecisionBeams
+[12:643] Juhani Bought ShieldSuit
+[12:643] Juhani Bought CombatSuit
+[12:643] Juhani Bought HazmatSuit
+[12:643] Juhani Bought CombatSuit
+[12:707] Juhani Unlocked CombatShield
+[13:468] Juhani Bought CombatSuit
+[17:247] Juhani Unlocked EnergyPack
+[17:254] Juhani Unlocked AIAssistant
+[00:552] Zepherd Bought PlayerNumber
+[01:748] Zepherd Spawned MassiveCocoon
+[02:994] Zepherd Placed/Upgraded PrimalSunkenColony
+[02:995] Zepherd Bought SunkenColony
+[03:188] Zepherd Spawned Hunter
+[03:283] Zepherd Placed/Upgraded PrimalSunkenColony
+[03:284] Zepherd Bought SunkenColony
+[03:334] Zepherd Placed/Upgraded ToxicNest
+[03:345] Zepherd Placed/Upgraded ToxicNest
+[03:378] Zepherd Placed/Upgraded ToxicNest
+[05:090] Zepherd Bought SunkenColony
+[05:226] Zepherd Bought BuildExtractorProcessingFacilities
+[05:226] Zepherd Placed/Upgraded AutomatedExtractor
+[05:249] Zepherd Bought CreepSpeed
+[06:186] Zepherd Bought SunkenColony
+[06:290] Zepherd Placed/Upgraded ToxicNest
+[06:313] Zepherd Placed/Upgraded ToxicNest
+[06:332] Zepherd Placed/Upgraded ToxicNest
+[06:412] Zepherd Bought ShieldSuit
+[06:412] Zepherd Bought CombatSuit
+[06:412] Zepherd Bought HazmatSuit
+[06:412] Zepherd Bought CombatSuit
+[06:419] Zepherd Bought CombatSuit
+[06:854] Zepherd Placed/Upgraded ToxicNest
+[07:611] Zepherd Bought SunkenColony
+[07:611] Zepherd Placed/Upgraded PrimalSunkenColony
+[07:774] Zepherd Bought CreepSpeed
+[09:189] Zepherd Bought StrainDamage
+[09:199] Zepherd Bought PureStrainDamage
+[12:011] Zepherd Bought StrainVolatile
+[12:023] Zepherd Bought PureStrainVolatile
+[14:433] Zepherd Placed/Upgraded LesserNydusWorm
+[14:434] Zepherd Bought GreaterNydus
+[14:509] Zepherd Bought KaboomerStrain
+[14:559] Zepherd Bought StrainHealth
+[14:568] Zepherd Bought PureStrainHealth
+[15:161] Zepherd Bought BuildExtractorManufacturingSector
+[15:161] Zepherd Placed/Upgraded AutomatedExtractor
+[16:727] Zepherd Bought BuildExtractorScienceLabs
+[16:727] Zepherd Placed/Upgraded AutomatedExtractor
+[16:903] Zepherd Bought ConstructiveCreep
+[17:189] Zepherd Placed/Upgraded LesserNydusWorm
+[17:190] Zepherd Bought GreaterNydus
+[17:533] Zepherd Bought ExtractorCostReductionProcessingFacilities
+[17:533] Zepherd Bought BuildExtractorProcessingFacilities
+[18:065] Zepherd Bought ExtractorCostReductionManufacturingSector
+[18:065] Zepherd Bought BuildExtractorManufacturingSector
+[18:083] Zepherd Bought TankStrain
+[18:219] Zepherd Placed/Upgraded PrimalSunkenColony
+[18:220] Zepherd Bought SunkenColony
+[18:254] Zepherd Bought BuildExtractorProcessingFacilities
+[18:254] Zepherd Placed/Upgraded AutomatedExtractor
+[18:672] Zepherd Placed/Upgraded LesserNydusWorm
+[18:673] Zepherd Bought GreaterNydus
+[19:226] Zepherd Bought SunkenColony
+[20:118] Zepherd Bought BuildExtractorExcavationZone
+[20:118] Zepherd Placed/Upgraded AutomatedExtractor
+[20:240] Zepherd Placed/Upgraded LesserNydusWorm
+[20:241] Zepherd Bought GreaterNydus
+[20:401] Zepherd Placed/Upgraded NydusCanalCreeper
+[20:982] Zepherd Bought DefilerStrain
+[22:003] Zepherd Bought SiphonFuel
+[22:066] Zepherd Bought StrainSpeed
+[22:076] Zepherd Bought PureStrainSpeed
+[22:086] Zepherd Bought BuildExtractorExcavationZone
+[22:491] Zepherd Bought HunterlingStrain
+[23:281] Zepherd Bought StrainDamage
+[23:299] Zepherd Bought PureStrainDamage
+[23:589] Zepherd Bought GreaterNydus
+[23:932] Zepherd Placed/Upgraded LesserNydusWorm
+[23:933] Zepherd Bought GreaterNydus
+[24:257] Zepherd Bought VirulentCreep
+[24:257] Zepherd Bought VirulentCreep
+[24:921] Zepherd Placed/Upgraded NydusCanalCreeper
+[25:167] Zepherd Placed/Upgraded PrimalSunkenColony
+[25:168] Zepherd Bought SunkenColony
+[25:328] Zepherd Placed/Upgraded NydusCanalCreeper
+[25:392] Zepherd Bought SiphonFuel
+[25:871] Zepherd Placed/Upgraded LesserNydusWorm
+[25:872] Zepherd Bought GreaterNydus
+[26:202] Zepherd Placed/Upgraded NydusCanalCreeper
+[26:792] Zepherd Bought DefilerStrain
+[27:125] Zepherd Placed/Upgraded PrimalSunkenColony
+[27:126] Zepherd Bought SunkenColony
+[27:286] Zepherd Bought SunkenColony
+[27:286] Zepherd Placed/Upgraded PrimalSunkenColony
+[27:483] Zepherd Bought SunkenColony
+[27:775] Zepherd Placed/Upgraded PrimalSunkenColony
+[27:776] Zepherd Bought SunkenColony
+[28:063] Zepherd Bought SunkenColony
+[28:063] Zepherd Bought SunkenColony
+[28:063] Zepherd Bought SunkenColony
+[28:254] Zepherd Bought RegenerativeCreep
+[28:659] Zepherd Placed/Upgraded NydusCanalCreeper
+[28:819] Zepherd Bought SunkenColony
+[28:819] Zepherd Placed/Upgraded PrimalSunkenColony
+[29:803] Zepherd Placed/Upgraded PrimalSunkenColony
+[29:804] Zepherd Bought SunkenColony
+[30:218] Zepherd Bought SunkenColony
+[30:308] Zepherd Bought UnlockDropPods
+[30:315] Zepherd Bought EvolveDropPods
+[30:318] Zepherd Bought EvolveDropPods
+[30:323] Zepherd Bought EvolveDropPods
+[30:693] Zepherd Bought EvolveDropPods
+[00:588] Frosky Unlocked AssaultRifle
+[00:704] Frosky Placed/Upgraded MiningDroid
+[00:781] Frosky Unlocked Shotgun
+[05:452] Frosky Unlocked AdvancedDroidEngines
+[08:004] Frosky Unlocked TurboDroidEngines
+[10:734] Frosky Unlocked SpecOpsShotgun
+[14:594] Frosky Placed/Upgraded MiningDroid
+[19:149] Frosky Unlocked MedicShield
+[28:613] Frosky Unlocked Stimpack
+[00:588] UltraBrood Unlocked AssaultRifle
+[03:079] UltraBrood Placed/Upgraded MiningDroid
+[04:073] UltraBrood Unlocked SpecOpsAssaultRifle
+[07:554] UltraBrood Unlocked CombatSuit
+[08:856] UltraBrood Unlocked AdvancedDroidEngines
+[10:716] UltraBrood Unlocked QuantumBackpack
+[11:006] UltraBrood Unlocked MedicShield
+[13:441] UltraBrood Placed/Upgraded MiningDroid
+[16:537] UltraBrood Unlocked TitaniumBulletCasings
+[17:682] UltraBrood Unlocked TurboDroidEngines
+[00:588] Corbacho Unlocked AssaultRifle
+[03:230] Corbacho Unlocked SpecOpsAssaultRifle
+[07:555] Corbacho Bought ShieldSuit
+[07:555] Corbacho Bought CombatSuit
+[07:555] Corbacho Bought HazmatSuit
+[07:555] Corbacho Bought CombatSuit
+Zepherd First Alpha Hunter |  Win
+
+Zepherd Placed 0 Greaters.
+--------------------------------

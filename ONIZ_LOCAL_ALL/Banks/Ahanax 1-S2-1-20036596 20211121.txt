@@ -1,0 +1,23 @@
+Ahanax HumanWinsNormal 44
+Ahanax ZombieRank 7.333
+Ahanax VespeneHarvested 1067900
+Ahanax HumansRescued 250
+Ahanax SecurityForcesKilled 8097
+Ahanax ZombiesKilled 255013
+Ahanax FuelDiverted 689
+Ahanax HumanRank 0.5
+Ahanax NumberOfTimesCaptured 492
+Ahanax TurretsBuilt 1436
+Ahanax ZombieWins 8
+Ahanax GamesLeft 9
+Ahanax GamesPlayedAsHuman 310
+Ahanax GamesPlayedAsZombie 18
+Ahanax HumansCaptured 170
+Ahanax K/D Ratio 518,32
+Ahanax Average Marine Winrate 14,000000000000002%
+Ahanax Average Fuel Diverts PerGame 2,22
+Ahanax Average Vespene Harvested PerGame 3444,84
+Ahanax Average Zombie Winrate 44%
+Ahanax Average Security Kills Per Game 450
+Ahanax Average Deaths PerGame 1,59
+Ahanax Average Infestation Class Class 5

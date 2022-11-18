@@ -1,0 +1,23 @@
+Swinty HumanWinsNormal 3
+Swinty ZombieRank 0
+Swinty VespeneHarvested 19100
+Swinty HumansRescued 8
+Swinty SecurityForcesKilled 403
+Swinty ZombiesKilled 6853
+Swinty FuelDiverted 7
+Swinty HumanRank 1
+Swinty NumberOfTimesCaptured 29
+Swinty TurretsBuilt 57
+Swinty ZombieWins 0
+Swinty GamesLeft 4
+Swinty GamesPlayedAsHuman 16
+Swinty GamesPlayedAsZombie 2
+Swinty HumansCaptured 8
+Swinty K/D Ratio 236,31
+Swinty Average Marine Winrate 19%
+Swinty Average Fuel Diverts PerGame 0,44
+Swinty Average Vespene Harvested PerGame 1193,75
+Swinty Average Zombie Winrate 0%
+Swinty Average Security Kills Per Game 202
+Swinty Average Deaths PerGame 1,81
+Swinty Average Infestation Class Class 3

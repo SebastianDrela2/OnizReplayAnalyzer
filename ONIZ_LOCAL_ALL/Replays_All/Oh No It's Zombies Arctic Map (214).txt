@@ -1,0 +1,20 @@
+Analyzed: Oh No It's Zombies Arctic Map (214)
+
+ID : 1 PlayerName: Frosky Race: Zerg
+ID : 2 PlayerName: Wooky Race: Terran
+ID : 5 PlayerName: csiz Race: Terran
+ID : 6 PlayerName: ReturnOffer Race: Terran
+ID : 7 PlayerName: Security Race: Terran Horner
+Frosky Zombie Win
+Public Lobby
+
+Game Length:[02:126]
+Players ammount: 5
+Marine rank avg: 10,5
+GrandMaster ammount: 2
+PURCHASES: 
+[01:652] Frosky Bought ConstructiveCreep
+[00:572] csiz Unlocked AssaultRifle
+
+Frosky Placed 0 Greaters.
+--------------------------------

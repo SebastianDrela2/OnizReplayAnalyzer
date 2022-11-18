@@ -1,0 +1,24 @@
+deatheater HumanWinsNormal 15
+deatheater ZombieRank 3
+deatheater VespeneHarvested 85900
+deatheater HumansRescued 22
+deatheater SecurityForcesKilled 1338
+deatheater ZombiesKilled 11672
+deatheater FuelDiverted 29
+deatheater PlayedRankedMode5.0 1
+deatheater HumanRank 2
+deatheater NumberOfTimesCaptured 92
+deatheater TurretsBuilt 131
+deatheater ZombieWins 1
+deatheater GamesLeft 11
+deatheater GamesPlayedAsHuman 43
+deatheater GamesPlayedAsZombie 6
+deatheater HumansCaptured 44
+deatheater K/D Ratio 126,87
+deatheater Average Marine Winrate 35%
+deatheater Average Fuel Diverts PerGame 0,67
+deatheater Average Vespene Harvested PerGame 1997,67
+deatheater Average Zombie Winrate 17%
+deatheater Average Security Kills Per Game 223
+deatheater Average Deaths PerGame 2,14
+deatheater Average Infestation Class Class 3

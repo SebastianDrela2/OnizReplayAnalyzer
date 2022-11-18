@@ -1,0 +1,23 @@
+marsman HumanWinsNormal 4
+marsman ZombieRank 0
+marsman VespeneHarvested 25000
+marsman HumansRescued 12
+marsman SecurityForcesKilled 0
+marsman ZombiesKilled 5602
+marsman FuelDiverted 3
+marsman HumanRank 3.5
+marsman NumberOfTimesCaptured 27
+marsman TurretsBuilt 89
+marsman ZombieWins 0
+marsman GamesLeft 0
+marsman GamesPlayedAsHuman 12
+marsman GamesPlayedAsZombie 0
+marsman HumansCaptured 0
+Elele K/D Ratio 207,48
+Elele Average Marine Winrate 33%
+Elele Average Fuel Diverts PerGame 0,25
+Elele Average Vespene Harvested PerGame 2083,33
+Elele Average Zombie Winrate NaN%
+Elele Average Security Kills Per Game NaN
+Elele Average Deaths PerGame 2,25
+Elele Average Infestation Class Class 1

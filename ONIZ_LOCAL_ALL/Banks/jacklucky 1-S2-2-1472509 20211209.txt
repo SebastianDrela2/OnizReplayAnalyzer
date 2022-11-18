@@ -1,0 +1,23 @@
+jacklucky HumanWinsNormal 3
+jacklucky ZombieRank 0
+jacklucky VespeneHarvested 23600
+jacklucky HumansRescued 6
+jacklucky SecurityForcesKilled 0
+jacklucky ZombiesKilled 5867
+jacklucky FuelDiverted 26
+jacklucky HumanRank 2
+jacklucky NumberOfTimesCaptured 11
+jacklucky TurretsBuilt 22
+jacklucky ZombieWins 0
+jacklucky GamesLeft 1
+jacklucky GamesPlayedAsHuman 10
+jacklucky GamesPlayedAsZombie 0
+jacklucky HumansCaptured 0
+jacklucky K/D Ratio 533,36
+jacklucky Average Marine Winrate 30%
+jacklucky Average Fuel Diverts PerGame 2,6
+jacklucky Average Vespene Harvested PerGame 2360
+jacklucky Average Zombie Winrate NaN%
+jacklucky Average Security Kills Per Game NaN
+jacklucky Average Deaths PerGame 1,1
+jacklucky Average Infestation Class Class 1

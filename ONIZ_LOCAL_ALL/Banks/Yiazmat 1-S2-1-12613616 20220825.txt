@@ -1,0 +1,23 @@
+Yiazmat HumanWinsNormal 0
+Yiazmat ZombieRank 0
+Yiazmat VespeneHarvested 5800
+Yiazmat HumansRescued 4
+Yiazmat SecurityForcesKilled 0
+Yiazmat ZombiesKilled 1955
+Yiazmat FuelDiverted 0
+Yiazmat HumanRank 0
+Yiazmat NumberOfTimesCaptured 11
+Yiazmat TurretsBuilt 0
+Yiazmat ZombieWins 0
+Yiazmat GamesLeft 0
+Yiazmat GamesPlayedAsHuman 6
+Yiazmat GamesPlayedAsZombie 0
+Yiazmat HumansCaptured 0
+Yiazmat K/D Ratio 177,73
+Yiazmat Average Marine Winrate 0%
+Yiazmat Average Fuel Diverts PerGame 0
+Yiazmat Average Vespene Harvested PerGame 966,67
+Yiazmat Average Zombie Winrate NaN%
+Yiazmat Average Security Kills Per Game NaN
+Yiazmat Average Deaths PerGame 1,83
+Yiazmat Average Infestation Class Class 1

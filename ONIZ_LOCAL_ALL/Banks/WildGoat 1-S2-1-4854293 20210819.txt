@@ -1,0 +1,24 @@
+WildGoat HumanWinsNormal 8
+WildGoat ZombieRank 0
+WildGoat VespeneHarvested 64800
+WildGoat HumansRescued 20
+WildGoat SecurityForcesKilled 887
+WildGoat ZombiesKilled 14023
+WildGoat FuelDiverted 15
+WildGoat PlayedRankedMode5.0 1
+WildGoat HumanRank -0.525
+WildGoat NumberOfTimesCaptured 51
+WildGoat TurretsBuilt 132
+WildGoat ZombieWins 0
+WildGoat GamesLeft 5
+WildGoat GamesPlayedAsHuman 26
+WildGoat GamesPlayedAsZombie 2
+WildGoat HumansCaptured 21
+WildGoat K/D Ratio 274,96
+WildGoat Average Marine Winrate 31%
+WildGoat Average Fuel Diverts PerGame 0,58
+WildGoat Average Vespene Harvested PerGame 2492,31
+WildGoat Average Zombie Winrate 0%
+WildGoat Average Security Kills Per Game 444
+WildGoat Average Deaths PerGame 1,96
+WildGoat Average Infestation Class Class 5

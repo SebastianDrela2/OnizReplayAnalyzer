@@ -1,0 +1,24 @@
+micktastic HumanWinsNormal 21
+micktastic LeftLastGameAsZombie 0
+micktastic ZombieRank 0
+micktastic VespeneHarvested 109800
+micktastic HumansRescued 59
+micktastic SecurityForcesKilled 1318
+micktastic ZombiesKilled 34675
+micktastic FuelDiverted 30
+micktastic HumanRank 2
+micktastic NumberOfTimesCaptured 145
+micktastic TurretsBuilt 384
+micktastic ZombieWins 0
+micktastic GamesLeft 0
+micktastic GamesPlayedAsHuman 53
+micktastic GamesPlayedAsZombie 3
+micktastic HumansCaptured 17
+micktastic K/D Ratio 239,14
+micktastic Average Marine Winrate 40%
+micktastic Average Fuel Diverts PerGame 0,57
+micktastic Average Vespene Harvested PerGame 2071,7
+micktastic Average Zombie Winrate 0%
+micktastic Average Security Kills Per Game 439
+micktastic Average Deaths PerGame 2,74
+micktastic Average Infestation Class Class 5

@@ -1,0 +1,25 @@
+Vofoeki HumanWinsNormal 53
+Vofoeki LeftLastGameAsZombie 0
+Vofoeki ZombieRank 0
+Vofoeki VespeneHarvested 294800
+Vofoeki HumansRescued 68
+Vofoeki SecurityForcesKilled 976
+Vofoeki ZombiesKilled 66508
+Vofoeki FuelDiverted 239
+Vofoeki PlayedRankedMode5.0 1
+Vofoeki HumanRank 11
+Vofoeki NumberOfTimesCaptured 101
+Vofoeki TurretsBuilt 1290
+Vofoeki ZombieWins 0
+Vofoeki GamesLeft 14
+Vofoeki GamesPlayedAsHuman 101
+Vofoeki GamesPlayedAsZombie 2
+Vofoeki HumansCaptured 18
+Vofoeki K/D Ratio 658,5
+Vofoeki Average Marine Winrate 52%
+Vofoeki Average Fuel Diverts PerGame 2,37
+Vofoeki Average Vespene Harvested PerGame 2918,81
+Vofoeki Average Zombie Winrate 0%
+Vofoeki Average Security Kills Per Game 488
+Vofoeki Average Deaths PerGame 1
+Vofoeki Average Infestation Class Class 5

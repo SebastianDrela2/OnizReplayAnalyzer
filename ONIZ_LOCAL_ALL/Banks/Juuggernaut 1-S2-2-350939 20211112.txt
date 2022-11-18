@@ -1,0 +1,23 @@
+Juuggernaut HumanWinsNormal 4
+Juuggernaut ZombieRank -1
+Juuggernaut VespeneHarvested 20500
+Juuggernaut HumansRescued 2
+Juuggernaut SecurityForcesKilled 525
+Juuggernaut ZombiesKilled 3985
+Juuggernaut FuelDiverted 1
+Juuggernaut HumanRank 6
+Juuggernaut NumberOfTimesCaptured 7
+Juuggernaut TurretsBuilt 50
+Juuggernaut ZombieWins 0
+Juuggernaut GamesLeft 3
+Juuggernaut GamesPlayedAsHuman 9
+Juuggernaut GamesPlayedAsZombie 2
+Juuggernaut HumansCaptured 12
+Juuggernaut K/D Ratio 569,29
+Juuggernaut Average Marine Winrate 44%
+Juuggernaut Average Fuel Diverts PerGame 0,11
+Juuggernaut Average Vespene Harvested PerGame 2277,78
+Juuggernaut Average Zombie Winrate 0%
+Juuggernaut Average Security Kills Per Game 262
+Juuggernaut Average Deaths PerGame 0,78
+Juuggernaut Average Infestation Class Class 3

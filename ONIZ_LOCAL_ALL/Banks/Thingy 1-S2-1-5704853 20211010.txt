@@ -1,0 +1,24 @@
+Thingy HumanWinsNormal 24
+Thingy LeftLastGameAsZombie 0
+Thingy ZombieRank 4.3332
+Thingy VespeneHarvested 107200
+Thingy HumansRescued 34
+Thingy SecurityForcesKilled 6609
+Thingy ZombiesKilled 26262
+Thingy FuelDiverted 185
+Thingy HumanRank 6
+Thingy NumberOfTimesCaptured 129
+Thingy TurretsBuilt 176
+Thingy ZombieWins 4
+Thingy GamesLeft 6
+Thingy GamesPlayedAsHuman 55
+Thingy GamesPlayedAsZombie 14
+Thingy HumansCaptured 118
+Thingy K/D Ratio 203,58
+Thingy Average Marine Winrate 44%
+Thingy Average Fuel Diverts PerGame 3,36
+Thingy Average Vespene Harvested PerGame 1949,09
+Thingy Average Zombie Winrate 28,999999999999996%
+Thingy Average Security Kills Per Game 472
+Thingy Average Deaths PerGame 2,35
+Thingy Average Infestation Class Class 5

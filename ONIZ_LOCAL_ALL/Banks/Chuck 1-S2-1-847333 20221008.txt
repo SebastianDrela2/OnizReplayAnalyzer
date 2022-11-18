@@ -1,0 +1,26 @@
+Chuck HumanWinsNormal 187
+Chuck LeftLastGameAsZombie 0
+Chuck ZombieRank 18.831
+Chuck PlayedRankedMode 1
+Chuck VespeneHarvested 804580
+Chuck HumansRescued 268
+Chuck SecurityForcesKilled 36639
+Chuck ZombiesKilled 302218
+Chuck FuelDiverted 400
+Chuck PlayedRankedMode5.0 1
+Chuck HumanRank 17.25
+Chuck NumberOfTimesCaptured 325
+Chuck TurretsBuilt 829
+Chuck ZombieWins 45
+Chuck GamesLeft 11
+Chuck GamesPlayedAsHuman 356
+Chuck GamesPlayedAsZombie 82
+Chuck HumansCaptured 858
+Chuck K/D Ratio 929,9
+Chuck Average Marine Winrate 53%
+Chuck Average Fuel Diverts PerGame 1,12
+Chuck Average Vespene Harvested PerGame 2260,06
+Chuck Average Zombie Winrate 55,00000000000001%
+Chuck Average Security Kills Per Game 447
+Chuck Average Deaths PerGame 0,91
+Chuck Average Infestation Class Class 5

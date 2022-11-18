@@ -1,0 +1,23 @@
+shawn HumanWinsNormal 37
+shawn ZombieRank 18.6665
+shawn VespeneHarvested 220880
+shawn HumansRescued 44
+shawn SecurityForcesKilled 10267
+shawn ZombiesKilled 38545
+shawn FuelDiverted 50
+shawn HumanRank 15.25
+shawn NumberOfTimesCaptured 50
+shawn TurretsBuilt 360
+shawn ZombieWins 16
+shawn GamesLeft 2
+shawn GamesPlayedAsHuman 61
+shawn GamesPlayedAsZombie 20
+shawn HumansCaptured 214
+shawn K/D Ratio 770,9
+shawn Average Marine Winrate 61%
+shawn Average Fuel Diverts PerGame 0,82
+shawn Average Vespene Harvested PerGame 3620,98
+shawn Average Zombie Winrate 80%
+shawn Average Security Kills Per Game 513
+shawn Average Deaths PerGame 0,82
+shawn Average Infestation Class Class 5

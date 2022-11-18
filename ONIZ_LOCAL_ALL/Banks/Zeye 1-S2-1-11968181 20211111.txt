@@ -1,0 +1,23 @@
+Zeye HumanWinsNormal 3
+Zeye ZombieRank 0
+Zeye VespeneHarvested 20500
+Zeye HumansRescued 4
+Zeye SecurityForcesKilled 0
+Zeye ZombiesKilled 5419
+Zeye FuelDiverted 24
+Zeye HumanRank 1
+Zeye NumberOfTimesCaptured 36
+Zeye TurretsBuilt 56
+Zeye ZombieWins 0
+Zeye GamesLeft 0
+Zeye GamesPlayedAsHuman 11
+Zeye GamesPlayedAsZombie 0
+Zeye HumansCaptured 0
+Zeye K/D Ratio 150,53
+Zeye Average Marine Winrate 27%
+Zeye Average Fuel Diverts PerGame 2,18
+Zeye Average Vespene Harvested PerGame 1863,64
+Zeye Average Zombie Winrate NaN%
+Zeye Average Security Kills Per Game NaN
+Zeye Average Deaths PerGame 3,27
+Zeye Average Infestation Class Class 1

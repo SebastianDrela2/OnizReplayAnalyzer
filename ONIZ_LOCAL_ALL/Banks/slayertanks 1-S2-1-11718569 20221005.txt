@@ -1,0 +1,23 @@
+slayertanks HumanWinsNormal 23
+slayertanks ZombieRank 0
+slayertanks VespeneHarvested 134920
+slayertanks HumansRescued 25
+slayertanks SecurityForcesKilled 0
+slayertanks ZombiesKilled 32775
+slayertanks FuelDiverted 144
+slayertanks HumanRank 9.25
+slayertanks NumberOfTimesCaptured 34
+slayertanks TurretsBuilt 372
+slayertanks ZombieWins 0
+slayertanks GamesLeft 9
+slayertanks GamesPlayedAsHuman 47
+slayertanks GamesPlayedAsZombie 0
+slayertanks HumansCaptured 0
+slayertanks K/D Ratio 963,97
+slayertanks Average Marine Winrate 49%
+slayertanks Average Fuel Diverts PerGame 3,06
+slayertanks Average Vespene Harvested PerGame 2870,64
+slayertanks Average Zombie Winrate NaN%
+slayertanks Average Security Kills Per Game NaN
+slayertanks Average Deaths PerGame 0,72
+slayertanks Average Infestation Class Class 1

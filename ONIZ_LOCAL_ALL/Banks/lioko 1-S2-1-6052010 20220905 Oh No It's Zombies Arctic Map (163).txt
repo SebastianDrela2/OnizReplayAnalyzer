@@ -1,0 +1,23 @@
+lioko HumanWinsNormal 10
+lioko ZombieRank 0
+lioko VespeneHarvested 84200
+lioko HumansRescued 23
+lioko SecurityForcesKilled 0
+lioko ZombiesKilled 15540
+lioko FuelDiverted 7
+lioko HumanRank 2
+lioko NumberOfTimesCaptured 53
+lioko TurretsBuilt 121
+lioko ZombieWins 0
+lioko GamesLeft 7
+lioko GamesPlayedAsHuman 35
+lioko GamesPlayedAsZombie 0
+lioko HumansCaptured 0
+lioko K/D Ratio 293,21
+lioko Average Marine Winrate 28,999999999999996%
+lioko Average Fuel Diverts PerGame 0,2
+lioko Average Vespene Harvested PerGame 2405,71
+lioko Average Zombie Winrate NaN%
+lioko Average Security Kills Per Game NaN
+lioko Average Deaths PerGame 1,51
+lioko Average Infestation Class Class 1

@@ -1,0 +1,23 @@
+DirtyChicken HumanWinsNormal 11
+DirtyChicken ZombieRank 0
+DirtyChicken VespeneHarvested 80500
+DirtyChicken HumansRescued 12
+DirtyChicken SecurityForcesKilled 0
+DirtyChicken ZombiesKilled 11974
+DirtyChicken FuelDiverted 3
+DirtyChicken HumanRank 0
+DirtyChicken NumberOfTimesCaptured 39
+DirtyChicken TurretsBuilt 120
+DirtyChicken ZombieWins 0
+DirtyChicken GamesLeft 0
+DirtyChicken GamesPlayedAsHuman 29
+DirtyChicken GamesPlayedAsZombie 0
+DirtyChicken HumansCaptured 0
+DirtyChicken K/D Ratio 307,03
+DirtyChicken Average Marine Winrate 38%
+DirtyChicken Average Fuel Diverts PerGame 0,1
+DirtyChicken Average Vespene Harvested PerGame 2775,86
+DirtyChicken Average Zombie Winrate NaN%
+DirtyChicken Average Security Kills Per Game NaN
+DirtyChicken Average Deaths PerGame 1,34
+DirtyChicken Average Infestation Class Class 1

@@ -1,0 +1,23 @@
+Twist HumanWinsNormal 2
+Twist ZombieRank 0
+Twist VespeneHarvested 17500
+Twist HumansRescued 2
+Twist SecurityForcesKilled 0
+Twist ZombiesKilled 1483
+Twist FuelDiverted 3
+Twist HumanRank 2
+Twist NumberOfTimesCaptured 15
+Twist TurretsBuilt 19
+Twist ZombieWins 0
+Twist GamesLeft 0
+Twist GamesPlayedAsHuman 8
+Twist GamesPlayedAsZombie 0
+Twist HumansCaptured 0
+Twist K/D Ratio 98,87
+Twist Average Marine Winrate 25%
+Twist Average Fuel Diverts PerGame 0,38
+Twist Average Vespene Harvested PerGame 2187,5
+Twist Average Zombie Winrate NaN%
+Twist Average Security Kills Per Game NaN
+Twist Average Deaths PerGame 1,88
+Twist Average Infestation Class Class 1

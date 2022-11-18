@@ -1,0 +1,186 @@
+Analyzed: Oh No It's Zombies Arctic Updated (28)
+
+ID : 0 PlayerName: Frosky Race: Terran
+ID : 1 PlayerName: Aaronsarmy Race: Terran
+ID : 2 PlayerName: Cruel Race: Terran
+ID : 3 PlayerName: Steve Race: Terran
+ID : 4 PlayerName: eye Race: Terran
+ID : 5 PlayerName: Rainbowjedi Race: Terran
+ID : 6 PlayerName: Zepherd Race: Zerg
+ID : 7 PlayerName: Security Race: Terran Mengsk
+Zepherd Zombie Win
+Public Lobby
+
+Game Length:[26:403]
+Players ammount: 8
+Marine rank avg: 7,166666666666667
+GrandMaster ammount: 3
+PURCHASES: 
+[00:588] Frosky Unlocked AssaultRifle
+[00:676] Frosky Placed/Upgraded MiningDroid
+[00:796] Frosky Unlocked AdvancedDroidEngines
+[03:673] Frosky Unlocked TurboDroidEngines
+[05:628] Frosky Unlocked SpecOpsAssaultRifle
+[08:360] Frosky Placed/Upgraded MiningDroid
+[13:314] Frosky Unlocked CombatSuit
+[15:156] Frosky Unlocked AdvancedCombatSuit
+[16:559] Frosky Unlocked AutoTargetingSystem
+[18:165] Frosky Unlocked Stimpack
+[20:476] Frosky Unlocked AutoTurret
+[20:515] Frosky Unlocked HeavyTurret
+[20:723] Frosky Placed/Upgraded AutoTurret
+[24:136] Frosky Placed/Upgraded AutoTurret
+[00:588] Aaronsarmy Unlocked AssaultRifle
+[00:939] Aaronsarmy Placed/Upgraded MiningDroid
+[01:177] Aaronsarmy Unlocked AdvancedDroidEngines
+[02:413] Aaronsarmy Unlocked Shotgun
+[04:373] Aaronsarmy Unlocked SpecOpsShotgun
+[05:346] Aaronsarmy Unlocked CombatShield
+[06:965] Aaronsarmy Unlocked IncendiaryBullets
+[09:057] Aaronsarmy Unlocked PsiDisrupter
+[13:315] Aaronsarmy Bought ShieldSuit
+[13:315] Aaronsarmy Bought CombatSuit
+[13:315] Aaronsarmy Bought HazmatSuit
+[13:315] Aaronsarmy Bought CombatSuit
+[15:157] Aaronsarmy Bought CombatSuit
+[16:611] Aaronsarmy Placed/Upgraded MiningDroid
+[17:700] Aaronsarmy Unlocked Teleporter
+[20:015] Aaronsarmy Unlocked SpecOpsTeleporter
+[24:292] Aaronsarmy Unlocked Shieldsiotunlocked
+[00:588] Cruel Unlocked AssaultRifle
+[00:683] Cruel Placed/Upgraded MiningDroid
+[00:725] Cruel Unlocked AdvancedDroidEngines
+[00:820] Cruel Unlocked FragGrenade
+[04:384] Cruel Unlocked TurboDroidEngines
+[05:395] Cruel Unlocked Stimpack
+[08:337] Cruel Unlocked MedicShield
+[08:546] Cruel Unlocked HellfireRocketLauncher
+[11:158] Cruel Unlocked SpecOpsHellfireRocketLauncher
+[12:389] Cruel Unlocked BioMechanicalRepairDrone
+[12:445] Cruel Unlocked MiningCharge
+[14:368] Cruel Placed/Upgraded NukePack
+[14:378] Cruel Placed/Upgraded HealingDrone
+[16:033] Cruel Placed/Upgraded NukePack
+[18:337] Cruel Placed/Upgraded NukePack
+[18:923] Cruel Placed/Upgraded HealingDrone
+[21:790] Cruel Unlocked Teleporter
+[22:258] Cruel Placed/Upgraded NukePack
+[22:835] Cruel Placed/Upgraded NukePack
+[23:985] Cruel Placed/Upgraded HealingDrone
+[24:184] Cruel Placed/Upgraded HealingDrone
+[24:293] Cruel Bought ShieldSuit
+[24:293] Cruel Bought CombatSuit
+[24:293] Cruel Bought HazmatSuit
+[24:293] Cruel Bought ShieldSuit
+[24:379] Cruel Placed/Upgraded HealingDrone
+[00:588] Steve Unlocked AssaultRifle
+[00:679] Steve Placed/Upgraded MiningDroid
+[01:191] Steve Unlocked AdvancedDroidEngines
+[02:940] Steve Unlocked TurboDroidEngines
+[04:577] Steve Unlocked Flamethrower
+[06:060] Steve Unlocked SpecOpsFlamethrower
+[07:488] Steve Unlocked CombatSuit
+[08:597] Steve Unlocked AdvancedCombatSuit
+[09:470] Steve Unlocked PsiDisrupter
+[10:230] Steve Placed/Upgraded PsiIndoctrinator
+[11:783] Steve Unlocked Shieldsiotunlocked
+[12:013] Steve Unlocked AdvancedShieldSuit
+[13:749] Steve Unlocked AutoTurret
+[14:980] Steve Unlocked LongRangeIncinerators
+[16:694] Steve Unlocked FlameTurret
+[16:843] Steve Placed/Upgraded AutoTurret
+[17:040] Steve Placed/Upgraded AutoTurret
+[17:236] Steve Placed/Upgraded AutoTurret
+[20:060] Steve Unlocked HellfireRocketLauncher
+[20:084] Steve Unlocked SpecOpsHellfireRocketLauncher
+[25:186] Steve Unlocked SpecOpsAssaultRifle
+[25:281] Steve Unlocked AutoTargetingSystem
+[00:588] eye Unlocked AssaultRifle
+[00:754] eye Placed/Upgraded MiningDroid
+[01:812] eye Unlocked SpecOpsAssaultRifle
+[03:813] eye Unlocked AdvancedDroidEngines
+[07:005] eye Unlocked TurboDroidEngines
+[07:489] eye Bought ShieldSuit
+[07:489] eye Bought CombatSuit
+[07:489] eye Bought HazmatSuit
+[07:489] eye Bought CombatSuit
+[08:598] eye Bought CombatSuit
+[11:784] eye Bought ShieldSuit
+[11:784] eye Bought CombatSuit
+[11:784] eye Bought HazmatSuit
+[11:784] eye Bought ShieldSuit
+[12:014] eye Bought ShieldSuit
+[18:555] eye Placed/Upgraded MiningDroid
+[20:290] eye Unlocked FlashBang
+[20:303] eye Unlocked SpecOpsFlashbang
+[24:113] eye Unlocked Shieldsiotunlocked
+[24:126] eye Unlocked AdvancedShieldSuit
+[24:223] eye Unlocked Stimpack
+[24:378] eye Unlocked AIAssistant
+[25:364] eye Bought ShieldSuit
+[25:364] eye Bought CombatSuit
+[25:364] eye Bought HazmatSuit
+[25:364] eye Bought AdvancedCombatSuit
+[00:588] Rainbowjedi Unlocked AssaultRifle
+[00:667] Rainbowjedi Placed/Upgraded MiningDroid
+[00:732] Rainbowjedi Unlocked AdvancedDroidEngines
+[03:005] Rainbowjedi Unlocked TurboDroidEngines
+[05:137] Rainbowjedi Unlocked ExplorationDroid
+[05:232] Rainbowjedi Placed/Upgraded ExplorationDroid
+[05:238] Rainbowjedi Placed/Upgraded ExplorationDroid
+[05:474] Rainbowjedi Placed/Upgraded ExplorationDroid
+[06:847] Rainbowjedi Unlocked MedicShield
+[06:896] Rainbowjedi Unlocked Stimpack
+[08:125] Rainbowjedi Unlocked ForceFieldGrenade
+[09:648] Rainbowjedi Unlocked HellfireRocketLauncher
+[09:658] Rainbowjedi Unlocked SpecOpsHellfireRocketLauncher
+[11:980] Rainbowjedi Unlocked ShockwaveMissiles
+[24:114] Rainbowjedi Bought ShieldSuit
+[24:114] Rainbowjedi Bought CombatSuit
+[24:114] Rainbowjedi Bought HazmatSuit
+[24:114] Rainbowjedi Bought ShieldSuit
+[24:127] Rainbowjedi Bought ShieldSuit
+[25:266] Rainbowjedi Unlocked AutoTurret
+[25:337] Rainbowjedi Unlocked SpecOpsTurret
+[25:429] Rainbowjedi Unlocked Teleporter
+[25:478] Rainbowjedi Unlocked SpecOpsTeleporter
+[25:600] Rainbowjedi Unlocked SpecOpsForcefieldGrenade
+[25:669] Rainbowjedi Unlocked OpticalVisor
+[25:695] Rainbowjedi Unlocked EnergyPack
+[00:552] Zepherd Bought PlayerNumber
+[03:434] Zepherd Bought CreepSpeed
+[07:283] Zepherd Bought CreepSpeed
+[10:396] Zepherd Bought StrainVolatile
+[10:651] Zepherd Bought SunkenColony
+[11:310] Zepherd Bought BuildExtractorScienceLabs
+[11:388] Zepherd Bought SunkenColony
+[12:213] Zepherd Bought PureStrainVolatile
+[13:156] Zepherd Bought StrainDamage
+[14:981] Zepherd Bought PureStrainDamage
+[15:001] Zepherd Bought DefilerStrain
+[17:055] Zepherd Bought BuildExtractorManufacturingSector
+[17:114] Zepherd Bought KaboomerStrain
+[18:077] Zepherd Bought StrainDamage
+[18:102] Zepherd Bought PureStrainDamage
+[19:190] Zepherd Bought AdvancedInfestationContainment
+[21:068] Zepherd Bought DropshipsFueled
+[21:788] Zepherd Bought SunkenColony
+[21:859] Zepherd Spawned RoyalCocoon
+[21:859] Zepherd Bought SpawnHiveQueen
+[21:859] Zepherd Bought UltimateInfestationResearched
+[22:051] Zepherd Bought SunkenColony
+[22:090] Zepherd Bought BuildExtractorExcavationZone
+[22:161] Zepherd Bought DefilerStrain
+[22:578] Zepherd Spawned QueenCoop
+[23:228] Zepherd Bought GreaterNydus
+[24:130] Zepherd Bought BuildExtractorProcessingFacilities
+[24:365] Zepherd Bought StrainVolatile
+[24:798] Zepherd Bought SunkenColony
+[24:917] Zepherd Bought SunkenColony
+[25:038] Zepherd Bought SunkenColony
+[25:645] Zepherd Bought ExtractorCostReductionProcessingFacilities
+[25:645] Zepherd Bought BuildExtractorProcessingFacilities
+Zepherd First Alpha RoyalCocoon |  Win
+
+Zepherd Placed 0 Greaters.
+--------------------------------

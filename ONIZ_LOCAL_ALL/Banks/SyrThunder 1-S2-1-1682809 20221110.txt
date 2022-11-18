@@ -1,0 +1,23 @@
+SyrThunder HumanWinsNormal 0
+SyrThunder ZombieRank 0
+SyrThunder VespeneHarvested 660
+SyrThunder HumansRescued 1
+SyrThunder SecurityForcesKilled 0
+SyrThunder ZombiesKilled 380
+SyrThunder FuelDiverted 0
+SyrThunder HumanRank 0
+SyrThunder NumberOfTimesCaptured 2
+SyrThunder TurretsBuilt 2
+SyrThunder ZombieWins 0
+SyrThunder GamesLeft 0
+SyrThunder GamesPlayedAsHuman 1
+SyrThunder GamesPlayedAsZombie 0
+SyrThunder HumansCaptured 0
+SyrThunder K/D Ratio 190
+SyrThunder Average Marine Winrate 0%
+SyrThunder Average Fuel Diverts PerGame 0
+SyrThunder Average Vespene Harvested PerGame 660
+SyrThunder Average Zombie Winrate NaN%
+SyrThunder Average Security Kills Per Game NaN
+SyrThunder Average Deaths PerGame 2
+SyrThunder Average Infestation Class Class 1

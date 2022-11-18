@@ -1,0 +1,23 @@
+NSCG HumanWinsNormal 9
+NSCG ZombieRank 0
+NSCG VespeneHarvested 37500
+NSCG HumansRescued 7
+NSCG SecurityForcesKilled 0
+NSCG ZombiesKilled 1504
+NSCG FuelDiverted 137
+NSCG HumanRank 11.3334
+NSCG NumberOfTimesCaptured 20
+NSCG TurretsBuilt 10
+NSCG ZombieWins 0
+NSCG GamesLeft 1
+NSCG GamesPlayedAsHuman 16
+NSCG GamesPlayedAsZombie 0
+NSCG HumansCaptured 0
+NSCG K/D Ratio 75,2
+NSCG Average Marine Winrate 56,00000000000001%
+NSCG Average Fuel Diverts PerGame 8,56
+NSCG Average Vespene Harvested PerGame 2343,75
+NSCG Average Zombie Winrate NaN%
+NSCG Average Security Kills Per Game NaN
+NSCG Average Deaths PerGame 1,25
+NSCG Average Infestation Class Class 1

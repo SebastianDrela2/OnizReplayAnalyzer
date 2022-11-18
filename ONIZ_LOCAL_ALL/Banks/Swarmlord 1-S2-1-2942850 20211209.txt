@@ -1,0 +1,26 @@
+Swarmlord HumanWinsNormal 202
+Swarmlord LeftLastGameAsZombie 0
+Swarmlord ZombieRank 0
+Swarmlord PlayedRankedMode 1
+Swarmlord VespeneHarvested 1292300
+Swarmlord HumansRescued 310
+Swarmlord SecurityForcesKilled 124899
+Swarmlord ZombiesKilled 263538
+Swarmlord FuelDiverted 2294
+Swarmlord PlayedRankedMode5.0 1
+Swarmlord HumanRank 22.25
+Swarmlord NumberOfTimesCaptured 335
+Swarmlord TurretsBuilt 578
+Swarmlord ZombieWins 82
+Swarmlord GamesLeft 11
+Swarmlord GamesPlayedAsHuman 451
+Swarmlord GamesPlayedAsZombie 281
+Swarmlord HumansCaptured 2836
+Swarmlord K/D Ratio 786,68
+Swarmlord Average Marine Winrate 45%
+Swarmlord Average Fuel Diverts PerGame 5,09
+Swarmlord Average Vespene Harvested PerGame 2865,41
+Swarmlord Average Zombie Winrate 28,999999999999996%
+Swarmlord Average Security Kills Per Game 444
+Swarmlord Average Deaths PerGame 0,74
+Swarmlord Average Infestation Class Class 5

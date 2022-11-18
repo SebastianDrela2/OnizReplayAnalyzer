@@ -1,0 +1,23 @@
+Leviathan HumanWinsNormal 24
+Leviathan ZombieRank 7.6662
+Leviathan VespeneHarvested 135800
+Leviathan HumansRescued 64
+Leviathan SecurityForcesKilled 13174
+Leviathan ZombiesKilled 25912
+Leviathan FuelDiverted 201
+Leviathan HumanRank 4
+Leviathan NumberOfTimesCaptured 77
+Leviathan TurretsBuilt 315
+Leviathan ZombieWins 13
+Leviathan GamesLeft 1
+Leviathan GamesPlayedAsHuman 52
+Leviathan GamesPlayedAsZombie 29
+Leviathan HumansCaptured 338
+Leviathan K/D Ratio 336,52
+Leviathan Average Marine Winrate 46%
+Leviathan Average Fuel Diverts PerGame 3,87
+Leviathan Average Vespene Harvested PerGame 2611,54
+Leviathan Average Zombie Winrate 45%
+Leviathan Average Security Kills Per Game 454
+Leviathan Average Deaths PerGame 1,48
+Leviathan Average Infestation Class Class 5

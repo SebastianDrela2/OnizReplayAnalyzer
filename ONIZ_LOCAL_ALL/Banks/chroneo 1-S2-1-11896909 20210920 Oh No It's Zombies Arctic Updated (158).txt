@@ -1,0 +1,23 @@
+chroneo HumanWinsNormal 20
+chroneo ZombieRank 9
+chroneo VespeneHarvested 164800
+chroneo HumansRescued 49
+chroneo SecurityForcesKilled 2060
+chroneo ZombiesKilled 27953
+chroneo FuelDiverted 65
+chroneo HumanRank 3
+chroneo NumberOfTimesCaptured 213
+chroneo TurretsBuilt 48
+chroneo ZombieWins 3
+chroneo GamesLeft 7
+chroneo GamesPlayedAsHuman 82
+chroneo GamesPlayedAsZombie 5
+chroneo HumansCaptured 8
+Skyfire K/D Ratio 131,23
+Skyfire Average Marine Winrate 24%
+Skyfire Average Fuel Diverts PerGame 0,79
+Skyfire Average Vespene Harvested PerGame 2009,76
+Skyfire Average Zombie Winrate 60%
+Skyfire Average Security Kills Per Game 412
+Skyfire Average Deaths PerGame 2,6
+Skyfire Average Infestation Class Class 5

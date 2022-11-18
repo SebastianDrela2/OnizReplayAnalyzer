@@ -1,0 +1,23 @@
+cobra HumanWinsNormal 115
+cobra ZombieRank 1.8334
+cobra VespeneHarvested 590100
+cobra HumansRescued 262
+cobra SecurityForcesKilled 1753
+cobra ZombiesKilled 185392
+cobra FuelDiverted 211
+cobra HumanRank 7.4501
+cobra NumberOfTimesCaptured 313
+cobra TurretsBuilt 1364
+cobra ZombieWins 1
+cobra GamesLeft 14
+cobra GamesPlayedAsHuman 248
+cobra GamesPlayedAsZombie 7
+cobra HumansCaptured 32
+cobra K/D Ratio 592,31
+cobra Average Marine Winrate 46%
+cobra Average Fuel Diverts PerGame 0,85
+cobra Average Vespene Harvested PerGame 2379,44
+cobra Average Zombie Winrate 14,000000000000002%
+cobra Average Security Kills Per Game 250
+cobra Average Deaths PerGame 1,26
+cobra Average Infestation Class Class 3

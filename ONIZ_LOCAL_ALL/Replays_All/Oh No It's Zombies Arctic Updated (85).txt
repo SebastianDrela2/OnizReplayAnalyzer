@@ -1,0 +1,118 @@
+Analyzed: Oh No It's Zombies Arctic Updated (85)
+
+ID : 0 PlayerName: Alphablood Race: Terran
+ID : 1 PlayerName: Nathanator Race: Terran
+ID : 2 PlayerName: ShadowDragon Race: Terran
+ID : 3 PlayerName: Frosky Race: Terran
+ID : 4 PlayerName: RammusSaidOK Race: Zerg
+ID : 5 PlayerName: JOENG Race: Terran
+ID : 6 PlayerName: Montronizon Race: Terran
+ID : 7 PlayerName: Security Race: Terran Tychus
+RammusSaidOK Zombie Win
+Public Lobby
+
+Game Length:[24:909]
+Players ammount: 8
+Marine rank avg: 2
+GrandMaster ammount: 1
+PURCHASES: 
+[00:588] Alphablood Unlocked AssaultRifle
+[00:696] Alphablood Placed/Upgraded MiningDroid
+[01:178] Alphablood Unlocked AdvancedDroidEngines
+[04:573] Alphablood Unlocked BeamRifle
+[04:586] Alphablood Unlocked SpecOpsPlasmaRifle
+[08:653] Alphablood Unlocked CombatSuit
+[08:677] Alphablood Unlocked AdvancedCombatSuit
+[09:994] Alphablood Unlocked Teleporter
+[10:130] Alphablood Unlocked MedicShield
+[10:161] Alphablood Unlocked OpticalVisor
+[14:982] Alphablood Placed/Upgraded MiningDroid
+[23:834] Alphablood Unlocked IncendiaryGrenade
+[23:844] Alphablood Unlocked SpecOpsIncendiaryGrenade
+[23:919] Alphablood Unlocked AutoTurret
+[00:588] Nathanator Unlocked AssaultRifle
+[00:683] Nathanator Placed/Upgraded MiningDroid
+[08:654] Nathanator Bought ShieldSuit
+[08:654] Nathanator Bought CombatSuit
+[08:654] Nathanator Bought HazmatSuit
+[08:654] Nathanator Bought CombatSuit
+[08:678] Nathanator Bought CombatSuit
+[13:611] Nathanator Placed/Upgraded MiningDroid
+[16:383] Nathanator Unlocked Flamethrower
+[21:894] Nathanator Unlocked SpecOpsFlamethrower
+[00:588] ShadowDragon Unlocked AssaultRifle
+[01:199] ShadowDragon Placed/Upgraded MiningDroid
+[00:588] Frosky Unlocked AssaultRifle
+[00:667] Frosky Placed MiningDroid
+[00:921] Frosky Unlocked AdvancedDroidEngines
+[03:558] Frosky Unlocked TurboDroidEngines
+[06:150] Frosky Unlocked SpecOpsAssaultRifle
+[12:375] Frosky Placed MiningDroid
+[16:147] Frosky Unlocked TitaniumBulletCasings
+[20:031] Frosky Unlocked PsiDisrupter
+[00:552] RammusSaidOK Bought PlayerNumber
+[01:942] RammusSaidOK Bought CreepSpeed
+[03:625] RammusSaidOK Bought StrainHealth
+[04:113] RammusSaidOK Bought PureStrainHealth
+[05:856] RammusSaidOK Bought BuildExtractorScienceLabs
+[05:856] RammusSaidOK Placed/Upgraded AutomatedExtractor
+[06:999] RammusSaidOK Bought AdvancedInfestationContainment
+[07:247] RammusSaidOK Bought BuildExtractorScienceLabs
+[07:761] RammusSaidOK Bought TankStrain
+[09:151] RammusSaidOK Bought StrainVolatile
+[09:596] RammusSaidOK Bought BuildExtractorProcessingFacilities
+[09:596] RammusSaidOK Placed/Upgraded AutomatedExtractor
+[10:445] RammusSaidOK Bought PureStrainVolatile
+[11:362] RammusSaidOK Bought KaboomerStrain
+[12:141] RammusSaidOK Bought AdvancedPowerInfestation
+[13:504] RammusSaidOK Bought VirulentCreep
+[13:504] RammusSaidOK Bought VirulentCreep
+[14:260] RammusSaidOK Bought SiphonFuel
+[15:614] RammusSaidOK Bought BuildExtractorExcavationZone
+[15:614] RammusSaidOK Placed/Upgraded AutomatedExtractor
+[15:978] RammusSaidOK Bought BuildExtractorScienceLabs
+[15:978] RammusSaidOK Placed/Upgraded AutomatedExtractor
+[17:208] RammusSaidOK Bought SiphonFuel
+[17:606] RammusSaidOK Bought BuildExtractorManufacturingSector
+[17:606] RammusSaidOK Placed/Upgraded AutomatedExtractor
+[18:954] RammusSaidOK Bought CreepSpeed
+[19:915] RammusSaidOK Bought ExtractorCostReductionManufacturingSector
+[19:915] RammusSaidOK Bought BuildExtractorManufacturingSector
+[20:003] RammusSaidOK Bought StrainSpeed
+[20:455] RammusSaidOK Bought SiphonFuel
+[21:401] RammusSaidOK Bought PureStrainSpeed
+[22:079] RammusSaidOK Bought HunterlingStrain
+[22:216] RammusSaidOK Bought StrainSpeed
+[23:036] RammusSaidOK Bought PureStrainSpeed
+[23:857] RammusSaidOK Bought HunterlingStrain
+[24:133] RammusSaidOK Bought SiphonFuel
+[24:720] RammusSaidOK Bought StrainSpeed
+[00:588] JOENG Unlocked AssaultRifle
+[01:299] JOENG Placed/Upgraded MiningDroid
+[01:908] JOENG Unlocked BeamRifle
+[05:046] JOENG Unlocked OverloadWeapon
+[06:766] JOENG Unlocked BioMechanicalRepairDrone
+[06:811] JOENG Unlocked CombatAccelerationDrone
+[07:049] JOENG Placed/Upgraded HealingDrone
+[07:945] JOENG Placed/Upgraded HealingDrone
+[08:357] JOENG Placed/Upgraded HealingDrone
+[10:798] JOENG Unlocked AutoTurret
+[16:035] JOENG Unlocked IncendiaryGrenade
+[00:588] Montronizon Unlocked AssaultRifle
+[00:796] Montronizon Unlocked HellfireRocketLauncher
+[03:595] Montronizon Unlocked SpecOpsHellfireRocketLauncher
+[05:040] Montronizon Unlocked ShockwaveMissiles
+[07:642] Montronizon Unlocked Stimpack
+[07:698] Montronizon Unlocked MedicShield
+[09:710] Montronizon Unlocked CombatSuit
+[12:336] Montronizon Unlocked AdvancedCombatSuit
+[14:158] Montronizon Unlocked Teleporter
+[15:602] Montronizon Unlocked PsiDisrupter
+[09:711] Security Bought ShieldSuit
+[09:711] Security Bought CombatSuit
+[09:711] Security Bought HazmatSuit
+[09:711] Security Bought CombatSuit
+[12:337] Security Bought CombatSuit
+
+RammusSaidOK Placed 0 Greaters.
+--------------------------------

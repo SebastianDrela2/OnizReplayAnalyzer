@@ -1,0 +1,23 @@
+kimchiMan HumanWinsNormal 3
+kimchiMan ZombieRank 0
+kimchiMan VespeneHarvested 36100
+kimchiMan HumansRescued 7
+kimchiMan SecurityForcesKilled 0
+kimchiMan ZombiesKilled 7566
+kimchiMan FuelDiverted 2
+kimchiMan HumanRank 0
+kimchiMan NumberOfTimesCaptured 29
+kimchiMan TurretsBuilt 32
+kimchiMan ZombieWins 0
+kimchiMan GamesLeft 0
+kimchiMan GamesPlayedAsHuman 14
+kimchiMan GamesPlayedAsZombie 0
+kimchiMan HumansCaptured 0
+kimchiMan K/D Ratio 260,9
+kimchiMan Average Marine Winrate 21%
+kimchiMan Average Fuel Diverts PerGame 0,14
+kimchiMan Average Vespene Harvested PerGame 2578,57
+kimchiMan Average Zombie Winrate NaN%
+kimchiMan Average Security Kills Per Game NaN
+kimchiMan Average Deaths PerGame 2,07
+kimchiMan Average Infestation Class Class 1

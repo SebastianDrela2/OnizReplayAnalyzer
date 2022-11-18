@@ -1,0 +1,23 @@
+Lawliet HumanWinsNormal 2
+Lawliet ZombieRank 0
+Lawliet VespeneHarvested 5700
+Lawliet HumansRescued 2
+Lawliet SecurityForcesKilled 0
+Lawliet ZombiesKilled 458
+Lawliet FuelDiverted 2
+Lawliet HumanRank 2
+Lawliet NumberOfTimesCaptured 4
+Lawliet TurretsBuilt 4
+Lawliet ZombieWins 0
+Lawliet GamesLeft 0
+Lawliet GamesPlayedAsHuman 2
+Lawliet GamesPlayedAsZombie 0
+Lawliet HumansCaptured 0
+Lawliet K/D Ratio 114,5
+Lawliet Average Marine Winrate 100%
+Lawliet Average Fuel Diverts PerGame 1
+Lawliet Average Vespene Harvested PerGame 2850
+Lawliet Average Zombie Winrate NaN%
+Lawliet Average Security Kills Per Game NaN
+Lawliet Average Deaths PerGame 2
+Lawliet Average Infestation Class Class 1

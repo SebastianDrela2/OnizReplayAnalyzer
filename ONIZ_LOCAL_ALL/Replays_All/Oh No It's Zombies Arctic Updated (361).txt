@@ -1,0 +1,201 @@
+Analyzed: Oh No It's Zombies Arctic Updated (361)
+
+ID : 0 PlayerName: Frosky Race: Terran
+ID : 1 PlayerName: meTT Race: Terran
+ID : 2 PlayerName: Peachybutt Race: Terran
+ID : 3 PlayerName: Brian Race: Terran
+ID : 4 PlayerName: Gafe Race: Zerg
+ID : 5 PlayerName: Yello Race: Terran
+ID : 6 PlayerName: spiderbite Race: Terran
+ID : 7 PlayerName: Security Race: Terran Horner
+Gafe Zombie Win
+Public Lobby
+
+Game Length:[32:508]
+Players ammount: 8
+Marine rank avg: 7,5
+GrandMaster ammount: 1
+PURCHASES: 
+[00:588] Frosky Unlocked AssaultRifle
+[00:667] Frosky Placed/Upgraded MiningDroid
+[00:711] Frosky Unlocked Shotgun
+[02:389] Frosky Unlocked AdvancedDroidEngines
+[04:259] Frosky Unlocked ExplorationDroid
+[04:302] Frosky Placed/Upgraded ExplorationDroid
+[04:365] Frosky Placed/Upgraded ExplorationDroid
+[04:496] Frosky Placed/Upgraded ExplorationDroid
+[06:949] Frosky Unlocked TurboDroidEngines
+[10:431] Frosky Unlocked SpecOpsShotgun
+[10:461] Frosky Unlocked HighPrecisionBeams
+[12:218] Frosky Unlocked Stimpack
+[12:890] Frosky Unlocked HazmatSuit
+[13:054] Frosky Unlocked AdvancedHazmatSuit
+[13:910] Frosky Unlocked MedicShield
+[14:496] Frosky Placed/Upgraded ExplorationDroid
+[15:533] Frosky Unlocked BioMechanicalRepairDrone
+[16:290] Frosky Unlocked SuperStimpack
+[17:902] Frosky Placed/Upgraded HealingDrone
+[18:586] Frosky Unlocked AIAssistant
+[19:670] Frosky Placed/Upgraded HealingDrone
+[23:305] Frosky Placed/Upgraded HealingDrone
+[23:476] Frosky Unlocked AutoTurret
+[23:490] Frosky Unlocked SpecOpsBioMechanicalRepairDrone
+[23:556] Frosky Unlocked HeavyTurret
+[25:989] Frosky Placed/Upgraded MiningDroid
+[27:429] Frosky Placed/Upgraded AutoTurret
+[31:148] Frosky Placed/Upgraded AutoTurret
+[31:737] Frosky Placed/Upgraded AutoTurret
+[00:588] meTT Unlocked AssaultRifle
+[00:674] meTT Placed/Upgraded MiningDroid
+[00:752] meTT Unlocked AdvancedDroidEngines
+[03:781] meTT Unlocked FragGrenade
+[03:791] meTT Unlocked SpecOpsFragGrenade
+[06:856] meTT Unlocked TurboDroidEngines
+[06:907] meTT Unlocked BioMechanicalRepairDrone
+[06:988] meTT Placed/Upgraded HealingDrone
+[09:006] meTT Unlocked HellfireRocketLauncher
+[09:870] meTT Placed/Upgraded HealingDrone
+[10:125] meTT Unlocked MotionSensor
+[10:525] meTT Placed/Upgraded HealingDrone
+[10:900] meTT Placed/Upgraded SensorTower
+[11:639] meTT Placed/Upgraded SensorTower
+[11:794] meTT Placed/Upgraded HealingDrone
+[12:891] meTT Bought ShieldSuit
+[12:891] meTT Bought CombatSuit
+[12:891] meTT Bought HazmatSuit
+[12:891] meTT Bought HazmatSuit
+[12:970] meTT Placed/Upgraded HealingDrone
+[13:055] meTT Bought HazmatSuit
+[13:337] meTT Unlocked Stimpack
+[14:220] meTT Placed/Upgraded MiningDroid
+[16:357] meTT Unlocked SpecOpsHellfireRocketLauncher
+[17:816] meTT Placed/Upgraded HealingDrone
+[18:056] meTT Unlocked ShockwaveMissiles
+[19:300] meTT Unlocked CombatSuit
+[19:313] meTT Unlocked AdvancedCombatSuit
+[21:197] meTT Placed/Upgraded HealingDrone
+[22:235] meTT Placed/Upgraded HealingDrone
+[24:590] meTT Placed/Upgraded HealingDrone
+[24:665] meTT Unlocked CombatShield
+[24:667] meTT Unlocked EnergyPack
+[24:675] meTT Unlocked AIAssistant
+[25:858] meTT Placed/Upgraded MiningDroid
+[25:995] meTT Placed/Upgraded HealingDrone
+[28:440] meTT Placed/Upgraded SensorTower
+[28:658] meTT Unlocked CloakingDevice
+[28:676] meTT Unlocked SpecOpsCloakingDevice
+[31:056] meTT Placed/Upgraded HealingDrone
+[31:538] meTT Placed/Upgraded HealingDrone
+[31:980] meTT Placed/Upgraded HealingDrone
+[00:588] Peachybutt Unlocked AssaultRifle
+[00:728] Peachybutt Unlocked BeamRifle
+[00:780] Peachybutt Unlocked SpecOpsPlasmaRifle
+[04:886] Peachybutt Placed/Upgraded MiningDroid
+[09:907] Peachybutt Placed/Upgraded MiningDroid
+[12:088] Peachybutt Unlocked OpticalVisor
+[15:004] Peachybutt Unlocked OverloadWeapon
+[18:721] Peachybutt Unlocked SuperStimpack
+[18:748] Peachybutt Unlocked SpecOpsSuperStimpack
+[19:301] Peachybutt Bought ShieldSuit
+[19:301] Peachybutt Bought CombatSuit
+[19:301] Peachybutt Bought HazmatSuit
+[19:301] Peachybutt Bought CombatSuit
+[19:314] Peachybutt Bought CombatSuit
+[19:819] Peachybutt Placed/Upgraded MiningDroid
+[22:956] Peachybutt Unlocked EnergySuit
+[22:957] Peachybutt Unlocked EnergySuit
+[25:545] Peachybutt Unlocked AdvancedEnergySuit
+[25:546] Peachybutt Unlocked EnergySuit
+[25:546] Peachybutt Unlocked AdvancedEnergySuit
+[26:958] Peachybutt Unlocked MiningCharge
+[29:677] Peachybutt Placed/Upgraded NukePack
+[00:588] Brian Unlocked AssaultRifle
+[03:231] Brian Placed MiningDroid
+[05:835] Brian Unlocked HellfireRocketLauncher
+[07:145] Brian Unlocked ExplorationDroid
+[22:957] Brian Bought ShieldSuit
+[22:957] Brian Bought CombatSuit
+[22:957] Brian Bought HazmatSuit
+[23:942] Brian Unlocked PsiDisrupter
+[00:552] Gafe Bought PlayerNumber
+[00:715] Gafe Spawned MassiveCocoon
+[01:795] Gafe Spawned Underseer
+[03:249] Gafe Bought UnlockDropPods
+[03:959] Gafe Bought EvolveDropPods
+[04:726] Gafe Bought EvolveDropPods
+[05:990] Gafe Bought EvolveDropPods
+[06:613] Gafe Bought EvolveDropPods
+[08:657] Gafe Bought StrainVolatile
+[09:376] Gafe Bought PureStrainVolatile
+[11:849] Gafe Bought EvolveDropPods
+[11:852] Gafe Bought EvolveDropPods
+[12:810] Gafe Spawned MassiveCocoon
+[14:250] Gafe Spawned Anubalisk
+[17:950] Gafe Bought KaboomerStrain
+[19:174] Gafe Placed/Upgraded Virophage
+[19:657] Gafe Spawned MassiveCocoon
+[20:144] Gafe Bought AdvancedInfestationContainment
+[20:737] Gafe Spawned Underseer
+[23:550] Gafe Spawned MassiveCocoon
+[24:925] Gafe Bought AdvancedPowerInfestation
+[24:990] Gafe Spawned Anubalisk
+[26:031] Gafe Spawned MassiveCocoon
+[27:392] Gafe Bought DropshipsFueled
+[27:471] Gafe Spawned Anubalisk
+[27:809] Gafe Spawned RoyalCocoon
+[27:809] Gafe Bought SpawnHiveQueen
+[27:809] Gafe Bought UltimateInfestationResearched
+[28:528] Gafe Spawned QueenCoop
+[29:135] Gafe Bought SpawnNydusWorm
+[29:197] Gafe Placed/Upgraded GreaterNydusWorm
+[30:929] Gafe Placed/Upgraded NydusCanalCreeper
+[00:588] Yello Unlocked AssaultRifle
+[00:725] Yello Placed/Upgraded MiningDroid
+[00:844] Yello Unlocked SpecOpsAssaultRifle
+[03:765] Yello Unlocked OverloadWeapon
+[05:575] Yello Unlocked AdvancedDroidEngines
+[08:358] Yello Unlocked AutoTargetingSystem
+[08:403] Yello Unlocked BioMechanicalRepairDrone
+[09:746] Yello Unlocked EnergySuit
+[09:747] Yello Unlocked EnergySuit
+[10:470] Yello Unlocked AdvancedEnergySuit
+[10:471] Yello Unlocked EnergySuit
+[10:471] Yello Unlocked AdvancedEnergySuit
+[11:313] Yello Placed/Upgraded MiningDroid
+[12:779] Yello Unlocked ExplorationDroid
+[13:748] Yello Unlocked MiningCharge
+[14:680] Yello Placed/Upgraded NukePack
+[14:803] Yello Placed/Upgraded HealingDrone
+[15:033] Yello Placed/Upgraded ExplorationDroid
+[15:335] Yello Placed/Upgraded HealingDrone
+[16:108] Yello Unlocked QuantumBackpack
+[17:277] Yello Placed/Upgraded HealingDrone
+[17:568] Yello Placed/Upgraded HealingDrone
+[18:267] Yello Placed/Upgraded NukePack
+[00:588] spiderbite Unlocked AssaultRifle
+[02:366] spiderbite Unlocked AdvancedDroidEngines
+[03:985] spiderbite Unlocked TurboDroidEngines
+[07:503] spiderbite Unlocked AutoTurret
+[07:519] spiderbite Unlocked SpecOpsTurret
+[09:747] spiderbite Bought ShieldSuit
+[09:747] spiderbite Bought CombatSuit
+[09:747] spiderbite Bought HazmatSuit
+[11:099] spiderbite Unlocked BeamRifle
+[12:363] spiderbite Unlocked SpecOpsPlasmaRifle
+[13:546] spiderbite Unlocked CombatSuit
+[16:026] spiderbite Unlocked AdvancedCombatSuit
+[16:114] spiderbite Unlocked OpticalVisor
+[16:185] spiderbite Unlocked EnergyPack
+[18:268] spiderbite Unlocked OverloadWeapon
+[18:486] spiderbite Unlocked Teleporter
+[20:100] spiderbite Unlocked SpecOpsTeleporter
+[23:765] spiderbite Unlocked CombatShield
+[13:547] Security Bought ShieldSuit
+[13:547] Security Bought CombatSuit
+[13:547] Security Bought HazmatSuit
+[13:547] Security Bought CombatSuit
+[16:027] Security Bought CombatSuit
+Gafe First Alpha Underseer |  Win
+
+Gafe Placed 1 Greaters.
+--------------------------------

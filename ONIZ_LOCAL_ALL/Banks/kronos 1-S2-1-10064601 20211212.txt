@@ -1,0 +1,23 @@
+kronos HumanWinsNormal 31
+kronos ZombieRank 7.8332
+kronos VespeneHarvested 193800
+kronos HumansRescued 35
+kronos SecurityForcesKilled 7646
+kronos ZombiesKilled 30196
+kronos FuelDiverted 69
+kronos HumanRank 2.5
+kronos NumberOfTimesCaptured 107
+kronos TurretsBuilt 337
+kronos ZombieWins 8
+kronos GamesLeft 2
+kronos GamesPlayedAsHuman 71
+kronos GamesPlayedAsZombie 21
+kronos HumansCaptured 143
+kronos K/D Ratio 282,21
+kronos Average Marine Winrate 44%
+kronos Average Fuel Diverts PerGame 0,97
+kronos Average Vespene Harvested PerGame 2729,58
+kronos Average Zombie Winrate 800%
+kronos Average Security Kills Per Game 7646
+kronos Average Deaths PerGame 1,51
+kronos Average Infestation Class Class 1

@@ -1,0 +1,23 @@
+Josbud HumanWinsNormal 18
+Josbud ZombieRank 0
+Josbud VespeneHarvested 117600
+Josbud HumansRescued 51
+Josbud SecurityForcesKilled 405
+Josbud ZombiesKilled 24434
+Josbud FuelDiverted 66
+Josbud HumanRank 7.75
+Josbud NumberOfTimesCaptured 70
+Josbud TurretsBuilt 157
+Josbud ZombieWins 0
+Josbud GamesLeft 2
+Josbud GamesPlayedAsHuman 43
+Josbud GamesPlayedAsZombie 1
+Josbud HumansCaptured 9
+Josbud K/D Ratio 349,06
+Josbud Average Marine Winrate 42%
+Josbud Average Fuel Diverts PerGame 1,53
+Josbud Average Vespene Harvested PerGame 2734,88
+Josbud Average Zombie Winrate 0%
+Josbud Average Security Kills Per Game 405
+Josbud Average Deaths PerGame 1,63
+Josbud Average Infestation Class Class 4

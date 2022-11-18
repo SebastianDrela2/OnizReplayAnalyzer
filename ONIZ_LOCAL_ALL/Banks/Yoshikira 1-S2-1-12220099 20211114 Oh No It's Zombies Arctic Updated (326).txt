@@ -1,0 +1,23 @@
+Yoshikira HumanWinsNormal 7
+Yoshikira ZombieRank 0.3334
+Yoshikira VespeneHarvested 38100
+Yoshikira HumansRescued 24
+Yoshikira SecurityForcesKilled 4020
+Yoshikira ZombiesKilled 9267
+Yoshikira FuelDiverted 22
+Yoshikira HumanRank 0.25
+Yoshikira NumberOfTimesCaptured 57
+Yoshikira TurretsBuilt 89
+Yoshikira ZombieWins 2
+Yoshikira GamesLeft 1
+Yoshikira GamesPlayedAsHuman 26
+Yoshikira GamesPlayedAsZombie 10
+Yoshikira HumansCaptured 47
+Yoshikira K/D Ratio 162,58
+Yoshikira Average Marine Winrate 27%
+Yoshikira Average Fuel Diverts PerGame 0,85
+Yoshikira Average Vespene Harvested PerGame 1465,38
+Yoshikira Average Zombie Winrate 20%
+Yoshikira Average Security Kills Per Game 402
+Yoshikira Average Deaths PerGame 2,19
+Yoshikira Average Infestation Class Class 4

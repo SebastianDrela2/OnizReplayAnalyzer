@@ -1,0 +1,23 @@
+dathong HumanWinsNormal 165
+dathong ZombieRank 19.1655
+dathong VespeneHarvested 3607540
+dathong HumansRescued 503
+dathong SecurityForcesKilled 29393
+dathong ZombiesKilled 626628
+dathong FuelDiverted 1152
+dathong HumanRank 6.85
+dathong NumberOfTimesCaptured 705
+dathong TurretsBuilt 10997
+dathong ZombieWins 50
+dathong GamesLeft 64
+dathong GamesPlayedAsHuman 916
+dathong GamesPlayedAsZombie 79
+dathong HumansCaptured 425
+dathong K/D Ratio 888,83
+dathong Average Marine Winrate 18%
+dathong Average Fuel Diverts PerGame 1,26
+dathong Average Vespene Harvested PerGame 3938,36
+dathong Average Zombie Winrate 63%
+dathong Average Security Kills Per Game 372
+dathong Average Deaths PerGame 0,77
+dathong Average Infestation Class Class 4

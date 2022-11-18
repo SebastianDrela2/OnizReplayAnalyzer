@@ -1,0 +1,23 @@
+Lullaby HumanWinsNormal 9
+Lullaby ZombieRank 0
+Lullaby VespeneHarvested 183400
+Lullaby HumansRescued 40
+Lullaby SecurityForcesKilled 10381
+Lullaby ZombiesKilled 43949
+Lullaby FuelDiverted 226
+Lullaby HumanRank 0
+Lullaby NumberOfTimesCaptured 79
+Lullaby TurretsBuilt 276
+Lullaby ZombieWins 19
+Lullaby GamesLeft 5
+Lullaby GamesPlayedAsHuman 56
+Lullaby GamesPlayedAsZombie 27
+Lullaby HumansCaptured 297
+Lullaby K/D Ratio 556,32
+Lullaby Average Marine Winrate 16%
+Lullaby Average Fuel Diverts PerGame 4,04
+Lullaby Average Vespene Harvested PerGame 3275
+Lullaby Average Zombie Winrate 70%
+Lullaby Average Security Kills Per Game 384
+Lullaby Average Deaths PerGame 1,41
+Lullaby Average Infestation Class Class 4

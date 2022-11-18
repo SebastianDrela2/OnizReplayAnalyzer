@@ -1,0 +1,23 @@
+Ascherit HumanWinsNormal 115
+Ascherit ZombieRank 23.1657
+Ascherit VespeneHarvested 840595
+Ascherit HumansRescued 102
+Ascherit SecurityForcesKilled 21283
+Ascherit ZombiesKilled 160195
+Ascherit FuelDiverted 778
+Ascherit HumanRank 14.8334
+Ascherit NumberOfTimesCaptured 251
+Ascherit TurretsBuilt 1928
+Ascherit ZombieWins 34
+Ascherit GamesLeft 3
+Ascherit GamesPlayedAsHuman 222
+Ascherit GamesPlayedAsZombie 50
+Ascherit HumansCaptured 617
+Ascherit K/D Ratio 638,23
+Ascherit Average Marine Winrate 52%
+Ascherit Average Fuel Diverts PerGame 3,5
+Ascherit Average Vespene Harvested PerGame 3786,46
+Ascherit Average Zombie Winrate 68%
+Ascherit Average Security Kills Per Game 426
+Ascherit Average Deaths PerGame 1,13
+Ascherit Average Infestation Class Class 5

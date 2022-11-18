@@ -1,0 +1,41 @@
+Analyzed: Oh No It's Zombies Arctic Updated (207)
+
+ID : 0 PlayerName: Frosky Race: Zerg
+ID : 7 PlayerName: Security Race: 
+Frosky Zombie Win
+Public Lobby
+
+Game Length:[28:888]
+Players ammount: 2
+Marine rank avg: 1,8333333333333333
+GrandMaster ammount: 1
+PURCHASES: 
+[00:681] Frosky Spawned MassiveCocoon
+[02:121] Frosky Spawned PrimalTownHallUprooted
+[02:656] Frosky Spawned MassiveCocoon
+[04:096] Frosky Spawned PrimalTownHallUprooted
+[05:031] Frosky Bought CreepSpeed
+[06:095] Frosky Bought BuildExtractorManufacturingSector
+[06:095] Frosky Placed/Upgraded AutomatedExtractor
+[07:312] Frosky Spawned MassiveCocoon
+[08:752] Frosky Spawned PrimalTownHallUprooted
+[08:867] Frosky Spawned MassiveCocoon
+[10:055] Frosky Spawned MassiveCocoon
+[10:307] Frosky Spawned PrimalTownHallUprooted
+[11:379] Frosky Spawned MassiveCocoon
+[11:495] Frosky Spawned PrimalTownHallUprooted
+[12:819] Frosky Spawned PrimalTownHallUprooted
+[16:779] Frosky Bought VirulentCreep
+[16:795] Frosky Bought VirulentCreep
+[20:491] Frosky Bought RegenerativeCreep
+[20:544] Frosky Bought UnlockDropPods
+[20:559] Frosky Bought EvolveDropPods
+[20:562] Frosky Bought EvolveDropPods
+[20:566] Frosky Bought EvolveDropPods
+[20:569] Frosky Bought EvolveDropPods
+[20:572] Frosky Bought EvolveDropPods
+[20:576] Frosky Bought EvolveDropPods
+Frosky First Alpha PrimalTownHallUprooted |  Win
+
+Frosky Placed 0 Greaters.
+--------------------------------

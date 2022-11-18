@@ -1,0 +1,23 @@
+Ping HumanWinsNormal 1
+Ping ZombieRank 0
+Ping VespeneHarvested 4500
+Ping HumansRescued 6
+Ping SecurityForcesKilled 0
+Ping ZombiesKilled 1105
+Ping FuelDiverted 4
+Ping HumanRank -0.75
+Ping NumberOfTimesCaptured 4
+Ping TurretsBuilt 11
+Ping ZombieWins 0
+Ping GamesLeft 0
+Ping GamesPlayedAsHuman 3
+Ping GamesPlayedAsZombie 0
+Ping HumansCaptured 0
+Ping K/D Ratio 276,25
+Ping Average Marine Winrate 33%
+Ping Average Fuel Diverts PerGame 1,33
+Ping Average Vespene Harvested PerGame 1500
+Ping Average Zombie Winrate NaN%
+Ping Average Security Kills Per Game NaN
+Ping Average Deaths PerGame 1,33
+Ping Average Infestation Class Class 1

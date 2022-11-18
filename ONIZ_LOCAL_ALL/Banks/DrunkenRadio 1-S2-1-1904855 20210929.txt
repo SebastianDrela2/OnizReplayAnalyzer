@@ -1,0 +1,24 @@
+DrunkenRadio HumanWinsNormal 26
+DrunkenRadio ZombieRank 0
+DrunkenRadio VespeneHarvested 147900
+DrunkenRadio HumansRescued 38
+DrunkenRadio SecurityForcesKilled 0
+DrunkenRadio ZombiesKilled 28780
+DrunkenRadio PlayedRankedMode5.0 1
+DrunkenRadio FuelDiverted 32
+DrunkenRadio HumanRank 2
+DrunkenRadio NumberOfTimesCaptured 79
+DrunkenRadio TurretsBuilt 194
+DrunkenRadio ZombieWins 0
+DrunkenRadio GamesLeft 15
+DrunkenRadio GamesPlayedAsHuman 64
+DrunkenRadio GamesPlayedAsZombie 1
+DrunkenRadio HumansCaptured 0
+DrunkenRadio K/D Ratio 364,3
+DrunkenRadio Average Marine Winrate 41%
+DrunkenRadio Average Fuel Diverts PerGame 0,5
+DrunkenRadio Average Vespene Harvested PerGame 2310,94
+DrunkenRadio Average Zombie Winrate 0%
+DrunkenRadio Average Security Kills Per Game 0
+DrunkenRadio Average Deaths PerGame 1,23
+DrunkenRadio Average Infestation Class Class 1

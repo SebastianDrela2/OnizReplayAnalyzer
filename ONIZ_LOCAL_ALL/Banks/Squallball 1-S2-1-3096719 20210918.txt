@@ -1,0 +1,23 @@
+Squallball HumanWinsNormal 9
+Squallball ZombieRank 0
+Squallball VespeneHarvested 78400
+Squallball HumansRescued 34
+Squallball SecurityForcesKilled 0
+Squallball ZombiesKilled 21966
+Squallball FuelDiverted 32
+Squallball HumanRank 0.5
+Squallball NumberOfTimesCaptured 96
+Squallball TurretsBuilt 158
+Squallball ZombieWins 0
+Squallball GamesLeft 7
+Squallball GamesPlayedAsHuman 35
+Squallball GamesPlayedAsZombie 0
+Squallball HumansCaptured 0
+Squallball K/D Ratio 228,81
+Squallball Average Marine Winrate 26%
+Squallball Average Fuel Diverts PerGame 0,91
+Squallball Average Vespene Harvested PerGame 2240
+Squallball Average Zombie Winrate NaN%
+Squallball Average Security Kills Per Game NaN
+Squallball Average Deaths PerGame 2,74
+Squallball Average Infestation Class Class 1

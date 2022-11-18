@@ -1,0 +1,23 @@
+Furtwängle HumanWinsNormal 14
+Furtwängle ZombieRank 0
+Furtwängle VespeneHarvested 50200
+Furtwängle HumansRescued 31
+Furtwängle SecurityForcesKilled 0
+Furtwängle ZombiesKilled 13232
+Furtwängle FuelDiverted 5
+Furtwängle HumanRank 2
+Furtwängle NumberOfTimesCaptured 34
+Furtwängle TurretsBuilt 122
+Furtwängle ZombieWins 0
+Furtwängle GamesLeft 10
+Furtwängle GamesPlayedAsHuman 39
+Furtwängle GamesPlayedAsZombie 1
+Furtwängle HumansCaptured 0
+Furtwängle K/D Ratio 389,18
+Furtwängle Average Marine Winrate 36%
+Furtwängle Average Fuel Diverts PerGame 0,13
+Furtwängle Average Vespene Harvested PerGame 1287,18
+Furtwängle Average Zombie Winrate 0%
+Furtwängle Average Security Kills Per Game 0
+Furtwängle Average Deaths PerGame 0,87
+Furtwängle Average Infestation Class Class 1

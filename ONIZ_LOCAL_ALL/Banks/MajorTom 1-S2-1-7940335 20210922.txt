@@ -1,0 +1,23 @@
+MajorTom HumanWinsNormal 15
+MajorTom ZombieRank 0
+MajorTom VespeneHarvested 64500
+MajorTom HumansRescued 21
+MajorTom SecurityForcesKilled 0
+MajorTom ZombiesKilled 14586
+MajorTom FuelDiverted 2
+MajorTom HumanRank 0
+MajorTom NumberOfTimesCaptured 34
+MajorTom TurretsBuilt 173
+MajorTom ZombieWins 0
+MajorTom GamesLeft 31
+MajorTom GamesPlayedAsHuman 59
+MajorTom GamesPlayedAsZombie 0
+MajorTom HumansCaptured 0
+MajorTom K/D Ratio 429
+MajorTom Average Marine Winrate 25%
+MajorTom Average Fuel Diverts PerGame 0,03
+MajorTom Average Vespene Harvested PerGame 1093,22
+MajorTom Average Zombie Winrate NaN%
+MajorTom Average Security Kills Per Game NaN
+MajorTom Average Deaths PerGame 0,58
+MajorTom Average Infestation Class Class 1

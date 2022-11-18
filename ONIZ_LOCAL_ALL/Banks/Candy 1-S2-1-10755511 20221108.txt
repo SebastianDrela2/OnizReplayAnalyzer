@@ -1,0 +1,23 @@
+Candy HumanWinsNormal 1
+Candy ZombieRank 0.8332
+Candy VespeneHarvested 7000
+Candy HumansRescued 0
+Candy SecurityForcesKilled 32
+Candy ZombiesKilled 1483
+Candy FuelDiverted 0
+Candy HumanRank 0
+Candy NumberOfTimesCaptured 10
+Candy TurretsBuilt 13
+Candy ZombieWins 1
+Candy GamesLeft 0
+Candy GamesPlayedAsHuman 5
+Candy GamesPlayedAsZombie 1
+Candy HumansCaptured 1
+Candy K/D Ratio 148,3
+Candy Average Marine Winrate 20%
+Candy Average Fuel Diverts PerGame 0
+Candy Average Vespene Harvested PerGame 1400
+Candy Average Zombie Winrate 100%
+Candy Average Security Kills Per Game 32
+Candy Average Deaths PerGame 2
+Candy Average Infestation Class Class 1

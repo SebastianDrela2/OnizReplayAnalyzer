@@ -1,0 +1,23 @@
+BARUNA HumanWinsNormal 69
+BARUNA ZombieRank 20.8317
+BARUNA VespeneHarvested 399620
+BARUNA HumansRescued 62
+BARUNA SecurityForcesKilled 26815
+BARUNA ZombiesKilled 102225
+BARUNA FuelDiverted 32
+BARUNA HumanRank 13.8085
+BARUNA NumberOfTimesCaptured 197
+BARUNA TurretsBuilt 1148
+BARUNA ZombieWins 35
+BARUNA GamesLeft 8
+BARUNA GamesPlayedAsHuman 147
+BARUNA GamesPlayedAsZombie 60
+BARUNA HumansCaptured 572
+BARUNA K/D Ratio 518,91
+BARUNA Average Marine Winrate 47%
+BARUNA Average Fuel Diverts PerGame 0,22
+BARUNA Average Vespene Harvested PerGame 2718,5
+BARUNA Average Zombie Winrate 57,99999999999999%
+BARUNA Average Security Kills Per Game 447
+BARUNA Average Deaths PerGame 1,34
+BARUNA Average Infestation Class Class 5

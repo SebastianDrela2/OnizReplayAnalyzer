@@ -1,0 +1,23 @@
+ZEHN HumanWinsNormal 447
+ZEHN ZombieRank 26.332
+ZEHN VespeneHarvested 2224020
+ZEHN HumansRescued 1018
+ZEHN SecurityForcesKilled 283846
+ZEHN ZombiesKilled 678403
+ZEHN FuelDiverted 77
+ZEHN HumanRank 22.9167
+ZEHN NumberOfTimesCaptured 1396
+ZEHN TurretsBuilt 4006
+ZEHN ZombieWins 251
+ZEHN GamesLeft 19
+ZEHN GamesPlayedAsHuman 952
+ZEHN GamesPlayedAsZombie 605
+ZEHN HumansCaptured 5782
+ZEHN K/D Ratio 485,96
+ZEHN Average Marine Winrate 47%
+ZEHN Average Fuel Diverts PerGame 0,08
+ZEHN Average Vespene Harvested PerGame 2336,16
+ZEHN Average Zombie Winrate 41%
+ZEHN Average Security Kills Per Game 469
+ZEHN Average Deaths PerGame 1,47
+ZEHN Average Infestation Class Class 5

@@ -1,0 +1,23 @@
+Chill HumanWinsNormal 2
+Chill ZombieRank 0
+Chill VespeneHarvested 3700
+Chill HumansRescued 5
+Chill SecurityForcesKilled 1469
+Chill ZombiesKilled 977
+Chill FuelDiverted 3
+Chill HumanRank 4
+Chill NumberOfTimesCaptured 11
+Chill TurretsBuilt 11
+Chill ZombieWins 2
+Chill GamesLeft 3
+Chill GamesPlayedAsHuman 7
+Chill GamesPlayedAsZombie 4
+Chill HumansCaptured 26
+Chill K/D Ratio 88,82
+Chill Average Marine Winrate 28,999999999999996%
+Chill Average Fuel Diverts PerGame 0,43
+Chill Average Vespene Harvested PerGame 528,57
+Chill Average Zombie Winrate 50%
+Chill Average Security Kills Per Game 367
+Chill Average Deaths PerGame 1,57
+Chill Average Infestation Class Class 4

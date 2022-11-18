@@ -1,0 +1,23 @@
+Puppetmaker HumanWinsNormal 40
+Puppetmaker ZombieRank 0
+Puppetmaker VespeneHarvested 239700
+Puppetmaker HumansRescued 68
+Puppetmaker SecurityForcesKilled 917
+Puppetmaker ZombiesKilled 61488
+Puppetmaker FuelDiverted 99
+Puppetmaker HumanRank 4
+Puppetmaker NumberOfTimesCaptured 155
+Puppetmaker TurretsBuilt 707
+Puppetmaker ZombieWins 0
+Puppetmaker GamesLeft 20
+Puppetmaker GamesPlayedAsHuman 100
+Puppetmaker GamesPlayedAsZombie 2
+Puppetmaker HumansCaptured 17
+Puppetmaker K/D Ratio 396,7
+Puppetmaker Average Marine Winrate 40%
+Puppetmaker Average Fuel Diverts PerGame 0,99
+Puppetmaker Average Vespene Harvested PerGame 2397
+Puppetmaker Average Zombie Winrate 0%
+Puppetmaker Average Security Kills Per Game 458
+Puppetmaker Average Deaths PerGame 1,55
+Puppetmaker Average Infestation Class Class 5

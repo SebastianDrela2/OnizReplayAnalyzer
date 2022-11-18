@@ -1,0 +1,23 @@
+BTOOO HumanWinsNormal 6
+BTOOO ZombieRank 0
+BTOOO VespeneHarvested 33800
+BTOOO HumansRescued 4
+BTOOO SecurityForcesKilled 455
+BTOOO ZombiesKilled 13849
+BTOOO FuelDiverted 5
+BTOOO HumanRank 10.5
+BTOOO NumberOfTimesCaptured 11
+BTOOO TurretsBuilt 56
+BTOOO ZombieWins 1
+BTOOO GamesLeft 0
+BTOOO GamesPlayedAsHuman 9
+BTOOO GamesPlayedAsZombie 1
+BTOOO HumansCaptured 13
+BTOOO K/D Ratio 1259
+BTOOO Average Marine Winrate 67%
+BTOOO Average Fuel Diverts PerGame 0,56
+BTOOO Average Vespene Harvested PerGame 3755,56
+BTOOO Average Zombie Winrate 100%
+BTOOO Average Security Kills Per Game 455
+BTOOO Average Deaths PerGame 1,22
+BTOOO Average Infestation Class Class 5

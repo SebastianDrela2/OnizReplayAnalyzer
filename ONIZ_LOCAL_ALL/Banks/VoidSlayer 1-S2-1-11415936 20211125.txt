@@ -1,0 +1,24 @@
+VoidSlayer HumanWinsNormal 10
+VoidSlayer ZombieRank 0
+VoidSlayer VespeneHarvested 37200
+VoidSlayer HumansRescued 27
+VoidSlayer SecurityForcesKilled 1381
+VoidSlayer ZombiesKilled 10937
+VoidSlayer FuelDiverted 3
+VoidSlayer PlayedRankedMode5.0 1
+VoidSlayer HumanRank 0
+VoidSlayer NumberOfTimesCaptured 57
+VoidSlayer TurretsBuilt 29
+VoidSlayer ZombieWins 2
+VoidSlayer GamesLeft 5
+VoidSlayer GamesPlayedAsHuman 30
+VoidSlayer GamesPlayedAsZombie 3
+VoidSlayer HumansCaptured 0
+VoidSlayer K/D Ratio 191,88
+VoidSlayer Average Marine Winrate 33%
+VoidSlayer Average Fuel Diverts PerGame 0,1
+VoidSlayer Average Vespene Harvested PerGame 1240
+VoidSlayer Average Zombie Winrate 67%
+VoidSlayer Average Security Kills Per Game 460
+VoidSlayer Average Deaths PerGame 1,9
+VoidSlayer Average Infestation Class Class 5

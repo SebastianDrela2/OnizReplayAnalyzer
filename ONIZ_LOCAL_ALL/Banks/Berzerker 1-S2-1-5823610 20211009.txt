@@ -1,0 +1,23 @@
+Berzerker HumanWinsNormal 17
+Berzerker ZombieRank 8.6665
+Berzerker VespeneHarvested 84100
+Berzerker HumansRescued 40
+Berzerker SecurityForcesKilled 8018
+Berzerker ZombiesKilled 24834
+Berzerker FuelDiverted 78
+Berzerker HumanRank -0.65
+Berzerker NumberOfTimesCaptured 80
+Berzerker TurretsBuilt 194
+Berzerker ZombieWins 8
+Berzerker GamesLeft 4
+Berzerker GamesPlayedAsHuman 41
+Berzerker GamesPlayedAsZombie 17
+Berzerker HumansCaptured 203
+Berzerker K/D Ratio 310,42
+Berzerker Average Marine Winrate 41%
+Berzerker Average Fuel Diverts PerGame 1,9
+Berzerker Average Vespene Harvested PerGame 2051,22
+Berzerker Average Zombie Winrate 47%
+Berzerker Average Security Kills Per Game 472
+Berzerker Average Deaths PerGame 1,95
+Berzerker Average Infestation Class Class 5

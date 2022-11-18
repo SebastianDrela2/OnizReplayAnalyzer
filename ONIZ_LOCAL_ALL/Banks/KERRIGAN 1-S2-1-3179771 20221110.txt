@@ -1,0 +1,23 @@
+KERRIGAN HumanWinsNormal 30
+KERRIGAN ZombieRank 0
+KERRIGAN VespeneHarvested 184180
+KERRIGAN HumansRescued 61
+KERRIGAN SecurityForcesKilled 0
+KERRIGAN ZombiesKilled 31021
+KERRIGAN FuelDiverted 16
+KERRIGAN HumanRank 0
+KERRIGAN NumberOfTimesCaptured 215
+KERRIGAN TurretsBuilt 208
+KERRIGAN ZombieWins 0
+KERRIGAN GamesLeft 23
+KERRIGAN GamesPlayedAsHuman 99
+KERRIGAN GamesPlayedAsZombie 0
+KERRIGAN HumansCaptured 0
+KERRIGAN K/D Ratio 144,28
+KERRIGAN Average Marine Winrate 30%
+KERRIGAN Average Fuel Diverts PerGame 0,16
+KERRIGAN Average Vespene Harvested PerGame 1860,4
+KERRIGAN Average Zombie Winrate NaN%
+KERRIGAN Average Security Kills Per Game NaN
+KERRIGAN Average Deaths PerGame 2,17
+KERRIGAN Average Infestation Class Class 1

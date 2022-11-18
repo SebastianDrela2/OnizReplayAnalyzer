@@ -1,0 +1,23 @@
+LaGenTia HumanWinsNormal 33
+LaGenTia ZombieRank 12
+LaGenTia VespeneHarvested 311060
+LaGenTia HumansRescued 27
+LaGenTia SecurityForcesKilled 3149
+LaGenTia ZombiesKilled 42621
+LaGenTia FuelDiverted 377
+LaGenTia HumanRank 1
+LaGenTia NumberOfTimesCaptured 99
+LaGenTia TurretsBuilt 476
+LaGenTia ZombieWins 5
+LaGenTia GamesLeft 13
+LaGenTia GamesPlayedAsHuman 95
+LaGenTia GamesPlayedAsZombie 6
+LaGenTia HumansCaptured 10
+LaGenTia K/D Ratio 430,52
+LaGenTia Average Marine Winrate 35%
+LaGenTia Average Fuel Diverts PerGame 3,97
+LaGenTia Average Vespene Harvested PerGame 3274,32
+LaGenTia Average Zombie Winrate 83%
+LaGenTia Average Security Kills Per Game 525
+LaGenTia Average Deaths PerGame 1,04
+LaGenTia Average Infestation Class Class 6

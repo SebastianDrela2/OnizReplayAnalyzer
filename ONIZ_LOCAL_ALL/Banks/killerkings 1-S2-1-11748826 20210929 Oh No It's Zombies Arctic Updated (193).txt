@@ -1,0 +1,24 @@
+killerkings HumanWinsNormal 2
+killerkings ZombieRank 0
+killerkings VespeneHarvested 26200
+killerkings HumansRescued 3
+killerkings SecurityForcesKilled 0
+killerkings ZombiesKilled 4191
+killerkings FuelDiverted 1
+killerkings PlayedRankedMode5.0 1
+killerkings HumanRank 0
+killerkings NumberOfTimesCaptured 33
+killerkings TurretsBuilt 57
+killerkings ZombieWins 0
+killerkings GamesLeft 4
+killerkings GamesPlayedAsHuman 14
+killerkings GamesPlayedAsZombie 2
+killerkings HumansCaptured 0
+killerkings K/D Ratio 127
+killerkings Average Marine Winrate 14,000000000000002%
+killerkings Average Fuel Diverts PerGame 0,07
+killerkings Average Vespene Harvested PerGame 1871,43
+killerkings Average Zombie Winrate 0%
+killerkings Average Security Kills Per Game 0
+killerkings Average Deaths PerGame 2,36
+killerkings Average Infestation Class Class 1

@@ -1,0 +1,24 @@
+BaoJio HumanWinsNormal 457
+BaoJio ZombieRank 0
+BaoJio VespeneHarvested 2152760
+BaoJio HumansRescued 1047
+BaoJio SecurityForcesKilled 15767
+BaoJio ZombiesKilled 773935
+BaoJio PlayedRankedMode5.0 1
+BaoJio FuelDiverted 909
+BaoJio HumanRank 27
+BaoJio NumberOfTimesCaptured 1382
+BaoJio TurretsBuilt 3894
+BaoJio ZombieWins 9
+BaoJio GamesLeft 66
+BaoJio GamesPlayedAsHuman 923
+BaoJio GamesPlayedAsZombie 53
+BaoJio HumansCaptured 299
+BaoJio K/D Ratio 560,01
+BaoJio Average Marine Winrate 50%
+BaoJio Average Fuel Diverts PerGame 0,98
+BaoJio Average Vespene Harvested PerGame 2332,35
+BaoJio Average Zombie Winrate 17%
+BaoJio Average Security Kills Per Game 297
+BaoJio Average Deaths PerGame 1,5
+BaoJio Average Infestation Class Class 4

@@ -1,0 +1,23 @@
+knighty HumanWinsNormal 10
+knighty ZombieRank 0
+knighty VespeneHarvested 42320
+knighty HumansRescued 20
+knighty SecurityForcesKilled 0
+knighty ZombiesKilled 8689
+knighty FuelDiverted 12
+knighty HumanRank 5
+knighty NumberOfTimesCaptured 33
+knighty TurretsBuilt 53
+knighty ZombieWins 0
+knighty GamesLeft 0
+knighty GamesPlayedAsHuman 16
+knighty GamesPlayedAsZombie 0
+knighty HumansCaptured 0
+knighty K/D Ratio 263,3
+knighty Average Marine Winrate 62%
+knighty Average Fuel Diverts PerGame 0,75
+knighty Average Vespene Harvested PerGame 2645
+knighty Average Zombie Winrate NaN%
+knighty Average Security Kills Per Game NaN
+knighty Average Deaths PerGame 2,06
+knighty Average Infestation Class Class 1

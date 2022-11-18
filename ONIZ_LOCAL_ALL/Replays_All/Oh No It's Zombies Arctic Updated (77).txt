@@ -1,0 +1,139 @@
+Analyzed: Oh No It's Zombies Arctic Updated (77)
+
+ID : 0 PlayerName: Frosky Race: Terran
+ID : 1 PlayerName: Okummokum Race: Zerg
+ID : 2 PlayerName: LuxiShikiyo Race: Terran
+ID : 3 PlayerName: lman Race: Terran
+ID : 4 PlayerName: Wally Race: Terran
+ID : 5 PlayerName: Jmsslayer Race: Terran
+ID : 6 PlayerName: Cruel Race: Terran
+ID : 7 PlayerName: Security Race: 
+Okummokum Zombie Loss
+Public Lobby
+
+Game Length:[32:551]
+Players ammount: 8
+Marine rank avg: 7,166666666666667
+GrandMaster ammount: 2
+PURCHASES: 
+[00:588] Frosky Unlocked AssaultRifle
+[00:667] Frosky Placed MiningDroid
+[00:733] Frosky Unlocked AdvancedDroidEngines
+[02:756] Frosky Unlocked SpecOpsAssaultRifle
+[06:946] Frosky Unlocked TurboDroidEngines
+[08:849] Frosky Unlocked Stimpack
+[21:211] Frosky Placed MiningDroid
+[26:328] Frosky Unlocked TitaniumBulletCasings
+[00:552] Okummokum Bought PlayerNumber
+[01:675] Okummokum Spawned MassiveCocoon
+[03:115] Okummokum Spawned InfestedAbomination
+[03:748] Okummokum Bought CreepSpeed
+[04:804] Okummokum Spawned MassiveCocoon
+[05:750] Okummokum Bought VirulentCreep
+[05:750] Okummokum Bought VirulentCreep
+[09:109] Okummokum Bought StrainSpeed
+[10:190] Okummokum Bought BuildExtractorScienceLabs
+[10:190] Okummokum Placed/Upgraded AutomatedExtractor
+[11:035] Okummokum Bought PureStrainSpeed
+[12:497] Okummokum Bought AdvancedInfestationContainment
+[14:350] Okummokum Bought HunterlingStrain
+[14:710] Okummokum Bought BuildExtractorExcavationZone
+[14:710] Okummokum Placed/Upgraded AutomatedExtractor
+[15:566] Okummokum Placed/Upgraded Virophage
+[16:451] Okummokum Bought BuildExtractorProcessingFacilities
+[16:451] Okummokum Placed/Upgraded AutomatedExtractor
+[17:124] Okummokum Placed/Upgraded Virophage
+[17:154] Okummokum Bought SiphonFuel
+[17:791] Okummokum Bought StrainVolatile
+[18:942] Okummokum Bought AdvancedPowerInfestation
+[19:012] Okummokum Bought PureStrainVolatile
+[19:755] Okummokum Bought KaboomerStrain
+[20:577] Okummokum Bought StrainSpeed
+[21:583] Okummokum Bought PureStrainSpeed
+[21:593] Okummokum Bought HunterlingStrain
+[22:605] Okummokum Bought SiphonFuel
+[23:903] Okummokum Bought BuildExtractorManufacturingSector
+[23:903] Okummokum Placed/Upgraded AutomatedExtractor
+[25:366] Okummokum Bought StrainSpeed
+[25:372] Okummokum Bought PureStrainSpeed
+[26:160] Okummokum Bought HunterlingStrain
+[26:316] Okummokum Bought SiphonFuel
+[26:404] Okummokum Placed/Upgraded NydusCanalCreeper
+[28:199] Okummokum Bought SpawnNydusWorm
+[28:929] Okummokum Placed/Upgraded GreaterNydusWorm
+[29:103] Okummokum Bought DropshipsFueled
+[29:546] Okummokum Spawned RoyalCocoon
+[29:546] Okummokum Bought SpawnHiveQueen
+[29:546] Okummokum Bought UltimateInfestationResearched
+[30:265] Okummokum Spawned QueenCoop
+[30:754] Okummokum Bought StrainSpeed
+[30:760] Okummokum Bought PureStrainSpeed
+[30:765] Okummokum Bought HunterlingStrain
+[31:199] Okummokum Bought UnlockDropPods
+[31:206] Okummokum Bought EvolveDropPods
+[31:209] Okummokum Bought EvolveDropPods
+[00:588] LuxiShikiyo Unlocked AssaultRifle
+[04:927] LuxiShikiyo Placed/Upgraded MiningDroid
+[00:588] lman Unlocked AssaultRifle
+[00:920] lman Unlocked BeamRifle
+[00:992] lman Unlocked Shieldsiotunlocked
+[09:714] lman Placed/Upgraded MiningDroid
+[12:617] lman Unlocked CombatShield
+[12:701] lman Unlocked CloakingDevice
+[14:507] lman Unlocked SpecOpsPlasmaRifle
+[15:594] lman Placed/Upgraded MiningDroid
+[17:753] lman Unlocked AdvancedShieldSuit
+[18:998] lman Unlocked OverloadWeapon
+[20:203] lman Unlocked ForceFieldGrenade
+[20:240] lman Unlocked SpecOpsForcefieldGrenade
+[00:588] Wally Unlocked AssaultRifle
+[00:873] Wally Placed/Upgraded MiningDroid
+[00:993] Wally Bought ShieldSuit
+[00:993] Wally Bought CombatSuit
+[00:993] Wally Bought HazmatSuit
+[00:993] Wally Bought ShieldSuit
+[02:320] Wally Unlocked HellfireRocketLauncher
+[02:942] Wally Placed/Upgraded MiningDroid
+[08:995] Wally Placed/Upgraded MiningDroid
+[09:139] Wally Unlocked Stimpack
+[10:694] Wally Unlocked AdvancedDroidEngines
+[14:742] Wally Placed/Upgraded MiningDroid
+[17:754] Wally Bought ShieldSuit
+[20:518] Wally Placed/Upgraded MiningDroid
+[00:588] Jmsslayer Unlocked AssaultRifle
+[00:676] Jmsslayer Placed/Upgraded MiningDroid
+[00:719] Jmsslayer Unlocked AdvancedDroidEngines
+[02:620] Jmsslayer Unlocked IncendiaryGrenade
+[03:685] Jmsslayer Unlocked BeamRifle
+[05:202] Jmsslayer Unlocked SpecOpsIncendiaryGrenade
+[07:608] Jmsslayer Unlocked Teleporter
+[09:181] Jmsslayer Unlocked SpecOpsPlasmaRifle
+[10:337] Jmsslayer Placed/Upgraded MiningDroid
+[12:591] Jmsslayer Unlocked Stimpack
+[13:488] Jmsslayer Placed/Upgraded MiningDroid
+[22:130] Jmsslayer Unlocked LongRangeScope
+[00:588] Cruel Unlocked AssaultRifle
+[00:865] Cruel Unlocked AdvancedDroidEngines
+[02:789] Cruel Unlocked CombatSuit
+[04:827] Cruel Unlocked AdvancedCombatSuit
+[04:892] Cruel Unlocked OverloadWeapon
+[07:314] Cruel Unlocked BeamRifle
+[10:125] Cruel Unlocked SpecOpsPlasmaRifle
+[10:174] Cruel Unlocked PlasmaRifleMod3
+[12:426] Cruel Unlocked SpecOpsAssaultRifle
+[13:059] Cruel Unlocked TitaniumBulletCasings
+[18:789] Cruel Unlocked PowerConverter
+[18:861] Cruel Unlocked AutoTurret
+[18:887] Cruel Unlocked SpecOpsTurret
+[20:983] Cruel Unlocked PsiDisrupter
+[30:022] Cruel Unlocked MedicShield
+[30:063] Cruel Unlocked MiningCharge
+[02:790] Security Bought ShieldSuit
+[02:790] Security Bought CombatSuit
+[02:790] Security Bought HazmatSuit
+[02:790] Security Bought CombatSuit
+[04:828] Security Bought CombatSuit
+Okummokum First Alpha InfestedAbomination |  Loss
+
+Okummokum Placed 1 Greaters.
+--------------------------------

@@ -1,0 +1,23 @@
+jovanni HumanWinsNormal 10
+jovanni ZombieRank 3.8332
+jovanni VespeneHarvested 46140
+jovanni HumansRescued 15
+jovanni SecurityForcesKilled 3229
+jovanni ZombiesKilled 7554
+jovanni FuelDiverted 106
+jovanni HumanRank 8.5
+jovanni NumberOfTimesCaptured 30
+jovanni TurretsBuilt 40
+jovanni ZombieWins 2
+jovanni GamesLeft 2
+jovanni GamesPlayedAsHuman 20
+jovanni GamesPlayedAsZombie 6
+jovanni HumansCaptured 64
+jovanni K/D Ratio 251,8
+jovanni Average Marine Winrate 50%
+jovanni Average Fuel Diverts PerGame 5,3
+jovanni Average Vespene Harvested PerGame 2307
+jovanni Average Zombie Winrate 33%
+jovanni Average Security Kills Per Game 538
+jovanni Average Deaths PerGame 1,5
+jovanni Average Infestation Class Class 6

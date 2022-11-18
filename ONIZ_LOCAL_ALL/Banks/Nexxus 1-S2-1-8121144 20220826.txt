@@ -1,0 +1,24 @@
+Nexxus HumanWinsNormal 31
+Nexxus ZombieRank 5.6665
+Nexxus VespeneHarvested 238520
+Nexxus HumansRescued 36
+Nexxus SecurityForcesKilled 5683
+Nexxus ZombiesKilled 40683
+Nexxus FuelDiverted 50
+Nexxus HumanRank 2
+Nexxus NumberOfTimesCaptured 148
+Nexxus TurretsBuilt 403
+Nexxus ZombieWins 4
+Nexxus GamesLeft 4
+Nexxus GamesPlayedAsHuman 81
+Nexxus GamesPlayedAsZombie 15
+Nexxus HumansCaptured 83
+Nexxus LeftLastGameAsZombie 0
+Nexxus K/D Ratio 274,89
+Nexxus Average Marine Winrate 38%
+Nexxus Average Fuel Diverts PerGame 0,62
+Nexxus Average Vespene Harvested PerGame 2944,69
+Nexxus Average Zombie Winrate 27%
+Nexxus Average Security Kills Per Game 379
+Nexxus Average Deaths PerGame 1,83
+Nexxus Average Infestation Class Class 4

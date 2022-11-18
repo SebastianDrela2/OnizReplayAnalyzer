@@ -1,0 +1,23 @@
+Atom HumanWinsNormal 11
+Atom ZombieRank 20.1665
+Atom VespeneHarvested 86500
+Atom HumansRescued 5
+Atom SecurityForcesKilled 4779
+Atom ZombiesKilled 17079
+Atom FuelDiverted 34
+Atom HumanRank 6.75
+Atom NumberOfTimesCaptured 42
+Atom TurretsBuilt 75
+Atom ZombieWins 11
+Atom GamesLeft 0
+Atom GamesPlayedAsHuman 26
+Atom GamesPlayedAsZombie 11
+Atom HumansCaptured 141
+Hellfire K/D Ratio 406,64
+Hellfire Average Marine Winrate 42%
+Hellfire Average Fuel Diverts PerGame 1,31
+Hellfire Average Vespene Harvested PerGame 3326,92
+Hellfire Average Zombie Winrate 100%
+Hellfire Average Security Kills Per Game 434
+Hellfire Average Deaths PerGame 1,62
+Hellfire Average Infestation Class Class 5

@@ -1,0 +1,24 @@
+BattleHero HumanWinsNormal 0
+BattleHero ZombieRank 0
+BattleHero VespeneHarvested 1300
+BattleHero HumansRescued 3
+BattleHero SecurityForcesKilled 1996
+BattleHero ZombiesKilled 836
+BattleHero FuelDiverted 8
+BattleHero PlayedRankedMode5.0 1
+BattleHero HumanRank 0
+BattleHero NumberOfTimesCaptured 1
+BattleHero TurretsBuilt 2
+BattleHero ZombieWins 6
+BattleHero GamesLeft 10
+BattleHero GamesPlayedAsHuman 6
+BattleHero GamesPlayedAsZombie 12
+BattleHero HumansCaptured 0
+BattleHero K/D Ratio 836
+BattleHero Average Marine Winrate 0%
+BattleHero Average Fuel Diverts PerGame 1,33
+BattleHero Average Vespene Harvested PerGame 216,67
+BattleHero Average Zombie Winrate 50%
+BattleHero Average Security Kills Per Game 166
+BattleHero Average Deaths PerGame 0,17
+BattleHero Average Infestation Class Class 2

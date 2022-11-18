@@ -1,0 +1,23 @@
+Torvus HumanWinsNormal 1
+Torvus ZombieRank 0
+Torvus VespeneHarvested 13300
+Torvus HumansRescued 2
+Torvus SecurityForcesKilled 0
+Torvus ZombiesKilled 4160
+Torvus FuelDiverted 30
+Torvus HumanRank 2
+Torvus NumberOfTimesCaptured 9
+Torvus TurretsBuilt 38
+Torvus ZombieWins 0
+Torvus GamesLeft 0
+Torvus GamesPlayedAsHuman 6
+Torvus GamesPlayedAsZombie 0
+Torvus HumansCaptured 0
+Torvus K/D Ratio 462,22
+Torvus Average Marine Winrate 17%
+Torvus Average Fuel Diverts PerGame 5
+Torvus Average Vespene Harvested PerGame 2216,67
+Torvus Average Zombie Winrate NaN%
+Torvus Average Security Kills Per Game NaN
+Torvus Average Deaths PerGame 1,5
+Torvus Average Infestation Class Class 1

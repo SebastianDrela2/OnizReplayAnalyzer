@@ -1,0 +1,23 @@
+Tagar HumanWinsNormal 0
+Tagar ZombieRank 0
+Tagar VespeneHarvested 2500
+Tagar HumansRescued 0
+Tagar SecurityForcesKilled 0
+Tagar ZombiesKilled 232
+Tagar FuelDiverted 4
+Tagar HumanRank 0
+Tagar NumberOfTimesCaptured 5
+Tagar TurretsBuilt 3
+Tagar ZombieWins 0
+Tagar GamesLeft 0
+Tagar GamesPlayedAsHuman 2
+Tagar GamesPlayedAsZombie 0
+Tagar HumansCaptured 0
+Tagar K/D Ratio 46,4
+Tagar Average Marine Winrate 0%
+Tagar Average Fuel Diverts PerGame 2
+Tagar Average Vespene Harvested PerGame 1250
+Tagar Average Zombie Winrate NaN%
+Tagar Average Security Kills Per Game NaN
+Tagar Average Deaths PerGame 2,5
+Tagar Average Infestation Class Class 1

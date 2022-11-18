@@ -1,0 +1,23 @@
+Elele HumanWinsNormal 2
+Elele ZombieRank 0
+Elele VespeneHarvested 6900
+Elele HumansRescued 1
+Elele SecurityForcesKilled 0
+Elele ZombiesKilled 707
+Elele FuelDiverted 6
+Elele HumanRank 0.5
+Elele NumberOfTimesCaptured 11
+Elele TurretsBuilt 4
+Elele ZombieWins 0
+Elele GamesLeft 2
+Elele GamesPlayedAsHuman 5
+Elele GamesPlayedAsZombie 0
+Elele HumansCaptured 0
+Elele K/D Ratio 64,27
+Elele Average Marine Winrate 40%
+Elele Average Fuel Diverts PerGame 1,2
+Elele Average Vespene Harvested PerGame 1380
+Elele Average Zombie Winrate NaN%
+Elele Average Security Kills Per Game NaN
+Elele Average Deaths PerGame 2,2
+Elele Average Infestation Class Class 1

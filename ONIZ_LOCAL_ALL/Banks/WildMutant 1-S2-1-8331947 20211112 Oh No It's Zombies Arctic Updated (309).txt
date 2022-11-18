@@ -1,0 +1,23 @@
+WildMutant HumanWinsNormal 5
+WildMutant ZombieRank 19.666
+WildMutant VespeneHarvested 183200
+WildMutant HumansRescued 29
+WildMutant SecurityForcesKilled 12116
+WildMutant ZombiesKilled 38003
+WildMutant FuelDiverted 189
+WildMutant HumanRank 16.417
+WildMutant NumberOfTimesCaptured 91
+WildMutant TurretsBuilt 176
+WildMutant ZombieWins 19
+WildMutant GamesLeft 1
+WildMutant GamesPlayedAsHuman 57
+WildMutant GamesPlayedAsZombie 29
+WildMutant HumansCaptured 294
+WildMutant K/D Ratio 417,62
+WildMutant Average Marine Winrate 9%
+WildMutant Average Fuel Diverts PerGame 3,32
+WildMutant Average Vespene Harvested PerGame 3214,04
+WildMutant Average Zombie Winrate 66%
+WildMutant Average Security Kills Per Game 418
+WildMutant Average Deaths PerGame 1,6
+WildMutant Average Infestation Class Class 5

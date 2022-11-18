@@ -1,0 +1,23 @@
+JYC HumanWinsNormal 9
+JYC ZombieRank 12.9997
+JYC VespeneHarvested 89200
+JYC HumansRescued 33
+JYC SecurityForcesKilled 4295
+JYC ZombiesKilled 22629
+JYC FuelDiverted 0
+JYC HumanRank -0.0664
+JYC NumberOfTimesCaptured 50
+JYC TurretsBuilt 105
+JYC ZombieWins 8
+JYC GamesLeft 1
+JYC GamesPlayedAsHuman 29
+JYC GamesPlayedAsZombie 12
+JYC HumansCaptured 113
+JYC K/D Ratio 452,58
+JYC Average Marine Winrate 31%
+JYC Average Fuel Diverts PerGame 0
+JYC Average Vespene Harvested PerGame 3075,86
+JYC Average Zombie Winrate 67%
+JYC Average Security Kills Per Game 358
+JYC Average Deaths PerGame 1,72
+JYC Average Infestation Class Class 4

@@ -1,0 +1,24 @@
+DaveTheChad HumanWinsNormal 2
+DaveTheChad LeftLastGameAsZombie 0
+DaveTheChad ZombieRank 0
+DaveTheChad VespeneHarvested 17500
+DaveTheChad HumansRescued 9
+DaveTheChad SecurityForcesKilled 0
+DaveTheChad ZombiesKilled 4617
+DaveTheChad FuelDiverted 1
+DaveTheChad HumanRank 1
+DaveTheChad NumberOfTimesCaptured 34
+DaveTheChad TurretsBuilt 16
+DaveTheChad ZombieWins 0
+DaveTheChad GamesLeft 0
+DaveTheChad GamesPlayedAsHuman 11
+DaveTheChad GamesPlayedAsZombie 0
+DaveTheChad HumansCaptured 0
+DaveTheChad K/D Ratio 135,79
+DaveTheChad Average Marine Winrate 18%
+DaveTheChad Average Fuel Diverts PerGame 0,09
+DaveTheChad Average Vespene Harvested PerGame 1590,91
+DaveTheChad Average Zombie Winrate NaN%
+DaveTheChad Average Security Kills Per Game NaN
+DaveTheChad Average Deaths PerGame 3,09
+DaveTheChad Average Infestation Class Class 1

@@ -1,0 +1,23 @@
+Blueberry HumanWinsNormal 2
+Blueberry ZombieRank 0
+Blueberry VespeneHarvested 10400
+Blueberry HumansRescued 6
+Blueberry SecurityForcesKilled 0
+Blueberry ZombiesKilled 2488
+Blueberry FuelDiverted 0
+Blueberry HumanRank 1
+Blueberry NumberOfTimesCaptured 10
+Blueberry TurretsBuilt 19
+Blueberry ZombieWins 0
+Blueberry GamesLeft 0
+Blueberry GamesPlayedAsHuman 5
+Blueberry GamesPlayedAsZombie 0
+Blueberry HumansCaptured 0
+Blueberry K/D Ratio 248,8
+Blueberry Average Marine Winrate 40%
+Blueberry Average Fuel Diverts PerGame 0
+Blueberry Average Vespene Harvested PerGame 2080
+Blueberry Average Zombie Winrate NaN%
+Blueberry Average Security Kills Per Game NaN
+Blueberry Average Deaths PerGame 2
+Blueberry Average Infestation Class Class 1

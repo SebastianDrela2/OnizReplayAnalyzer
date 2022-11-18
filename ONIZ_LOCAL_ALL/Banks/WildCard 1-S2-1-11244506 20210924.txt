@@ -1,0 +1,23 @@
+WildCard HumanWinsNormal 3
+WildCard ZombieRank 0
+WildCard VespeneHarvested 21000
+WildCard HumansRescued 9
+WildCard SecurityForcesKilled 0
+WildCard ZombiesKilled 2313
+WildCard FuelDiverted 5
+WildCard HumanRank 0
+WildCard NumberOfTimesCaptured 21
+WildCard TurretsBuilt 9
+WildCard ZombieWins 0
+WildCard GamesLeft 7
+WildCard GamesPlayedAsHuman 14
+WildCard GamesPlayedAsZombie 1
+WildCard HumansCaptured 0
+WildCard K/D Ratio 110,14
+WildCard Average Marine Winrate 21%
+WildCard Average Fuel Diverts PerGame 0,36
+WildCard Average Vespene Harvested PerGame 1500
+WildCard Average Zombie Winrate 0%
+WildCard Average Security Kills Per Game 0
+WildCard Average Deaths PerGame 1,5
+WildCard Average Infestation Class Class 1

@@ -1,0 +1,23 @@
+ProfPillz HumanWinsNormal 33
+ProfPillz ZombieRank 0
+ProfPillz VespeneHarvested 184700
+ProfPillz HumansRescued 68
+ProfPillz SecurityForcesKilled 1015
+ProfPillz ZombiesKilled 48021
+ProfPillz FuelDiverted 160
+ProfPillz HumanRank 10
+ProfPillz NumberOfTimesCaptured 123
+ProfPillz TurretsBuilt 518
+ProfPillz ZombieWins 1
+ProfPillz GamesLeft 6
+ProfPillz GamesPlayedAsHuman 68
+ProfPillz GamesPlayedAsZombie 2
+ProfPillz HumansCaptured 8
+arcturus K/D Ratio 390,41
+arcturus Average Marine Winrate 49%
+arcturus Average Fuel Diverts PerGame 2,35
+arcturus Average Vespene Harvested PerGame 2716,18
+arcturus Average Zombie Winrate 50%
+arcturus Average Security Kills Per Game 508
+arcturus Average Deaths PerGame 1,81
+arcturus Average Infestation Class Class 5

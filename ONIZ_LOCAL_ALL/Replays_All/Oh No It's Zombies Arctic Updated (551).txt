@@ -1,0 +1,183 @@
+Analyzed: Oh No It's Zombies Arctic Updated (551)
+
+ID : 0 PlayerName: Frosky Race: Terran
+ID : 1 PlayerName: King Race: Terran
+ID : 2 PlayerName: rares Race: Terran
+ID : 3 PlayerName: Kreen Race: Terran
+ID : 4 PlayerName: Zepherd Race: Zerg
+ID : 5 PlayerName: Oglethorpe Race: Terran
+ID : 6 PlayerName: zhuthepig Race: Terran
+ID : 7 PlayerName: Security Race: Terran Horner
+Zepherd Zombie Win
+Public Lobby
+
+Game Length:[26:085]
+Players ammount: 8
+Marine rank avg: 11,333333333333334
+GrandMaster ammount: 2
+PURCHASES: 
+[00:588] Frosky Unlocked AssaultRifle
+[00:667] Frosky Placed/Upgraded MiningDroid
+[00:752] Frosky Unlocked Shotgun
+[03:271] Frosky Unlocked SpecOpsShotgun
+[05:278] Frosky Unlocked AdvancedDroidEngines
+[07:037] Frosky Unlocked ExplorationDroid
+[07:067] Frosky Placed/Upgraded ExplorationDroid
+[08:789] Frosky Placed/Upgraded ExplorationDroid
+[10:889] Frosky Unlocked Stimpack
+[13:920] Frosky Unlocked MedicShield
+[18:731] Frosky Unlocked HighPrecisionBeams
+[00:588] King Unlocked AssaultRifle
+[00:699] King Placed/Upgraded MiningDroid
+[00:737] King Unlocked OverloadWeapon
+[03:091] King Unlocked SpecOpsAssaultRifle
+[05:896] King Unlocked TitaniumBulletCasings
+[08:678] King Unlocked AdvancedDroidEngines
+[10:211] King Unlocked AutoTurret
+[10:679] King Placed/Upgraded AutoTurret
+[12:206] King Placed/Upgraded AutoTurret
+[13:222] King Placed/Upgraded AutoTurret
+[13:594] King Unlocked EnergySuit
+[13:595] King Unlocked EnergySuit
+[13:608] King Unlocked AdvancedEnergySuit
+[13:609] King Unlocked EnergySuit
+[13:609] King Unlocked AdvancedEnergySuit
+[21:063] King Placed/Upgraded AutoTurret
+[21:319] King Placed/Upgraded AutoTurret
+[21:606] King Unlocked FlashBang
+[21:731] King Placed/Upgraded AutoTurret
+[22:554] King Placed/Upgraded AutoTurret
+[00:588] rares Unlocked AssaultRifle
+[00:700] rares Placed/Upgraded MiningDroid
+[00:765] rares Unlocked FragGrenade
+[05:259] rares Unlocked Flamethrower
+[06:448] rares Unlocked SpecOpsFlamethrower
+[10:045] rares Unlocked AdvancedDroidEngines
+[11:648] rares Unlocked TurboDroidEngines
+[13:299] rares Unlocked HazmatSuit
+[13:595] rares Bought ShieldSuit
+[13:595] rares Bought CombatSuit
+[13:595] rares Bought HazmatSuit
+[15:019] rares Unlocked BioMechanicalRepairDrone
+[15:430] rares Placed/Upgraded HealingDrone
+[15:726] rares Placed/Upgraded HealingDrone
+[17:046] rares Placed/Upgraded HealingDrone
+[21:547] rares Unlocked ThermiteFilaments
+[21:634] rares Placed/Upgraded HealingDrone
+[21:812] rares Placed/Upgraded HealingDrone
+[22:543] rares Placed/Upgraded HealingDrone
+[00:588] Kreen Unlocked AssaultRifle
+[00:825] Kreen Placed MiningDroid
+[00:895] Kreen Unlocked FragGrenade
+[00:902] Kreen Unlocked SpecOpsFragGrenade
+[03:761] Kreen Unlocked AdvancedDroidEngines
+[06:507] Kreen Unlocked TurboDroidEngines
+[08:128] Kreen Unlocked SpecOpsAssaultRifle
+[10:895] Kreen Unlocked AutoTargetingSystem
+[11:321] Kreen Unlocked OverloadWeapon
+[12:634] Kreen Unlocked AutoTurret
+[12:642] Kreen Unlocked SpecOpsTurret
+[13:300] Kreen Bought ShieldSuit
+[13:300] Kreen Bought CombatSuit
+[13:300] Kreen Bought HazmatSuit
+[13:300] Kreen Bought HazmatSuit
+[13:376] Kreen Placed AutoTurret
+[13:687] Kreen Placed AutoTurret
+[14:776] Kreen Placed AutoTurret
+[21:659] Kreen Unlocked CloakingDevice
+[22:435] Kreen Placed AutoTurret
+[00:552] Zepherd Bought PlayerNumber
+[01:794] Zepherd Spawned MassiveCocoon
+[03:234] Zepherd Spawned Hunter
+[03:317] Zepherd Placed/Upgraded ToxicNest
+[03:345] Zepherd Placed/Upgraded ToxicNest
+[03:353] Zepherd Placed/Upgraded ToxicNest
+[03:877] Zepherd Placed/Upgraded ToxicNest
+[04:425] Zepherd Spawned MassiveCocoon
+[05:865] Zepherd Spawned Hunter
+[08:022] Zepherd Placed/Upgraded ToxicNest
+[08:035] Zepherd Placed/Upgraded ToxicNest
+[08:085] Zepherd Placed/Upgraded ToxicNest
+[08:414] Zepherd Placed/Upgraded ToxicNest
+[08:430] Zepherd Placed/Upgraded ToxicNest
+[08:440] Zepherd Placed/Upgraded ToxicNest
+[08:691] Zepherd Placed/Upgraded PrimalSunkenColony
+[08:692] Zepherd Bought SunkenColony
+[09:782] Zepherd Placed/Upgraded ToxicNest
+[09:892] Zepherd Placed/Upgraded ToxicNest
+[09:904] Zepherd Placed/Upgraded ToxicNest
+[10:788] Zepherd Bought BuildExtractorManufacturingSector
+[10:788] Zepherd Placed/Upgraded AutomatedExtractor
+[10:859] Zepherd Placed/Upgraded LesserNydusWorm
+[10:860] Zepherd Bought GreaterNydus
+[12:122] Zepherd Placed/Upgraded ToxicNest
+[12:134] Zepherd Placed/Upgraded ToxicNest
+[12:162] Zepherd Placed/Upgraded ToxicNest
+[12:183] Zepherd Placed/Upgraded ToxicNest
+[12:260] Zepherd Placed/Upgraded ToxicNest
+[13:130] Zepherd Bought SunkenColony
+[13:415] Zepherd Bought StrainDamage
+[13:425] Zepherd Bought PureStrainDamage
+[14:031] Zepherd Placed/Upgraded LesserNydusWorm
+[14:032] Zepherd Bought GreaterNydus
+[14:606] Zepherd Placed/Upgraded ToxicNest
+[14:628] Zepherd Placed/Upgraded ToxicNest
+[14:660] Zepherd Placed/Upgraded ToxicNest
+[14:854] Zepherd Bought DefilerStrain
+[15:643] Zepherd Placed/Upgraded ToxicNest
+[15:681] Zepherd Placed/Upgraded ToxicNest
+[15:760] Zepherd Bought StrainHealth
+[15:794] Zepherd Bought PureStrainHealth
+[16:989] Zepherd Placed/Upgraded LesserNydusWorm
+[16:990] Zepherd Bought GreaterNydus
+[18:827] Zepherd Bought BuildExtractorScienceLabs
+[18:827] Zepherd Placed/Upgraded AutomatedExtractor
+[18:973] Zepherd Placed/Upgraded PrimalSunkenColony
+[18:974] Zepherd Bought SunkenColony
+[19:141] Zepherd Placed/Upgraded ToxicNest
+[19:184] Zepherd Placed/Upgraded ToxicNest
+[19:336] Zepherd Placed/Upgraded ToxicNest
+[19:512] Zepherd Bought TankStrain
+[19:583] Zepherd Bought CreepSpeed
+[19:996] Zepherd Bought BuildExtractorProcessingFacilities
+[19:996] Zepherd Placed/Upgraded AutomatedExtractor
+[20:393] Zepherd Bought StrainVolatile
+[20:415] Zepherd Bought PureStrainVolatile
+[20:674] Zepherd Placed/Upgraded LesserNydusWorm
+[20:675] Zepherd Bought GreaterNydus
+[21:025] Zepherd Bought BuildExtractorExcavationZone
+[21:025] Zepherd Placed/Upgraded AutomatedExtractor
+[21:058] Zepherd Bought SiphonFuel
+[21:365] Zepherd Placed/Upgraded NydusCanalCreeper
+[23:006] Zepherd Bought KaboomerStrain
+[23:265] Zepherd Placed/Upgraded Virophage
+[23:354] Zepherd Bought StrainSpeed
+[23:380] Zepherd Bought PureStrainSpeed
+[23:617] Zepherd Placed/Upgraded LesserNydusWorm
+[23:618] Zepherd Bought GreaterNydus
+[25:427] Zepherd Bought CreepSpeed
+[00:588] Oglethorpe Unlocked AssaultRifle
+[02:565] Oglethorpe Placed/Upgraded MiningDroid
+[02:683] Oglethorpe Unlocked MotionSensor
+[03:085] Oglethorpe Placed/Upgraded SensorTower
+[03:677] Oglethorpe Unlocked SpecOpsAssaultRifle
+[04:918] Oglethorpe Placed/Upgraded SensorTower
+[06:261] Oglethorpe Placed/Upgraded SensorTower
+[06:467] Oglethorpe Unlocked AdvancedDroidEngines
+[08:324] Oglethorpe Placed/Upgraded SensorTower
+[13:588] Oglethorpe Unlocked TurboDroidEngines
+[14:853] Oglethorpe Unlocked TitaniumBulletCasings
+[15:331] Oglethorpe Unlocked OpticalVisor
+[18:865] Oglethorpe Unlocked Stimpack
+[00:588] zhuthepig Unlocked AssaultRifle
+[01:260] zhuthepig Unlocked AdvancedDroidEngines
+[04:308] zhuthepig Unlocked TurboDroidEngines
+[06:155] zhuthepig Unlocked SpecOpsAssaultRifle
+[07:705] zhuthepig Unlocked TitaniumBulletCasings
+[12:275] zhuthepig Unlocked OverloadWeapon
+[22:940] zhuthepig Unlocked SuperStimpack
+[24:790] zhuthepig Unlocked SpecOpsSuperStimpack
+Zepherd First Alpha Hunter |  Win
+
+Zepherd Placed 0 Greaters.
+--------------------------------

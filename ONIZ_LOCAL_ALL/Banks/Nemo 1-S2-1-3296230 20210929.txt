@@ -1,0 +1,24 @@
+Nemo HumanWinsNormal 5
+Nemo ZombieRank 2
+Nemo VespeneHarvested 27600
+Nemo HumansRescued 21
+Nemo SecurityForcesKilled 1912
+Nemo ZombiesKilled 7596
+Nemo FuelDiverted 11
+Nemo PlayedRankedMode5.0 1
+Nemo HumanRank 0
+Nemo NumberOfTimesCaptured 39
+Nemo TurretsBuilt 152
+Nemo ZombieWins 1
+Nemo GamesLeft 4
+Nemo GamesPlayedAsHuman 17
+Nemo GamesPlayedAsZombie 6
+Nemo HumansCaptured 43
+Nemo K/D Ratio 194,77
+Nemo Average Marine Winrate 28,999999999999996%
+Nemo Average Fuel Diverts PerGame 0,65
+Nemo Average Vespene Harvested PerGame 1623,53
+Nemo Average Zombie Winrate 17%
+Nemo Average Security Kills Per Game 319
+Nemo Average Deaths PerGame 2,29
+Nemo Average Infestation Class Class 4

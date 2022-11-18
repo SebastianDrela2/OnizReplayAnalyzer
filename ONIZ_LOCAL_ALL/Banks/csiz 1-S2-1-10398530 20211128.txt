@@ -1,0 +1,23 @@
+csiz HumanWinsNormal 116
+csiz ZombieRank 0
+csiz VespeneHarvested 604900
+csiz HumansRescued 372
+csiz SecurityForcesKilled 4701
+csiz ZombiesKilled 224517
+csiz FuelDiverted 66
+csiz HumanRank 9.75
+csiz NumberOfTimesCaptured 449
+csiz TurretsBuilt 1968
+csiz ZombieWins 4
+csiz GamesLeft 8
+csiz GamesPlayedAsHuman 240
+csiz GamesPlayedAsZombie 12
+csiz HumansCaptured 104
+csiz K/D Ratio 500,04
+csiz Average Marine Winrate 48%
+csiz Average Fuel Diverts PerGame 0,28
+csiz Average Vespene Harvested PerGame 2520,42
+csiz Average Zombie Winrate 33%
+csiz Average Security Kills Per Game 392
+csiz Average Deaths PerGame 1,87
+csiz Average Infestation Class Class 4

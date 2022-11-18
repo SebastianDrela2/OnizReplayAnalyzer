@@ -1,0 +1,70 @@
+Analyzed: Oh No It's Zombies Arctic Map (234)
+
+ID : 0 PlayerName: Toxicpanda Race: Terran
+ID : 1 PlayerName: Frosky Race: Zerg
+ID : 7 PlayerName: Security Race: Primal Zerg
+Frosky Zombie Win
+Public Lobby
+
+Game Length:[12:801]
+Players ammount: 3
+Marine rank avg: 0,6666666666666666
+GrandMaster ammount: 2
+PURCHASES: 
+[00:572] Toxicpanda Unlocked AssaultRifle
+[00:850] Toxicpanda Placed MiningDroid
+[01:168] Toxicpanda Unlocked AdvancedDroidEngines
+[01:217] Toxicpanda Unlocked TurboDroidEngines
+[01:509] Toxicpanda Unlocked AutoTurret
+[01:524] Toxicpanda Unlocked FlameTurret
+[01:615] Toxicpanda Unlocked SpecOpsAssaultRifle
+[01:662] Toxicpanda Unlocked AutoTargetingSystem
+[01:720] Toxicpanda Unlocked Stimpack
+[01:927] Toxicpanda Unlocked QuantumBackpack
+[01:985] Toxicpanda Unlocked MedicShield
+[02:216] Toxicpanda Placed AutoTurret
+[02:495] Toxicpanda Placed AutoTurret
+[02:873] Toxicpanda Unlocked FragGrenade
+[02:927] Toxicpanda Unlocked SpecOpsFragGrenade
+[03:212] Toxicpanda Placed AutoTurret
+[03:735] Toxicpanda Unlocked ForceFieldGrenade
+[03:738] Toxicpanda Unlocked SpecOpsForcefieldGrenade
+[03:773] Toxicpanda Unlocked BioMechanicalRepairDrone
+[03:787] Toxicpanda Unlocked SpecOpsBioMechanicalRepairDrone
+[03:920] Toxicpanda Placed AutoTurret
+[04:200] Toxicpanda Placed AutoTurret
+[04:366] Toxicpanda Unlocked ArcWelder
+[04:377] Toxicpanda Unlocked SpecOpsArcWelder
+[04:580] Toxicpanda Placed AutoTurret
+[04:681] Toxicpanda Placed HealingDrone
+[04:779] Toxicpanda Placed HealingDrone
+[05:003] Toxicpanda Unlocked AIAssistant
+[05:759] Toxicpanda Placed AutoTurret
+[05:926] Toxicpanda Placed AutoTurret
+[06:008] Toxicpanda Placed AutoTurret
+[06:097] Toxicpanda Placed AutoTurret
+[06:205] Toxicpanda Placed AutoTurret
+[06:398] Toxicpanda Unlocked HeavyTurret
+[10:304] Toxicpanda Placed AutoTurret
+[10:399] Toxicpanda Placed AutoTurret
+[10:470] Toxicpanda Placed AutoTurret
+[10:675] Toxicpanda Placed AutoTurret
+[10:787] Toxicpanda Placed AutoTurret
+[10:859] Toxicpanda Placed AutoTurret
+[10:957] Toxicpanda Unlocked PsiDisrupter
+[10:971] Toxicpanda Unlocked PsiDepressor
+[11:110] Toxicpanda Placed PsiIndoctrinator
+[11:314] Toxicpanda Placed PsiIndoctrinator
+[11:462] Toxicpanda Placed HealingDrone
+[11:608] Toxicpanda Placed PsiIndoctrinator
+[11:821] Toxicpanda Placed AutoTurret
+[00:568] Frosky Bought PlayerNumber
+[03:584] Frosky Bought StrainVolatile
+[03:587] Frosky Bought StrainVolatile
+[07:919] Frosky Bought StrainHealth
+[07:927] Frosky Bought StrainHealth
+[08:650] Frosky Placed/Upgraded LesserNydusWorm
+[08:651] Frosky Bought GreaterNydus
+
+Frosky Placed 0 Greaters.
+--------------------------------

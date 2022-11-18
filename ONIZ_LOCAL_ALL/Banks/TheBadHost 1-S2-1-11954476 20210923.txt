@@ -1,0 +1,23 @@
+TheBadHost HumanWinsNormal 3
+TheBadHost ZombieRank 0
+TheBadHost VespeneHarvested 21200
+TheBadHost HumansRescued 5
+TheBadHost SecurityForcesKilled 1165
+TheBadHost ZombiesKilled 7482
+TheBadHost FuelDiverted 5
+TheBadHost HumanRank 1
+TheBadHost NumberOfTimesCaptured 57
+TheBadHost TurretsBuilt 17
+TheBadHost ZombieWins 0
+TheBadHost GamesLeft 0
+TheBadHost GamesPlayedAsHuman 17
+TheBadHost GamesPlayedAsZombie 3
+TheBadHost HumansCaptured 26
+TheBadHost K/D Ratio 131,26
+TheBadHost Average Marine Winrate 18%
+TheBadHost Average Fuel Diverts PerGame 0,29
+TheBadHost Average Vespene Harvested PerGame 1247,06
+TheBadHost Average Zombie Winrate 0%
+TheBadHost Average Security Kills Per Game 388
+TheBadHost Average Deaths PerGame 3,35
+TheBadHost Average Infestation Class Class 4

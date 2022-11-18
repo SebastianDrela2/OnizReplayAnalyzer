@@ -1,0 +1,23 @@
+Radovid HumanWinsNormal 94
+Radovid ZombieRank 29.3332
+Radovid VespeneHarvested 505600
+Radovid HumansRescued 129
+Radovid SecurityForcesKilled 24194
+Radovid ZombiesKilled 126787
+Radovid FuelDiverted 173
+Radovid HumanRank 27.5
+Radovid NumberOfTimesCaptured 177
+Radovid TurretsBuilt 497
+Radovid ZombieWins 45
+Radovid GamesLeft 14
+Radovid GamesPlayedAsHuman 166
+Radovid GamesPlayedAsZombie 55
+Radovid HumansCaptured 587
+Radovid K/D Ratio 716,31
+Radovid Average Marine Winrate 56,99999999999999%
+Radovid Average Fuel Diverts PerGame 1,04
+Radovid Average Vespene Harvested PerGame 3045,78
+Radovid Average Zombie Winrate 82%
+Radovid Average Security Kills Per Game 440
+Radovid Average Deaths PerGame 1,07
+Radovid Average Infestation Class Class 5

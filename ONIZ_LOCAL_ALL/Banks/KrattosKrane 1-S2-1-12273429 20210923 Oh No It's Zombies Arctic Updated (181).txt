@@ -1,0 +1,23 @@
+KrattosKrane HumanWinsNormal 0
+KrattosKrane ZombieRank 0
+KrattosKrane VespeneHarvested 400
+KrattosKrane HumansRescued 0
+KrattosKrane SecurityForcesKilled 0
+KrattosKrane ZombiesKilled 43
+KrattosKrane FuelDiverted 1
+KrattosKrane HumanRank 0
+KrattosKrane NumberOfTimesCaptured 5
+KrattosKrane TurretsBuilt 0
+KrattosKrane ZombieWins 0
+KrattosKrane GamesLeft 0
+KrattosKrane GamesPlayedAsHuman 1
+KrattosKrane GamesPlayedAsZombie 0
+KrattosKrane HumansCaptured 0
+KrattosKrane K/D Ratio 8,6
+KrattosKrane Average Marine Winrate 0%
+KrattosKrane Average Fuel Diverts PerGame 1
+KrattosKrane Average Vespene Harvested PerGame 400
+KrattosKrane Average Zombie Winrate NaN%
+KrattosKrane Average Security Kills Per Game NaN
+KrattosKrane Average Deaths PerGame 5
+KrattosKrane Average Infestation Class Class 1

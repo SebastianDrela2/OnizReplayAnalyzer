@@ -1,0 +1,23 @@
+DjCoraxa HumanWinsNormal 6
+DjCoraxa ZombieRank 6
+DjCoraxa VespeneHarvested 41700
+DjCoraxa HumansRescued 12
+DjCoraxa SecurityForcesKilled 2377
+DjCoraxa ZombiesKilled 11164
+DjCoraxa FuelDiverted 18
+DjCoraxa HumanRank 10
+DjCoraxa NumberOfTimesCaptured 20
+DjCoraxa TurretsBuilt 123
+DjCoraxa ZombieWins 2
+DjCoraxa GamesLeft 0
+DjCoraxa GamesPlayedAsHuman 12
+DjCoraxa GamesPlayedAsZombie 6
+DjCoraxa HumansCaptured 65
+DjCoraxa K/D Ratio 558,2
+DjCoraxa Average Marine Winrate 50%
+DjCoraxa Average Fuel Diverts PerGame 1,5
+DjCoraxa Average Vespene Harvested PerGame 3475
+DjCoraxa Average Zombie Winrate 33%
+DjCoraxa Average Security Kills Per Game 396
+DjCoraxa Average Deaths PerGame 1,67
+DjCoraxa Average Infestation Class Class 4

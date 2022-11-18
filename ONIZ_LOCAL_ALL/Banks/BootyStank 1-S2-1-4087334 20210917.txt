@@ -1,0 +1,24 @@
+BootyStank HumanWinsNormal 10
+BootyStank ZombieRank 0
+BootyStank VespeneHarvested 100200
+BootyStank HumansRescued 40
+BootyStank SecurityForcesKilled 1615
+BootyStank ZombiesKilled 15952
+BootyStank FuelDiverted 30
+BootyStank PlayedRankedMode5.0 1
+BootyStank HumanRank 1
+BootyStank NumberOfTimesCaptured 82
+BootyStank TurretsBuilt 130
+BootyStank ZombieWins 0
+BootyStank GamesLeft 2
+BootyStank GamesPlayedAsHuman 42
+BootyStank GamesPlayedAsZombie 4
+BootyStank HumansCaptured 42
+BootyStank K/D Ratio 194,54
+BootyStank Average Marine Winrate 24%
+BootyStank Average Fuel Diverts PerGame 0,71
+BootyStank Average Vespene Harvested PerGame 2385,71
+BootyStank Average Zombie Winrate 0%
+BootyStank Average Security Kills Per Game 404
+BootyStank Average Deaths PerGame 1,95
+BootyStank Average Infestation Class Class 4

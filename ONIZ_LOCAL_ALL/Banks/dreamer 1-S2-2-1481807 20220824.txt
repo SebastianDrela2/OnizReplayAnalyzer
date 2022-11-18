@@ -1,0 +1,23 @@
+dreamer HumanWinsNormal 100
+dreamer ZombieRank 2.833
+dreamer VespeneHarvested 596220
+dreamer HumansRescued 218
+dreamer SecurityForcesKilled 9209
+dreamer ZombiesKilled 151590
+dreamer FuelDiverted 2
+dreamer HumanRank 5
+dreamer NumberOfTimesCaptured 434
+dreamer TurretsBuilt 1137
+dreamer ZombieWins 8
+dreamer GamesLeft 60
+dreamer GamesPlayedAsHuman 251
+dreamer GamesPlayedAsZombie 27
+dreamer HumansCaptured 183
+dreamer K/D Ratio 349,29
+dreamer Average Marine Winrate 40%
+dreamer Average Fuel Diverts PerGame 0,01
+dreamer Average Vespene Harvested PerGame 2375,38
+dreamer Average Zombie Winrate 30%
+dreamer Average Security Kills Per Game 341
+dreamer Average Deaths PerGame 1,73
+dreamer Average Infestation Class Class 4

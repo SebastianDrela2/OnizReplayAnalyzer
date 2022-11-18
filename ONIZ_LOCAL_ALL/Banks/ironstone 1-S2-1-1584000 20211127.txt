@@ -1,0 +1,25 @@
+ironstone HumanWinsNormal 6
+ironstone LeftLastGameAsZombie 0
+ironstone ZombieRank 0
+ironstone VespeneHarvested 21600
+ironstone HumansRescued 6
+ironstone SecurityForcesKilled 0
+ironstone ZombiesKilled 3734
+ironstone FuelDiverted 21
+ironstone PlayedRankedMode5.0 1
+ironstone HumanRank 9
+ironstone NumberOfTimesCaptured 13
+ironstone TurretsBuilt 35
+ironstone ZombieWins 0
+ironstone GamesLeft 0
+ironstone GamesPlayedAsHuman 12
+ironstone GamesPlayedAsZombie 0
+ironstone HumansCaptured 0
+ironstone K/D Ratio 287,23
+ironstone Average Marine Winrate 50%
+ironstone Average Fuel Diverts PerGame 1,75
+ironstone Average Vespene Harvested PerGame 1800
+ironstone Average Zombie Winrate NaN%
+ironstone Average Security Kills Per Game NaN
+ironstone Average Deaths PerGame 1,08
+ironstone Average Infestation Class Class 1

@@ -1,0 +1,23 @@
+masterchief HumanWinsNormal 8
+masterchief ZombieRank 0
+masterchief VespeneHarvested 31300
+masterchief HumansRescued 8
+masterchief SecurityForcesKilled 113
+masterchief ZombiesKilled 5525
+masterchief FuelDiverted 13
+masterchief HumanRank 4
+masterchief NumberOfTimesCaptured 53
+masterchief TurretsBuilt 61
+masterchief ZombieWins 0
+masterchief GamesLeft 2
+masterchief GamesPlayedAsHuman 20
+masterchief GamesPlayedAsZombie 1
+masterchief HumansCaptured 4
+masterchief K/D Ratio 104,25
+masterchief Average Marine Winrate 40%
+masterchief Average Fuel Diverts PerGame 0,65
+masterchief Average Vespene Harvested PerGame 1565
+masterchief Average Zombie Winrate 0%
+masterchief Average Security Kills Per Game 113
+masterchief Average Deaths PerGame 2,65
+masterchief Average Infestation Class Class 2

@@ -1,0 +1,23 @@
+deadwatcher HumanWinsNormal 4
+deadwatcher ZombieRank 0
+deadwatcher VespeneHarvested 12800
+deadwatcher HumansRescued 7
+deadwatcher SecurityForcesKilled 1004
+deadwatcher ZombiesKilled 2844
+deadwatcher FuelDiverted 1
+deadwatcher HumanRank 6
+deadwatcher NumberOfTimesCaptured 23
+deadwatcher TurretsBuilt 24
+deadwatcher ZombieWins 0
+deadwatcher GamesLeft 0
+deadwatcher GamesPlayedAsHuman 9
+deadwatcher GamesPlayedAsZombie 2
+deadwatcher HumansCaptured 25
+deadwatcher K/D Ratio 123,65
+deadwatcher Average Marine Winrate 44%
+deadwatcher Average Fuel Diverts PerGame 0,11
+deadwatcher Average Vespene Harvested PerGame 1422,22
+deadwatcher Average Zombie Winrate 0%
+deadwatcher Average Security Kills Per Game 502
+deadwatcher Average Deaths PerGame 2,56
+deadwatcher Average Infestation Class Class 5

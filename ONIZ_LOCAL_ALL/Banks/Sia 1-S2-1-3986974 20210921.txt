@@ -1,0 +1,23 @@
+Sia HumanWinsNormal 15
+Sia ZombieRank 0
+Sia VespeneHarvested 64000
+Sia HumansRescued 33
+Sia SecurityForcesKilled 0
+Sia ZombiesKilled 30371
+Sia FuelDiverted 14
+Sia HumanRank 5
+Sia NumberOfTimesCaptured 71
+Sia TurretsBuilt 102
+Sia ZombieWins 0
+Sia GamesLeft 2
+Sia GamesPlayedAsHuman 45
+Sia GamesPlayedAsZombie 0
+Sia HumansCaptured 0
+Sia K/D Ratio 427,76
+Sia Average Marine Winrate 33%
+Sia Average Fuel Diverts PerGame 0,31
+Sia Average Vespene Harvested PerGame 1422,22
+Sia Average Zombie Winrate NaN%
+Sia Average Security Kills Per Game NaN
+Sia Average Deaths PerGame 1,58
+Sia Average Infestation Class Class 1

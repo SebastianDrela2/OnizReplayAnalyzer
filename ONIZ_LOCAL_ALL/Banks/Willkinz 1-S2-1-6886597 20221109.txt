@@ -1,0 +1,25 @@
+Willkinz HumanWinsNormal 25
+Willkinz LeftLastGameAsZombie 0
+Willkinz ZombieRank 0
+Willkinz VespeneHarvested 193500
+Willkinz HumansRescued 43
+Willkinz SecurityForcesKilled 5916
+Willkinz ZombiesKilled 19158
+Willkinz FuelDiverted 384
+Willkinz PlayedRankedMode5.0 1
+Willkinz HumanRank 3.625
+Willkinz NumberOfTimesCaptured 59
+Willkinz TurretsBuilt 168
+Willkinz ZombieWins 11
+Willkinz GamesLeft 1
+Willkinz GamesPlayedAsHuman 57
+Willkinz GamesPlayedAsZombie 12
+Willkinz HumansCaptured 9
+Willkinz K/D Ratio 324,71
+Willkinz Average Marine Winrate 44%
+Willkinz Average Fuel Diverts PerGame 6,74
+Willkinz Average Vespene Harvested PerGame 3394,74
+Willkinz Average Zombie Winrate 92%
+Willkinz Average Security Kills Per Game 493
+Willkinz Average Deaths PerGame 1,04
+Willkinz Average Infestation Class Class 5

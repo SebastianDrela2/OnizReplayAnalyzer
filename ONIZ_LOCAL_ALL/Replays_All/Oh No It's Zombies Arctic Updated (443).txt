@@ -1,0 +1,84 @@
+Analyzed: Oh No It's Zombies Arctic Updated (443)
+
+ID : 0 PlayerName: RachniThane Race: Zerg
+ID : 1 PlayerName: Frosky Race: Terran
+ID : 2 PlayerName: MrLoaf Race: Terran
+ID : 3 PlayerName: Nolightbulb Race: Terran
+ID : 4 PlayerName: LoogaSlight Race: Terran
+ID : 5 PlayerName: ZAGARA Race: Terran
+ID : 6 PlayerName: Alcoólatra Race: Terran
+ID : 7 PlayerName: Security Race: Terran Tychus
+RachniThane Zombie Win
+Public Lobby
+
+Game Length:[10:568]
+Players ammount: 8
+Marine rank avg: 6,666666666666667
+GrandMaster ammount: 1
+PURCHASES: 
+[01:164] RachniThane Bought StrainDamage
+[01:809] RachniThane Placed/Upgraded PrimalSunkenColony
+[01:810] RachniThane Bought SunkenColony
+[02:223] RachniThane Placed/Upgraded PrimalSunkenColony
+[02:224] RachniThane Bought SunkenColony
+[03:305] RachniThane Bought PureStrainDamage
+[04:465] RachniThane Spawned MassiveCocoon
+[05:905] RachniThane Spawned InfestedAbomination
+[07:763] RachniThane Bought CreepSpeed
+[08:148] RachniThane Bought SunkenColony
+[08:479] RachniThane Bought DefilerStrain
+[08:547] RachniThane Bought SunkenColony
+[09:727] RachniThane Placed/Upgraded PrimalSunkenColony
+[09:728] RachniThane Bought SunkenColony
+[00:588] Frosky Unlocked AssaultRifle
+[00:667] Frosky Placed/Upgraded MiningDroid
+[00:834] Frosky Unlocked ArcWelder
+[02:399] Frosky Unlocked BioMechanicalRepairDrone
+[02:412] Frosky Unlocked CombatAccelerationDrone
+[02:493] Frosky Placed/Upgraded HealingDrone
+[02:634] Frosky Placed/Upgraded HealingDrone
+[03:622] Frosky Placed/Upgraded HealingDrone
+[03:774] Frosky Placed/Upgraded HealingDrone
+[04:360] Frosky Placed/Upgraded HealingDrone
+[04:982] Frosky Placed/Upgraded HealingDrone
+[05:639] Frosky Unlocked AdvancedDroidEngines
+[06:458] Frosky Unlocked Stimpack
+[07:570] Frosky Unlocked TurboDroidEngines
+[08:443] Frosky Unlocked AutoTurret
+[08:465] Frosky Unlocked HeavyTurret
+[08:547] Frosky Placed/Upgraded AutoTurret
+[08:685] Frosky Placed/Upgraded AutoTurret
+[00:588] MrLoaf Unlocked AssaultRifle
+[00:677] MrLoaf Placed/Upgraded MiningDroid
+[00:903] MrLoaf Unlocked AdvancedDroidEngines
+[04:561] MrLoaf Unlocked SpecOpsAssaultRifle
+[06:041] MrLoaf Unlocked TurboDroidEngines
+[07:185] MrLoaf Unlocked MotionSensor
+[07:478] MrLoaf Placed/Upgraded SensorTower
+[08:550] MrLoaf Placed/Upgraded MiningDroid
+[09:157] MrLoaf Placed/Upgraded SensorTower
+[09:697] MrLoaf Unlocked TitaniumBulletCasings
+[00:588] Nolightbulb Unlocked AssaultRifle
+[01:072] Nolightbulb Placed/Upgraded MiningDroid
+[00:588] LoogaSlight Unlocked AssaultRifle
+[01:455] LoogaSlight Placed/Upgraded MiningDroid
+[01:589] LoogaSlight Unlocked Flamethrower
+[03:294] LoogaSlight Unlocked SpecOpsFlamethrower
+[00:588] ZAGARA Unlocked AssaultRifle
+[00:720] ZAGARA Placed/Upgraded MiningDroid
+[00:873] ZAGARA Unlocked HellfireRocketLauncher
+[04:927] ZAGARA Unlocked SpecOpsHellfireRocketLauncher
+[05:108] ZAGARA Unlocked ShockwaveMissiles
+[06:703] ZAGARA Unlocked HazmatSuit
+[06:704] ZAGARA Unlocked ShieldSuit
+[06:704] ZAGARA Unlocked AdvancedShieldSuit
+[06:704] ZAGARA Unlocked CombatSuit
+[06:704] ZAGARA Unlocked AdvancedCombatSuit
+[06:704] ZAGARA Unlocked HazmatSuit
+[06:704] ZAGARA Unlocked AdvancedHazmatSuit
+[06:704] ZAGARA Unlocked HazmatSuit
+[00:588] Alcoólatra Unlocked AssaultRifle
+RachniThane First Alpha InfestedAbomination |  Win
+
+RachniThane Placed 0 Greaters.
+--------------------------------

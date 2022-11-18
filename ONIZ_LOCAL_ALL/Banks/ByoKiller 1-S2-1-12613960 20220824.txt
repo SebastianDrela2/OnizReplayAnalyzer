@@ -1,0 +1,23 @@
+ByoKiller HumanWinsNormal 1
+ByoKiller ZombieRank 0
+ByoKiller VespeneHarvested 17200
+ByoKiller HumansRescued 4
+ByoKiller SecurityForcesKilled 0
+ByoKiller ZombiesKilled 1616
+ByoKiller FuelDiverted 2
+ByoKiller HumanRank 0
+ByoKiller NumberOfTimesCaptured 27
+ByoKiller TurretsBuilt 23
+ByoKiller ZombieWins 0
+ByoKiller GamesLeft 1
+ByoKiller GamesPlayedAsHuman 11
+ByoKiller GamesPlayedAsZombie 0
+ByoKiller HumansCaptured 0
+ByoKiller K/D Ratio 59,85
+ByoKiller Average Marine Winrate 9%
+ByoKiller Average Fuel Diverts PerGame 0,18
+ByoKiller Average Vespene Harvested PerGame 1563,64
+ByoKiller Average Zombie Winrate NaN%
+ByoKiller Average Security Kills Per Game NaN
+ByoKiller Average Deaths PerGame 2,45
+ByoKiller Average Infestation Class Class 1

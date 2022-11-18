@@ -1,0 +1,23 @@
+Labia HumanWinsNormal 41
+Labia ZombieRank 13.5
+Labia VespeneHarvested 211900
+Labia HumansRescued 56
+Labia SecurityForcesKilled 4538
+Labia ZombiesKilled 40437
+Labia FuelDiverted 356
+Labia HumanRank 21.6667
+Labia NumberOfTimesCaptured 65
+Labia TurretsBuilt 383
+Labia ZombieWins 7
+Labia GamesLeft 3
+Labia GamesPlayedAsHuman 70
+Labia GamesPlayedAsZombie 11
+Labia HumansCaptured 93
+Labia K/D Ratio 622,11
+Labia Average Marine Winrate 59%
+Labia Average Fuel Diverts PerGame 5,09
+Labia Average Vespene Harvested PerGame 3027,14
+Labia Average Zombie Winrate 64%
+Labia Average Security Kills Per Game 413
+Labia Average Deaths PerGame 0,93
+Labia Average Infestation Class Class 5

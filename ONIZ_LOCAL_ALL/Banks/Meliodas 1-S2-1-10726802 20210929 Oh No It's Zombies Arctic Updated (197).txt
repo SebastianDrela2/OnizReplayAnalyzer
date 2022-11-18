@@ -1,0 +1,23 @@
+Meliodas HumanWinsNormal 43
+Meliodas ZombieRank 16.833
+Meliodas VespeneHarvested 198400
+Meliodas HumansRescued 27
+Meliodas SecurityForcesKilled 4659
+Meliodas ZombiesKilled 48370
+Meliodas FuelDiverted 466
+Meliodas HumanRank 29.625
+Meliodas NumberOfTimesCaptured 69
+Meliodas TurretsBuilt 551
+Meliodas ZombieWins 9
+Meliodas GamesLeft 2
+Meliodas GamesPlayedAsHuman 63
+Meliodas GamesPlayedAsZombie 11
+Meliodas HumansCaptured 91
+Meliodas K/D Ratio 701,01
+Meliodas Average Marine Winrate 68%
+Meliodas Average Fuel Diverts PerGame 7,4
+Meliodas Average Vespene Harvested PerGame 3149,21
+Meliodas Average Zombie Winrate 82%
+Meliodas Average Security Kills Per Game 424
+Meliodas Average Deaths PerGame 1,1
+Meliodas Average Infestation Class Class 5

@@ -1,0 +1,23 @@
+Craxle HumanWinsNormal 4
+Craxle ZombieRank 0
+Craxle VespeneHarvested 20400
+Craxle HumansRescued 12
+Craxle SecurityForcesKilled 0
+Craxle ZombiesKilled 6222
+Craxle FuelDiverted 10
+Craxle HumanRank 7
+Craxle NumberOfTimesCaptured 19
+Craxle TurretsBuilt 23
+Craxle ZombieWins 0
+Craxle GamesLeft 0
+Craxle GamesPlayedAsHuman 8
+Craxle GamesPlayedAsZombie 0
+Craxle HumansCaptured 0
+Craxle K/D Ratio 327,47
+Craxle Average Marine Winrate 50%
+Craxle Average Fuel Diverts PerGame 1,25
+Craxle Average Vespene Harvested PerGame 2550
+Craxle Average Zombie Winrate NaN%
+Craxle Average Security Kills Per Game NaN
+Craxle Average Deaths PerGame 2,38
+Craxle Average Infestation Class Class 1

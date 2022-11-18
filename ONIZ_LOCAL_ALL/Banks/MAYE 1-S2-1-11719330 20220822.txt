@@ -1,0 +1,23 @@
+MAYE HumanWinsNormal 20
+MAYE ZombieRank 0
+MAYE VespeneHarvested 79800
+MAYE HumansRescued 29
+MAYE SecurityForcesKilled 0
+MAYE ZombiesKilled 27105
+MAYE FuelDiverted 67
+MAYE HumanRank 0
+MAYE NumberOfTimesCaptured 59
+MAYE TurretsBuilt 201
+MAYE ZombieWins 0
+MAYE GamesLeft 19
+MAYE GamesPlayedAsHuman 59
+MAYE GamesPlayedAsZombie 1
+MAYE HumansCaptured 0
+MAYE K/D Ratio 459,41
+MAYE Average Marine Winrate 34%
+MAYE Average Fuel Diverts PerGame 1,14
+MAYE Average Vespene Harvested PerGame 1352,54
+MAYE Average Zombie Winrate 0%
+MAYE Average Security Kills Per Game 0
+MAYE Average Deaths PerGame 1
+MAYE Average Infestation Class Class 1

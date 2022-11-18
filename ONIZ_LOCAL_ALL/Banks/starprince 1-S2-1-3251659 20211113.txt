@@ -1,0 +1,24 @@
+starprince HumanWinsNormal 3
+starprince LeftLastGameAsZombie 0
+starprince ZombieRank 0
+starprince VespeneHarvested 25900
+starprince HumansRescued 4
+starprince SecurityForcesKilled 1890
+starprince ZombiesKilled 6733
+starprince FuelDiverted 4
+starprince HumanRank -0.875
+starprince NumberOfTimesCaptured 37
+starprince TurretsBuilt 38
+starprince ZombieWins 0
+starprince GamesLeft 0
+starprince GamesPlayedAsHuman 15
+starprince GamesPlayedAsZombie 5
+starprince HumansCaptured 28
+starprince K/D Ratio 181,97
+starprince Average Marine Winrate 20%
+starprince Average Fuel Diverts PerGame 0,27
+starprince Average Vespene Harvested PerGame 1726,67
+starprince Average Zombie Winrate 0%
+starprince Average Security Kills Per Game 378
+starprince Average Deaths PerGame 2,47
+starprince Average Infestation Class Class 4

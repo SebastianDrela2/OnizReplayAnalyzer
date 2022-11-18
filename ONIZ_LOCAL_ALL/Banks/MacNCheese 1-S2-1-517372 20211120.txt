@@ -1,0 +1,23 @@
+MacNCheese HumanWinsNormal 251
+MacNCheese ZombieRank 31
+MacNCheese VespeneHarvested 1207900
+MacNCheese HumansRescued 496
+MacNCheese SecurityForcesKilled 127375
+MacNCheese ZombiesKilled 275447
+MacNCheese FuelDiverted 2171
+MacNCheese HumanRank 29.5
+MacNCheese NumberOfTimesCaptured 1070
+MacNCheese TurretsBuilt 2416
+MacNCheese ZombieWins 184
+MacNCheese GamesLeft 28
+MacNCheese GamesPlayedAsHuman 517
+MacNCheese GamesPlayedAsZombie 317
+MacNCheese HumansCaptured 3175
+MacNCheese K/D Ratio 257,43
+MacNCheese Average Marine Winrate 49%
+MacNCheese Average Fuel Diverts PerGame 4,2
+MacNCheese Average Vespene Harvested PerGame 2336,36
+MacNCheese Average Zombie Winrate 57,99999999999999%
+MacNCheese Average Security Kills Per Game 402
+MacNCheese Average Deaths PerGame 2,07
+MacNCheese Average Infestation Class Class 4

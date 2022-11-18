@@ -1,0 +1,25 @@
+Spheres HumanWinsNormal 99
+Spheres LeftLastGameAsZombie 0
+Spheres ZombieRank 31
+Spheres VespeneHarvested 536000
+Spheres HumansRescued 119
+Spheres SecurityForcesKilled 40701
+Spheres ZombiesKilled 151452
+Spheres FuelDiverted 254
+Spheres PlayedRankedMode5.0 1
+Spheres HumanRank 24.25
+Spheres NumberOfTimesCaptured 178
+Spheres TurretsBuilt 459
+Spheres ZombieWins 55
+Spheres GamesLeft 2
+Spheres GamesPlayedAsHuman 176
+Spheres GamesPlayedAsZombie 85
+Spheres HumansCaptured 950
+Spheres K/D Ratio 850,85
+Spheres Average Marine Winrate 56,00000000000001%
+Spheres Average Fuel Diverts PerGame 1,44
+Spheres Average Vespene Harvested PerGame 3045,45
+Spheres Average Zombie Winrate 65%
+Spheres Average Security Kills Per Game 479
+Spheres Average Deaths PerGame 1,01
+Spheres Average Infestation Class Class 5

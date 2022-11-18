@@ -1,0 +1,23 @@
+KERT HumanWinsNormal 58
+KERT ZombieRank 0
+KERT VespeneHarvested 277960
+KERT HumansRescued 37
+KERT SecurityForcesKilled 0
+KERT ZombiesKilled 65000
+KERT FuelDiverted 76
+KERT HumanRank 21
+KERT NumberOfTimesCaptured 89
+KERT TurretsBuilt 645
+KERT ZombieWins 0
+KERT GamesLeft 9
+KERT GamesPlayedAsHuman 96
+KERT GamesPlayedAsZombie 0
+KERT HumansCaptured 0
+KERT K/D Ratio 730,34
+KERT Average Marine Winrate 60%
+KERT Average Fuel Diverts PerGame 0,79
+KERT Average Vespene Harvested PerGame 2895,42
+KERT Average Zombie Winrate NaN%
+KERT Average Security Kills Per Game NaN
+KERT Average Deaths PerGame 0,93
+KERT Average Infestation Class Class 1

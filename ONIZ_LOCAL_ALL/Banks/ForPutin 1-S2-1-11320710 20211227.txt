@@ -1,0 +1,23 @@
+ForPutin HumanWinsNormal 5
+ForPutin ZombieRank 0
+ForPutin VespeneHarvested 40500
+ForPutin HumansRescued 11
+ForPutin SecurityForcesKilled 2454
+ForPutin ZombiesKilled 6942
+ForPutin FuelDiverted 21
+ForPutin HumanRank 0
+ForPutin NumberOfTimesCaptured 21
+ForPutin TurretsBuilt 24
+ForPutin ZombieWins 3
+ForPutin GamesLeft 3
+ForPutin GamesPlayedAsHuman 15
+ForPutin GamesPlayedAsZombie 5
+ForPutin HumansCaptured 57
+ForPutin K/D Ratio 330,57
+ForPutin Average Marine Winrate 33%
+ForPutin Average Fuel Diverts PerGame 1,4
+ForPutin Average Vespene Harvested PerGame 2700
+ForPutin Average Zombie Winrate 60%
+ForPutin Average Security Kills Per Game 491
+ForPutin Average Deaths PerGame 1,4
+ForPutin Average Infestation Class Class 5

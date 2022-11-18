@@ -1,0 +1,138 @@
+Analyzed: Oh No It's Zombies Arctic Updated (255)
+
+ID : 0 PlayerName: SLTHHH Race: Terran
+ID : 1 PlayerName: archdracon Race: Terran
+ID : 2 PlayerName: JMM Race: Terran
+ID : 3 PlayerName: Salem Race: Terran
+ID : 4 PlayerName: Frosky Race: Zerg
+ID : 5 PlayerName: Gafe Race: Terran
+ID : 6 PlayerName: Kira Race: Terran
+ID : 7 PlayerName: Security Race: Zerg
+Frosky Zombie Win
+Private Lobby
+
+Game Length:[22:204]
+Players ammount: 8
+Marine rank avg: 16,333333333333332
+GrandMaster ammount: 5
+PURCHASES: 
+[00:588] SLTHHH Unlocked AssaultRifle
+[00:673] SLTHHH Placed/Upgraded MiningDroid
+[02:524] SLTHHH Unlocked AdvancedDroidEngines
+[04:675] SLTHHH Unlocked TurboDroidEngines
+[07:163] SLTHHH Unlocked Stimpack
+[10:823] SLTHHH Unlocked SpecOpsAssaultRifle
+[10:861] SLTHHH Unlocked CombatSuit
+[12:532] SLTHHH Placed/Upgraded MiningDroid
+[14:130] SLTHHH Unlocked FragGrenade
+[14:179] SLTHHH Unlocked SpecOpsFragGrenade
+[15:376] SLTHHH Unlocked Teleporter
+[17:361] SLTHHH Unlocked TitaniumBulletCasings
+[18:275] SLTHHH Unlocked MedicShield
+[00:588] archdracon Unlocked AssaultRifle
+[00:711] archdracon Placed/Upgraded MiningDroid
+[02:737] archdracon Unlocked AdvancedDroidEngines
+[04:280] archdracon Unlocked TurboDroidEngines
+[07:326] archdracon Placed/Upgraded MiningDroid
+[08:355] archdracon Unlocked Shotgun
+[08:363] archdracon Unlocked SpecOpsShotgun
+[09:257] archdracon Unlocked MotionSensor
+[09:709] archdracon Placed/Upgraded SensorTower
+[10:320] archdracon Placed/Upgraded SensorTower
+[10:862] archdracon Bought ShieldSuit
+[10:862] archdracon Bought CombatSuit
+[10:862] archdracon Bought HazmatSuit
+[10:862] archdracon Bought CombatSuit
+[14:138] archdracon Placed/Upgraded SensorTower
+[14:485] archdracon Unlocked Stimpack
+[15:631] archdracon Unlocked BioMechanicalRepairDrone
+[17:389] archdracon Placed/Upgraded SensorTower
+[17:612] archdracon Placed/Upgraded MiningDroid
+[19:454] archdracon Placed/Upgraded HealingDrone
+[19:801] archdracon Placed/Upgraded HealingDrone
+[20:453] archdracon Unlocked CombatSuit
+[20:456] archdracon Unlocked AdvancedCombatSuit
+[20:543] archdracon Placed/Upgraded HealingDrone
+[20:751] archdracon Placed/Upgraded HealingDrone
+[00:588] JMM Unlocked AssaultRifle
+[01:428] JMM Placed/Upgraded MiningDroid
+[02:662] JMM Unlocked Stimpack
+[04:998] JMM Unlocked Shotgun
+[07:340] JMM Unlocked SpecOpsShotgun
+[17:940] JMM Unlocked HazmatSuit
+[17:952] JMM Unlocked AdvancedHazmatSuit
+[20:443] JMM Unlocked SuperStimpack
+[20:454] JMM Bought ShieldSuit
+[20:454] JMM Bought CombatSuit
+[20:454] JMM Bought HazmatSuit
+[20:454] JMM Bought CombatSuit
+[20:457] JMM Bought CombatSuit
+[00:588] Salem Unlocked AssaultRifle
+[00:667] Salem Placed MiningDroid
+[03:320] Salem Unlocked AdvancedDroidEngines
+[04:959] Salem Unlocked TurboDroidEngines
+[06:374] Salem Unlocked Shotgun
+[08:048] Salem Unlocked SpecOpsShotgun
+[08:663] Salem Unlocked HighPrecisionBeams
+[12:679] Salem Unlocked SuperStimpack
+[17:941] Salem Bought ShieldSuit
+[17:941] Salem Bought CombatSuit
+[17:941] Salem Bought HazmatSuit
+[17:941] Salem Bought HazmatSuit
+[17:953] Salem Bought HazmatSuit
+[00:552] Frosky Bought PlayerNumber
+[00:631] Frosky Spawned MassiveCocoon
+[02:071] Frosky Spawned Hunter
+[04:535] Frosky Placed/Upgraded ToxicNest
+[04:549] Frosky Placed/Upgraded ToxicNest
+[04:658] Frosky Bought CreepSpeed
+[07:698] Frosky Bought StrainSpeed
+[07:701] Frosky Bought StrainSpeed
+[08:667] Frosky Bought VirulentCreep
+[08:667] Frosky Bought VirulentCreep
+[08:855] Frosky Placed/Upgraded ToxicNest
+[08:861] Frosky Placed/Upgraded ToxicNest
+[10:236] Frosky Placed/Upgraded ToxicNest
+[10:239] Frosky Placed/Upgraded ToxicNest
+[10:400] Frosky Bought StrainHealth
+[11:440] Frosky Bought BuildExtractorScienceLabs
+[11:440] Frosky Placed/Upgraded AutomatedExtractor
+[13:240] Frosky Bought CreepSpeed
+[14:083] Frosky Spawned MassiveCocoon
+[15:225] Frosky Bought PureStrainHealth
+[15:523] Frosky Spawned Hunter
+[15:754] Frosky Bought PureStrainSpeed
+[16:762] Frosky Bought PureStrainSpeed
+[17:423] Frosky Bought StrainVolatile
+[18:337] Frosky Bought PureStrainVolatile
+[18:820] Frosky Placed/Upgraded NydusCanalCreeper
+[19:121] Frosky Bought StrainVolatile
+[20:018] Frosky Placed/Upgraded Virophage
+[21:236] Frosky Placed/Upgraded Virophage
+[00:588] Gafe Unlocked AssaultRifle
+[00:751] Gafe Placed/Upgraded MiningDroid
+[03:296] Gafe Unlocked AdvancedDroidEngines
+[03:351] Gafe Unlocked Shotgun
+[08:242] Gafe Unlocked SuperStimpack
+[13:616] Gafe Unlocked SpecOpsShotgun
+[13:678] Gafe Unlocked IncendiaryBullets
+[15:448] Gafe Unlocked Stimpack
+[17:143] Gafe Unlocked MedicShield
+[18:281] Gafe Unlocked Shieldsiotunlocked
+[00:588] Kira Unlocked AssaultRifle
+[02:909] Kira Unlocked SpecOpsAssaultRifle
+[05:778] Kira Unlocked AdvancedDroidEngines
+[07:851] Kira Unlocked TurboDroidEngines
+[08:982] Kira Unlocked SuperStimpack
+[15:920] Kira Unlocked AutoTurret
+[16:447] Kira Unlocked FlameTurret
+[17:571] Kira Unlocked HeavyTurret
+[17:631] Kira Unlocked AIAssistant
+[18:282] Kira Bought ShieldSuit
+[18:282] Kira Bought CombatSuit
+[18:282] Kira Bought HazmatSuit
+[18:282] Kira Bought ShieldSuit
+Frosky First Alpha Hunter |  Win
+
+Frosky Placed 0 Greaters.
+--------------------------------

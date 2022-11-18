@@ -1,0 +1,25 @@
+bonkybonky HumanWinsNormal 270
+bonkybonky LeftLastGameAsZombie 0
+bonkybonky ZombieRank 31
+bonkybonky VespeneHarvested 1644660
+bonkybonky HumansRescued 281
+bonkybonky SecurityForcesKilled 162639
+bonkybonky ZombiesKilled 315290
+bonkybonky FuelDiverted 973
+bonkybonky PlayedRankedMode5.0 1
+bonkybonky HumanRank 8.75
+bonkybonky NumberOfTimesCaptured 699
+bonkybonky TurretsBuilt 2904
+bonkybonky ZombieWins 260
+bonkybonky GamesLeft 90
+bonkybonky GamesPlayedAsHuman 559
+bonkybonky GamesPlayedAsZombie 366
+bonkybonky HumansCaptured 4061
+bonkybonky K/D Ratio 451,06
+bonkybonky Average Marine Winrate 48%
+bonkybonky Average Fuel Diverts PerGame 1,74
+bonkybonky Average Vespene Harvested PerGame 2942,15
+bonkybonky Average Zombie Winrate 71%
+bonkybonky Average Security Kills Per Game 444
+bonkybonky Average Deaths PerGame 1,25
+bonkybonky Average Infestation Class Class 5

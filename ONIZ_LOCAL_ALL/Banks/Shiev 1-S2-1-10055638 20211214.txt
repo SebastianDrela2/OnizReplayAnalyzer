@@ -1,0 +1,23 @@
+Shiev HumanWinsNormal 21
+Shiev ZombieRank 4.6667
+Shiev VespeneHarvested 89600
+Shiev HumansRescued 27
+Shiev SecurityForcesKilled 7475
+Shiev ZombiesKilled 31332
+Shiev FuelDiverted 68
+Shiev HumanRank 1
+Shiev NumberOfTimesCaptured 63
+Shiev TurretsBuilt 192
+Shiev ZombieWins 6
+Shiev GamesLeft 7
+Shiev GamesPlayedAsHuman 53
+Shiev GamesPlayedAsZombie 18
+Shiev HumansCaptured 190
+Shiev K/D Ratio 497,33
+Shiev Average Marine Winrate 40%
+Shiev Average Fuel Diverts PerGame 1,28
+Shiev Average Vespene Harvested PerGame 1690,57
+Shiev Average Zombie Winrate 33%
+Shiev Average Security Kills Per Game 415
+Shiev Average Deaths PerGame 1,19
+Shiev Average Infestation Class Class 5

@@ -1,0 +1,23 @@
+awesomepossu HumanWinsNormal 4
+awesomepossu ZombieRank 0
+awesomepossu VespeneHarvested 30880
+awesomepossu HumansRescued 1
+awesomepossu SecurityForcesKilled 0
+awesomepossu ZombiesKilled 5929
+awesomepossu FuelDiverted 49
+awesomepossu HumanRank 5.5
+awesomepossu NumberOfTimesCaptured 29
+awesomepossu TurretsBuilt 28
+awesomepossu ZombieWins 0
+awesomepossu GamesLeft 0
+awesomepossu GamesPlayedAsHuman 11
+awesomepossu GamesPlayedAsZombie 0
+awesomepossu HumansCaptured 0
+awesomepossu K/D Ratio 204,45
+awesomepossu Average Marine Winrate 36%
+awesomepossu Average Fuel Diverts PerGame 4,45
+awesomepossu Average Vespene Harvested PerGame 2807,27
+awesomepossu Average Zombie Winrate NaN%
+awesomepossu Average Security Kills Per Game NaN
+awesomepossu Average Deaths PerGame 2,64
+awesomepossu Average Infestation Class Class 1

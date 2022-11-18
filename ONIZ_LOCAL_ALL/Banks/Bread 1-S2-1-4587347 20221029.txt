@@ -1,0 +1,23 @@
+Bread HumanWinsNormal 27
+Bread ZombieRank 27.8322
+Bread VespeneHarvested 262180
+Bread HumansRescued 43
+Bread SecurityForcesKilled 18179
+Bread ZombiesKilled 43071
+Bread FuelDiverted 177
+Bread HumanRank 0
+Bread NumberOfTimesCaptured 191
+Bread TurretsBuilt 478
+Bread ZombieWins 34
+Bread GamesLeft 20
+Bread GamesPlayedAsHuman 87
+Bread GamesPlayedAsZombie 49
+Bread HumansCaptured 370
+Bread K/D Ratio 225,5
+Bread Average Marine Winrate 31%
+Bread Average Fuel Diverts PerGame 2,03
+Bread Average Vespene Harvested PerGame 3013,56
+Bread Average Zombie Winrate 69%
+Bread Average Security Kills Per Game 371
+Bread Average Deaths PerGame 2,2
+Bread Average Infestation Class Class 4

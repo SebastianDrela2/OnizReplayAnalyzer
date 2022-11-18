@@ -1,0 +1,23 @@
+SiriusHoshi HumanWinsNormal 0
+SiriusHoshi ZombieRank 0
+SiriusHoshi VespeneHarvested 700
+SiriusHoshi HumansRescued 0
+SiriusHoshi SecurityForcesKilled 0
+SiriusHoshi ZombiesKilled 148
+SiriusHoshi FuelDiverted 0
+SiriusHoshi HumanRank 0
+SiriusHoshi NumberOfTimesCaptured 3
+SiriusHoshi TurretsBuilt 0
+SiriusHoshi ZombieWins 0
+SiriusHoshi GamesLeft 0
+SiriusHoshi GamesPlayedAsHuman 1
+SiriusHoshi GamesPlayedAsZombie 0
+SiriusHoshi HumansCaptured 0
+SiriusHoshi K/D Ratio 49,33
+SiriusHoshi Average Marine Winrate 0%
+SiriusHoshi Average Fuel Diverts PerGame 0
+SiriusHoshi Average Vespene Harvested PerGame 700
+SiriusHoshi Average Zombie Winrate NaN%
+SiriusHoshi Average Security Kills Per Game NaN
+SiriusHoshi Average Deaths PerGame 3
+SiriusHoshi Average Infestation Class Class 1

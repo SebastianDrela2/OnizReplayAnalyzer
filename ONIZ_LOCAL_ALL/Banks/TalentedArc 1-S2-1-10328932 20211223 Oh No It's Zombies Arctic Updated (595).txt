@@ -1,0 +1,24 @@
+TalentedArc HumanWinsNormal 176
+TalentedArc ZombieRank 31
+TalentedArc VespeneHarvested 1153100
+TalentedArc HumansRescued 320
+TalentedArc SecurityForcesKilled 62032
+TalentedArc ZombiesKilled 213550
+TalentedArc FuelDiverted 906
+TalentedArc PlayedRankedMode5.0 1
+TalentedArc HumanRank 9.6005
+TalentedArc NumberOfTimesCaptured 571
+TalentedArc TurretsBuilt 1825
+TalentedArc ZombieWins 80
+TalentedArc GamesLeft 11
+TalentedArc GamesPlayedAsHuman 357
+TalentedArc GamesPlayedAsZombie 141
+TalentedArc HumansCaptured 1575
+TalentedArc K/D Ratio 373,99
+TalentedArc Average Marine Winrate 49%
+TalentedArc Average Fuel Diverts PerGame 2,54
+TalentedArc Average Vespene Harvested PerGame 3229,97
+TalentedArc Average Zombie Winrate 56,99999999999999%
+TalentedArc Average Security Kills Per Game 440
+TalentedArc Average Deaths PerGame 1,6
+TalentedArc Average Infestation Class Class 5

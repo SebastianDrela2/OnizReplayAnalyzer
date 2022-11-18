@@ -1,0 +1,23 @@
+Curlycheese HumanWinsNormal 1
+Curlycheese ZombieRank 0
+Curlycheese VespeneHarvested 11900
+Curlycheese HumansRescued 6
+Curlycheese SecurityForcesKilled 1434
+Curlycheese ZombiesKilled 2474
+Curlycheese FuelDiverted 7
+Curlycheese HumanRank 0
+Curlycheese NumberOfTimesCaptured 21
+Curlycheese TurretsBuilt 25
+Curlycheese ZombieWins 0
+Curlycheese GamesLeft 0
+Curlycheese GamesPlayedAsHuman 7
+Curlycheese GamesPlayedAsZombie 4
+Curlycheese HumansCaptured 23
+Curlycheese K/D Ratio 117,81
+Curlycheese Average Marine Winrate 14,000000000000002%
+Curlycheese Average Fuel Diverts PerGame 1
+Curlycheese Average Vespene Harvested PerGame 1700
+Curlycheese Average Zombie Winrate 0%
+Curlycheese Average Security Kills Per Game 358
+Curlycheese Average Deaths PerGame 3
+Curlycheese Average Infestation Class Class 4

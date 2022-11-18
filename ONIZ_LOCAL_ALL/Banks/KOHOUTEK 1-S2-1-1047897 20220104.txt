@@ -1,0 +1,25 @@
+KOHOUTEK HumanWinsNormal 13
+KOHOUTEK LeftLastGameAsZombie 0
+KOHOUTEK ZombieRank 0
+KOHOUTEK VespeneHarvested 146400
+KOHOUTEK HumansRescued 51
+KOHOUTEK SecurityForcesKilled 17239
+KOHOUTEK ZombiesKilled 19317
+KOHOUTEK FuelDiverted 21
+KOHOUTEK PlayedRankedMode5.0 1
+KOHOUTEK HumanRank 0
+KOHOUTEK NumberOfTimesCaptured 128
+KOHOUTEK TurretsBuilt 360
+KOHOUTEK ZombieWins 7
+KOHOUTEK GamesLeft 3
+KOHOUTEK GamesPlayedAsHuman 55
+KOHOUTEK GamesPlayedAsZombie 42
+KOHOUTEK HumansCaptured 246
+KOHOUTEK K/D Ratio 150,91
+KOHOUTEK Average Marine Winrate 24%
+KOHOUTEK Average Fuel Diverts PerGame 0,38
+KOHOUTEK Average Vespene Harvested PerGame 2661,82
+KOHOUTEK Average Zombie Winrate 17%
+KOHOUTEK Average Security Kills Per Game 410
+KOHOUTEK Average Deaths PerGame 2,33
+KOHOUTEK Average Infestation Class Class 5

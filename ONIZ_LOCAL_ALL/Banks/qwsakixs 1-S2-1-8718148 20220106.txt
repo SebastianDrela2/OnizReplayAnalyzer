@@ -1,0 +1,23 @@
+qwsakixs HumanWinsNormal 138
+qwsakixs ZombieRank 16.1647
+qwsakixs VespeneHarvested 640480
+qwsakixs HumansRescued 214
+qwsakixs SecurityForcesKilled 27096
+qwsakixs ZombiesKilled 190858
+qwsakixs FuelDiverted 87
+qwsakixs HumanRank 21.6
+qwsakixs NumberOfTimesCaptured 408
+qwsakixs TurretsBuilt 1535
+qwsakixs ZombieWins 32
+qwsakixs GamesLeft 4
+qwsakixs GamesPlayedAsHuman 264
+qwsakixs GamesPlayedAsZombie 61
+qwsakixs HumansCaptured 724
+qwsakixs K/D Ratio 467,79
+qwsakixs Average Marine Winrate 52%
+qwsakixs Average Fuel Diverts PerGame 0,33
+qwsakixs Average Vespene Harvested PerGame 2426,06
+qwsakixs Average Zombie Winrate 52%
+qwsakixs Average Security Kills Per Game 444
+qwsakixs Average Deaths PerGame 1,55
+qwsakixs Average Infestation Class Class 5

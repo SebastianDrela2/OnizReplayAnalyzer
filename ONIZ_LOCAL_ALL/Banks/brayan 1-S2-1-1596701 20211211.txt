@@ -1,0 +1,23 @@
+brayan HumanWinsNormal 146
+brayan ZombieRank 2.8332
+brayan VespeneHarvested 1019000
+brayan HumansRescued 288
+brayan SecurityForcesKilled 5139
+brayan ZombiesKilled 267419
+brayan FuelDiverted 86
+brayan HumanRank 23.292
+brayan NumberOfTimesCaptured 458
+brayan TurretsBuilt 2131
+brayan ZombieWins 7
+brayan GamesLeft 10
+brayan GamesPlayedAsHuman 320
+brayan GamesPlayedAsZombie 20
+brayan HumansCaptured 52
+brayan K/D Ratio 583,88
+brayan Average Marine Winrate 46%
+brayan Average Fuel Diverts PerGame 0,27
+brayan Average Vespene Harvested PerGame 3184,38
+brayan Average Zombie Winrate 35%
+brayan Average Security Kills Per Game 257
+brayan Average Deaths PerGame 1,43
+brayan Average Infestation Class Class 3

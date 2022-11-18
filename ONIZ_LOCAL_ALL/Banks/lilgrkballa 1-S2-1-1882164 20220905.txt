@@ -1,0 +1,23 @@
+lilgrkballa HumanWinsNormal 42
+lilgrkballa ZombieRank 1.1662
+lilgrkballa VespeneHarvested 237600
+lilgrkballa HumansRescued 99
+lilgrkballa SecurityForcesKilled 32492
+lilgrkballa ZombiesKilled 78270
+lilgrkballa FuelDiverted 67
+lilgrkballa HumanRank 1
+lilgrkballa NumberOfTimesCaptured 221
+lilgrkballa TurretsBuilt 375
+lilgrkballa ZombieWins 20
+lilgrkballa GamesLeft 30
+lilgrkballa GamesPlayedAsHuman 139
+lilgrkballa GamesPlayedAsZombie 78
+lilgrkballa HumansCaptured 588
+lilgrkballa K/D Ratio 354,16
+lilgrkballa Average Marine Winrate 30%
+lilgrkballa Average Fuel Diverts PerGame 0,48
+lilgrkballa Average Vespene Harvested PerGame 1709,35
+lilgrkballa Average Zombie Winrate 26%
+lilgrkballa Average Security Kills Per Game 417
+lilgrkballa Average Deaths PerGame 1,59
+lilgrkballa Average Infestation Class Class 5

@@ -1,0 +1,24 @@
+Arknights HumanWinsNormal 1
+Arknights LeftLastGameAsZombie 0
+Arknights ZombieRank 0
+Arknights VespeneHarvested 4700
+Arknights HumansRescued 4
+Arknights SecurityForcesKilled 0
+Arknights ZombiesKilled 1519
+Arknights FuelDiverted 0
+Arknights HumanRank 1
+Arknights NumberOfTimesCaptured 3
+Arknights TurretsBuilt 5
+Arknights ZombieWins 0
+Arknights GamesLeft 0
+Arknights GamesPlayedAsHuman 3
+Arknights GamesPlayedAsZombie 0
+Arknights HumansCaptured 0
+Arknights K/D Ratio 506,33
+Arknights Average Marine Winrate 33%
+Arknights Average Fuel Diverts PerGame 0
+Arknights Average Vespene Harvested PerGame 1566,67
+Arknights Average Zombie Winrate NaN%
+Arknights Average Security Kills Per Game NaN
+Arknights Average Deaths PerGame 1
+Arknights Average Infestation Class Class 1

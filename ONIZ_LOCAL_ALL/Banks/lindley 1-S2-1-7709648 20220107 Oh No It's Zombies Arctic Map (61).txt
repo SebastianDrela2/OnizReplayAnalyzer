@@ -1,0 +1,25 @@
+lindley HumanWinsNormal 30
+lindley LeftLastGameAsZombie 0
+lindley ZombieRank 0
+lindley VespeneHarvested 278200
+lindley HumansRescued 52
+lindley SecurityForcesKilled 0
+lindley ZombiesKilled 31642
+lindley FuelDiverted 211
+lindley PlayedRankedMode5.0 1
+lindley HumanRank 2.5
+lindley NumberOfTimesCaptured 129
+lindley TurretsBuilt 547
+lindley ZombieWins 0
+lindley GamesLeft 6
+lindley GamesPlayedAsHuman 74
+lindley GamesPlayedAsZombie 0
+lindley HumansCaptured 0
+lindley K/D Ratio 245,29
+lindley Average Marine Winrate 41%
+lindley Average Fuel Diverts PerGame 2,85
+lindley Average Vespene Harvested PerGame 3759,46
+lindley Average Zombie Winrate NaN%
+lindley Average Security Kills Per Game NaN
+lindley Average Deaths PerGame 1,74
+lindley Average Infestation Class Class 1

@@ -1,0 +1,23 @@
+dofennis HumanWinsNormal 0
+dofennis ZombieRank 0
+dofennis VespeneHarvested 3100
+dofennis HumansRescued 1
+dofennis SecurityForcesKilled 0
+dofennis ZombiesKilled 792
+dofennis FuelDiverted 3
+dofennis HumanRank 0
+dofennis NumberOfTimesCaptured 2
+dofennis TurretsBuilt 0
+dofennis ZombieWins 0
+dofennis GamesLeft 1
+dofennis GamesPlayedAsHuman 2
+dofennis GamesPlayedAsZombie 1
+dofennis HumansCaptured 0
+dofennis K/D Ratio 396
+dofennis Average Marine Winrate 0%
+dofennis Average Fuel Diverts PerGame 1,5
+dofennis Average Vespene Harvested PerGame 1550
+dofennis Average Zombie Winrate 0%
+dofennis Average Security Kills Per Game 0
+dofennis Average Deaths PerGame 1
+dofennis Average Infestation Class Class 1

@@ -1,0 +1,23 @@
+Kociokfik HumanWinsNormal 2
+Kociokfik ZombieRank 0
+Kociokfik VespeneHarvested 8400
+Kociokfik HumansRescued 0
+Kociokfik SecurityForcesKilled 476
+Kociokfik ZombiesKilled 1587
+Kociokfik FuelDiverted 3
+Kociokfik HumanRank 1.1
+Kociokfik NumberOfTimesCaptured 5
+Kociokfik TurretsBuilt 40
+Kociokfik ZombieWins 1
+Kociokfik GamesLeft 0
+Kociokfik GamesPlayedAsHuman 4
+Kociokfik GamesPlayedAsZombie 1
+Kociokfik HumansCaptured 0
+Kociokfik K/D Ratio 317,4
+Kociokfik Average Marine Winrate 50%
+Kociokfik Average Fuel Diverts PerGame 0,75
+Kociokfik Average Vespene Harvested PerGame 2100
+Kociokfik Average Zombie Winrate 100%
+Kociokfik Average Security Kills Per Game 476
+Kociokfik Average Deaths PerGame 1,25
+Kociokfik Average Infestation Class Class 5

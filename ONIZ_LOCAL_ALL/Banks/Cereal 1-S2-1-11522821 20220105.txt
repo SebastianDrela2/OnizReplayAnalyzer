@@ -1,0 +1,23 @@
+Cereal HumanWinsNormal 23
+Cereal ZombieRank 0
+Cereal VespeneHarvested 209700
+Cereal HumansRescued 21
+Cereal SecurityForcesKilled 12133
+Cereal ZombiesKilled 13362
+Cereal FuelDiverted 306
+Cereal HumanRank 4.25
+Cereal NumberOfTimesCaptured 125
+Cereal TurretsBuilt 338
+Cereal ZombieWins 9
+Cereal GamesLeft 1
+Cereal GamesPlayedAsHuman 54
+Cereal GamesPlayedAsZombie 25
+Cereal HumansCaptured 272
+Cereal K/D Ratio 106,9
+Cereal Average Marine Winrate 43%
+Cereal Average Fuel Diverts PerGame 5,67
+Cereal Average Vespene Harvested PerGame 3883,33
+Cereal Average Zombie Winrate 36%
+Cereal Average Security Kills Per Game 485
+Cereal Average Deaths PerGame 2,31
+Cereal Average Infestation Class Class 5

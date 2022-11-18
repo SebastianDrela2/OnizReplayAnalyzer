@@ -1,0 +1,23 @@
+Auronite HumanWinsNormal 0
+Auronite ZombieRank 0
+Auronite VespeneHarvested 200
+Auronite HumansRescued 0
+Auronite SecurityForcesKilled 0
+Auronite ZombiesKilled 40
+Auronite FuelDiverted 1
+Auronite HumanRank 0
+Auronite NumberOfTimesCaptured 5
+Auronite TurretsBuilt 0
+Auronite ZombieWins 0
+Auronite GamesLeft 0
+Auronite GamesPlayedAsHuman 1
+Auronite GamesPlayedAsZombie 0
+Auronite HumansCaptured 0
+Auronite K/D Ratio 8
+Auronite Average Marine Winrate 0%
+Auronite Average Fuel Diverts PerGame 1
+Auronite Average Vespene Harvested PerGame 200
+Auronite Average Zombie Winrate NaN%
+Auronite Average Security Kills Per Game NaN
+Auronite Average Deaths PerGame 5
+Auronite Average Infestation Class Class 1

@@ -1,0 +1,23 @@
+iliketerran HumanWinsNormal 12
+iliketerran ZombieRank 0
+iliketerran VespeneHarvested 86400
+iliketerran HumansRescued 43
+iliketerran SecurityForcesKilled 1236
+iliketerran ZombiesKilled 24092
+iliketerran FuelDiverted 43
+iliketerran HumanRank 1
+iliketerran NumberOfTimesCaptured 134
+iliketerran TurretsBuilt 267
+iliketerran ZombieWins 0
+iliketerran GamesLeft 12
+iliketerran GamesPlayedAsHuman 55
+iliketerran GamesPlayedAsZombie 4
+iliketerran HumansCaptured 25
+Release K/D Ratio 179,79
+Release Average Marine Winrate 22%
+Release Average Fuel Diverts PerGame 0,78
+Release Average Vespene Harvested PerGame 1570,91
+Release Average Zombie Winrate 0%
+Release Average Security Kills Per Game 309
+Release Average Deaths PerGame 2,44
+Release Average Infestation Class Class 4

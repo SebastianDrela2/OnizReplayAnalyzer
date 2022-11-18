@@ -1,0 +1,23 @@
+Cole HumanWinsNormal 2
+Cole ZombieRank 0
+Cole VespeneHarvested 13600
+Cole HumansRescued 5
+Cole SecurityForcesKilled 0
+Cole ZombiesKilled 1785
+Cole FuelDiverted 12
+Cole HumanRank 0
+Cole NumberOfTimesCaptured 3
+Cole TurretsBuilt 11
+Cole ZombieWins 0
+Cole GamesLeft 6
+Cole GamesPlayedAsHuman 11
+Cole GamesPlayedAsZombie 0
+Cole HumansCaptured 0
+Cole K/D Ratio 595
+Cole Average Marine Winrate 18%
+Cole Average Fuel Diverts PerGame 1,09
+Cole Average Vespene Harvested PerGame 1236,36
+Cole Average Zombie Winrate NaN%
+Cole Average Security Kills Per Game NaN
+Cole Average Deaths PerGame 0,27
+Cole Average Infestation Class Class 1

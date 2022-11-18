@@ -1,0 +1,23 @@
+jhoanleco HumanWinsNormal 1
+jhoanleco ZombieRank 0
+jhoanleco VespeneHarvested 15300
+jhoanleco HumansRescued 3
+jhoanleco SecurityForcesKilled 275
+jhoanleco ZombiesKilled 3640
+jhoanleco FuelDiverted 9
+jhoanleco HumanRank 0
+jhoanleco NumberOfTimesCaptured 15
+jhoanleco TurretsBuilt 33
+jhoanleco ZombieWins 0
+jhoanleco GamesLeft 1
+jhoanleco GamesPlayedAsHuman 9
+jhoanleco GamesPlayedAsZombie 1
+jhoanleco HumansCaptured 5
+jhoanleco K/D Ratio 242,67
+jhoanleco Average Marine Winrate 11%
+jhoanleco Average Fuel Diverts PerGame 1
+jhoanleco Average Vespene Harvested PerGame 1700
+jhoanleco Average Zombie Winrate 0%
+jhoanleco Average Security Kills Per Game 275
+jhoanleco Average Deaths PerGame 1,67
+jhoanleco Average Infestation Class Class 3

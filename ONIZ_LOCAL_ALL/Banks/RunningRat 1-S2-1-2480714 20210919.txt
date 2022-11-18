@@ -1,0 +1,23 @@
+RunningRat HumanWinsNormal 26
+RunningRat ZombieRank 0
+RunningRat VespeneHarvested 117200
+RunningRat HumansRescued 40
+RunningRat SecurityForcesKilled 6300
+RunningRat ZombiesKilled 37721
+RunningRat FuelDiverted 313
+RunningRat HumanRank 16.1
+RunningRat NumberOfTimesCaptured 23
+RunningRat TurretsBuilt 254
+RunningRat ZombieWins 10
+RunningRat GamesLeft 0
+RunningRat GamesPlayedAsHuman 43
+RunningRat GamesPlayedAsZombie 13
+RunningRat HumansCaptured 182
+RunningRat K/D Ratio 1640,04
+RunningRat Average Marine Winrate 60%
+RunningRat Average Fuel Diverts PerGame 7,28
+RunningRat Average Vespene Harvested PerGame 2725,58
+RunningRat Average Zombie Winrate 77%
+RunningRat Average Security Kills Per Game 485
+RunningRat Average Deaths PerGame 0,53
+RunningRat Average Infestation Class Class 5

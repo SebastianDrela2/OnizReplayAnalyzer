@@ -1,0 +1,23 @@
+ninja HumanWinsNormal 94
+ninja ZombieRank 23.9975
+ninja VespeneHarvested 510520
+ninja HumansRescued 88
+ninja SecurityForcesKilled 53643
+ninja ZombiesKilled 117087
+ninja FuelDiverted 482
+ninja HumanRank 6.0834
+ninja NumberOfTimesCaptured 498
+ninja TurretsBuilt 574
+ninja ZombieWins 67
+ninja GamesLeft 17
+ninja GamesPlayedAsHuman 235
+ninja GamesPlayedAsZombie 128
+ninja HumansCaptured 1092
+ninja K/D Ratio 235,11
+ninja Average Marine Winrate 40%
+ninja Average Fuel Diverts PerGame 2,05
+ninja Average Vespene Harvested PerGame 2172,43
+ninja Average Zombie Winrate 52%
+ninja Average Security Kills Per Game 419
+ninja Average Deaths PerGame 2,12
+ninja Average Infestation Class Class 5

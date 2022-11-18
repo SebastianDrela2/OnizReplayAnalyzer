@@ -1,0 +1,23 @@
+Cat HumanWinsNormal 12
+Cat ZombieRank 0
+Cat VespeneHarvested 67300
+Cat HumansRescued 3
+Cat SecurityForcesKilled 0
+Cat ZombiesKilled 12040
+Cat FuelDiverted 14
+Cat HumanRank 13
+Cat NumberOfTimesCaptured 22
+Cat TurretsBuilt 87
+Cat ZombieWins 0
+Cat GamesLeft 1
+Cat GamesPlayedAsHuman 19
+Cat GamesPlayedAsZombie 0
+Cat HumansCaptured 0
+Cat K/D Ratio 547,27
+Cat Average Marine Winrate 63%
+Cat Average Fuel Diverts PerGame 0,74
+Cat Average Vespene Harvested PerGame 3542,11
+Cat Average Zombie Winrate NaN%
+Cat Average Security Kills Per Game NaN
+Cat Average Deaths PerGame 1,16
+Cat Average Infestation Class Class 1

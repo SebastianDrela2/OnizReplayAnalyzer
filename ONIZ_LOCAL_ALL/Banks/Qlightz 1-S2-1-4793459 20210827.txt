@@ -1,0 +1,25 @@
+Qlightz HumanWinsNormal 21
+Qlightz LeftLastGameAsZombie 0
+Qlightz ZombieRank 0
+Qlightz VespeneHarvested 208400
+Qlightz HumansRescued 65
+Qlightz SecurityForcesKilled 13
+Qlightz ZombiesKilled 25297
+Qlightz FuelDiverted 216
+Qlightz PlayedRankedMode5.0 1
+Qlightz HumanRank 0
+Qlightz NumberOfTimesCaptured 163
+Qlightz TurretsBuilt 130
+Qlightz ZombieWins 0
+Qlightz GamesLeft 8
+Qlightz GamesPlayedAsHuman 80
+Qlightz GamesPlayedAsZombie 1
+Qlightz HumansCaptured 0
+Qlightz K/D Ratio 155,2
+Qlightz Average Marine Winrate 26%
+Qlightz Average Fuel Diverts PerGame 2,7
+Qlightz Average Vespene Harvested PerGame 2605
+Qlightz Average Zombie Winrate 0%
+Qlightz Average Security Kills Per Game 13
+Qlightz Average Deaths PerGame 2,04
+Qlightz Average Infestation Class Class 1

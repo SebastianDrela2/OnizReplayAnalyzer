@@ -1,0 +1,25 @@
+Polypuff HumanWinsNormal 1
+Polypuff LeftLastGameAsZombie 0
+Polypuff ZombieRank 0
+Polypuff VespeneHarvested 31300
+Polypuff HumansRescued 17
+Polypuff SecurityForcesKilled 0
+Polypuff ZombiesKilled 4346
+Polypuff FuelDiverted 15
+Polypuff PlayedRankedMode5.0 1
+Polypuff HumanRank 0
+Polypuff NumberOfTimesCaptured 30
+Polypuff TurretsBuilt 14
+Polypuff ZombieWins 0
+Polypuff GamesLeft 1
+Polypuff GamesPlayedAsHuman 12
+Polypuff GamesPlayedAsZombie 0
+Polypuff HumansCaptured 0
+Polypuff K/D Ratio 144,87
+Polypuff Average Marine Winrate 8%
+Polypuff Average Fuel Diverts PerGame 1,25
+Polypuff Average Vespene Harvested PerGame 2608,33
+Polypuff Average Zombie Winrate NaN%
+Polypuff Average Security Kills Per Game NaN
+Polypuff Average Deaths PerGame 2,5
+Polypuff Average Infestation Class Class 1

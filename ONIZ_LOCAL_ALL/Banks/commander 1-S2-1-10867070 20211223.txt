@@ -1,0 +1,23 @@
+commander HumanWinsNormal 5
+commander ZombieRank 0
+commander VespeneHarvested 17900
+commander HumansRescued 2
+commander SecurityForcesKilled 348
+commander ZombiesKilled 3738
+commander FuelDiverted 7
+commander HumanRank 2
+commander NumberOfTimesCaptured 23
+commander TurretsBuilt 58
+commander ZombieWins 0
+commander GamesLeft 1
+commander GamesPlayedAsHuman 15
+commander GamesPlayedAsZombie 1
+commander HumansCaptured 7
+commander K/D Ratio 162,52
+commander Average Marine Winrate 33%
+commander Average Fuel Diverts PerGame 0,47
+commander Average Vespene Harvested PerGame 1193,33
+commander Average Zombie Winrate 0%
+commander Average Security Kills Per Game 348
+commander Average Deaths PerGame 1,53
+commander Average Infestation Class Class 4

@@ -1,0 +1,25 @@
+Noitome HumanWinsNormal 17
+Noitome LeftLastGameAsZombie 0
+Noitome ZombieRank 0
+Noitome VespeneHarvested 117100
+Noitome HumansRescued 49
+Noitome SecurityForcesKilled 0
+Noitome ZombiesKilled 26788
+Noitome FuelDiverted 3
+Noitome PlayedRankedMode5.0 1
+Noitome HumanRank 5.225
+Noitome NumberOfTimesCaptured 78
+Noitome TurretsBuilt 257
+Noitome ZombieWins 0
+Noitome GamesLeft 2
+Noitome GamesPlayedAsHuman 47
+Noitome GamesPlayedAsZombie 0
+Noitome HumansCaptured 0
+Noitome K/D Ratio 343,44
+Noitome Average Marine Winrate 36%
+Noitome Average Fuel Diverts PerGame 0,06
+Noitome Average Vespene Harvested PerGame 2491,49
+Noitome Average Zombie Winrate NaN%
+Noitome Average Security Kills Per Game NaN
+Noitome Average Deaths PerGame 1,66
+Noitome Average Infestation Class Class 1

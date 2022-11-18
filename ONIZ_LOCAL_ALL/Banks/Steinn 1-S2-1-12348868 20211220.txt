@@ -1,0 +1,23 @@
+Steinn HumanWinsNormal 0
+Steinn ZombieRank 0
+Steinn VespeneHarvested 4100
+Steinn HumansRescued 2
+Steinn SecurityForcesKilled 0
+Steinn ZombiesKilled 913
+Steinn FuelDiverted 1
+Steinn HumanRank 0
+Steinn NumberOfTimesCaptured 7
+Steinn TurretsBuilt 6
+Steinn ZombieWins 0
+Steinn GamesLeft 0
+Steinn GamesPlayedAsHuman 3
+Steinn GamesPlayedAsZombie 0
+Steinn HumansCaptured 0
+Steinn K/D Ratio 130,43
+Steinn Average Marine Winrate 0%
+Steinn Average Fuel Diverts PerGame 0,33
+Steinn Average Vespene Harvested PerGame 1366,67
+Steinn Average Zombie Winrate NaN%
+Steinn Average Security Kills Per Game NaN
+Steinn Average Deaths PerGame 2,33
+Steinn Average Infestation Class Class 1

@@ -1,0 +1,23 @@
+TheSandman HumanWinsNormal 60
+TheSandman ZombieRank 28.6652
+TheSandman VespeneHarvested 344800
+TheSandman HumansRescued 65
+TheSandman SecurityForcesKilled 25798
+TheSandman ZombiesKilled 75065
+TheSandman FuelDiverted 501
+TheSandman HumanRank 25.4335
+TheSandman NumberOfTimesCaptured 122
+TheSandman TurretsBuilt 466
+TheSandman ZombieWins 37
+TheSandman GamesLeft 3
+TheSandman GamesPlayedAsHuman 105
+TheSandman GamesPlayedAsZombie 59
+TheSandman HumansCaptured 504
+TheSandman K/D Ratio 615,29
+TheSandman Average Marine Winrate 56,99999999999999%
+TheSandman Average Fuel Diverts PerGame 4,77
+TheSandman Average Vespene Harvested PerGame 3283,81
+TheSandman Average Zombie Winrate 63%
+TheSandman Average Security Kills Per Game 437
+TheSandman Average Deaths PerGame 1,16
+TheSandman Average Infestation Class Class 5

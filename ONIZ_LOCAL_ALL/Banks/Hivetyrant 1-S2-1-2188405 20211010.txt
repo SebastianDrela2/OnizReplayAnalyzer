@@ -1,0 +1,24 @@
+Hivetyrant HumanWinsNormal 19
+Hivetyrant ZombieRank 0
+Hivetyrant VespeneHarvested 190300
+Hivetyrant HumansRescued 38
+Hivetyrant SecurityForcesKilled 32688
+Hivetyrant ZombiesKilled 25392
+Hivetyrant FuelDiverted 63
+Hivetyrant PlayedRankedMode5.0 1
+Hivetyrant HumanRank 1
+Hivetyrant NumberOfTimesCaptured 129
+Hivetyrant TurretsBuilt 193
+Hivetyrant ZombieWins 29
+Hivetyrant GamesLeft 12
+Hivetyrant GamesPlayedAsHuman 67
+Hivetyrant GamesPlayedAsZombie 71
+Hivetyrant HumansCaptured 696
+Hivetyrant K/D Ratio 196,84
+Hivetyrant Average Marine Winrate 28,000000000000004%
+Hivetyrant Average Fuel Diverts PerGame 0,94
+Hivetyrant Average Vespene Harvested PerGame 2840,3
+Hivetyrant Average Zombie Winrate 41%
+Hivetyrant Average Security Kills Per Game 460
+Hivetyrant Average Deaths PerGame 1,93
+Hivetyrant Average Infestation Class Class 5

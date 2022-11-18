@@ -1,0 +1,23 @@
+BuckNasty HumanWinsNormal 29
+BuckNasty ZombieRank 7.832
+BuckNasty VespeneHarvested 265500
+BuckNasty HumansRescued 37
+BuckNasty SecurityForcesKilled 34064
+BuckNasty ZombiesKilled 39098
+BuckNasty FuelDiverted 123
+BuckNasty HumanRank 5.3334
+BuckNasty NumberOfTimesCaptured 148
+BuckNasty TurretsBuilt 169
+BuckNasty ZombieWins 31
+BuckNasty GamesLeft 4
+BuckNasty GamesPlayedAsHuman 77
+BuckNasty GamesPlayedAsZombie 72
+BuckNasty HumansCaptured 846
+BuckNasty K/D Ratio 264,18
+BuckNasty Average Marine Winrate 38%
+BuckNasty Average Fuel Diverts PerGame 1,6
+BuckNasty Average Vespene Harvested PerGame 3448,05
+BuckNasty Average Zombie Winrate 43%
+BuckNasty Average Security Kills Per Game 473
+BuckNasty Average Deaths PerGame 1,92
+BuckNasty Average Infestation Class Class 5

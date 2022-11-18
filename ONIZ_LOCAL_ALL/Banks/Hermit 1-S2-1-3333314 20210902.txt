@@ -1,0 +1,23 @@
+Hermit HumanWinsNormal 7
+Hermit ZombieRank 0
+Hermit VespeneHarvested 26400
+Hermit HumansRescued 15
+Hermit SecurityForcesKilled 859
+Hermit ZombiesKilled 5371
+Hermit FuelDiverted 88
+Hermit HumanRank 8
+Hermit NumberOfTimesCaptured 42
+Hermit TurretsBuilt 34
+Hermit ZombieWins 1
+Hermit GamesLeft 0
+Hermit GamesPlayedAsHuman 13
+Hermit GamesPlayedAsZombie 2
+Hermit HumansCaptured 8
+Hermit K/D Ratio 127,88
+Hermit Average Marine Winrate 54%
+Hermit Average Fuel Diverts PerGame 6,77
+Hermit Average Vespene Harvested PerGame 2030,77
+Hermit Average Zombie Winrate 50%
+Hermit Average Security Kills Per Game 430
+Hermit Average Deaths PerGame 3,23
+Hermit Average Infestation Class Class 5

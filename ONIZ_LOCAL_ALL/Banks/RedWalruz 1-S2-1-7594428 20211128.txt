@@ -1,0 +1,23 @@
+RedWalruz HumanWinsNormal 12
+RedWalruz ZombieRank 6.6667
+RedWalruz VespeneHarvested 58800
+RedWalruz HumansRescued 8
+RedWalruz SecurityForcesKilled 9413
+RedWalruz ZombiesKilled 15731
+RedWalruz FuelDiverted 30
+RedWalruz HumanRank 1
+RedWalruz NumberOfTimesCaptured 49
+RedWalruz TurretsBuilt 93
+RedWalruz ZombieWins 8
+RedWalruz GamesLeft 0
+RedWalruz GamesPlayedAsHuman 30
+RedWalruz GamesPlayedAsZombie 20
+RedWalruz HumansCaptured 196
+RedWalruz K/D Ratio 321,04
+RedWalruz Average Marine Winrate 40%
+RedWalruz Average Fuel Diverts PerGame 1
+RedWalruz Average Vespene Harvested PerGame 1960
+RedWalruz Average Zombie Winrate 40%
+RedWalruz Average Security Kills Per Game 471
+RedWalruz Average Deaths PerGame 1,63
+RedWalruz Average Infestation Class Class 5

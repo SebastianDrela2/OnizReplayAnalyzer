@@ -1,0 +1,23 @@
+Ryan HumanWinsNormal 5
+Ryan ZombieRank 0
+Ryan VespeneHarvested 33800
+Ryan HumansRescued 11
+Ryan SecurityForcesKilled 636
+Ryan ZombiesKilled 6985
+Ryan FuelDiverted 51
+Ryan HumanRank 0
+Ryan NumberOfTimesCaptured 43
+Ryan TurretsBuilt 28
+Ryan ZombieWins 1
+Ryan GamesLeft 3
+Ryan GamesPlayedAsHuman 18
+Ryan GamesPlayedAsZombie 3
+Ryan HumansCaptured 15
+Marcelo K/D Ratio 162,44
+Marcelo Average Marine Winrate 28,000000000000004%
+Marcelo Average Fuel Diverts PerGame 2,83
+Marcelo Average Vespene Harvested PerGame 1877,78
+Marcelo Average Zombie Winrate 33%
+Marcelo Average Security Kills Per Game 212
+Marcelo Average Deaths PerGame 2,39
+Marcelo Average Infestation Class Class 3

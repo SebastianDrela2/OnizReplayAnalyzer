@@ -1,0 +1,23 @@
+CrzyZeo HumanWinsNormal 1
+CrzyZeo ZombieRank 0
+CrzyZeo VespeneHarvested 3900
+CrzyZeo HumansRescued 0
+CrzyZeo SecurityForcesKilled 0
+CrzyZeo ZombiesKilled 773
+CrzyZeo FuelDiverted 0
+CrzyZeo HumanRank 0
+CrzyZeo NumberOfTimesCaptured 0
+CrzyZeo TurretsBuilt 9
+CrzyZeo ZombieWins 0
+CrzyZeo GamesLeft 1
+CrzyZeo GamesPlayedAsHuman 3
+CrzyZeo GamesPlayedAsZombie 0
+CrzyZeo HumansCaptured 0
+CrzyZeo K/D Ratio ∞
+CrzyZeo Average Marine Winrate 33%
+CrzyZeo Average Fuel Diverts PerGame 0
+CrzyZeo Average Vespene Harvested PerGame 1300
+CrzyZeo Average Zombie Winrate NaN%
+CrzyZeo Average Security Kills Per Game NaN
+CrzyZeo Average Deaths PerGame 0
+CrzyZeo Average Infestation Class Class 1

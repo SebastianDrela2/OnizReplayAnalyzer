@@ -1,0 +1,23 @@
+Whitey HumanWinsNormal 2
+Whitey ZombieRank 0
+Whitey VespeneHarvested 15800
+Whitey HumansRescued 0
+Whitey SecurityForcesKilled 479
+Whitey ZombiesKilled 2596
+Whitey FuelDiverted 0
+Whitey HumanRank 2
+Whitey NumberOfTimesCaptured 19
+Whitey TurretsBuilt 4
+Whitey ZombieWins 0
+Whitey GamesLeft 3
+Whitey GamesPlayedAsHuman 10
+Whitey GamesPlayedAsZombie 1
+Whitey HumansCaptured 4
+Whitey K/D Ratio 136,63
+Whitey Average Marine Winrate 20%
+Whitey Average Fuel Diverts PerGame 0
+Whitey Average Vespene Harvested PerGame 1580
+Whitey Average Zombie Winrate 0%
+Whitey Average Security Kills Per Game 479
+Whitey Average Deaths PerGame 1,9
+Whitey Average Infestation Class Class 5

@@ -1,0 +1,23 @@
+Dkare HumanWinsNormal 2
+Dkare ZombieRank 0
+Dkare VespeneHarvested 13800
+Dkare HumansRescued 3
+Dkare SecurityForcesKilled 0
+Dkare ZombiesKilled 3061
+Dkare FuelDiverted 1
+Dkare HumanRank 3
+Dkare NumberOfTimesCaptured 19
+Dkare TurretsBuilt 48
+Dkare ZombieWins 0
+Dkare GamesLeft 1
+Dkare GamesPlayedAsHuman 8
+Dkare GamesPlayedAsZombie 0
+Dkare HumansCaptured 0
+Dkare K/D Ratio 161,11
+Dkare Average Marine Winrate 25%
+Dkare Average Fuel Diverts PerGame 0,12
+Dkare Average Vespene Harvested PerGame 1725
+Dkare Average Zombie Winrate NaN%
+Dkare Average Security Kills Per Game NaN
+Dkare Average Deaths PerGame 2,38
+Dkare Average Infestation Class Class 1

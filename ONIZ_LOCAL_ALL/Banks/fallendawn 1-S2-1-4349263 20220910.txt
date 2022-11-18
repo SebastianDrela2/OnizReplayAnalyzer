@@ -1,0 +1,23 @@
+fallendawn HumanWinsNormal 20
+fallendawn ZombieRank 0
+fallendawn VespeneHarvested 113380
+fallendawn HumansRescued 42
+fallendawn SecurityForcesKilled 3547
+fallendawn ZombiesKilled 33760
+fallendawn FuelDiverted 140
+fallendawn HumanRank 1
+fallendawn NumberOfTimesCaptured 100
+fallendawn TurretsBuilt 411
+fallendawn ZombieWins 5
+fallendawn GamesLeft 4
+fallendawn GamesPlayedAsHuman 56
+fallendawn GamesPlayedAsZombie 10
+fallendawn HumansCaptured 46
+fallendawn K/D Ratio 337,6
+fallendawn Average Marine Winrate 36%
+fallendawn Average Fuel Diverts PerGame 2,5
+fallendawn Average Vespene Harvested PerGame 2024,64
+fallendawn Average Zombie Winrate 50%
+fallendawn Average Security Kills Per Game 355
+fallendawn Average Deaths PerGame 1,79
+fallendawn Average Infestation Class Class 4

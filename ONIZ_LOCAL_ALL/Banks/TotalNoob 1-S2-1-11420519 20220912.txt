@@ -1,0 +1,23 @@
+TotalNoob HumanWinsNormal 1
+TotalNoob ZombieRank 0
+TotalNoob VespeneHarvested 11900
+TotalNoob HumansRescued 4
+TotalNoob SecurityForcesKilled 0
+TotalNoob ZombiesKilled 2597
+TotalNoob FuelDiverted 2
+TotalNoob HumanRank 1
+TotalNoob NumberOfTimesCaptured 24
+TotalNoob TurretsBuilt 9
+TotalNoob ZombieWins 0
+TotalNoob GamesLeft 0
+TotalNoob GamesPlayedAsHuman 7
+TotalNoob GamesPlayedAsZombie 0
+TotalNoob HumansCaptured 0
+TotalNoob K/D Ratio 108,21
+TotalNoob Average Marine Winrate 14,000000000000002%
+TotalNoob Average Fuel Diverts PerGame 0,29
+TotalNoob Average Vespene Harvested PerGame 1700
+TotalNoob Average Zombie Winrate NaN%
+TotalNoob Average Security Kills Per Game NaN
+TotalNoob Average Deaths PerGame 3,43
+TotalNoob Average Infestation Class Class 1

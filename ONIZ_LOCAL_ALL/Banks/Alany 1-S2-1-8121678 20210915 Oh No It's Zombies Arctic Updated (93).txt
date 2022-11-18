@@ -1,0 +1,23 @@
+Alany HumanWinsNormal 73
+Alany ZombieRank 31
+Alany VespeneHarvested 468700
+Alany HumansRescued 95
+Alany SecurityForcesKilled 41531
+Alany ZombiesKilled 67380
+Alany FuelDiverted 679
+Alany HumanRank 5.1
+Alany NumberOfTimesCaptured 156
+Alany TurretsBuilt 877
+Alany ZombieWins 69
+Alany GamesLeft 7
+Alany GamesPlayedAsHuman 139
+Alany GamesPlayedAsZombie 96
+Alany HumansCaptured 1112
+Alany K/D Ratio 431,92
+Alany Average Marine Winrate 53%
+Alany Average Fuel Diverts PerGame 4,88
+Alany Average Vespene Harvested PerGame 3371,94
+Alany Average Zombie Winrate 72%
+Alany Average Security Kills Per Game 433
+Alany Average Deaths PerGame 1,12
+Alany Average Infestation Class Class 5

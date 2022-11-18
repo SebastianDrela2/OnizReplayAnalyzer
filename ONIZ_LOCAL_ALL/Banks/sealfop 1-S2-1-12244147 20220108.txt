@@ -1,0 +1,23 @@
+sealfop HumanWinsNormal 0
+sealfop ZombieRank 0
+sealfop VespeneHarvested 0
+sealfop HumansRescued 0
+sealfop SecurityForcesKilled 0
+sealfop ZombiesKilled 0
+sealfop FuelDiverted 0
+sealfop HumanRank 0
+sealfop NumberOfTimesCaptured 0
+sealfop TurretsBuilt 0
+sealfop ZombieWins 0
+sealfop GamesLeft 0
+sealfop GamesPlayedAsHuman 0
+sealfop GamesPlayedAsZombie 0
+sealfop HumansCaptured 0
+sealfop K/D Ratio NaN
+sealfop Average Marine Winrate NaN%
+sealfop Average Fuel Diverts PerGame NaN
+sealfop Average Vespene Harvested PerGame NaN
+sealfop Average Zombie Winrate NaN%
+sealfop Average Security Kills Per Game NaN
+sealfop Average Deaths PerGame NaN
+sealfop Average Infestation Class Class 1

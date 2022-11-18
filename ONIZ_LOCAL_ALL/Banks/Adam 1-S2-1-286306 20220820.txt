@@ -1,0 +1,26 @@
+Adam HumanWinsNormal 50
+Adam LeftLastGameAsZombie 0
+Adam ZombieRank 0.5
+Adam PlayedRankedMode 1
+Adam VespeneHarvested 390000
+Adam HumansRescued 129
+Adam SecurityForcesKilled 1099
+Adam ZombiesKilled 90489
+Adam FuelDiverted 33
+Adam PlayedRankedMode5.0 1
+Adam HumanRank 30.1
+Adam NumberOfTimesCaptured 75
+Adam TurretsBuilt 1013
+Adam ZombieWins 1
+Adam GamesLeft 8
+Adam GamesPlayedAsHuman 128
+Adam GamesPlayedAsZombie 4
+Adam HumansCaptured 10
+Adam K/D Ratio 1206,52
+Adam Average Marine Winrate 39%
+Adam Average Fuel Diverts PerGame 0,26
+Adam Average Vespene Harvested PerGame 3046,88
+Adam Average Zombie Winrate 25%
+Adam Average Security Kills Per Game 275
+Adam Average Deaths PerGame 0,59
+Adam Average Infestation Class Class 3

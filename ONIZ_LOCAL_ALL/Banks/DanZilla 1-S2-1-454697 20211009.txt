@@ -1,0 +1,23 @@
+DanZilla HumanWinsNormal 7
+DanZilla ZombieRank 0
+DanZilla VespeneHarvested 31900
+DanZilla HumansRescued 14
+DanZilla SecurityForcesKilled 0
+DanZilla ZombiesKilled 8152
+DanZilla FuelDiverted 54
+DanZilla HumanRank 8
+DanZilla NumberOfTimesCaptured 19
+DanZilla TurretsBuilt 98
+DanZilla ZombieWins 0
+DanZilla GamesLeft 0
+DanZilla GamesPlayedAsHuman 13
+DanZilla GamesPlayedAsZombie 0
+DanZilla HumansCaptured 0
+DanZilla K/D Ratio 429,05
+DanZilla Average Marine Winrate 54%
+DanZilla Average Fuel Diverts PerGame 4,15
+DanZilla Average Vespene Harvested PerGame 2453,85
+DanZilla Average Zombie Winrate NaN%
+DanZilla Average Security Kills Per Game NaN
+DanZilla Average Deaths PerGame 1,46
+DanZilla Average Infestation Class Class 1

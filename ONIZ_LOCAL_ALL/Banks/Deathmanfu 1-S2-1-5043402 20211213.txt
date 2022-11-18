@@ -1,0 +1,23 @@
+Deathmanfu HumanWinsNormal 1
+Deathmanfu ZombieRank 0
+Deathmanfu VespeneHarvested 7100
+Deathmanfu HumansRescued 2
+Deathmanfu SecurityForcesKilled 309
+Deathmanfu ZombiesKilled 1959
+Deathmanfu FuelDiverted 12
+Deathmanfu HumanRank 1
+Deathmanfu NumberOfTimesCaptured 17
+Deathmanfu TurretsBuilt 15
+Deathmanfu ZombieWins 0
+Deathmanfu GamesLeft 3
+Deathmanfu GamesPlayedAsZombie 2
+Deathmanfu GamesPlayedAsHuman 7
+Deathmanfu HumansCaptured 4
+Deathmanfu K/D Ratio 115,24
+Deathmanfu Average Marine Winrate 14,000000000000002%
+Deathmanfu Average Fuel Diverts PerGame 1,71
+Deathmanfu Average Vespene Harvested PerGame 1014,29
+Deathmanfu Average Zombie Winrate 0%
+Deathmanfu Average Security Kills Per Game 154
+Deathmanfu Average Deaths PerGame 2,43
+Deathmanfu Average Infestation Class Class 2

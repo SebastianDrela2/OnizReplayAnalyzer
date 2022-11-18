@@ -1,0 +1,23 @@
+devidog HumanWinsNormal 146
+devidog ZombieRank 32
+devidog VespeneHarvested 1159260
+devidog HumansRescued 273
+devidog SecurityForcesKilled 69567
+devidog ZombiesKilled 171356
+devidog FuelDiverted 1043
+devidog HumanRank 2.0834
+devidog NumberOfTimesCaptured 809
+devidog TurretsBuilt 2153
+devidog ZombieWins 97
+devidog GamesLeft 27
+devidog GamesPlayedAsHuman 367
+devidog GamesPlayedAsZombie 174
+devidog HumansCaptured 1521
+devidog K/D Ratio 211,81
+devidog Average Marine Winrate 40%
+devidog Average Fuel Diverts PerGame 2,84
+devidog Average Vespene Harvested PerGame 3158,75
+devidog Average Zombie Winrate 56,00000000000001%
+devidog Average Security Kills Per Game 400
+devidog Average Deaths PerGame 2,2
+devidog Average Infestation Class Class 4

@@ -1,0 +1,23 @@
+PanzerPyro HumanWinsNormal 0
+PanzerPyro ZombieRank 0
+PanzerPyro VespeneHarvested 1400
+PanzerPyro HumansRescued 0
+PanzerPyro SecurityForcesKilled 0
+PanzerPyro ZombiesKilled 291
+PanzerPyro FuelDiverted 2
+PanzerPyro HumanRank 0
+PanzerPyro NumberOfTimesCaptured 1
+PanzerPyro TurretsBuilt 0
+PanzerPyro ZombieWins 0
+PanzerPyro GamesLeft 1
+PanzerPyro GamesPlayedAsHuman 2
+PanzerPyro GamesPlayedAsZombie 0
+PanzerPyro HumansCaptured 0
+PanzerPyro K/D Ratio 291
+PanzerPyro Average Marine Winrate 0%
+PanzerPyro Average Fuel Diverts PerGame 1
+PanzerPyro Average Vespene Harvested PerGame 700
+PanzerPyro Average Zombie Winrate NaN%
+PanzerPyro Average Security Kills Per Game NaN
+PanzerPyro Average Deaths PerGame 0,5
+PanzerPyro Average Infestation Class Class 1

@@ -1,0 +1,23 @@
+ForFun HumanWinsNormal 92
+ForFun ZombieRank 0
+ForFun VespeneHarvested 542600
+ForFun HumansRescued 282
+ForFun SecurityForcesKilled 1435
+ForFun ZombiesKilled 195180
+ForFun FuelDiverted 764
+ForFun HumanRank 27.75
+ForFun NumberOfTimesCaptured 328
+ForFun TurretsBuilt 1336
+ForFun ZombieWins 2
+ForFun GamesLeft 2
+ForFun GamesPlayedAsHuman 172
+ForFun GamesPlayedAsZombie 3
+ForFun HumansCaptured 41
+ForFun K/D Ratio 595,06
+ForFun Average Marine Winrate 53%
+ForFun Average Fuel Diverts PerGame 4,44
+ForFun Average Vespene Harvested PerGame 3154,65
+ForFun Average Zombie Winrate 67%
+ForFun Average Security Kills Per Game 478
+ForFun Average Deaths PerGame 1,91
+ForFun Average Infestation Class Class 5

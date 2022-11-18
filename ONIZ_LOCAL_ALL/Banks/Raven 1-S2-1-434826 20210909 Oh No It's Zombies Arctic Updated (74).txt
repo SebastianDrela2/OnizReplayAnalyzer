@@ -1,0 +1,23 @@
+Raven HumanWinsNormal 2
+Raven ZombieRank 0
+Raven VespeneHarvested 19100
+Raven HumansRescued 0
+Raven SecurityForcesKilled 0
+Raven ZombiesKilled 5798
+Raven FuelDiverted 18
+Raven HumanRank 2.5
+Raven NumberOfTimesCaptured 9
+Raven TurretsBuilt 91
+Raven ZombieWins 0
+Raven GamesLeft 0
+Raven GamesPlayedAsHuman 8
+Raven GamesPlayedAsZombie 0
+Raven HumansCaptured 0
+Raven K/D Ratio 644,22
+Raven Average Marine Winrate 25%
+Raven Average Fuel Diverts PerGame 2,25
+Raven Average Vespene Harvested PerGame 2387,5
+Raven Average Zombie Winrate NaN%
+Raven Average Security Kills Per Game NaN
+Raven Average Deaths PerGame 1,12
+Raven Average Infestation Class Class 1

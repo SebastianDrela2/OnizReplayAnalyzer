@@ -1,0 +1,23 @@
+GenerousPot HumanWinsNormal 26
+GenerousPot ZombieRank 0
+GenerousPot VespeneHarvested 139000
+GenerousPot HumansRescued 30
+GenerousPot SecurityForcesKilled 0
+GenerousPot ZombiesKilled 26275
+GenerousPot FuelDiverted 39
+GenerousPot HumanRank 18
+GenerousPot NumberOfTimesCaptured 47
+GenerousPot TurretsBuilt 341
+GenerousPot ZombieWins 0
+GenerousPot GamesLeft 4
+GenerousPot GamesPlayedAsHuman 41
+GenerousPot GamesPlayedAsZombie 0
+GenerousPot HumansCaptured 0
+GenerousPot K/D Ratio 559,04
+GenerousPot Average Marine Winrate 63%
+GenerousPot Average Fuel Diverts PerGame 0,95
+GenerousPot Average Vespene Harvested PerGame 3390,24
+GenerousPot Average Zombie Winrate NaN%
+GenerousPot Average Security Kills Per Game NaN
+GenerousPot Average Deaths PerGame 1,15
+GenerousPot Average Infestation Class Class 1

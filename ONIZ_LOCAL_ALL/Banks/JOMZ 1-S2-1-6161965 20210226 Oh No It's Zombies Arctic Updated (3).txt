@@ -1,0 +1,23 @@
+JOMZ HumanWinsNormal 1
+JOMZ ZombieRank 0
+JOMZ VespeneHarvested 7000
+JOMZ HumansRescued 2
+JOMZ SecurityForcesKilled 0
+JOMZ ZombiesKilled 810
+JOMZ FuelDiverted 13
+JOMZ HumanRank 1
+JOMZ NumberOfTimesCaptured 8
+JOMZ TurretsBuilt 14
+JOMZ ZombieWins 0
+JOMZ GamesLeft 0
+JOMZ GamesPlayedAsHuman 3
+JOMZ GamesPlayedAsZombie 0
+JOMZ HumansCaptured 0
+JOMZ K/D Ratio 101,25
+JOMZ Average Marine Winrate 33%
+JOMZ Average Fuel Diverts PerGame 4,33
+JOMZ Average Vespene Harvested PerGame 2333,33
+JOMZ Average Zombie Winrate NaN%
+JOMZ Average Security Kills Per Game NaN
+JOMZ Average Deaths PerGame 2,67
+JOMZ Average Infestation Class Class 1

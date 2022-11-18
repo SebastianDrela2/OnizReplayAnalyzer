@@ -1,0 +1,23 @@
+ZergWithHat HumanWinsNormal 181
+ZergWithHat ZombieRank 23.4997
+ZergWithHat VespeneHarvested 237840
+ZergWithHat HumansRescued 65
+ZergWithHat SecurityForcesKilled 30937
+ZergWithHat ZombiesKilled 45275
+ZergWithHat FuelDiverted 206
+ZergWithHat HumanRank 4
+ZergWithHat NumberOfTimesCaptured 321
+ZergWithHat TurretsBuilt 131
+ZergWithHat ZombieWins 213
+ZergWithHat GamesLeft 37
+ZergWithHat GamesPlayedAsHuman 361
+ZergWithHat GamesPlayedAsZombie 291
+ZergWithHat HumansCaptured 715
+ZergWithHat K/D Ratio 141,04
+ZergWithHat Average Marine Winrate 50%
+ZergWithHat Average Fuel Diverts PerGame 0,57
+ZergWithHat Average Vespene Harvested PerGame 658,84
+ZergWithHat Average Zombie Winrate 73%
+ZergWithHat Average Security Kills Per Game 106
+ZergWithHat Average Deaths PerGame 0,89
+ZergWithHat Average Infestation Class Class 2

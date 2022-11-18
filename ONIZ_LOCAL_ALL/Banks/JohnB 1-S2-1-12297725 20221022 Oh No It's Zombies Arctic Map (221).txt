@@ -1,0 +1,23 @@
+JohnB HumanWinsNormal 0
+JohnB ZombieRank 0
+JohnB VespeneHarvested 1500
+JohnB HumansRescued 0
+JohnB SecurityForcesKilled 570
+JohnB ZombiesKilled 764
+JohnB FuelDiverted 4
+JohnB HumanRank 0
+JohnB NumberOfTimesCaptured 1
+JohnB TurretsBuilt 5
+JohnB ZombieWins 1
+JohnB GamesLeft 1
+JohnB GamesPlayedAsHuman 2
+JohnB GamesPlayedAsZombie 2
+JohnB HumansCaptured 1
+JohnB K/D Ratio 764
+JohnB Average Marine Winrate 0%
+JohnB Average Fuel Diverts PerGame 2
+JohnB Average Vespene Harvested PerGame 750
+JohnB Average Zombie Winrate 50%
+JohnB Average Security Kills Per Game 285
+JohnB Average Deaths PerGame 0,5
+JohnB Average Infestation Class Class 3

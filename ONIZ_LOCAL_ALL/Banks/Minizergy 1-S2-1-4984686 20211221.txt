@@ -1,0 +1,23 @@
+Minizergy HumanWinsNormal 0
+Minizergy ZombieRank 0
+Minizergy VespeneHarvested 800
+Minizergy HumansRescued 0
+Minizergy SecurityForcesKilled 0
+Minizergy ZombiesKilled 243
+Minizergy FuelDiverted 1
+Minizergy HumanRank 0
+Minizergy NumberOfTimesCaptured 4
+Minizergy TurretsBuilt 0
+Minizergy ZombieWins 0
+Minizergy GamesLeft 1
+Minizergy GamesPlayedAsHuman 2
+Minizergy GamesPlayedAsZombie 0
+Minizergy HumansCaptured 0
+Minizergy K/D Ratio 60,75
+Minizergy Average Marine Winrate 0%
+Minizergy Average Fuel Diverts PerGame 0,5
+Minizergy Average Vespene Harvested PerGame 400
+Minizergy Average Zombie Winrate NaN%
+Minizergy Average Security Kills Per Game NaN
+Minizergy Average Deaths PerGame 2
+Minizergy Average Infestation Class Class 1

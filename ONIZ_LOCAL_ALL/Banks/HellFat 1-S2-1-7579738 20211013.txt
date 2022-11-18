@@ -1,0 +1,23 @@
+HellFat HumanWinsNormal 1
+HellFat ZombieRank 0
+HellFat VespeneHarvested 7900
+HellFat HumansRescued 4
+HellFat SecurityForcesKilled 0
+HellFat ZombiesKilled 3205
+HellFat FuelDiverted 0
+HellFat HumanRank 2
+HellFat NumberOfTimesCaptured 12
+HellFat TurretsBuilt 9
+HellFat ZombieWins 0
+HellFat GamesLeft 3
+HellFat GamesPlayedAsHuman 7
+HellFat GamesPlayedAsZombie 0
+HellFat HumansCaptured 0
+HellFat K/D Ratio 267,08
+HellFat Average Marine Winrate 14,000000000000002%
+HellFat Average Fuel Diverts PerGame 0
+HellFat Average Vespene Harvested PerGame 1128,57
+HellFat Average Zombie Winrate NaN%
+HellFat Average Security Kills Per Game NaN
+HellFat Average Deaths PerGame 1,71
+HellFat Average Infestation Class Class 1

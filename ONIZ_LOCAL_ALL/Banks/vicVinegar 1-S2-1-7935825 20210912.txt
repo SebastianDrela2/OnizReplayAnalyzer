@@ -1,0 +1,23 @@
+vicVinegar HumanWinsNormal 1
+vicVinegar ZombieRank 2.6667
+vicVinegar VespeneHarvested 6800
+vicVinegar HumansRescued 5
+vicVinegar SecurityForcesKilled 1176
+vicVinegar ZombiesKilled 824
+vicVinegar FuelDiverted 1
+vicVinegar HumanRank 0
+vicVinegar NumberOfTimesCaptured 12
+vicVinegar TurretsBuilt 2
+vicVinegar ZombieWins 2
+vicVinegar GamesLeft 10
+vicVinegar GamesPlayedAsZombie 10
+vicVinegar GamesPlayedAsHuman 9
+vicVinegar HumansCaptured 9
+vicVinegar K/D Ratio 68,67
+vicVinegar Average Marine Winrate 11%
+vicVinegar Average Fuel Diverts PerGame 0,11
+vicVinegar Average Vespene Harvested PerGame 755,56
+vicVinegar Average Zombie Winrate 20%
+vicVinegar Average Security Kills Per Game 118
+vicVinegar Average Deaths PerGame 1,33
+vicVinegar Average Infestation Class Class 2

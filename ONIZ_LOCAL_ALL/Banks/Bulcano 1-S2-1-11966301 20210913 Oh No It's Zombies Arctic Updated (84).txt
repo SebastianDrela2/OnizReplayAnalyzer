@@ -1,0 +1,23 @@
+Bulcano HumanWinsNormal 0
+Bulcano ZombieRank 0
+Bulcano VespeneHarvested 0
+Bulcano HumansRescued 0
+Bulcano SecurityForcesKilled 292
+Bulcano ZombiesKilled 0
+Bulcano FuelDiverted 0
+Bulcano HumanRank 0
+Bulcano NumberOfTimesCaptured 0
+Bulcano TurretsBuilt 0
+Bulcano ZombieWins 1
+Bulcano GamesLeft 1
+Bulcano GamesPlayedAsHuman 1
+Bulcano GamesPlayedAsZombie 1
+Bulcano HumansCaptured 0
+Bulcano K/D Ratio NaN
+Bulcano Average Marine Winrate 0%
+Bulcano Average Fuel Diverts PerGame 0
+Bulcano Average Vespene Harvested PerGame 0
+Bulcano Average Zombie Winrate 100%
+Bulcano Average Security Kills Per Game 292
+Bulcano Average Deaths PerGame 0
+Bulcano Average Infestation Class Class 4

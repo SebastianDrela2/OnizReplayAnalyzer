@@ -1,0 +1,23 @@
+YaBoiDave HumanWinsNormal 12
+YaBoiDave ZombieRank 0
+YaBoiDave VespeneHarvested 75600
+YaBoiDave HumansRescued 29
+YaBoiDave SecurityForcesKilled 559
+YaBoiDave ZombiesKilled 21651
+YaBoiDave FuelDiverted 68
+YaBoiDave HumanRank 0.1
+YaBoiDave NumberOfTimesCaptured 59
+YaBoiDave TurretsBuilt 142
+YaBoiDave ZombieWins 0
+YaBoiDave GamesLeft 6
+YaBoiDave GamesPlayedAsHuman 38
+YaBoiDave GamesPlayedAsZombie 1
+YaBoiDave HumansCaptured 7
+YaBoiDave K/D Ratio 366,97
+YaBoiDave Average Marine Winrate 32%
+YaBoiDave Average Fuel Diverts PerGame 1,79
+YaBoiDave Average Vespene Harvested PerGame 1989,47
+YaBoiDave Average Zombie Winrate 0%
+YaBoiDave Average Security Kills Per Game 559
+YaBoiDave Average Deaths PerGame 1,55
+YaBoiDave Average Infestation Class Class 6

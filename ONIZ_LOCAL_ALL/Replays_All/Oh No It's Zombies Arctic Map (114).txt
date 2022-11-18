@@ -1,0 +1,32 @@
+Analyzed: Oh No It's Zombies Arctic Map (114)
+
+ID : 0 PlayerName: Frosky Race: Zerg
+ID : 7 PlayerName: Security Race: Zerg
+Frosky Zombie Win
+Public Lobby
+
+Game Length:[18:612]
+Players ammount: 2
+Marine rank avg: 0,3333333333333333
+GrandMaster ammount: 1
+PURCHASES: 
+[00:638] Frosky Bought CreepSpeed
+[01:096] Frosky Bought StrainSpeed
+[02:396] Frosky Bought StrainSpeed
+[03:595] Frosky Bought StrainSpeed
+[04:395] Frosky Bought StrainSpeed
+[05:937] Frosky Bought StrainSpeed
+[07:175] Frosky Bought CreepSpeed
+[08:909] Frosky Bought PureStrainSpeed
+[09:643] Frosky Bought PureStrainSpeed
+[10:297] Frosky Bought PureStrainSpeed
+[10:722] Frosky Bought PureStrainSpeed
+[11:328] Frosky Bought PureStrainSpeed
+[12:760] Frosky Bought HunterlingStrain
+[13:041] Frosky Bought HunterlingStrain
+[14:153] Frosky Bought HunterlingStrain
+[15:457] Frosky Bought HunterlingStrain
+[16:469] Frosky Bought HunterlingStrain
+
+Frosky Placed 0 Greaters.
+--------------------------------

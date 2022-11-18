@@ -1,0 +1,23 @@
+Release HumanWinsNormal 2
+Release ZombieRank 12
+Release VespeneHarvested 10700
+Release HumansRescued 3
+Release SecurityForcesKilled 2215
+Release ZombiesKilled 1247
+Release FuelDiverted 1
+Release HumanRank 4
+Release NumberOfTimesCaptured 10
+Release TurretsBuilt 6
+Release ZombieWins 4
+Release GamesLeft 1
+Release GamesPlayedAsHuman 8
+Release GamesPlayedAsZombie 5
+Release HumansCaptured 9
+Release K/D Ratio 124,7
+Release Average Marine Winrate 25%
+Release Average Fuel Diverts PerGame 0,12
+Release Average Vespene Harvested PerGame 1337,5
+Release Average Zombie Winrate 80%
+Release Average Security Kills Per Game 443
+Release Average Deaths PerGame 1,25
+Release Average Infestation Class Class 5

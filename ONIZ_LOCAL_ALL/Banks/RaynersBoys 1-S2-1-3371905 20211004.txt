@@ -1,0 +1,24 @@
+RaynersBoys HumanWinsNormal 7
+RaynersBoys ZombieRank 0
+RaynersBoys VespeneHarvested 57500
+RaynersBoys HumansRescued 12
+RaynersBoys SecurityForcesKilled 1492
+RaynersBoys ZombiesKilled 9735
+RaynersBoys FuelDiverted 27
+RaynersBoys PlayedRankedMode5.0 1
+RaynersBoys HumanRank 2
+RaynersBoys NumberOfTimesCaptured 36
+RaynersBoys TurretsBuilt 84
+RaynersBoys ZombieWins 2
+RaynersBoys GamesLeft 0
+RaynersBoys GamesPlayedAsHuman 22
+RaynersBoys GamesPlayedAsZombie 4
+RaynersBoys HumansCaptured 46
+RaynersBoys K/D Ratio 270,42
+RaynersBoys Average Marine Winrate 32%
+RaynersBoys Average Fuel Diverts PerGame 1,23
+RaynersBoys Average Vespene Harvested PerGame 2613,64
+RaynersBoys Average Zombie Winrate 50%
+RaynersBoys Average Security Kills Per Game 373
+RaynersBoys Average Deaths PerGame 1,64
+RaynersBoys Average Infestation Class Class 4

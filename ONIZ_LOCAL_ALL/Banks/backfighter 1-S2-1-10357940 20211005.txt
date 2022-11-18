@@ -1,0 +1,23 @@
+backfighter HumanWinsNormal 1
+backfighter ZombieRank 0
+backfighter VespeneHarvested 1800
+backfighter HumansRescued 0
+backfighter SecurityForcesKilled 0
+backfighter ZombiesKilled 91
+backfighter FuelDiverted 0
+backfighter HumanRank 1
+backfighter NumberOfTimesCaptured 1
+backfighter TurretsBuilt 0
+backfighter ZombieWins 0
+backfighter GamesLeft 0
+backfighter GamesPlayedAsHuman 1
+backfighter GamesPlayedAsZombie 0
+backfighter HumansCaptured 0
+backfighter K/D Ratio 91
+backfighter Average Marine Winrate 100%
+backfighter Average Fuel Diverts PerGame 0
+backfighter Average Vespene Harvested PerGame 1800
+backfighter Average Zombie Winrate NaN%
+backfighter Average Security Kills Per Game NaN
+backfighter Average Deaths PerGame 1
+backfighter Average Infestation Class Class 1

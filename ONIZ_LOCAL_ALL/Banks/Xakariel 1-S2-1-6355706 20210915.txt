@@ -1,0 +1,23 @@
+Xakariel HumanWinsNormal 0
+Xakariel ZombieRank 0
+Xakariel VespeneHarvested 700
+Xakariel HumansRescued 0
+Xakariel SecurityForcesKilled 0
+Xakariel ZombiesKilled 355
+Xakariel FuelDiverted 0
+Xakariel HumanRank 0
+Xakariel NumberOfTimesCaptured 5
+Xakariel TurretsBuilt 8
+Xakariel ZombieWins 0
+Xakariel GamesLeft 0
+Xakariel GamesPlayedAsHuman 1
+Xakariel GamesPlayedAsZombie 0
+Xakariel HumansCaptured 0
+Xakariel K/D Ratio 71
+Xakariel Average Marine Winrate 0%
+Xakariel Average Fuel Diverts PerGame 0
+Xakariel Average Vespene Harvested PerGame 700
+Xakariel Average Zombie Winrate NaN%
+Xakariel Average Security Kills Per Game NaN
+Xakariel Average Deaths PerGame 5
+Xakariel Average Infestation Class Class 1

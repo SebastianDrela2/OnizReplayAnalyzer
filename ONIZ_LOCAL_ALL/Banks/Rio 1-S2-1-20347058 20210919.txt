@@ -1,0 +1,23 @@
+Rio HumanWinsNormal 5
+Rio ZombieRank 0
+Rio VespeneHarvested 50700
+Rio HumansRescued 9
+Rio SecurityForcesKilled 401
+Rio ZombiesKilled 10916
+Rio FuelDiverted 19
+Rio HumanRank 0
+Rio NumberOfTimesCaptured 39
+Rio TurretsBuilt 28
+Rio ZombieWins 0
+Rio GamesLeft 1
+Rio GamesPlayedAsHuman 20
+Rio GamesPlayedAsZombie 1
+Rio HumansCaptured 11
+Rio K/D Ratio 279,9
+Rio Average Marine Winrate 25%
+Rio Average Fuel Diverts PerGame 0,95
+Rio Average Vespene Harvested PerGame 2535
+Rio Average Zombie Winrate 0%
+Rio Average Security Kills Per Game 401
+Rio Average Deaths PerGame 1,95
+Rio Average Infestation Class Class 4

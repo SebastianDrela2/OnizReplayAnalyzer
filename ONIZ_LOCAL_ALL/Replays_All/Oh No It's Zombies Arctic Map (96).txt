@@ -1,0 +1,26 @@
+Analyzed: Oh No It's Zombies Arctic Map (96)
+
+ID : 0 PlayerName: Frosky Race: Zerg
+ID : 7 PlayerName: Security Race: MechaZerg
+Frosky Zombie Win
+Public Lobby
+
+Game Length:[08:092]
+Players ammount: 2
+Marine rank avg: 0
+GrandMaster ammount: 1
+PURCHASES: 
+[01:211] Frosky Bought CreepSpeed
+[02:641] Frosky Placed/Upgraded LocustNest
+[02:881] Frosky Bought SunkenColony
+[02:881] Frosky Placed/Upgraded PrimalSunkenColony
+[03:122] Frosky Placed/Upgraded LocustNest
+[04:388] Frosky Placed/Upgraded LocustNest
+[04:679] Frosky Bought ConstructiveCreep
+[04:751] Frosky Bought ConstructiveCreep
+[05:170] Frosky Placed/Upgraded NydusCanalCreeper
+[06:173] Frosky Placed/Upgraded LocustNest
+[06:284] Frosky Placed/Upgraded LocustNest
+
+Frosky Placed 0 Greaters.
+--------------------------------

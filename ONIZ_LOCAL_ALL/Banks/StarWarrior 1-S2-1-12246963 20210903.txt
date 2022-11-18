@@ -1,0 +1,23 @@
+StarWarrior HumanWinsNormal 182
+StarWarrior ZombieRank 12.9997
+StarWarrior VespeneHarvested 903600
+StarWarrior HumansRescued 379
+StarWarrior SecurityForcesKilled 92938
+StarWarrior ZombiesKilled 202408
+StarWarrior FuelDiverted 1651
+StarWarrior HumanRank 22.3334
+StarWarrior NumberOfTimesCaptured 841
+StarWarrior TurretsBuilt 1960
+StarWarrior ZombieWins 134
+StarWarrior GamesLeft 19
+StarWarrior GamesPlayedAsHuman 387
+StarWarrior GamesPlayedAsZombie 228
+StarWarrior HumansCaptured 2320
+StarWarrior K/D Ratio 240,68
+StarWarrior Average Marine Winrate 47%
+StarWarrior Average Fuel Diverts PerGame 4,27
+StarWarrior Average Vespene Harvested PerGame 2334,88
+StarWarrior Average Zombie Winrate 59%
+StarWarrior Average Security Kills Per Game 408
+StarWarrior Average Deaths PerGame 2,17
+StarWarrior Average Infestation Class Class 5

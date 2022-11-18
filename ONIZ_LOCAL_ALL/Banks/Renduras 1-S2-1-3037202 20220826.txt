@@ -1,0 +1,23 @@
+Renduras HumanWinsNormal 94
+Renduras ZombieRank 0.3332
+Renduras VespeneHarvested 680980
+Renduras HumansRescued 246
+Renduras SecurityForcesKilled 1719
+Renduras ZombiesKilled 145565
+Renduras FuelDiverted 595
+Renduras HumanRank 14.25
+Renduras NumberOfTimesCaptured 247
+Renduras TurretsBuilt 1217
+Renduras ZombieWins 1
+Renduras GamesLeft 5
+Renduras GamesPlayedAsHuman 218
+Renduras GamesPlayedAsZombie 7
+Renduras HumansCaptured 36
+Renduras K/D Ratio 589,33
+Renduras Average Marine Winrate 43%
+Renduras Average Fuel Diverts PerGame 2,73
+Renduras Average Vespene Harvested PerGame 3123,76
+Renduras Average Zombie Winrate 14,000000000000002%
+Renduras Average Security Kills Per Game 246
+Renduras Average Deaths PerGame 1,13
+Renduras Average Infestation Class Class 3

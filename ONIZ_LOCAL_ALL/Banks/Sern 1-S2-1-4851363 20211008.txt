@@ -1,0 +1,23 @@
+Sern HumanWinsNormal 20
+Sern ZombieRank 0
+Sern VespeneHarvested 173800
+Sern HumansRescued 49
+Sern SecurityForcesKilled 893
+Sern ZombiesKilled 28499
+Sern FuelDiverted 10
+Sern HumanRank 0
+Sern NumberOfTimesCaptured 130
+Sern TurretsBuilt 141
+Sern ZombieWins 1
+Sern GamesLeft 6
+Sern GamesPlayedAsHuman 66
+Sern GamesPlayedAsZombie 2
+Sern HumansCaptured 5
+Sern K/D Ratio 219,22
+Sern Average Marine Winrate 30%
+Sern Average Fuel Diverts PerGame 0,15
+Sern Average Vespene Harvested PerGame 2633,33
+Sern Average Zombie Winrate 50%
+Sern Average Security Kills Per Game 446
+Sern Average Deaths PerGame 1,97
+Sern Average Infestation Class Class 5

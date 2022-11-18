@@ -1,0 +1,23 @@
+Shawnee HumanWinsNormal 2
+Shawnee ZombieRank 0
+Shawnee VespeneHarvested 15200
+Shawnee HumansRescued 2
+Shawnee SecurityForcesKilled 1030
+Shawnee ZombiesKilled 2625
+Shawnee FuelDiverted 0
+Shawnee HumanRank 6
+Shawnee NumberOfTimesCaptured 4
+Shawnee TurretsBuilt 45
+Shawnee ZombieWins 2
+Shawnee GamesLeft 0
+Shawnee GamesPlayedAsHuman 5
+Shawnee GamesPlayedAsZombie 2
+Shawnee HumansCaptured 34
+Shawnee K/D Ratio 656,25
+Shawnee Average Marine Winrate 40%
+Shawnee Average Fuel Diverts PerGame 0
+Shawnee Average Vespene Harvested PerGame 3040
+Shawnee Average Zombie Winrate 100%
+Shawnee Average Security Kills Per Game 515
+Shawnee Average Deaths PerGame 0,8
+Shawnee Average Infestation Class Class 5

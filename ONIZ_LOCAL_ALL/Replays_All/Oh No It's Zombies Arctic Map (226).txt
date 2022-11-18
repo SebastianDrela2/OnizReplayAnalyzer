@@ -1,0 +1,101 @@
+Analyzed: Oh No It's Zombies Arctic Map (226)
+
+ID : 0 PlayerName: Frosky Race: Zerg
+ID : 7 PlayerName: Security Race: Infested Terran
+Frosky Zombie Win
+Public Lobby
+
+Game Length:[36:358]
+Players ammount: 2
+Marine rank avg: 0,6666666666666666
+GrandMaster ammount: 1
+PURCHASES: 
+[00:649] Frosky Spawned MassiveCocoon
+[00:975] Frosky Bought UnlockDropPods
+[00:981] Frosky Bought EvolveDropPods
+[00:984] Frosky Bought EvolveDropPods
+[01:729] Frosky Spawned Underseer
+[01:916] Frosky Bought EvolveDropPods
+[02:128] Frosky Bought EvolveDropPods
+[09:146] Frosky Spawned MassiveCocoon
+[09:154] Frosky Spawned MassiveCocoon
+[09:161] Frosky Spawned MassiveCocoon
+[10:586] Frosky Spawned InfestedAbomination
+[10:594] Frosky Spawned InfestedAbomination
+[10:601] Frosky Spawned InfestedAbomination
+[11:127] Frosky Spawned MassiveCocoon
+[12:567] Frosky Spawned InfestedAbomination
+[14:680] Frosky Spawned MassiveCocoon
+[14:681] Frosky Spawned MassiveCocoon
+[14:685] Frosky Spawned MassiveCocoon
+[16:120] Frosky Spawned InfestedAbomination
+[16:121] Frosky Spawned InfestedAbomination
+[16:125] Frosky Spawned InfestedAbomination
+[17:106] Frosky Placed/Upgraded NydusCanalCreeper
+[18:049] Frosky Placed/Upgraded PrimalSunkenColony
+[18:050] Frosky Bought SunkenColony
+[18:145] Frosky Placed/Upgraded PrimalSunkenColony
+[18:146] Frosky Bought SunkenColony
+[19:508] Frosky Placed/Upgraded NydusCanalCreeper
+[19:749] Frosky Placed/Upgraded NydusCanalCreeper
+[21:917] Frosky Placed/Upgraded NydusCanalCreeper
+[21:981] Frosky Bought ConstructiveCreep
+[21:984] Frosky Bought ConstructiveCreep
+[22:286] Frosky Spawned MassiveCocoon
+[23:366] Frosky Spawned Underseer
+[23:415] Frosky Placed/Upgraded NydusCanalCreeper
+[23:495] Frosky Placed/Upgraded NydusCanalCreeper
+[24:292] Frosky Placed/Upgraded NydusCanalCreeper
+[24:372] Frosky Placed/Upgraded NydusCanalCreeper
+[25:441] Frosky Spawned MassiveCocoon
+[25:444] Frosky Spawned MassiveCocoon
+[25:446] Frosky Spawned MassiveCocoon
+[25:450] Frosky Spawned MassiveCocoon
+[25:454] Frosky Spawned MassiveCocoon
+[25:458] Frosky Spawned MassiveCocoon
+[25:461] Frosky Spawned MassiveCocoon
+[25:465] Frosky Spawned MassiveCocoon
+[25:468] Frosky Spawned MassiveCocoon
+[25:471] Frosky Spawned MassiveCocoon
+[25:474] Frosky Spawned MassiveCocoon
+[25:478] Frosky Spawned MassiveCocoon
+[25:481] Frosky Spawned MassiveCocoon
+[25:484] Frosky Spawned MassiveCocoon
+[25:488] Frosky Spawned MassiveCocoon
+[26:046] Frosky Placed/Upgraded LesserNydusWorm
+[26:047] Frosky Bought GreaterNydus
+[26:551] Frosky Spawned Underseer
+[26:650] Frosky Placed/Upgraded NydusCanalCreeper
+[26:932] Frosky Placed/Upgraded LesserNydusWorm
+[26:933] Frosky Bought GreaterNydus
+[27:379] Frosky Placed/Upgraded LesserNydusWorm
+[27:380] Frosky Bought GreaterNydus
+[28:617] Frosky Placed/Upgraded LesserNydusWorm
+[28:618] Frosky Bought GreaterNydus
+[29:693] Frosky Bought GreaterNydus
+[29:870] Frosky Placed/Upgraded NydusCanalCreeper
+[29:951] Frosky Placed/Upgraded NydusCanalCreeper
+[30:031] Frosky Placed/Upgraded NydusCanalCreeper
+[30:111] Frosky Placed/Upgraded NydusCanalCreeper
+[31:908] Frosky Bought GreaterNydus
+[31:918] Frosky Bought GreaterNydus
+[32:318] Frosky Bought EvolveDropPods
+[32:320] Frosky Bought EvolveDropPods
+[33:333] Frosky Placed/Upgraded NydusCanalCreeper
+[33:414] Frosky Placed/Upgraded NydusCanalCreeper
+[33:495] Frosky Placed/Upgraded NydusCanalCreeper
+[34:159] Frosky Placed/Upgraded LesserNydusWorm
+[34:160] Frosky Bought GreaterNydus
+[34:314] Frosky Placed/Upgraded LesserNydusWorm
+[34:315] Frosky Bought GreaterNydus
+[34:368] Frosky Placed/Upgraded NydusCanalCreeper
+[34:462] Frosky Placed/Upgraded NydusCanalCreeper
+[34:542] Frosky Placed/Upgraded NydusCanalCreeper
+[34:543] Frosky Placed/Upgraded NydusCanalCreeper
+[35:567] Frosky Placed/Upgraded NydusCanalCreeper
+[35:614] Frosky Bought DropshipsFueled
+[35:618] Frosky Placed/Upgraded NydusCanalCreeper
+Frosky First Alpha Underseer |  Win
+
+Frosky Placed 0 Greaters.
+--------------------------------

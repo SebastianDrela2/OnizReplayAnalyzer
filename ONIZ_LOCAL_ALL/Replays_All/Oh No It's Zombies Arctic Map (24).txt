@@ -1,0 +1,75 @@
+Analyzed: Oh No It's Zombies Arctic Map (24)
+
+ID : 0 PlayerName: Frosky Race: Zerg
+ID : 7 PlayerName: Security Race: Terran Mengsk
+Frosky Zombie Win
+Public Lobby
+
+Game Length:[44:017]
+Players ammount: 2
+Marine rank avg: 0,6666666666666666
+GrandMaster ammount: 1
+PURCHASES: 
+[01:148] Frosky Bought ConstructiveCreep
+[01:223] Frosky Placed/Upgraded NydusCanalCreeper
+[02:471] Frosky Placed/Upgraded PrimalSunkenColony
+[02:472] Frosky Bought SunkenColony
+[02:886] Frosky Placed/Upgraded NydusCanalCreeper
+[03:763] Frosky Bought ConstructiveCreep
+[04:639] Frosky Placed/Upgraded PrimalSunkenColony
+[04:640] Frosky Bought SunkenColony
+[05:049] Frosky Placed/Upgraded NydusCanalCreeper
+[05:703] Frosky Placed/Upgraded NydusCanalCreeper
+[06:087] Frosky Placed/Upgraded NydusCanalCreeper
+[06:743] Frosky Placed/Upgraded NydusCanalCreeper
+[07:621] Frosky Placed/Upgraded NydusCanalCreeper
+[08:138] Frosky Placed/Upgraded PrimalSunkenColony
+[08:139] Frosky Bought SunkenColony
+[08:298] Frosky Placed/Upgraded NydusCanalCreeper
+[09:226] Frosky Placed/Upgraded NydusCanalCreeper
+[09:528] Frosky Bought SunkenColony
+[10:487] Frosky Bought RegenerativeCreep
+[11:732] Frosky Placed/Upgraded PrimalSunkenColony
+[11:733] Frosky Bought SunkenColony
+[12:675] Frosky Bought BuildExtractorExcavationZone
+[12:675] Frosky Placed/Upgraded AutomatedExtractor
+[16:898] Frosky Spawned MassiveCocoon
+[17:978] Frosky Spawned Underseer
+[18:262] Frosky Placed/Upgraded PrimalSunkenColony
+[18:263] Frosky Bought SunkenColony
+[23:741] Frosky Bought VirulentCreep
+[28:043] Frosky Placed/Upgraded NydusCanalCreeper
+[28:255] Frosky Placed/Upgraded NydusCanalCreeper
+[28:522] Frosky Placed/Upgraded NydusCanalCreeper
+[35:614] Frosky Bought DropshipsFueled
+[36:104] Frosky Placed/Upgraded NydusCanalCreeper
+[36:721] Frosky Placed/Upgraded NydusCanalCreeper
+[37:341] Frosky Placed/Upgraded NydusCanalCreeper
+[38:413] Frosky Placed/Upgraded NydusCanalCreeper
+[38:693] Frosky Placed/Upgraded NydusCanalCreeper
+[39:577] Frosky Placed/Upgraded PrimalSunkenColony
+[39:578] Frosky Bought SunkenColony
+[39:715] Frosky Bought SunkenColony
+[39:935] Frosky Placed/Upgraded NydusCanalCreeper
+[40:559] Frosky Placed/Upgraded PrimalSunkenColony
+[40:560] Frosky Bought SunkenColony
+[40:677] Frosky Placed/Upgraded PrimalSunkenColony
+[40:678] Frosky Bought SunkenColony
+[41:056] Frosky Bought SunkenColony
+[41:075] Frosky Placed/Upgraded NydusCanalCreeper
+[41:384] Frosky Placed/Upgraded PrimalSunkenColony
+[41:385] Frosky Bought SunkenColony
+[41:774] Frosky Placed/Upgraded PrimalSunkenColony
+[41:775] Frosky Bought SunkenColony
+[41:960] Frosky Bought SunkenColony
+[42:104] Frosky Placed/Upgraded PrimalSunkenColony
+[42:105] Frosky Bought SunkenColony
+[42:154] Frosky Bought SunkenColony
+[42:944] Frosky Placed/Upgraded PrimalSunkenColony
+[42:945] Frosky Bought SunkenColony
+[43:554] Frosky Bought SunkenColony
+[43:818] Frosky Bought SunkenColony
+Frosky First Alpha Underseer |  Win
+
+Frosky Placed 0 Greaters.
+--------------------------------

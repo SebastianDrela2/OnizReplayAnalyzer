@@ -1,0 +1,23 @@
+UltraBrood HumanWinsNormal 0
+UltraBrood ZombieRank 0
+UltraBrood VespeneHarvested 1200
+UltraBrood HumansRescued 0
+UltraBrood SecurityForcesKilled 0
+UltraBrood ZombiesKilled 238
+UltraBrood FuelDiverted 3
+UltraBrood HumanRank 0
+UltraBrood NumberOfTimesCaptured 5
+UltraBrood TurretsBuilt 0
+UltraBrood ZombieWins 0
+UltraBrood GamesLeft 0
+UltraBrood GamesPlayedAsHuman 2
+UltraBrood GamesPlayedAsZombie 0
+UltraBrood HumansCaptured 0
+Corbacho K/D Ratio 47,6
+Corbacho Average Marine Winrate 0%
+Corbacho Average Fuel Diverts PerGame 1,5
+Corbacho Average Vespene Harvested PerGame 600
+Corbacho Average Zombie Winrate NaN%
+Corbacho Average Security Kills Per Game NaN
+Corbacho Average Deaths PerGame 2,5
+Corbacho Average Infestation Class Class 1

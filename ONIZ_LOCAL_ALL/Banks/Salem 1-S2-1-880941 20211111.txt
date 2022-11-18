@@ -1,0 +1,23 @@
+Salem HumanWinsNormal 2
+Salem ZombieRank 0
+Salem VespeneHarvested 19800
+Salem HumansRescued 5
+Salem SecurityForcesKilled 417
+Salem ZombiesKilled 4817
+Salem FuelDiverted 8
+Salem HumanRank 3
+Salem NumberOfTimesCaptured 13
+Salem TurretsBuilt 7
+Salem ZombieWins 1
+Salem GamesLeft 0
+Salem GamesPlayedAsHuman 7
+Salem GamesPlayedAsZombie 1
+Salem HumansCaptured 8
+Salem K/D Ratio 370,54
+Salem Average Marine Winrate 28,999999999999996%
+Salem Average Fuel Diverts PerGame 1,14
+Salem Average Vespene Harvested PerGame 2828,57
+Salem Average Zombie Winrate 100%
+Salem Average Security Kills Per Game 417
+Salem Average Deaths PerGame 1,86
+Salem Average Infestation Class Class 5

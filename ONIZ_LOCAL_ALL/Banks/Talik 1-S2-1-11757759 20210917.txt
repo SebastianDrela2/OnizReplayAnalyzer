@@ -1,0 +1,24 @@
+Talik HumanWinsNormal 40
+Talik ZombieRank 21.165
+Talik VespeneHarvested 286500
+Talik HumansRescued 101
+Talik SecurityForcesKilled 20229
+Talik ZombiesKilled 52837
+Talik FuelDiverted 113
+Talik PlayedRankedMode5.0 1
+Talik HumanRank 5.5
+Talik NumberOfTimesCaptured 235
+Talik TurretsBuilt 317
+Talik ZombieWins 30
+Talik GamesLeft 7
+Talik GamesPlayedAsHuman 105
+Talik GamesPlayedAsZombie 44
+Talik HumansCaptured 592
+Talik K/D Ratio 224,84
+Talik Average Marine Winrate 38%
+Talik Average Fuel Diverts PerGame 1,08
+Talik Average Vespene Harvested PerGame 2728,57
+Talik Average Zombie Winrate 68%
+Talik Average Security Kills Per Game 460
+Talik Average Deaths PerGame 2,24
+Talik Average Infestation Class Class 5

@@ -1,0 +1,23 @@
+PokeMyMom HumanWinsNormal 4
+PokeMyMom ZombieRank 0
+PokeMyMom VespeneHarvested 14820
+PokeMyMom HumansRescued 5
+PokeMyMom SecurityForcesKilled 0
+PokeMyMom ZombiesKilled 5465
+PokeMyMom FuelDiverted 11
+PokeMyMom HumanRank 4
+PokeMyMom NumberOfTimesCaptured 23
+PokeMyMom TurretsBuilt 1
+PokeMyMom ZombieWins 0
+PokeMyMom GamesLeft 1
+PokeMyMom GamesPlayedAsHuman 10
+PokeMyMom GamesPlayedAsZombie 0
+PokeMyMom HumansCaptured 0
+PokeMyMom K/D Ratio 237,61
+PokeMyMom Average Marine Winrate 40%
+PokeMyMom Average Fuel Diverts PerGame 1,1
+PokeMyMom Average Vespene Harvested PerGame 1482
+PokeMyMom Average Zombie Winrate NaN%
+PokeMyMom Average Security Kills Per Game NaN
+PokeMyMom Average Deaths PerGame 2,3
+PokeMyMom Average Infestation Class Class 1

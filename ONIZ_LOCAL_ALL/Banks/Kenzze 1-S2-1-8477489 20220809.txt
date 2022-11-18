@@ -1,0 +1,23 @@
+Kenzze HumanWinsNormal 3
+Kenzze ZombieRank 0
+Kenzze VespeneHarvested 25400
+Kenzze HumansRescued 10
+Kenzze SecurityForcesKilled 0
+Kenzze ZombiesKilled 4525
+Kenzze FuelDiverted 3
+Kenzze HumanRank 7
+Kenzze NumberOfTimesCaptured 14
+Kenzze TurretsBuilt 8
+Kenzze ZombieWins 0
+Kenzze GamesLeft 0
+Kenzze GamesPlayedAsHuman 7
+Kenzze GamesPlayedAsZombie 0
+Kenzze HumansCaptured 0
+Kenzze K/D Ratio 323,21
+Kenzze Average Marine Winrate 43%
+Kenzze Average Fuel Diverts PerGame 0,43
+Kenzze Average Vespene Harvested PerGame 3628,57
+Kenzze Average Zombie Winrate NaN%
+Kenzze Average Security Kills Per Game NaN
+Kenzze Average Deaths PerGame 2
+Kenzze Average Infestation Class Class 1

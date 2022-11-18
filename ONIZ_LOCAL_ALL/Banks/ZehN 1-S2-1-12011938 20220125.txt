@@ -1,0 +1,23 @@
+ZehN HumanWinsNormal 113
+ZehN ZombieRank 0
+ZehN VespeneHarvested 592220
+ZehN HumansRescued 233
+ZehN SecurityForcesKilled 72970
+ZehN ZombiesKilled 191021
+ZehN FuelDiverted 8
+ZehN HumanRank 7.5834
+ZehN NumberOfTimesCaptured 482
+ZehN TurretsBuilt 1473
+ZehN ZombieWins 50
+ZehN GamesLeft 10
+ZehN GamesPlayedAsHuman 292
+ZehN GamesPlayedAsZombie 160
+ZehN HumansCaptured 1383
+ZehN K/D Ratio 396,31
+ZehN Average Marine Winrate 39%
+ZehN Average Fuel Diverts PerGame 0,03
+ZehN Average Vespene Harvested PerGame 2028,15
+ZehN Average Zombie Winrate 31%
+ZehN Average Security Kills Per Game 456
+ZehN Average Deaths PerGame 1,65
+ZehN Average Infestation Class Class 5

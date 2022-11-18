@@ -1,0 +1,23 @@
+Hellfire HumanWinsNormal 2
+Hellfire ZombieRank 0
+Hellfire VespeneHarvested 19700
+Hellfire HumansRescued 5
+Hellfire SecurityForcesKilled 0
+Hellfire ZombiesKilled 4347
+Hellfire FuelDiverted 1
+Hellfire HumanRank 3
+Hellfire NumberOfTimesCaptured 14
+Hellfire TurretsBuilt 38
+Hellfire ZombieWins 0
+Hellfire GamesLeft 0
+Hellfire GamesPlayedAsHuman 8
+Hellfire GamesPlayedAsZombie 0
+Hellfire HumansCaptured 0
+Hellfire K/D Ratio 310,5
+Hellfire Average Marine Winrate 25%
+Hellfire Average Fuel Diverts PerGame 0,12
+Hellfire Average Vespene Harvested PerGame 2462,5
+Hellfire Average Zombie Winrate NaN%
+Hellfire Average Security Kills Per Game NaN
+Hellfire Average Deaths PerGame 1,75
+Hellfire Average Infestation Class Class 1

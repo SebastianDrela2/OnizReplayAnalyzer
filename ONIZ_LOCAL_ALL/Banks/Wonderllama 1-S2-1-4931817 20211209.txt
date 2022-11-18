@@ -1,0 +1,26 @@
+Wonderllama HumanWinsNormal 21
+Wonderllama LeftLastGameAsZombie 0
+Wonderllama ZombieRank 3.6662
+Wonderllama PlayedRankedMode 1
+Wonderllama VespeneHarvested 151000
+Wonderllama HumansRescued 37
+Wonderllama SecurityForcesKilled 7596
+Wonderllama ZombiesKilled 40527
+Wonderllama FuelDiverted 186
+Wonderllama PlayedRankedMode5.0 1
+Wonderllama HumanRank 13.5
+Wonderllama NumberOfTimesCaptured 91
+Wonderllama TurretsBuilt 201
+Wonderllama ZombieWins 4
+Wonderllama GamesLeft 9
+Wonderllama GamesPlayedAsHuman 60
+Wonderllama GamesPlayedAsZombie 16
+Wonderllama HumansCaptured 157
+Wonderllama K/D Ratio 445,35
+Wonderllama Average Marine Winrate 35%
+Wonderllama Average Fuel Diverts PerGame 3,1
+Wonderllama Average Vespene Harvested PerGame 2516,67
+Wonderllama Average Zombie Winrate 25%
+Wonderllama Average Security Kills Per Game 475
+Wonderllama Average Deaths PerGame 1,52
+Wonderllama Average Infestation Class Class 5

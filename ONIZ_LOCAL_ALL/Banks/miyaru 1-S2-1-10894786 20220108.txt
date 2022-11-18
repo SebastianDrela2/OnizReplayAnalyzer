@@ -1,0 +1,23 @@
+miyaru HumanWinsNormal 25
+miyaru ZombieRank 0
+miyaru VespeneHarvested 163240
+miyaru HumansRescued 53
+miyaru SecurityForcesKilled 639
+miyaru ZombiesKilled 49074
+miyaru FuelDiverted 11
+miyaru HumanRank 0
+miyaru NumberOfTimesCaptured 116
+miyaru TurretsBuilt 406
+miyaru ZombieWins 2
+miyaru GamesLeft 3
+miyaru GamesPlayedAsHuman 79
+miyaru GamesPlayedAsZombie 2
+miyaru HumansCaptured 6
+miyaru K/D Ratio 423,05
+miyaru Average Marine Winrate 32%
+miyaru Average Fuel Diverts PerGame 0,14
+miyaru Average Vespene Harvested PerGame 2066,33
+miyaru Average Zombie Winrate 100%
+miyaru Average Security Kills Per Game 320
+miyaru Average Deaths PerGame 1,47
+miyaru Average Infestation Class Class 4

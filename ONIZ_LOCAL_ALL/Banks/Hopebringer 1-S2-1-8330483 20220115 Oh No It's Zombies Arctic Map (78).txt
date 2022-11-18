@@ -1,0 +1,23 @@
+Hopebringer HumanWinsNormal 1
+Hopebringer ZombieRank 0
+Hopebringer VespeneHarvested 11600
+Hopebringer HumansRescued 2
+Hopebringer SecurityForcesKilled 0
+Hopebringer ZombiesKilled 4012
+Hopebringer FuelDiverted 4
+Hopebringer HumanRank 0
+Hopebringer NumberOfTimesCaptured 14
+Hopebringer TurretsBuilt 4
+Hopebringer ZombieWins 0
+Hopebringer GamesLeft 1
+Hopebringer GamesPlayedAsHuman 5
+Hopebringer GamesPlayedAsZombie 1
+Hopebringer HumansCaptured 0
+Hopebringer K/D Ratio 286,57
+Hopebringer Average Marine Winrate 20%
+Hopebringer Average Fuel Diverts PerGame 0,8
+Hopebringer Average Vespene Harvested PerGame 2320
+Hopebringer Average Zombie Winrate 0%
+Hopebringer Average Security Kills Per Game 0
+Hopebringer Average Deaths PerGame 2,8
+Hopebringer Average Infestation Class Class 1

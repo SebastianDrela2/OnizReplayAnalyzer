@@ -1,0 +1,112 @@
+Analyzed: Oh No It's Zombies Arctic Updated (327)
+
+ID : 0 PlayerName: Frosky Race: Zerg
+ID : 1 PlayerName: llllllllllll Race: Terran
+ID : 2 PlayerName: GunsOfEskimo Race: Terran
+ID : 3 PlayerName: Puppetmaker Race: Terran
+ID : 4 PlayerName: toothless Race: Terran
+ID : 5 PlayerName: Dreamnet Race: Terran
+ID : 6 PlayerName: AICOB Race: Terran
+ID : 7 PlayerName: Security Race: 
+Frosky Zombie Win
+Public Lobby
+
+Game Length:[15:972]
+Players ammount: 8
+Marine rank avg: 8,666666666666666
+GrandMaster ammount: 2
+PURCHASES: 
+[00:643] Frosky Spawned MassiveCocoon
+[02:083] Frosky Spawned Hunter
+[03:023] Frosky Spawned MassiveCocoon
+[04:120] Frosky Bought BuildExtractorScienceLabs
+[04:120] Frosky Placed/Upgraded AutomatedExtractor
+[04:462] Frosky Spawned Hunter
+[06:498] Frosky Bought CreepSpeed
+[09:390] Frosky Bought BuildExtractorExcavationZone
+[09:390] Frosky Placed/Upgraded AutomatedExtractor
+[10:517] Frosky Bought VirulentCreep
+[10:691] Frosky Placed/Upgraded ToxicNest
+[10:704] Frosky Placed/Upgraded ToxicNest
+[11:739] Frosky Bought StrainSpeed
+[11:751] Frosky Bought PureStrainSpeed
+[12:815] Frosky Bought HunterlingStrain
+[13:146] Frosky Bought StrainSpeed
+[13:795] Frosky Placed/Upgraded NydusCanalCreeper
+[14:762] Frosky Bought StrainSpeed
+[14:771] Frosky Bought PureStrainSpeed
+[15:097] Frosky Bought HunterlingStrain
+[00:588] llllllllllll Unlocked AssaultRifle
+[00:680] llllllllllll Placed/Upgraded MiningDroid
+[01:086] llllllllllll Unlocked AdvancedDroidEngines
+[00:588] GunsOfEskimo Unlocked AssaultRifle
+[01:496] GunsOfEskimo Placed/Upgraded MiningDroid
+[01:702] GunsOfEskimo Unlocked SpecOpsAssaultRifle
+[01:810] GunsOfEskimo Unlocked AdvancedDroidEngines
+[02:041] GunsOfEskimo Unlocked CombatSuit
+[02:042] GunsOfEskimo Unlocked ShieldSuit
+[02:042] GunsOfEskimo Unlocked AdvancedShieldSuit
+[02:042] GunsOfEskimo Unlocked CombatSuit
+[02:042] GunsOfEskimo Unlocked AdvancedCombatSuit
+[02:042] GunsOfEskimo Unlocked HazmatSuit
+[02:042] GunsOfEskimo Unlocked AdvancedHazmatSuit
+[02:042] GunsOfEskimo Unlocked CombatSuit
+[03:994] GunsOfEskimo Unlocked TitaniumBulletCasings
+[04:106] GunsOfEskimo Unlocked AdvancedCombatSuit
+[04:107] GunsOfEskimo Unlocked CombatSuit
+[04:107] GunsOfEskimo Unlocked AdvancedCombatSuit
+[06:746] GunsOfEskimo Unlocked CombatShield
+[06:874] GunsOfEskimo Unlocked Teleporter
+[06:955] GunsOfEskimo Unlocked OverloadWeapon
+[07:046] GunsOfEskimo Unlocked ForceFieldGrenade
+[07:084] GunsOfEskimo Unlocked SpecOpsForcefieldGrenade
+[07:298] GunsOfEskimo Unlocked TurboDroidEngines
+[08:609] GunsOfEskimo Unlocked BioMechanicalRepairDrone
+[08:636] GunsOfEskimo Unlocked SpecOpsBioMechanicalRepairDrone
+[08:865] GunsOfEskimo Placed/Upgraded HealingDrone
+[09:059] GunsOfEskimo Placed/Upgraded HealingDrone
+[09:690] GunsOfEskimo Unlocked AutoTurret
+[09:724] GunsOfEskimo Unlocked HeavyTurret
+[10:086] GunsOfEskimo Placed/Upgraded AutoTurret
+[10:615] GunsOfEskimo Placed/Upgraded AutoTurret
+[11:353] GunsOfEskimo Placed/Upgraded AutoTurret
+[00:588] Puppetmaker Unlocked AssaultRifle
+[00:588] toothless Unlocked AssaultRifle
+[00:770] toothless Placed/Upgraded MiningDroid
+[01:543] toothless Unlocked AdvancedDroidEngines
+[02:690] toothless Unlocked TurboDroidEngines
+[04:315] toothless Unlocked PsiDisrupter
+[04:440] toothless Unlocked HellfireRocketLauncher
+[04:485] toothless Unlocked SpecOpsHellfireRocketLauncher
+[04:574] toothless Unlocked ShockwaveMissiles
+[07:011] toothless Unlocked SpecOpsPsiDisruptor
+[08:127] toothless Placed/Upgraded PsiIndoctrinator
+[09:281] toothless Placed/Upgraded PsiIndoctrinator
+[09:485] toothless Unlocked SuperStimpack
+[09:776] toothless Placed/Upgraded MiningDroid
+[13:869] toothless Unlocked SpecOpsSuperStimpack
+[13:983] toothless Placed/Upgraded PsiIndoctrinator
+[00:588] Dreamnet Unlocked AssaultRifle
+[01:096] Dreamnet Placed/Upgraded MiningDroid
+[00:588] AICOB Unlocked AssaultRifle
+[00:741] AICOB Unlocked AdvancedDroidEngines
+[01:093] AICOB Unlocked CombatShield
+[02:711] AICOB Unlocked BeamRifle
+[02:729] AICOB Unlocked SpecOpsPlasmaRifle
+[03:977] AICOB Unlocked PsiDisrupter
+[04:029] AICOB Unlocked SpecOpsPsiDisruptor
+[05:697] AICOB Unlocked SuperStimpack
+[06:345] AICOB Unlocked CorrosivePlasma
+[08:230] AICOB Unlocked AutoTurret
+[08:289] AICOB Unlocked HeavyTurret
+[09:828] AICOB Unlocked BioMechanicalRepairDrone
+[09:844] AICOB Unlocked SpecOpsBioMechanicalRepairDrone
+[10:607] AICOB Unlocked FlameTurret
+[12:259] AICOB Unlocked SpecOpsSuperStimpack
+[12:314] AICOB Unlocked Stimpack
+[15:121] AICOB Unlocked Flamethrower
+[15:140] AICOB Unlocked SpecOpsFlamethrower
+Frosky First Alpha Hunter |  Win
+
+Frosky Placed 0 Greaters.
+--------------------------------

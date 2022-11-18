@@ -1,0 +1,25 @@
+Sterryl HumanWinsNormal 79
+Sterryl LeftLastGameAsZombie 0
+Sterryl ZombieRank 6.166
+Sterryl VespeneHarvested 429700
+Sterryl HumansRescued 139
+Sterryl SecurityForcesKilled 9965
+Sterryl ZombiesKilled 122777
+Sterryl FuelDiverted 114
+Sterryl PlayedRankedMode5.0 1
+Sterryl HumanRank 11.225
+Sterryl NumberOfTimesCaptured 211
+Sterryl TurretsBuilt 554
+Sterryl ZombieWins 10
+Sterryl GamesLeft 17
+Sterryl GamesPlayedAsHuman 165
+Sterryl GamesPlayedAsZombie 21
+Sterryl HumansCaptured 266
+Sterryl K/D Ratio 581,88
+Sterryl Average Marine Winrate 48%
+Sterryl Average Fuel Diverts PerGame 0,69
+Sterryl Average Vespene Harvested PerGame 2604,24
+Sterryl Average Zombie Winrate 48%
+Sterryl Average Security Kills Per Game 475
+Sterryl Average Deaths PerGame 1,28
+Sterryl Average Infestation Class Class 5

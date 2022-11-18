@@ -1,0 +1,23 @@
+MstislavII HumanWinsNormal 2
+MstislavII ZombieRank 0
+MstislavII VespeneHarvested 14220
+MstislavII HumansRescued 5
+MstislavII SecurityForcesKilled 0
+MstislavII ZombiesKilled 1454
+MstislavII FuelDiverted 11
+MstislavII HumanRank 0
+MstislavII NumberOfTimesCaptured 10
+MstislavII TurretsBuilt 11
+MstislavII ZombieWins 0
+MstislavII GamesLeft 1
+MstislavII GamesPlayedAsHuman 5
+MstislavII GamesPlayedAsZombie 0
+MstislavII HumansCaptured 0
+MstislavII K/D Ratio 145,4
+MstislavII Average Marine Winrate 40%
+MstislavII Average Fuel Diverts PerGame 2,2
+MstislavII Average Vespene Harvested PerGame 2844
+MstislavII Average Zombie Winrate NaN%
+MstislavII Average Security Kills Per Game NaN
+MstislavII Average Deaths PerGame 2
+MstislavII Average Infestation Class Class 1

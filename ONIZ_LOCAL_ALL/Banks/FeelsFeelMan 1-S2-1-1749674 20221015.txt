@@ -1,0 +1,23 @@
+FeelsFeelMan HumanWinsNormal 8
+FeelsFeelMan ZombieRank 0
+FeelsFeelMan VespeneHarvested 38100
+FeelsFeelMan HumansRescued 6
+FeelsFeelMan SecurityForcesKilled 0
+FeelsFeelMan ZombiesKilled 10448
+FeelsFeelMan FuelDiverted 10
+FeelsFeelMan HumanRank 10.5
+FeelsFeelMan NumberOfTimesCaptured 19
+FeelsFeelMan TurretsBuilt 45
+FeelsFeelMan ZombieWins 0
+FeelsFeelMan GamesLeft 0
+FeelsFeelMan GamesPlayedAsHuman 15
+FeelsFeelMan GamesPlayedAsZombie 0
+FeelsFeelMan HumansCaptured 0
+FeelsFeelMan K/D Ratio 549,89
+FeelsFeelMan Average Marine Winrate 53%
+FeelsFeelMan Average Fuel Diverts PerGame 0,67
+FeelsFeelMan Average Vespene Harvested PerGame 2540
+FeelsFeelMan Average Zombie Winrate NaN%
+FeelsFeelMan Average Security Kills Per Game NaN
+FeelsFeelMan Average Deaths PerGame 1,27
+FeelsFeelMan Average Infestation Class Class 1

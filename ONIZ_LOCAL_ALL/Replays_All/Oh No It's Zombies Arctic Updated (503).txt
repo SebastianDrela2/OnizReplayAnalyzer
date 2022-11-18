@@ -1,0 +1,146 @@
+Analyzed: Oh No It's Zombies Arctic Updated (503)
+
+ID : 0 PlayerName: Gafe Race: Terran
+ID : 1 PlayerName: Sly Race: Terran
+ID : 2 PlayerName: Pang Race: Terran
+ID : 3 PlayerName: Marth Race: Terran
+ID : 4 PlayerName: Expander Race: Terran
+ID : 5 PlayerName: Ppoint Race: Terran
+ID : 6 PlayerName: Frosky Race: Zerg
+ID : 7 PlayerName: Security Race: Protoss
+Frosky Zombie Win
+Public Lobby
+
+Game Length:[29:855]
+Players ammount: 8
+Marine rank avg: 10
+GrandMaster ammount: 1
+PURCHASES: 
+[00:588] Gafe Unlocked AssaultRifle
+[01:028] Gafe Placed/Upgraded MiningDroid
+[01:226] Gafe Unlocked Shotgun
+[04:171] Gafe Unlocked Stimpack
+[06:979] Gafe Unlocked AdvancedDroidEngines
+[08:628] Gafe Unlocked SpecOpsShotgun
+[09:700] Gafe Unlocked Shieldsiotunlocked
+[12:328] Gafe Unlocked SuperStimpack
+[14:122] Gafe Unlocked IncendiaryBullets
+[00:588] Sly Unlocked AssaultRifle
+[00:705] Sly Placed/Upgraded MiningDroid
+[00:747] Sly Unlocked AdvancedDroidEngines
+[04:001] Sly Unlocked TurboDroidEngines
+[06:684] Sly Unlocked SpecOpsAssaultRifle
+[09:701] Sly Bought ShieldSuit
+[09:701] Sly Bought CombatSuit
+[09:701] Sly Bought HazmatSuit
+[09:701] Sly Bought ShieldSuit
+[09:755] Sly Unlocked CombatSuit
+[09:772] Sly Unlocked AdvancedCombatSuit
+[10:726] Sly Unlocked OverloadWeapon
+[11:823] Sly Unlocked TitaniumBulletCasings
+[13:277] Sly Unlocked ExplorationDroid
+[13:281] Sly Unlocked AdvancedExplorationDroid
+[18:138] Sly Unlocked SuperStimpack
+[18:237] Sly Placed/Upgraded ExplorationDroid
+[00:588] Pang Unlocked AssaultRifle
+[00:892] Pang Unlocked Stimpack
+[01:380] Pang Placed/Upgraded MiningDroid
+[04:265] Pang Unlocked AdvancedDroidEngines
+[06:494] Pang Unlocked SpecOpsAssaultRifle
+[09:012] Pang Unlocked CombatSuit
+[09:054] Pang Unlocked AdvancedCombatSuit
+[09:756] Pang Bought ShieldSuit
+[09:756] Pang Bought CombatSuit
+[09:756] Pang Bought HazmatSuit
+[09:756] Pang Bought CombatSuit
+[09:773] Pang Bought CombatSuit
+[10:778] Pang Unlocked AutoTargetingSystem
+[10:911] Pang Unlocked FlashBang
+[13:395] Pang Unlocked TurboDroidEngines
+[18:635] Pang Unlocked MedicShield
+[18:646] Pang Unlocked AIAssistant
+[19:235] Pang Placed/Upgraded MiningDroid
+[00:588] Marth Unlocked AssaultRifle
+[00:707] Marth Placed/Upgraded MiningDroid
+[00:777] Marth Unlocked FragGrenade
+[03:053] Marth Unlocked AdvancedDroidEngines
+[06:270] Marth Unlocked HellfireRocketLauncher
+[06:322] Marth Unlocked SpecOpsHellfireRocketLauncher
+[08:449] Marth Unlocked ShockwaveMissiles
+[09:013] Marth Bought ShieldSuit
+[09:013] Marth Bought CombatSuit
+[09:013] Marth Bought HazmatSuit
+[09:013] Marth Bought CombatSuit
+[09:055] Marth Bought CombatSuit
+[10:044] Marth Unlocked TurboDroidEngines
+[13:614] Marth Unlocked SpecOpsFragGrenade
+[13:683] Marth Unlocked EnergySuit
+[13:684] Marth Unlocked EnergySuit
+[15:959] Marth Placed/Upgraded MiningDroid
+[16:838] Marth Unlocked AdvancedEnergySuit
+[16:839] Marth Unlocked EnergySuit
+[16:839] Marth Unlocked AdvancedEnergySuit
+[00:588] Expander Unlocked AssaultRifle
+[00:669] Expander Placed/Upgraded MiningDroid
+[00:914] Expander Unlocked AdvancedDroidEngines
+[04:568] Expander Unlocked TurboDroidEngines
+[07:477] Expander Unlocked BeamRifle
+[10:187] Expander Unlocked SpecOpsPlasmaRifle
+[11:344] Expander Unlocked PlasmaRifleMod3
+[11:872] Expander Unlocked AutoTurret
+[12:097] Expander Unlocked MedicShield
+[13:684] Expander Bought ShieldSuit
+[13:684] Expander Bought CombatSuit
+[13:684] Expander Bought HazmatSuit
+[14:788] Expander Unlocked Teleporter
+[16:261] Expander Unlocked SpecOpsTeleporter
+[18:203] Expander Unlocked CombatSuit
+[18:227] Expander Unlocked AdvancedCombatSuit
+[19:380] Expander Unlocked HeavyTurret
+[19:547] Expander Unlocked IncendiaryGrenade
+[00:588] Ppoint Unlocked AssaultRifle
+[00:667] Ppoint Placed/Upgraded MiningDroid
+[00:764] Ppoint Unlocked AdvancedDroidEngines
+[03:745] Ppoint Unlocked TurboDroidEngines
+[06:738] Ppoint Unlocked Stimpack
+[06:943] Ppoint Unlocked FragGrenade
+[07:915] Ppoint Unlocked MotionSensor
+[07:979] Ppoint Placed/Upgraded SensorTower
+[08:488] Ppoint Placed/Upgraded SensorTower
+[10:279] Ppoint Unlocked BeamRifle
+[10:746] Ppoint Unlocked CombatSuit
+[12:435] Ppoint Placed/Upgraded MiningDroid
+[14:306] Ppoint Unlocked SpecOpsPlasmaRifle
+[18:204] Ppoint Bought ShieldSuit
+[18:204] Ppoint Bought CombatSuit
+[18:204] Ppoint Bought HazmatSuit
+[18:204] Ppoint Bought CombatSuit
+[18:228] Ppoint Bought CombatSuit
+[20:184] Ppoint Unlocked SuperStimpack
+[00:552] Frosky Bought PlayerNumber
+[00:635] Frosky Spawned MassiveCocoon
+[02:075] Frosky Spawned Hunter
+[03:782] Frosky Spawned MassiveCocoon
+[05:222] Frosky Spawned Hunter
+[05:785] Frosky Spawned MassiveCocoon
+[07:225] Frosky Spawned PrimalTownHallUprooted
+[10:747] Frosky Bought ShieldSuit
+[10:747] Frosky Bought CombatSuit
+[10:747] Frosky Bought HazmatSuit
+[10:747] Frosky Bought CombatSuit
+[11:595] Frosky Bought CreepSpeed
+[13:005] Frosky Bought VirulentCreep
+[13:005] Frosky Bought VirulentCreep
+[13:356] Frosky Bought BuildExtractorScienceLabs
+[15:231] Frosky Bought CreepSpeed
+[16:242] Frosky Bought AdvancedInfestationContainment
+[16:741] Frosky Bought BuildExtractorManufacturingSector
+[18:481] Frosky Bought ExtractorCostReductionManufacturingSector
+[18:481] Frosky Bought BuildExtractorManufacturingSector
+[18:624] Frosky Bought SiphonFuel
+[19:960] Frosky Bought BuildExtractorProcessingFacilities
+[19:990] Frosky Bought BuildExtractorExcavationZone
+Frosky First Alpha Hunter |  Win
+
+Frosky Placed 0 Greaters.
+--------------------------------

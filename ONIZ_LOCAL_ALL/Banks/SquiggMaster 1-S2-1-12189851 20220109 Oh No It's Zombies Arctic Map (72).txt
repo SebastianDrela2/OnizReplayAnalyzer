@@ -1,0 +1,23 @@
+SquiggMaster HumanWinsNormal 1
+SquiggMaster ZombieRank 0
+SquiggMaster VespeneHarvested 3000
+SquiggMaster HumansRescued 1
+SquiggMaster SecurityForcesKilled 0
+SquiggMaster ZombiesKilled 562
+SquiggMaster FuelDiverted 4
+SquiggMaster HumanRank 1
+SquiggMaster NumberOfTimesCaptured 1
+SquiggMaster TurretsBuilt 4
+SquiggMaster ZombieWins 0
+SquiggMaster GamesLeft 0
+SquiggMaster GamesPlayedAsHuman 1
+SquiggMaster GamesPlayedAsZombie 0
+SquiggMaster HumansCaptured 0
+SquiggMaster K/D Ratio 562
+SquiggMaster Average Marine Winrate 100%
+SquiggMaster Average Fuel Diverts PerGame 4
+SquiggMaster Average Vespene Harvested PerGame 3000
+SquiggMaster Average Zombie Winrate NaN%
+SquiggMaster Average Security Kills Per Game NaN
+SquiggMaster Average Deaths PerGame 1
+SquiggMaster Average Infestation Class Class 1

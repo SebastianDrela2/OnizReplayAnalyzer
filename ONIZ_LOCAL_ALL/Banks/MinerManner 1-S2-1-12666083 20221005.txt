@@ -1,0 +1,23 @@
+MinerManner HumanWinsNormal 1
+MinerManner ZombieRank 0
+MinerManner VespeneHarvested 8200
+MinerManner HumansRescued 4
+MinerManner SecurityForcesKilled 0
+MinerManner ZombiesKilled 1389
+MinerManner FuelDiverted 3
+MinerManner HumanRank 0
+MinerManner NumberOfTimesCaptured 3
+MinerManner TurretsBuilt 19
+MinerManner ZombieWins 0
+MinerManner GamesLeft 0
+MinerManner GamesPlayedAsHuman 3
+MinerManner GamesPlayedAsZombie 0
+MinerManner HumansCaptured 0
+MinerManner K/D Ratio 463
+MinerManner Average Marine Winrate 33%
+MinerManner Average Fuel Diverts PerGame 1
+MinerManner Average Vespene Harvested PerGame 2733,33
+MinerManner Average Zombie Winrate NaN%
+MinerManner Average Security Kills Per Game NaN
+MinerManner Average Deaths PerGame 1
+MinerManner Average Infestation Class Class 1

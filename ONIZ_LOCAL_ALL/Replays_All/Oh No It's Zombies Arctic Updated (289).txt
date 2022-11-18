@@ -1,0 +1,193 @@
+Analyzed: Oh No It's Zombies Arctic Updated (289)
+
+ID : 0 PlayerName: Jmsslayer Race: Terran
+ID : 1 PlayerName: Frosky Race: Zerg
+ID : 2 PlayerName: justdoit Race: Terran
+ID : 3 PlayerName: JMM Race: Terran
+ID : 4 PlayerName: ROY Race: Terran
+ID : 5 PlayerName: Grimmjow Race: Terran
+ID : 6 PlayerName: DJWOLF Race: Terran
+ID : 7 PlayerName: Security Race: MechaZerg
+Frosky Zombie Win
+Public Lobby
+
+Game Length:[42:661]
+Players ammount: 8
+Marine rank avg: 9,166666666666666
+GrandMaster ammount: 1
+PURCHASES: 
+[00:588] Jmsslayer Unlocked AssaultRifle
+[00:919] Jmsslayer Unlocked Stimpack
+[02:868] Jmsslayer Placed MiningDroid
+[03:279] Jmsslayer Unlocked AdvancedDroidEngines
+[05:462] Jmsslayer Unlocked TurboDroidEngines
+[07:572] Jmsslayer Unlocked AutoTurret
+[07:640] Jmsslayer Unlocked HeavyTurret
+[08:138] Jmsslayer Placed AutoTurret
+[08:375] Jmsslayer Placed AutoTurret
+[10:338] Jmsslayer Placed AutoTurret
+[10:551] Jmsslayer Unlocked BioMechanicalRepairDrone
+[10:935] Jmsslayer Placed HealingDrone
+[11:734] Jmsslayer Unlocked SpecOpsTurret
+[11:964] Jmsslayer Placed AutoTurret
+[12:185] Jmsslayer Placed AutoTurret
+[12:576] Jmsslayer Placed AutoTurret
+[13:530] Jmsslayer Unlocked PsiDisrupter
+[15:266] Jmsslayer Placed MiningDroid
+[17:993] Jmsslayer Placed PsiIndoctrinator
+[18:440] Jmsslayer Unlocked PsiDepressor
+[18:705] Jmsslayer Unlocked Teleporter
+[20:017] Jmsslayer Placed AutoTurret
+[20:208] Jmsslayer Placed AutoTurret
+[21:301] Jmsslayer Placed PsiIndoctrinator
+[00:552] Frosky Bought PlayerNumber
+[00:631] Frosky Spawned MassiveCocoon
+[02:071] Frosky Spawned Hunter
+[05:396] Frosky Bought CreepSpeed
+[07:172] Frosky Placed/Upgraded ToxicNest
+[07:180] Frosky Placed/Upgraded ToxicNest
+[08:330] Frosky Placed/Upgraded ToxicNest
+[08:340] Frosky Placed/Upgraded ToxicNest
+[08:757] Frosky Bought CreepSpeed
+[10:176] Frosky Bought VirulentCreep
+[10:176] Frosky Bought VirulentCreep
+[13:141] Frosky Spawned MassiveCocoon
+[14:581] Frosky Spawned Hunter
+[16:492] Frosky Bought SpawnNydusWorm
+[17:523] Frosky Bought StrainSpeed
+[18:444] Frosky Bought PureStrainSpeed
+[19:029] Frosky Bought StrainDamage
+[19:331] Frosky Placed/Upgraded GreaterNydusWorm
+[20:160] Frosky Spawned MassiveCocoon
+[20:883] Frosky Placed/Upgraded Virophage
+[21:600] Frosky Spawned Hunter
+[22:275] Frosky Bought UnlockDropPods
+[23:963] Frosky Bought EvolveDropPods
+[23:988] Frosky Bought EvolveDropPods
+[24:317] Frosky Placed/Upgraded Virophage
+[26:295] Frosky Placed/Upgraded GreaterNydusWorm
+[27:884] Frosky Bought StrainVolatile
+[29:089] Frosky Bought SiphonFuel
+[30:242] Frosky Bought HunterlingStrain
+[30:412] Frosky Placed/Upgraded NydusCanalCreeper
+[32:686] Frosky Bought PureStrainDamage
+[32:705] Frosky Bought StrainHealth
+[33:462] Frosky Bought SiphonFuel
+[34:968] Frosky Bought PureStrainHealth
+[35:246] Frosky Bought DropshipsFueled
+[35:408] Frosky Bought SweepingInfestation
+[35:408] Frosky Bought UltimateInfestationResearched
+[35:971] Frosky Bought StrainSpeed
+[35:984] Frosky Bought PureStrainSpeed
+[37:074] Frosky Bought HunterlingStrain
+[39:037] Frosky Bought TankStrain
+[39:953] Frosky Placed/Upgraded NydusCanalCreeper
+[40:473] Frosky Placed/Upgraded GreaterNydusWorm
+[40:715] Frosky Bought PureStrainVolatile
+[40:958] Frosky Placed/Upgraded NydusCanalCreeper
+[00:588] justdoit Unlocked AssaultRifle
+[00:672] justdoit Placed/Upgraded MiningDroid
+[01:096] justdoit Unlocked FragGrenade
+[01:105] justdoit Unlocked SpecOpsFragGrenade
+[02:909] justdoit Unlocked Stimpack
+[05:459] justdoit Unlocked BeamRifle
+[00:588] JMM Unlocked AssaultRifle
+[00:777] JMM Placed/Upgraded MiningDroid
+[01:147] JMM Unlocked Stimpack
+[03:271] JMM Unlocked HellfireRocketLauncher
+[05:697] JMM Unlocked SuperStimpack
+[06:838] JMM Unlocked SpecOpsHellfireRocketLauncher
+[08:345] JMM Unlocked ExplorationDroid
+[08:449] JMM Placed/Upgraded ExplorationDroid
+[09:120] JMM Placed/Upgraded ExplorationDroid
+[10:942] JMM Placed/Upgraded ExplorationDroid
+[11:167] JMM Unlocked SpecOpsSuperStimpack
+[12:665] JMM Unlocked HazmatSuit
+[13:536] JMM Unlocked AdvancedHazmatSuit
+[14:128] JMM Placed/Upgraded MiningDroid
+[16:137] JMM Unlocked CombatShield
+[16:159] JMM Unlocked EnergyPack
+[18:610] JMM Unlocked BioMechanicalRepairDrone
+[21:461] JMM Placed/Upgraded HealingDrone
+[21:636] JMM Placed/Upgraded HealingDrone
+[21:871] JMM Placed/Upgraded HealingDrone
+[22:878] JMM Unlocked FlashBang
+[24:356] JMM Placed/Upgraded HealingDrone
+[36:948] JMM Placed/Upgraded HealingDrone
+[38:927] JMM Placed/Upgraded HealingDrone
+[00:588] ROY Unlocked AssaultRifle
+[00:989] ROY Placed/Upgraded MiningDroid
+[01:158] ROY Unlocked AdvancedDroidEngines
+[01:282] ROY Unlocked IncendiaryGrenade
+[05:420] ROY Unlocked SpecOpsAssaultRifle
+[07:647] ROY Unlocked AutoTargetingSystem
+[09:274] ROY Unlocked ExplorationDroid
+[09:365] ROY Placed/Upgraded ExplorationDroid
+[09:417] ROY Placed/Upgraded ExplorationDroid
+[09:835] ROY Placed/Upgraded ExplorationDroid
+[10:332] ROY Unlocked TurboDroidEngines
+[11:223] ROY Unlocked BioMechanicalRepairDrone
+[11:793] ROY Unlocked OverloadWeapon
+[12:666] ROY Bought ShieldSuit
+[12:666] ROY Bought CombatSuit
+[12:666] ROY Bought HazmatSuit
+[12:666] ROY Bought HazmatSuit
+[13:255] ROY Placed/Upgraded HealingDrone
+[13:509] ROY Unlocked AdvancedExplorationDroid
+[13:537] ROY Bought HazmatSuit
+[14:159] ROY Placed/Upgraded HealingDrone
+[15:468] ROY Unlocked PowerConverter
+[15:557] ROY Unlocked MedicShield
+[15:566] ROY Unlocked QuantumBackpack
+[16:134] ROY Unlocked AIAssistant
+[16:212] ROY Unlocked CombatSuit
+[18:120] ROY Placed/Upgraded HealingDrone
+[18:838] ROY Placed/Upgraded ExplorationDroid
+[20:874] ROY Unlocked PsiDisrupter
+[21:425] ROY Placed/Upgraded HealingDrone
+[23:115] ROY Placed/Upgraded ExplorationDroid
+[30:284] ROY Placed/Upgraded HealingDrone
+[31:965] ROY Placed/Upgraded HealingDrone
+[00:588] Grimmjow Unlocked AssaultRifle
+[00:713] Grimmjow Placed/Upgraded MiningDroid
+[01:078] Grimmjow Unlocked Stimpack
+[03:768] Grimmjow Unlocked AdvancedDroidEngines
+[06:810] Grimmjow Unlocked SpecOpsAssaultRifle
+[10:552] Grimmjow Unlocked TitaniumBulletCasings
+[12:367] Grimmjow Unlocked MedicShield
+[14:634] Grimmjow Unlocked CombatSuit
+[14:663] Grimmjow Unlocked AdvancedCombatSuit
+[16:213] Grimmjow Bought ShieldSuit
+[16:213] Grimmjow Bought CombatSuit
+[16:213] Grimmjow Bought HazmatSuit
+[16:213] Grimmjow Bought CombatSuit
+[16:920] Grimmjow Unlocked CombatShield
+[17:590] Grimmjow Unlocked AutoTurret
+[17:644] Grimmjow Unlocked SpecOpsTurret
+[19:180] Grimmjow Placed/Upgraded AutoTurret
+[20:510] Grimmjow Placed/Upgraded AutoTurret
+[21:044] Grimmjow Placed/Upgraded AutoTurret
+[23:216] Grimmjow Placed/Upgraded AutoTurret
+[23:533] Grimmjow Placed/Upgraded AutoTurret
+[23:761] Grimmjow Placed/Upgraded AutoTurret
+[29:670] Grimmjow Placed/Upgraded AutoTurret
+[30:016] Grimmjow Placed/Upgraded AutoTurret
+[31:185] Grimmjow Placed/Upgraded AutoTurret
+[38:654] Grimmjow Placed/Upgraded AutoTurret
+[41:080] Grimmjow Placed/Upgraded AutoTurret
+[00:588] DJWOLF Unlocked AssaultRifle
+[03:451] DJWOLF Unlocked AutoTurret
+[03:569] DJWOLF Unlocked HeavyTurret
+[05:454] DJWOLF Unlocked Stimpack
+[09:314] DJWOLF Unlocked BeamRifle
+[14:635] DJWOLF Bought ShieldSuit
+[14:635] DJWOLF Bought CombatSuit
+[14:635] DJWOLF Bought HazmatSuit
+[14:635] DJWOLF Bought CombatSuit
+[14:664] DJWOLF Bought CombatSuit
+[15:092] DJWOLF Unlocked FlameTurret
+[23:687] DJWOLF Unlocked SpecOpsPlasmaRifle
+Frosky First Alpha Hunter |  Win
+
+Frosky Placed 3 Greaters.
+--------------------------------

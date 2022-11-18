@@ -1,0 +1,23 @@
+tactinuke HumanWinsNormal 0
+tactinuke ZombieRank 0
+tactinuke VespeneHarvested 700
+tactinuke HumansRescued 1
+tactinuke SecurityForcesKilled 0
+tactinuke ZombiesKilled 790
+tactinuke FuelDiverted 3
+tactinuke HumanRank 0
+tactinuke NumberOfTimesCaptured 13
+tactinuke TurretsBuilt 0
+tactinuke ZombieWins 0
+tactinuke GamesLeft 0
+tactinuke GamesPlayedAsHuman 3
+tactinuke GamesPlayedAsZombie 0
+tactinuke HumansCaptured 0
+tactinuke K/D Ratio 60,77
+tactinuke Average Marine Winrate 0%
+tactinuke Average Fuel Diverts PerGame 1
+tactinuke Average Vespene Harvested PerGame 233,33
+tactinuke Average Zombie Winrate NaN%
+tactinuke Average Security Kills Per Game NaN
+tactinuke Average Deaths PerGame 4,33
+tactinuke Average Infestation Class Class 1

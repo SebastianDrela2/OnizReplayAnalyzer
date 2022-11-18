@@ -1,0 +1,24 @@
+JCTBasic HumanWinsNormal 12
+JCTBasic LeftLastGameAsZombie 0
+JCTBasic ZombieRank 16.9995
+JCTBasic VespeneHarvested 76800
+JCTBasic HumansRescued 23
+JCTBasic SecurityForcesKilled 9821
+JCTBasic ZombiesKilled 13375
+JCTBasic FuelDiverted 46
+JCTBasic HumanRank 11.75
+JCTBasic NumberOfTimesCaptured 16
+JCTBasic TurretsBuilt 140
+JCTBasic ZombieWins 14
+JCTBasic GamesLeft 1
+JCTBasic GamesPlayedAsHuman 23
+JCTBasic GamesPlayedAsZombie 24
+JCTBasic HumansCaptured 269
+JCTBasic K/D Ratio 835,94
+JCTBasic Average Marine Winrate 52%
+JCTBasic Average Fuel Diverts PerGame 2
+JCTBasic Average Vespene Harvested PerGame 3339,13
+JCTBasic Average Zombie Winrate 57,99999999999999%
+JCTBasic Average Security Kills Per Game 409
+JCTBasic Average Deaths PerGame 0,7
+JCTBasic Average Infestation Class Class 5

@@ -1,0 +1,24 @@
+Cruel HumanWinsNormal 182
+Cruel ZombieRank 16.1655
+Cruel VespeneHarvested 1019780
+Cruel HumansRescued 198
+Cruel SecurityForcesKilled 20929
+Cruel ZombiesKilled 213426
+Cruel FuelDiverted 1282
+Cruel PlayedRankedMode5.0 1
+Cruel HumanRank 15.975
+Cruel NumberOfTimesCaptured 479
+Cruel TurretsBuilt 2831
+Cruel ZombieWins 24
+Cruel GamesLeft 21
+Cruel GamesPlayedAsHuman 371
+Cruel GamesPlayedAsZombie 49
+Cruel HumansCaptured 470
+Cruel K/D Ratio 445,57
+Cruel Average Marine Winrate 49%
+Cruel Average Fuel Diverts PerGame 3,46
+Cruel Average Vespene Harvested PerGame 2748,73
+Cruel Average Zombie Winrate 49%
+Cruel Average Security Kills Per Game 427
+Cruel Average Deaths PerGame 1,29
+Cruel Average Infestation Class Class 5

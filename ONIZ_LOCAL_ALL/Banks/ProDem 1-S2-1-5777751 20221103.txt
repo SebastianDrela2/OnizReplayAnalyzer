@@ -1,0 +1,22 @@
+ProDem HumanWinsNormal 202
+ProDem VespeneHarvested 1367305
+ProDem SecurityForcesKilled 84278
+ProDem HumansRescued 232
+ProDem ZombiesKilled 257138
+ProDem FuelDiverted 871
+ProDem HumanRank 28
+ProDem ZombieWins 134
+ProDem TurretsBuilt 2973
+ProDem NumberOfTimesCaptured 570
+ProDem GamesLeft 9
+ProDem HumansCaptured 1807
+ProDem GamesPlayedAsZombie 196
+ProDem GamesPlayedAsHuman 369
+ProDem K/D Ratio 451,12
+ProDem Average Marine Winrate 55,00000000000001%
+ProDem Average Fuel Diverts PerGame 2,36
+ProDem Average Vespene Harvested PerGame 3705,43
+ProDem Average Zombie Winrate 68%
+ProDem Average Security Kills Per Game 430
+ProDem Average Deaths PerGame 1,54
+ProDem Average Infestation Class Class 5

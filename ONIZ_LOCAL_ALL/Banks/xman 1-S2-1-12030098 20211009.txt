@@ -1,0 +1,23 @@
+xman HumanWinsNormal 2
+xman ZombieRank 0
+xman VespeneHarvested 6000
+xman HumansRescued 1
+xman SecurityForcesKilled 440
+xman ZombiesKilled 637
+xman FuelDiverted 4
+xman HumanRank 1
+xman NumberOfTimesCaptured 5
+xman TurretsBuilt 11
+xman ZombieWins 2
+xman GamesLeft 1
+xman GamesPlayedAsHuman 4
+xman GamesPlayedAsZombie 2
+xman HumansCaptured 0
+xman K/D Ratio 127,4
+xman Average Marine Winrate 50%
+xman Average Fuel Diverts PerGame 1
+xman Average Vespene Harvested PerGame 1500
+xman Average Zombie Winrate 100%
+xman Average Security Kills Per Game 220
+xman Average Deaths PerGame 1,25
+xman Average Infestation Class Class 3

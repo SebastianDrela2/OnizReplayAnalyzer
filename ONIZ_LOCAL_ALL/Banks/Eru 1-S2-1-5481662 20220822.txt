@@ -1,0 +1,23 @@
+Eru HumanWinsNormal 79
+Eru ZombieRank 0
+Eru VespeneHarvested 396080
+Eru HumansRescued 99
+Eru SecurityForcesKilled 4621
+Eru ZombiesKilled 80936
+Eru FuelDiverted 52
+Eru HumanRank 20.75
+Eru NumberOfTimesCaptured 116
+Eru TurretsBuilt 645
+Eru ZombieWins 1
+Eru GamesLeft 18
+Eru GamesPlayedAsHuman 144
+Eru GamesPlayedAsZombie 11
+Eru HumansCaptured 59
+Eru K/D Ratio 697,72
+Eru Average Marine Winrate 55,00000000000001%
+Eru Average Fuel Diverts PerGame 0,36
+Eru Average Vespene Harvested PerGame 2750,56
+Eru Average Zombie Winrate 9%
+Eru Average Security Kills Per Game 420
+Eru Average Deaths PerGame 0,81
+Eru Average Infestation Class Class 5

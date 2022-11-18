@@ -1,0 +1,23 @@
+Conker HumanWinsNormal 1
+Conker ZombieRank 0
+Conker VespeneHarvested 14720
+Conker HumansRescued 1
+Conker SecurityForcesKilled 0
+Conker ZombiesKilled 3736
+Conker FuelDiverted 10
+Conker HumanRank 2
+Conker NumberOfTimesCaptured 14
+Conker TurretsBuilt 4
+Conker ZombieWins 0
+Conker GamesLeft 0
+Conker GamesPlayedAsHuman 6
+Conker GamesPlayedAsZombie 0
+Conker HumansCaptured 0
+Conker K/D Ratio 266,86
+Conker Average Marine Winrate 17%
+Conker Average Fuel Diverts PerGame 1,67
+Conker Average Vespene Harvested PerGame 2453,33
+Conker Average Zombie Winrate NaN%
+Conker Average Security Kills Per Game NaN
+Conker Average Deaths PerGame 2,33
+Conker Average Infestation Class Class 1

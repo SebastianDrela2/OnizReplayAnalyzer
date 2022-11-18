@@ -1,0 +1,23 @@
+Sylferian HumanWinsNormal 2
+Sylferian ZombieRank 0
+Sylferian VespeneHarvested 25900
+Sylferian HumansRescued 19
+Sylferian SecurityForcesKilled 0
+Sylferian ZombiesKilled 7495
+Sylferian FuelDiverted 3
+Sylferian HumanRank 0
+Sylferian NumberOfTimesCaptured 36
+Sylferian TurretsBuilt 45
+Sylferian ZombieWins 0
+Sylferian GamesLeft 0
+Sylferian GamesPlayedAsHuman 18
+Sylferian GamesPlayedAsZombie 0
+Sylferian HumansCaptured 0
+Sylferian K/D Ratio 208,19
+Sylferian Average Marine Winrate 11%
+Sylferian Average Fuel Diverts PerGame 0,17
+Sylferian Average Vespene Harvested PerGame 1438,89
+Sylferian Average Zombie Winrate NaN%
+Sylferian Average Security Kills Per Game NaN
+Sylferian Average Deaths PerGame 2
+Sylferian Average Infestation Class Class 1

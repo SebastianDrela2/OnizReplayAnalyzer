@@ -1,0 +1,23 @@
+poppy HumanWinsNormal 1
+poppy ZombieRank 0
+poppy VespeneHarvested 4700
+poppy HumansRescued 0
+poppy SecurityForcesKilled 0
+poppy ZombiesKilled 879
+poppy FuelDiverted 0
+poppy HumanRank 0
+poppy NumberOfTimesCaptured 2
+poppy TurretsBuilt 2
+poppy ZombieWins 0
+poppy GamesLeft 0
+poppy GamesPlayedAsHuman 2
+poppy GamesPlayedAsZombie 0
+poppy HumansCaptured 0
+poppy K/D Ratio 439,5
+poppy Average Marine Winrate 50%
+poppy Average Fuel Diverts PerGame 0
+poppy Average Vespene Harvested PerGame 2350
+poppy Average Zombie Winrate NaN%
+poppy Average Security Kills Per Game NaN
+poppy Average Deaths PerGame 1
+poppy Average Infestation Class Class 1

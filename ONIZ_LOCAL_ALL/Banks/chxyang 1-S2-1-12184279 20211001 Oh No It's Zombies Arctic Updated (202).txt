@@ -1,0 +1,23 @@
+chxyang HumanWinsNormal 1
+chxyang ZombieRank 0
+chxyang VespeneHarvested 4300
+chxyang HumansRescued 7
+chxyang SecurityForcesKilled 0
+chxyang ZombiesKilled 1365
+chxyang FuelDiverted 4
+chxyang HumanRank 0
+chxyang NumberOfTimesCaptured 11
+chxyang TurretsBuilt 3
+chxyang ZombieWins 0
+chxyang GamesLeft 0
+chxyang GamesPlayedAsHuman 3
+chxyang GamesPlayedAsZombie 0
+chxyang HumansCaptured 0
+ImIndecisive K/D Ratio 124,09
+ImIndecisive Average Marine Winrate 33%
+ImIndecisive Average Fuel Diverts PerGame 1,33
+ImIndecisive Average Vespene Harvested PerGame 1433,33
+ImIndecisive Average Zombie Winrate NaN%
+ImIndecisive Average Security Kills Per Game NaN
+ImIndecisive Average Deaths PerGame 3,67
+ImIndecisive Average Infestation Class Class 1

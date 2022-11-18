@@ -1,0 +1,23 @@
+ShadowDragon HumanWinsNormal 2
+ShadowDragon ZombieRank 0
+ShadowDragon VespeneHarvested 15000
+ShadowDragon HumansRescued 7
+ShadowDragon SecurityForcesKilled 0
+ShadowDragon ZombiesKilled 2922
+ShadowDragon FuelDiverted 0
+ShadowDragon HumanRank 0
+ShadowDragon NumberOfTimesCaptured 21
+ShadowDragon TurretsBuilt 20
+ShadowDragon ZombieWins 0
+ShadowDragon GamesLeft 0
+ShadowDragon GamesPlayedAsHuman 10
+ShadowDragon GamesPlayedAsZombie 0
+ShadowDragon HumansCaptured 0
+ShadowDragon K/D Ratio 139,14
+ShadowDragon Average Marine Winrate 20%
+ShadowDragon Average Fuel Diverts PerGame 0
+ShadowDragon Average Vespene Harvested PerGame 1500
+ShadowDragon Average Zombie Winrate NaN%
+ShadowDragon Average Security Kills Per Game NaN
+ShadowDragon Average Deaths PerGame 2,1
+ShadowDragon Average Infestation Class Class 1

@@ -1,0 +1,24 @@
+LittleKoshy HumanWinsNormal 11
+LittleKoshy LeftLastGameAsZombie 0
+LittleKoshy ZombieRank 0
+LittleKoshy VespeneHarvested 53700
+LittleKoshy HumansRescued 18
+LittleKoshy SecurityForcesKilled 0
+LittleKoshy ZombiesKilled 10235
+LittleKoshy FuelDiverted 70
+LittleKoshy HumanRank 5
+LittleKoshy NumberOfTimesCaptured 53
+LittleKoshy TurretsBuilt 68
+LittleKoshy ZombieWins 0
+LittleKoshy GamesLeft 1
+LittleKoshy GamesPlayedAsHuman 24
+LittleKoshy GamesPlayedAsZombie 0
+LittleKoshy HumansCaptured 0
+LittleKoshy K/D Ratio 193,11
+LittleKoshy Average Marine Winrate 46%
+LittleKoshy Average Fuel Diverts PerGame 2,92
+LittleKoshy Average Vespene Harvested PerGame 2237,5
+LittleKoshy Average Zombie Winrate NaN%
+LittleKoshy Average Security Kills Per Game NaN
+LittleKoshy Average Deaths PerGame 2,21
+LittleKoshy Average Infestation Class Class 1

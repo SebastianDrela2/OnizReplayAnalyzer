@@ -1,0 +1,23 @@
+Frosky HumanWinsNormal 90
+Frosky ZombieRank 19.9978
+Frosky VespeneHarvested 480700
+Frosky HumansRescued 130
+Frosky SecurityForcesKilled 29501
+Frosky ZombiesKilled 92476
+Frosky FuelDiverted 1162
+Frosky HumanRank 15.8334
+Frosky NumberOfTimesCaptured 375
+Frosky TurretsBuilt 949
+Frosky ZombieWins 39
+Frosky GamesLeft 36
+Frosky GamesPlayedAsHuman 179
+Frosky GamesPlayedAsZombie 104
+Frosky HumansCaptured 719
+Frosky K/D Ratio 246,6
+Frosky Average Marine Winrate 50%
+Frosky Average Fuel Diverts PerGame 6,49
+Frosky Average Vespene Harvested PerGame 2685,47
+Frosky Average Zombie Winrate 38%
+Frosky Average Security Kills Per Game 284
+Frosky Average Deaths PerGame 2,09
+Frosky Average Infestation Class Class 3

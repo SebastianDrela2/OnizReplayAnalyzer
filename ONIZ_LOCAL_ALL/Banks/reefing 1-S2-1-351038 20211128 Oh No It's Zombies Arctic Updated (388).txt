@@ -1,0 +1,25 @@
+reefing HumanWinsNormal 153
+reefing LeftLastGameAsZombie 0
+reefing ZombieRank 6.3322
+reefing VespeneHarvested 895900
+reefing HumansRescued 382
+reefing SecurityForcesKilled 23596
+reefing ZombiesKilled 219543
+reefing FuelDiverted 176
+reefing PlayedRankedMode5.0 1
+reefing HumanRank 19.3173
+reefing NumberOfTimesCaptured 510
+reefing TurretsBuilt 650
+reefing ZombieWins 22
+reefing GamesLeft 14
+reefing GamesPlayedAsHuman 308
+reefing GamesPlayedAsZombie 54
+reefing HumansCaptured 453
+reefing K/D Ratio 430,48
+reefing Average Marine Winrate 50%
+reefing Average Fuel Diverts PerGame 0,57
+reefing Average Vespene Harvested PerGame 2908,77
+reefing Average Zombie Winrate 41%
+reefing Average Security Kills Per Game 437
+reefing Average Deaths PerGame 1,66
+reefing Average Infestation Class Class 5

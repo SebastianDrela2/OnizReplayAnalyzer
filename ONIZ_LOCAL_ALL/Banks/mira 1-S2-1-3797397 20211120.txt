@@ -1,0 +1,23 @@
+mira HumanWinsNormal 3
+mira ZombieRank 0
+mira VespeneHarvested 19000
+mira HumansRescued 1
+mira SecurityForcesKilled 246
+mira ZombiesKilled 1342
+mira FuelDiverted 0
+mira HumanRank 6
+mira NumberOfTimesCaptured 13
+mira TurretsBuilt 4
+mira ZombieWins 1
+mira GamesLeft 2
+mira GamesPlayedAsHuman 8
+mira GamesPlayedAsZombie 1
+mira HumansCaptured 13
+mira K/D Ratio 103,23
+mira Average Marine Winrate 38%
+mira Average Fuel Diverts PerGame 0
+mira Average Vespene Harvested PerGame 2375
+mira Average Zombie Winrate 100%
+mira Average Security Kills Per Game 246
+mira Average Deaths PerGame 1,62
+mira Average Infestation Class Class 3

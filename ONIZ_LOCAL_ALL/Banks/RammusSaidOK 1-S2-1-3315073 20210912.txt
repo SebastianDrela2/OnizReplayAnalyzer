@@ -1,0 +1,23 @@
+RammusSaidOK HumanWinsNormal 15
+RammusSaidOK ZombieRank 15.3327
+RammusSaidOK VespeneHarvested 76700
+RammusSaidOK HumansRescued 21
+RammusSaidOK SecurityForcesKilled 9159
+RammusSaidOK ZombiesKilled 16550
+RammusSaidOK FuelDiverted 521
+RammusSaidOK HumanRank 6.6
+RammusSaidOK NumberOfTimesCaptured 52
+RammusSaidOK TurretsBuilt 48
+RammusSaidOK ZombieWins 12
+RammusSaidOK GamesLeft 1
+RammusSaidOK GamesPlayedAsHuman 32
+RammusSaidOK GamesPlayedAsZombie 20
+RammusSaidOK HumansCaptured 233
+RammusSaidOK K/D Ratio 318,27
+RammusSaidOK Average Marine Winrate 47%
+RammusSaidOK Average Fuel Diverts PerGame 16,28
+RammusSaidOK Average Vespene Harvested PerGame 2396,88
+RammusSaidOK Average Zombie Winrate 60%
+RammusSaidOK Average Security Kills Per Game 458
+RammusSaidOK Average Deaths PerGame 1,62
+RammusSaidOK Average Infestation Class Class 5

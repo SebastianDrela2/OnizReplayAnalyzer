@@ -1,0 +1,23 @@
+HARBINGER HumanWinsNormal 24
+HARBINGER ZombieRank 0
+HARBINGER VespeneHarvested 144700
+HARBINGER HumansRescued 55
+HARBINGER SecurityForcesKilled 0
+HARBINGER ZombiesKilled 42922
+HARBINGER FuelDiverted 2
+HARBINGER HumanRank 0
+HARBINGER NumberOfTimesCaptured 154
+HARBINGER TurretsBuilt 124
+HARBINGER ZombieWins 0
+HARBINGER GamesLeft 13
+HARBINGER GamesPlayedAsHuman 82
+HARBINGER GamesPlayedAsZombie 1
+HARBINGER HumansCaptured 0
+HARBINGER K/D Ratio 278,71
+HARBINGER Average Marine Winrate 28,999999999999996%
+HARBINGER Average Fuel Diverts PerGame 0,02
+HARBINGER Average Vespene Harvested PerGame 1764,63
+HARBINGER Average Zombie Winrate 0%
+HARBINGER Average Security Kills Per Game 0
+HARBINGER Average Deaths PerGame 1,88
+HARBINGER Average Infestation Class Class 1

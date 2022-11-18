@@ -1,0 +1,24 @@
+Sojourne HumanWinsNormal 104
+Sojourne ZombieRank 31
+Sojourne VespeneHarvested 588600
+Sojourne HumansRescued 141
+Sojourne SecurityForcesKilled 30927
+Sojourne ZombiesKilled 100037
+Sojourne FuelDiverted 1328
+Sojourne PlayedRankedMode5.0 1
+Sojourne HumanRank 23.35
+Sojourne NumberOfTimesCaptured 215
+Sojourne TurretsBuilt 883
+Sojourne ZombieWins 50
+Sojourne GamesLeft 3
+Sojourne GamesPlayedAsHuman 189
+Sojourne GamesPlayedAsZombie 74
+Sojourne HumansCaptured 676
+Sojourne K/D Ratio 465,29
+Sojourne Average Marine Winrate 55,00000000000001%
+Sojourne Average Fuel Diverts PerGame 7,03
+Sojourne Average Vespene Harvested PerGame 3114,29
+Sojourne Average Zombie Winrate 68%
+Sojourne Average Security Kills Per Game 418
+Sojourne Average Deaths PerGame 1,14
+Sojourne Average Infestation Class Class 5

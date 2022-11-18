@@ -1,0 +1,23 @@
+JJP HumanWinsNormal 5
+JJP ZombieRank 0
+JJP VespeneHarvested 53080
+JJP HumansRescued 6
+JJP SecurityForcesKilled 348
+JJP ZombiesKilled 9002
+JJP FuelDiverted 2
+JJP HumanRank 0
+JJP NumberOfTimesCaptured 63
+JJP TurretsBuilt 111
+JJP ZombieWins 0
+JJP GamesLeft 0
+JJP GamesPlayedAsHuman 23
+JJP GamesPlayedAsZombie 1
+JJP HumansCaptured 3
+JJP K/D Ratio 142,89
+JJP Average Marine Winrate 22%
+JJP Average Fuel Diverts PerGame 0,09
+JJP Average Vespene Harvested PerGame 2307,83
+JJP Average Zombie Winrate 0%
+JJP Average Security Kills Per Game 348
+JJP Average Deaths PerGame 2,74
+JJP Average Infestation Class Class 4

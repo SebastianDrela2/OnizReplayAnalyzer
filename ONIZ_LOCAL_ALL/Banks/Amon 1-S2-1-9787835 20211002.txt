@@ -1,0 +1,23 @@
+Amon HumanWinsNormal 5
+Amon ZombieRank 0
+Amon VespeneHarvested 16500
+Amon HumansRescued 7
+Amon SecurityForcesKilled 0
+Amon ZombiesKilled 5213
+Amon FuelDiverted 1
+Amon HumanRank 6
+Amon NumberOfTimesCaptured 19
+Amon TurretsBuilt 13
+Amon ZombieWins 0
+Amon GamesLeft 3
+Amon GamesPlayedAsHuman 11
+Amon GamesPlayedAsZombie 0
+Amon HumansCaptured 0
+Amon K/D Ratio 274,37
+Amon Average Marine Winrate 45%
+Amon Average Fuel Diverts PerGame 0,09
+Amon Average Vespene Harvested PerGame 1500
+Amon Average Zombie Winrate NaN%
+Amon Average Security Kills Per Game NaN
+Amon Average Deaths PerGame 1,73
+Amon Average Infestation Class Class 1

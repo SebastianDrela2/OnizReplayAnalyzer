@@ -1,0 +1,23 @@
+BlackJack HumanWinsNormal 0
+BlackJack ZombieRank 0
+BlackJack VespeneHarvested 0
+BlackJack HumansRescued 0
+BlackJack SecurityForcesKilled 0
+BlackJack ZombiesKilled 0
+BlackJack FuelDiverted 0
+BlackJack HumanRank 0
+BlackJack NumberOfTimesCaptured 0
+BlackJack TurretsBuilt 0
+BlackJack ZombieWins 0
+BlackJack GamesLeft 0
+BlackJack GamesPlayedAsHuman 0
+BlackJack GamesPlayedAsZombie 0
+BlackJack HumansCaptured 0
+BlackJack K/D Ratio NaN
+BlackJack Average Marine Winrate NaN%
+BlackJack Average Fuel Diverts PerGame NaN
+BlackJack Average Vespene Harvested PerGame NaN
+BlackJack Average Zombie Winrate NaN%
+BlackJack Average Security Kills Per Game NaN
+BlackJack Average Deaths PerGame NaN
+BlackJack Average Infestation Class Class 1

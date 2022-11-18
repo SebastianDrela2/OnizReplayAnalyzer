@@ -1,0 +1,23 @@
+fernando HumanWinsNormal 3
+fernando ZombieRank 0
+fernando VespeneHarvested 21700
+fernando HumansRescued 13
+fernando SecurityForcesKilled 742
+fernando ZombiesKilled 6353
+fernando FuelDiverted 1
+fernando HumanRank 0
+fernando NumberOfTimesCaptured 37
+fernando TurretsBuilt 25
+fernando ZombieWins 1
+fernando GamesLeft 6
+fernando GamesPlayedAsHuman 26
+fernando GamesPlayedAsZombie 4
+fernando HumansCaptured 4
+fernando K/D Ratio 171,7
+fernando Average Marine Winrate 12%
+fernando Average Fuel Diverts PerGame 0,04
+fernando Average Vespene Harvested PerGame 834,62
+fernando Average Zombie Winrate 25%
+fernando Average Security Kills Per Game 186
+fernando Average Deaths PerGame 1,42
+fernando Average Infestation Class Class 3

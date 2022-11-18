@@ -1,0 +1,23 @@
+singsong HumanWinsNormal 6
+singsong ZombieRank 1.6665
+singsong VespeneHarvested 31880
+singsong HumansRescued 7
+singsong SecurityForcesKilled 1771
+singsong ZombiesKilled 4571
+singsong FuelDiverted 91
+singsong HumanRank 8.25
+singsong NumberOfTimesCaptured 13
+singsong TurretsBuilt 50
+singsong ZombieWins 4
+singsong GamesLeft 0
+singsong GamesPlayedAsHuman 13
+singsong GamesPlayedAsZombie 4
+singsong HumansCaptured 21
+singsong K/D Ratio 351,62
+singsong Average Marine Winrate 46%
+singsong Average Fuel Diverts PerGame 7
+singsong Average Vespene Harvested PerGame 2452,31
+singsong Average Zombie Winrate 100%
+singsong Average Security Kills Per Game 443
+singsong Average Deaths PerGame 1
+singsong Average Infestation Class Class 5

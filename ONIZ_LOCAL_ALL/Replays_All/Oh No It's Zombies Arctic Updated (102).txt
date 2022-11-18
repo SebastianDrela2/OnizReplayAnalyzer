@@ -1,0 +1,29 @@
+Analyzed: Oh No It's Zombies Arctic Updated (102)
+
+ID : 0 PlayerName: Frosky Race: Zerg
+ID : 7 PlayerName: Security Race: Primal Zerg
+Frosky Zombie Win
+Public Lobby
+
+Game Length:[18:606]
+Players ammount: 2
+Marine rank avg: 0
+GrandMaster ammount: 1
+PURCHASES: 
+[00:701] Frosky Spawned MassiveCocoon
+[02:964] Frosky Bought StrainSpeed
+[04:012] Frosky Bought StrainSpeed
+[04:890] Frosky Bought StrainSpeed
+[06:960] Frosky Bought PureStrainSpeed
+[08:234] Frosky Bought PureStrainSpeed
+[09:701] Frosky Bought StrainSpeed
+[10:889] Frosky Bought PureStrainSpeed
+[12:898] Frosky Bought HunterlingStrain
+[14:032] Frosky Bought HunterlingStrain
+[14:742] Frosky Bought PureStrainSpeed
+[16:566] Frosky Bought HunterlingStrain
+[17:087] Frosky Bought HunterlingStrain
+[17:589] Frosky Bought StrainSpeed
+
+Frosky Placed 0 Greaters.
+--------------------------------

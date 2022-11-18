@@ -1,0 +1,23 @@
+SanduCostin HumanWinsNormal 3
+SanduCostin ZombieRank 1.3332
+SanduCostin VespeneHarvested 25600
+SanduCostin HumansRescued 3
+SanduCostin SecurityForcesKilled 2586
+SanduCostin ZombiesKilled 1495
+SanduCostin FuelDiverted 8
+SanduCostin HumanRank 2
+SanduCostin NumberOfTimesCaptured 27
+SanduCostin TurretsBuilt 42
+SanduCostin ZombieWins 3
+SanduCostin GamesLeft 1
+SanduCostin GamesPlayedAsHuman 12
+SanduCostin GamesPlayedAsZombie 9
+SanduCostin HumansCaptured 29
+SanduCostin K/D Ratio 55,37
+SanduCostin Average Marine Winrate 25%
+SanduCostin Average Fuel Diverts PerGame 0,67
+SanduCostin Average Vespene Harvested PerGame 2133,33
+SanduCostin Average Zombie Winrate 33%
+SanduCostin Average Security Kills Per Game 287
+SanduCostin Average Deaths PerGame 2,25
+SanduCostin Average Infestation Class Class 3

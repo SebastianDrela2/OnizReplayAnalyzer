@@ -1,0 +1,194 @@
+Analyzed: Oh No It's Zombies Arctic Map (30)
+
+ID : 0 PlayerName: Partisan Race: Terran
+ID : 1 PlayerName: Dylan Race: Terran
+ID : 2 PlayerName: Salsu Race: Terran
+ID : 3 PlayerName: John Race: Terran
+ID : 4 PlayerName: Frosky Race: Zerg
+ID : 5 PlayerName: Coatimundi Race: Terran
+ID : 6 PlayerName: Snap Race: Terran
+ID : 7 PlayerName: Security Race: Protoss
+Frosky Zombie Loss
+Public Lobby
+
+Game Length:[29:948]
+Players ammount: 8
+Marine rank avg: 9,833333333333334
+GrandMaster ammount: 3
+PURCHASES: 
+[00:572] Partisan Unlocked AssaultRifle
+[00:651] Partisan Placed/Upgraded MiningDroid
+[00:957] Partisan Unlocked ArcWelder
+[01:706] Partisan Unlocked BioMechanicalRepairDrone
+[01:716] Partisan Unlocked CombatAccelerationDrone
+[01:755] Partisan Placed/Upgraded HealingDrone
+[02:720] Partisan Placed/Upgraded HealingDrone
+[03:050] Partisan Placed/Upgraded HealingDrone
+[03:179] Partisan Placed/Upgraded HealingDrone
+[03:524] Partisan Placed/Upgraded HealingDrone
+[05:010] Partisan Unlocked ExplorationDroid
+[05:040] Partisan Placed/Upgraded ExplorationDroid
+[05:049] Partisan Placed/Upgraded ExplorationDroid
+[05:125] Partisan Placed/Upgraded ExplorationDroid
+[05:978] Partisan Unlocked AutoTurret
+[06:953] Partisan Placed/Upgraded AutoTurret
+[08:002] Partisan Unlocked AdvancedExplorationDroid
+[08:227] Partisan Placed/Upgraded ExplorationDroid
+[09:966] Partisan Unlocked MedicShield
+[10:002] Partisan Unlocked Stimpack
+[10:035] Partisan Placed/Upgraded ExplorationDroid
+[12:434] Partisan Placed/Upgraded MiningDroid
+[12:529] Partisan Unlocked AIAssistant
+[13:314] Partisan Placed/Upgraded HealingDrone
+[13:461] Partisan Placed/Upgraded HealingDrone
+[13:694] Partisan Placed/Upgraded HealingDrone
+[14:332] Partisan Unlocked QuantumBackpack
+[14:475] Partisan Unlocked HeavyTurret
+[16:027] Partisan Placed/Upgraded AutoTurret
+[16:396] Partisan Placed/Upgraded AutoTurret
+[16:562] Partisan Placed/Upgraded AutoTurret
+[16:777] Partisan Placed/Upgraded AutoTurret
+[19:517] Partisan Placed/Upgraded AutoTurret
+[19:653] Partisan Placed/Upgraded AutoTurret
+[20:695] Partisan Placed/Upgraded AutoTurret
+[20:826] Partisan Placed/Upgraded AutoTurret
+[20:957] Partisan Placed/Upgraded AutoTurret
+[21:140] Partisan Placed/Upgraded AutoTurret
+[21:302] Partisan Placed/Upgraded AutoTurret
+[21:681] Partisan Placed/Upgraded AutoTurret
+[25:211] Partisan Placed/Upgraded AutoTurret
+[00:572] Dylan Unlocked AssaultRifle
+[00:714] Dylan Placed/Upgraded MiningDroid
+[00:892] Dylan Unlocked Stimpack
+[02:961] Dylan Unlocked BeamRifle
+[05:922] Dylan Unlocked SuperStimpack
+[08:674] Dylan Unlocked SpecOpsSuperStimpack
+[12:987] Dylan Unlocked SpecOpsPlasmaRifle
+[15:040] Dylan Unlocked OpticalVisor
+[20:249] Dylan Unlocked PlasmaRifleMod3
+[22:699] Dylan Unlocked BioMechanicalRepairDrone
+[22:724] Dylan Unlocked SpecOpsBioMechanicalRepairDrone
+[23:616] Dylan Placed/Upgraded HealingDrone
+[24:772] Dylan Placed/Upgraded HealingDrone
+[00:572] Salsu Unlocked AssaultRifle
+[00:651] Salsu Placed/Upgraded MiningDroid
+[00:700] Salsu Unlocked AdvancedDroidEngines
+[02:832] Salsu Unlocked FragGrenade
+[02:838] Salsu Unlocked SpecOpsFragGrenade
+[04:961] Salsu Unlocked TurboDroidEngines
+[05:715] Salsu Unlocked EnergySuit
+[05:716] Salsu Unlocked EnergySuit
+[06:751] Salsu Unlocked AdvancedEnergySuit
+[06:752] Salsu Unlocked EnergySuit
+[06:752] Salsu Unlocked AdvancedEnergySuit
+[07:691] Salsu Unlocked SpecOpsAssaultRifle
+[09:898] Salsu Unlocked BeamRifle
+[10:389] Salsu Unlocked AutoTargetingSystem
+[12:371] Salsu Placed/Upgraded MiningDroid
+[18:526] Salsu Unlocked Teleporter
+[23:689] Salsu Unlocked SpecOpsTeleporter
+[00:572] John Unlocked AssaultRifle
+[00:672] John Placed MiningDroid
+[02:939] John Unlocked SpecOpsAssaultRifle
+[04:578] John Unlocked AdvancedDroidEngines
+[05:716] John Bought ShieldSuit
+[05:716] John Bought CombatSuit
+[05:716] John Bought HazmatSuit
+[08:673] John Unlocked AutoTargetingSystem
+[08:873] John Unlocked CombatSuit
+[10:894] John Placed MiningDroid
+[12:234] John Unlocked AdvancedCombatSuit
+[15:092] John Unlocked SuperStimpack
+[16:365] John Unlocked SpecOpsSuperStimpack
+[21:432] John Unlocked EnergyPack
+[00:568] Frosky Bought PlayerNumber
+[01:434] Frosky Spawned MassiveCocoon
+[02:874] Frosky Spawned Hunter
+[03:853] Frosky Spawned MassiveCocoon
+[05:293] Frosky Spawned Hunter
+[05:721] Frosky Spawned MassiveCocoon
+[07:161] Frosky Spawned PrimalTownHallUprooted
+[07:464] Frosky Placed/Upgraded ToxicNest
+[07:464] Frosky Placed/Upgraded ToxicNest
+[07:471] Frosky Placed/Upgraded ToxicNest
+[07:477] Frosky Placed/Upgraded ToxicNest
+[07:485] Frosky Placed/Upgraded ToxicNest
+[07:491] Frosky Placed/Upgraded ToxicNest
+[08:874] Frosky Bought ShieldSuit
+[08:874] Frosky Bought CombatSuit
+[08:874] Frosky Bought HazmatSuit
+[08:874] Frosky Bought CombatSuit
+[11:081] Frosky Bought BuildExtractorManufacturingSector
+[11:081] Frosky Placed/Upgraded AutomatedExtractor
+[11:344] Frosky Bought CreepSpeed
+[12:235] Frosky Bought CombatSuit
+[12:975] Frosky Spawned MassiveCocoon
+[14:415] Frosky Spawned Anubalisk
+[14:545] Frosky Placed/Upgraded ToxicNest
+[14:546] Frosky Placed/Upgraded ToxicNest
+[14:550] Frosky Placed/Upgraded ToxicNest
+[14:555] Frosky Placed/Upgraded ToxicNest
+[14:563] Frosky Placed/Upgraded ToxicNest
+[15:009] Frosky Bought BuildExtractorExcavationZone
+[15:009] Frosky Placed/Upgraded AutomatedExtractor
+[15:848] Frosky Bought StrainVolatile
+[16:538] Frosky Bought PureStrainVolatile
+[16:912] Frosky Placed/Upgraded Virophage
+[16:978] Frosky Placed/Upgraded ToxicNest
+[16:989] Frosky Placed/Upgraded ToxicNest
+[16:999] Frosky Placed/Upgraded ToxicNest
+[17:013] Frosky Placed/Upgraded ToxicNest
+[17:019] Frosky Placed/Upgraded ToxicNest
+[17:036] Frosky Placed/Upgraded ToxicNest
+[20:053] Frosky Bought AdvancedInfestationContainment
+[20:708] Frosky Bought StrainHealth
+[20:715] Frosky Bought PureStrainHealth
+[21:251] Frosky Bought UnlockDropPods
+[21:975] Frosky Bought BuildExtractorProcessingFacilities
+[21:975] Frosky Placed/Upgraded AutomatedExtractor
+[22:067] Frosky Bought SiphonFuel
+[22:487] Frosky Placed/Upgraded Virophage
+[23:011] Frosky Placed/Upgraded Virophage
+[23:564] Frosky Placed/Upgraded NydusCanalCreeper
+[23:981] Frosky Bought SpawnNydusWorm
+[24:529] Frosky Placed/Upgraded GreaterNydusWorm
+[24:679] Frosky Bought EvolveDropPods
+[24:682] Frosky Bought EvolveDropPods
+[24:687] Frosky Bought EvolveDropPods
+[24:689] Frosky Bought EvolveDropPods
+[25:383] Frosky Bought EvolveDropPods
+[25:386] Frosky Bought EvolveDropPods
+[25:846] Frosky Placed/Upgraded NydusCanalCreeper
+[26:261] Frosky Bought VirulentCreep
+[26:261] Frosky Bought VirulentCreep
+[27:807] Frosky Bought SiphonFuel
+[28:416] Frosky Bought KaboomerStrain
+[29:614] Frosky Bought DropshipsFueled
+[00:572] Coatimundi Unlocked AssaultRifle
+[06:122] Coatimundi Placed/Upgraded MiningDroid
+[10:978] Coatimundi Unlocked BeamRifle
+[11:592] Coatimundi Placed/Upgraded MiningDroid
+[16:951] Coatimundi Unlocked CombatSuit
+[21:071] Coatimundi Unlocked AutoTurret
+[21:258] Coatimundi Placed/Upgraded AutoTurret
+[21:854] Coatimundi Unlocked HeavyTurret
+[22:012] Coatimundi Unlocked SpecOpsPlasmaRifle
+[22:254] Coatimundi Placed/Upgraded AutoTurret
+[23:761] Coatimundi Unlocked CombatShield
+[23:833] Coatimundi Unlocked AIAssistant
+[23:890] Coatimundi Unlocked MedicShield
+[24:691] Coatimundi Placed/Upgraded AutoTurret
+[00:572] Snap Unlocked AssaultRifle
+[01:289] Snap Unlocked Flamethrower
+[02:591] Snap Unlocked SpecOpsFlamethrower
+[05:732] Snap Unlocked AutoTurret
+[07:883] Snap Unlocked AdvancedDroidEngines
+[11:143] Snap Unlocked Stimpack
+[16:952] Snap Bought ShieldSuit
+[16:952] Snap Bought CombatSuit
+[16:952] Snap Bought HazmatSuit
+[16:952] Snap Bought CombatSuit
+Frosky First Alpha Hunter |  Loss
+
+Frosky Placed 1 Greaters.
+--------------------------------

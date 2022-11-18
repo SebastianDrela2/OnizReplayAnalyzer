@@ -1,0 +1,25 @@
+DeepStroke HumanWinsNormal 208
+DeepStroke LeftLastGameAsZombie 0
+DeepStroke ZombieRank 6.3308
+DeepStroke VespeneHarvested 1315880
+DeepStroke HumansRescued 304
+DeepStroke SecurityForcesKilled 66337
+DeepStroke ZombiesKilled 226542
+DeepStroke FuelDiverted 989
+DeepStroke PlayedRankedMode5.0 1
+DeepStroke HumanRank 13.2004
+DeepStroke NumberOfTimesCaptured 561
+DeepStroke TurretsBuilt 1737
+DeepStroke ZombieWins 58
+DeepStroke GamesLeft 10
+DeepStroke GamesPlayedAsHuman 420
+DeepStroke GamesPlayedAsZombie 153
+DeepStroke HumansCaptured 1417
+DeepStroke K/D Ratio 403,82
+DeepStroke Average Marine Winrate 50%
+DeepStroke Average Fuel Diverts PerGame 2,35
+DeepStroke Average Vespene Harvested PerGame 3133,05
+DeepStroke Average Zombie Winrate 38%
+DeepStroke Average Security Kills Per Game 434
+DeepStroke Average Deaths PerGame 1,34
+DeepStroke Average Infestation Class Class 5

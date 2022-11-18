@@ -1,0 +1,23 @@
+longpusu HumanWinsNormal 1
+longpusu ZombieRank 0
+longpusu VespeneHarvested 4300
+longpusu HumansRescued 2
+longpusu SecurityForcesKilled 0
+longpusu ZombiesKilled 1124
+longpusu FuelDiverted 4
+longpusu HumanRank 0
+longpusu NumberOfTimesCaptured 5
+longpusu TurretsBuilt 13
+longpusu ZombieWins 0
+longpusu GamesLeft 1
+longpusu GamesPlayedAsHuman 4
+longpusu GamesPlayedAsZombie 0
+longpusu HumansCaptured 0
+longpusu K/D Ratio 224,8
+longpusu Average Marine Winrate 25%
+longpusu Average Fuel Diverts PerGame 1
+longpusu Average Vespene Harvested PerGame 1075
+longpusu Average Zombie Winrate NaN%
+longpusu Average Security Kills Per Game NaN
+longpusu Average Deaths PerGame 1,25
+longpusu Average Infestation Class Class 1

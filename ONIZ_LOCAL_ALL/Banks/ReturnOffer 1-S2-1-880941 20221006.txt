@@ -1,0 +1,23 @@
+ReturnOffer HumanWinsNormal 237
+ReturnOffer ZombieRank 16.3317
+ReturnOffer VespeneHarvested 1188100
+ReturnOffer HumansRescued 457
+ReturnOffer SecurityForcesKilled 71690
+ReturnOffer ZombiesKilled 371403
+ReturnOffer FuelDiverted 1494
+ReturnOffer HumanRank 1
+ReturnOffer NumberOfTimesCaptured 969
+ReturnOffer TurretsBuilt 2655
+ReturnOffer ZombieWins 90
+ReturnOffer GamesLeft 51
+ReturnOffer GamesPlayedAsHuman 567
+ReturnOffer GamesPlayedAsZombie 189
+ReturnOffer HumansCaptured 1309
+ReturnOffer K/D Ratio 383,28
+ReturnOffer Average Marine Winrate 42%
+ReturnOffer Average Fuel Diverts PerGame 2,63
+ReturnOffer Average Vespene Harvested PerGame 2095,41
+ReturnOffer Average Zombie Winrate 48%
+ReturnOffer Average Security Kills Per Game 379
+ReturnOffer Average Deaths PerGame 1,71
+ReturnOffer Average Infestation Class Class 4

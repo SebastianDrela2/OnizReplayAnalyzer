@@ -1,0 +1,23 @@
+Tin HumanWinsNormal 183
+Tin ZombieRank 14.5
+Tin VespeneHarvested 994685
+Tin HumansRescued 330
+Tin SecurityForcesKilled 8987
+Tin ZombiesKilled 301431
+Tin FuelDiverted 993
+Tin HumanRank 31.5
+Tin NumberOfTimesCaptured 670
+Tin TurretsBuilt 771
+Tin ZombieWins 12
+Tin GamesLeft 10
+Tin GamesPlayedAsHuman 425
+Tin GamesPlayedAsZombie 27
+Tin HumansCaptured 169
+Tin K/D Ratio 449,9
+Tin Average Marine Winrate 43%
+Tin Average Fuel Diverts PerGame 2,34
+Tin Average Vespene Harvested PerGame 2340,44
+Tin Average Zombie Winrate 44%
+Tin Average Security Kills Per Game 333
+Tin Average Deaths PerGame 1,58
+Tin Average Infestation Class Class 4

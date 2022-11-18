@@ -1,0 +1,23 @@
+DaNuSkA HumanWinsNormal 10
+DaNuSkA ZombieRank 0
+DaNuSkA VespeneHarvested 48800
+DaNuSkA HumansRescued 26
+DaNuSkA SecurityForcesKilled 537
+DaNuSkA ZombiesKilled 15934
+DaNuSkA FuelDiverted 0
+DaNuSkA HumanRank 2
+DaNuSkA NumberOfTimesCaptured 89
+DaNuSkA TurretsBuilt 89
+DaNuSkA ZombieWins 0
+DaNuSkA GamesLeft 5
+DaNuSkA GamesPlayedAsHuman 37
+DaNuSkA GamesPlayedAsZombie 1
+DaNuSkA HumansCaptured 10
+DaNuSkA K/D Ratio 179,03
+DaNuSkA Average Marine Winrate 27%
+DaNuSkA Average Fuel Diverts PerGame 0
+DaNuSkA Average Vespene Harvested PerGame 1318,92
+DaNuSkA Average Zombie Winrate 0%
+DaNuSkA Average Security Kills Per Game 537
+DaNuSkA Average Deaths PerGame 2,41
+DaNuSkA Average Infestation Class Class 6

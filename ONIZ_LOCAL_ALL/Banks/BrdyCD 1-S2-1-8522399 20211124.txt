@@ -1,0 +1,23 @@
+BrdyCD HumanWinsNormal 16
+BrdyCD ZombieRank 0
+BrdyCD VespeneHarvested 107400
+BrdyCD HumansRescued 11
+BrdyCD SecurityForcesKilled 0
+BrdyCD ZombiesKilled 13296
+BrdyCD FuelDiverted 66
+BrdyCD HumanRank 0
+BrdyCD NumberOfTimesCaptured 67
+BrdyCD TurretsBuilt 192
+BrdyCD ZombieWins 0
+BrdyCD GamesLeft 8
+BrdyCD GamesPlayedAsHuman 44
+BrdyCD GamesPlayedAsZombie 0
+BrdyCD HumansCaptured 0
+BrdyCD K/D Ratio 198,45
+BrdyCD Average Marine Winrate 36%
+BrdyCD Average Fuel Diverts PerGame 1,5
+BrdyCD Average Vespene Harvested PerGame 2440,91
+BrdyCD Average Zombie Winrate NaN%
+BrdyCD Average Security Kills Per Game NaN
+BrdyCD Average Deaths PerGame 1,52
+BrdyCD Average Infestation Class Class 1

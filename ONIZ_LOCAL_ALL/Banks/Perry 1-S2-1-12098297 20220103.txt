@@ -1,0 +1,23 @@
+Perry HumanWinsNormal 19
+Perry ZombieRank 17.6665
+Perry VespeneHarvested 96740
+Perry HumansRescued 16
+Perry SecurityForcesKilled 6911
+Perry ZombiesKilled 17587
+Perry FuelDiverted 144
+Perry HumanRank 11.5
+Perry NumberOfTimesCaptured 24
+Perry TurretsBuilt 55
+Perry ZombieWins 10
+Perry GamesLeft 3
+Perry GamesPlayedAsHuman 34
+Perry GamesPlayedAsZombie 14
+Perry HumansCaptured 148
+Perry K/D Ratio 732,79
+Perry Average Marine Winrate 56,00000000000001%
+Perry Average Fuel Diverts PerGame 4,24
+Perry Average Vespene Harvested PerGame 2845,29
+Perry Average Zombie Winrate 71%
+Perry Average Security Kills Per Game 494
+Perry Average Deaths PerGame 0,71
+Perry Average Infestation Class Class 5

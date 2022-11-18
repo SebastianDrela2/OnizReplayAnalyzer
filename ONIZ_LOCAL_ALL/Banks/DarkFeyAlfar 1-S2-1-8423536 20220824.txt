@@ -1,0 +1,23 @@
+DarkFeyAlfar HumanWinsNormal 114
+DarkFeyAlfar ZombieRank 0
+DarkFeyAlfar VespeneHarvested 549180
+DarkFeyAlfar HumansRescued 231
+DarkFeyAlfar SecurityForcesKilled 755
+DarkFeyAlfar ZombiesKilled 151857
+DarkFeyAlfar FuelDiverted 28
+DarkFeyAlfar HumanRank 3.5
+DarkFeyAlfar NumberOfTimesCaptured 363
+DarkFeyAlfar TurretsBuilt 2171
+DarkFeyAlfar ZombieWins 2
+DarkFeyAlfar GamesLeft 17
+DarkFeyAlfar GamesPlayedAsHuman 319
+DarkFeyAlfar GamesPlayedAsZombie 4
+DarkFeyAlfar HumansCaptured 10
+DarkFeyAlfar K/D Ratio 418,34
+DarkFeyAlfar Average Marine Winrate 36%
+DarkFeyAlfar Average Fuel Diverts PerGame 0,09
+DarkFeyAlfar Average Vespene Harvested PerGame 1721,57
+DarkFeyAlfar Average Zombie Winrate 50%
+DarkFeyAlfar Average Security Kills Per Game 189
+DarkFeyAlfar Average Deaths PerGame 1,14
+DarkFeyAlfar Average Infestation Class Class 3

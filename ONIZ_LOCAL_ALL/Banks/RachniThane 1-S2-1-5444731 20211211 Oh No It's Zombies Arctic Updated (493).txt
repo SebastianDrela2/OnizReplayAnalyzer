@@ -1,0 +1,24 @@
+RachniThane HumanWinsNormal 230
+RachniThane ZombieRank 17.4992
+RachniThane VespeneHarvested 1191800
+RachniThane HumansRescued 289
+RachniThane SecurityForcesKilled 114658
+RachniThane ZombiesKilled 210361
+RachniThane FuelDiverted 1195
+RachniThane PlayedRankedMode5.0 1
+RachniThane HumanRank 27
+RachniThane NumberOfTimesCaptured 545
+RachniThane TurretsBuilt 1937
+RachniThane ZombieWins 116
+RachniThane GamesLeft 3
+RachniThane GamesPlayedAsHuman 439
+RachniThane GamesPlayedAsZombie 255
+RachniThane HumansCaptured 2615
+RachniThane K/D Ratio 385,98
+RachniThane Average Marine Winrate 52%
+RachniThane Average Fuel Diverts PerGame 2,72
+RachniThane Average Vespene Harvested PerGame 2714,81
+RachniThane Average Zombie Winrate 45%
+RachniThane Average Security Kills Per Game 450
+RachniThane Average Deaths PerGame 1,24
+RachniThane Average Infestation Class Class 5

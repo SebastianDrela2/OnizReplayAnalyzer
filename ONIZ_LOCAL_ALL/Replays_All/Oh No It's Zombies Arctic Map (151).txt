@@ -1,0 +1,72 @@
+Analyzed: Oh No It's Zombies Arctic Map (151)
+
+ID : 0 PlayerName: Frosky Race: Terran
+ID : 7 PlayerName: Security Race: MechaZerg
+ Zombie Loss
+Public Lobby
+
+Game Length:[45:299]
+Players ammount: 2
+Marine rank avg: 0
+GrandMaster ammount: 1
+PURCHASES: 
+[00:572] Frosky Unlocked AssaultRifle
+[00:708] Frosky Unlocked Stimpack
+[00:748] Frosky Unlocked CombatSuit
+[00:749] Frosky Unlocked ShieldSuit
+[00:749] Frosky Unlocked AdvancedShieldSuit
+[00:749] Frosky Unlocked CombatSuit
+[00:749] Frosky Unlocked AdvancedCombatSuit
+[00:749] Frosky Unlocked HazmatSuit
+[00:749] Frosky Unlocked AdvancedHazmatSuit
+[00:749] Frosky Unlocked CombatSuit
+[00:757] Frosky Unlocked AdvancedCombatSuit
+[00:758] Frosky Unlocked CombatSuit
+[00:758] Frosky Unlocked AdvancedCombatSuit
+[05:143] Frosky Unlocked IncendiaryGrenade
+[05:223] Frosky Unlocked SpecOpsIncendiaryGrenade
+[05:268] Frosky Unlocked FragGrenade
+[05:297] Frosky Unlocked SpecOpsFragGrenade
+[05:318] Frosky Unlocked FlashBang
+[05:338] Frosky Unlocked SpecOpsFlashbang
+[05:353] Frosky Unlocked ForceFieldGrenade
+[05:374] Frosky Unlocked SpecOpsForcefieldGrenade
+[05:465] Frosky Unlocked ExplorationDroid
+[05:524] Frosky Unlocked AdvancedExplorationDroid
+[05:580] Frosky Unlocked AdvancedDroidEngines
+[05:631] Frosky Unlocked TurboDroidEngines
+[05:703] Frosky Unlocked MiningCharge
+[05:740] Frosky Unlocked AdvancedMiningCharge
+[05:789] Frosky Unlocked MotionSensor
+[06:083] Frosky Unlocked DefensiveMatrix
+[06:136] Frosky Unlocked OverloadWeapon
+[06:340] Frosky Unlocked AutoTurret
+[06:378] Frosky Unlocked BioMechanicalRepairDrone
+[06:424] Frosky Unlocked PsiDisrupter
+[07:092] Frosky Unlocked Flamethrower
+[07:115] Frosky Unlocked SpecOpsFlamethrower
+[07:144] Frosky Unlocked Shotgun
+[07:174] Frosky Unlocked SpecOpsShotgun
+[10:303] Frosky Unlocked HazmatSuit
+[10:304] Frosky Unlocked ShieldSuit
+[10:304] Frosky Unlocked AdvancedShieldSuit
+[10:304] Frosky Unlocked CombatSuit
+[10:304] Frosky Unlocked AdvancedCombatSuit
+[10:304] Frosky Unlocked HazmatSuit
+[10:304] Frosky Unlocked AdvancedHazmatSuit
+[10:304] Frosky Unlocked HazmatSuit
+[10:310] Frosky Unlocked AdvancedHazmatSuit
+[10:311] Frosky Unlocked HazmatSuit
+[10:311] Frosky Unlocked AdvancedHazmatSuit
+[10:379] Frosky Unlocked ShieldSuit
+[10:379] Frosky Unlocked AdvancedShieldSuit
+[10:379] Frosky Unlocked CombatSuit
+[10:379] Frosky Unlocked AdvancedCombatSuit
+[10:379] Frosky Unlocked HazmatSuit
+[10:379] Frosky Unlocked AdvancedHazmatSuit
+[10:379] Frosky Unlocked AdvancedCombatSuit
+[15:559] Frosky Placed/Upgraded HealingDrone
+[34:974] Frosky Bought DropshipsFueled
+
+ Placed 0 Greaters.
+--------------------------------

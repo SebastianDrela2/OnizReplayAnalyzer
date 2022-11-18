@@ -1,0 +1,23 @@
+Diveyoc HumanWinsNormal 44
+Diveyoc ZombieRank 6
+Diveyoc VespeneHarvested 279000
+Diveyoc HumansRescued 103
+Diveyoc SecurityForcesKilled 891
+Diveyoc ZombiesKilled 64326
+Diveyoc FuelDiverted 248
+Diveyoc HumanRank 11.0834
+Diveyoc NumberOfTimesCaptured 159
+Diveyoc TurretsBuilt 678
+Diveyoc ZombieWins 2
+Diveyoc GamesLeft 1
+Diveyoc GamesPlayedAsHuman 119
+Diveyoc GamesPlayedAsZombie 5
+Diveyoc HumansCaptured 19
+Diveyoc K/D Ratio 404,57
+Diveyoc Average Marine Winrate 37%
+Diveyoc Average Fuel Diverts PerGame 2,08
+Diveyoc Average Vespene Harvested PerGame 2344,54
+Diveyoc Average Zombie Winrate 40%
+Diveyoc Average Security Kills Per Game 178
+Diveyoc Average Deaths PerGame 1,34
+Diveyoc Average Infestation Class Class 3

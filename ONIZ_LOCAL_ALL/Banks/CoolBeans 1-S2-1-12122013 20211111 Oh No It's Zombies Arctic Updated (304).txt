@@ -1,0 +1,23 @@
+CoolBeans HumanWinsNormal 3
+CoolBeans ZombieRank 0
+CoolBeans VespeneHarvested 17900
+CoolBeans HumansRescued 8
+CoolBeans SecurityForcesKilled 338
+CoolBeans ZombiesKilled 2831
+CoolBeans FuelDiverted 10
+CoolBeans HumanRank 7
+CoolBeans NumberOfTimesCaptured 23
+CoolBeans TurretsBuilt 21
+CoolBeans ZombieWins 0
+CoolBeans GamesLeft 0
+CoolBeans GamesPlayedAsHuman 7
+CoolBeans GamesPlayedAsZombie 1
+CoolBeans HumansCaptured 5
+vaniila K/D Ratio 123,09
+vaniila Average Marine Winrate 100%
+vaniila Average Fuel Diverts PerGame 3,33
+vaniila Average Vespene Harvested PerGame 5966,67
+vaniila Average Zombie Winrate 0%
+vaniila Average Security Kills Per Game 338
+vaniila Average Deaths PerGame 7,67
+vaniila Average Infestation Class Class 4

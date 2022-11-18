@@ -1,0 +1,23 @@
+Aurisyl HumanWinsNormal 0
+Aurisyl ZombieRank 0
+Aurisyl VespeneHarvested 11700
+Aurisyl HumansRescued 2
+Aurisyl SecurityForcesKilled 263
+Aurisyl ZombiesKilled 1625
+Aurisyl FuelDiverted 7
+Aurisyl HumanRank 0
+Aurisyl NumberOfTimesCaptured 16
+Aurisyl TurretsBuilt 18
+Aurisyl ZombieWins 0
+Aurisyl GamesLeft 1
+Aurisyl GamesPlayedAsHuman 6
+Aurisyl GamesPlayedAsZombie 2
+Aurisyl HumansCaptured 2
+Aurisyl K/D Ratio 101,56
+Aurisyl Average Marine Winrate 0%
+Aurisyl Average Fuel Diverts PerGame 1,17
+Aurisyl Average Vespene Harvested PerGame 1950
+Aurisyl Average Zombie Winrate 0%
+Aurisyl Average Security Kills Per Game 132
+Aurisyl Average Deaths PerGame 2,67
+Aurisyl Average Infestation Class Class 2

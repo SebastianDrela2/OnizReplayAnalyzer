@@ -1,0 +1,25 @@
+Yossarian HumanWinsNormal 55
+Yossarian LeftLastGameAsZombie 0
+Yossarian ZombieRank 0
+Yossarian VespeneHarvested 354800
+Yossarian HumansRescued 130
+Yossarian SecurityForcesKilled 345
+Yossarian ZombiesKilled 69483
+Yossarian FuelDiverted 46
+Yossarian PlayedRankedMode5.0 1
+Yossarian HumanRank 5.5502
+Yossarian NumberOfTimesCaptured 313
+Yossarian TurretsBuilt 515
+Yossarian ZombieWins 0
+Yossarian GamesLeft 2
+Yossarian GamesPlayedAsHuman 130
+Yossarian GamesPlayedAsZombie 1
+Yossarian HumansCaptured 3
+Yossarian K/D Ratio 221,99
+Yossarian Average Marine Winrate 42%
+Yossarian Average Fuel Diverts PerGame 0,35
+Yossarian Average Vespene Harvested PerGame 2729,23
+Yossarian Average Zombie Winrate 0%
+Yossarian Average Security Kills Per Game 345
+Yossarian Average Deaths PerGame 2,41
+Yossarian Average Infestation Class Class 4

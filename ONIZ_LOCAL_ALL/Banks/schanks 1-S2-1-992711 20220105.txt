@@ -1,0 +1,23 @@
+schanks HumanWinsNormal 0
+schanks ZombieRank 0
+schanks VespeneHarvested 16400
+schanks HumansRescued 5
+schanks SecurityForcesKilled 0
+schanks ZombiesKilled 2805
+schanks FuelDiverted 1
+schanks HumanRank 0
+schanks NumberOfTimesCaptured 20
+schanks TurretsBuilt 51
+schanks ZombieWins 0
+schanks GamesLeft 0
+schanks GamesPlayedAsHuman 5
+schanks GamesPlayedAsZombie 0
+schanks HumansCaptured 0
+schanks K/D Ratio 140,25
+schanks Average Marine Winrate 0%
+schanks Average Fuel Diverts PerGame 0,2
+schanks Average Vespene Harvested PerGame 3280
+schanks Average Zombie Winrate NaN%
+schanks Average Security Kills Per Game NaN
+schanks Average Deaths PerGame 4
+schanks Average Infestation Class Class 1

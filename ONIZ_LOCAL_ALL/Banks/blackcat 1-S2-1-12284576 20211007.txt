@@ -1,0 +1,23 @@
+blackcat HumanWinsNormal 19
+blackcat ZombieRank 29.9992
+blackcat VespeneHarvested 144300
+blackcat HumansRescued 34
+blackcat SecurityForcesKilled 8839
+blackcat ZombiesKilled 24158
+blackcat FuelDiverted 206
+blackcat HumanRank 7.75
+blackcat NumberOfTimesCaptured 60
+blackcat TurretsBuilt 611
+blackcat ZombieWins 25
+blackcat GamesLeft 0
+blackcat GamesPlayedAsHuman 34
+blackcat GamesPlayedAsZombie 26
+blackcat HumansCaptured 257
+blackcat K/D Ratio 402,63
+blackcat Average Marine Winrate 56,00000000000001%
+blackcat Average Fuel Diverts PerGame 6,06
+blackcat Average Vespene Harvested PerGame 4244,12
+blackcat Average Zombie Winrate 96%
+blackcat Average Security Kills Per Game 340
+blackcat Average Deaths PerGame 1,76
+blackcat Average Infestation Class Class 4

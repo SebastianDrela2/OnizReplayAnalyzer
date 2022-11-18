@@ -1,0 +1,23 @@
+archdracon HumanWinsNormal 74
+archdracon ZombieRank 18.499
+archdracon VespeneHarvested 2767300
+archdracon HumansRescued 358
+archdracon SecurityForcesKilled 25460
+archdracon ZombiesKilled 500301
+archdracon FuelDiverted 779
+archdracon HumanRank 0
+archdracon NumberOfTimesCaptured 493
+archdracon TurretsBuilt 9447
+archdracon ZombieWins 45
+archdracon GamesLeft 60
+archdracon GamesPlayedAsHuman 689
+archdracon GamesPlayedAsZombie 68
+archdracon HumansCaptured 362
+archdracon K/D Ratio 1014,81
+archdracon Average Marine Winrate 11%
+archdracon Average Fuel Diverts PerGame 1,13
+archdracon Average Vespene Harvested PerGame 4016,4
+archdracon Average Zombie Winrate 66%
+archdracon Average Security Kills Per Game 374
+archdracon Average Deaths PerGame 0,72
+archdracon Average Infestation Class Class 4

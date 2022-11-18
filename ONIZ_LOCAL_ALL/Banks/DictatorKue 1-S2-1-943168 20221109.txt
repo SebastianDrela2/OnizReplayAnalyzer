@@ -1,0 +1,23 @@
+DictatorKue HumanWinsNormal 7
+DictatorKue ZombieRank 0
+DictatorKue VespeneHarvested 32300
+DictatorKue HumansRescued 14
+DictatorKue SecurityForcesKilled 0
+DictatorKue ZombiesKilled 10924
+DictatorKue FuelDiverted 80
+DictatorKue HumanRank 1
+DictatorKue NumberOfTimesCaptured 40
+DictatorKue TurretsBuilt 60
+DictatorKue ZombieWins 0
+DictatorKue GamesLeft 1
+DictatorKue GamesPlayedAsHuman 22
+DictatorKue GamesPlayedAsZombie 0
+DictatorKue HumansCaptured 0
+DictatorKue K/D Ratio 273,1
+DictatorKue Average Marine Winrate 32%
+DictatorKue Average Fuel Diverts PerGame 3,64
+DictatorKue Average Vespene Harvested PerGame 1468,18
+DictatorKue Average Zombie Winrate NaN%
+DictatorKue Average Security Kills Per Game NaN
+DictatorKue Average Deaths PerGame 1,82
+DictatorKue Average Infestation Class Class 1

@@ -1,0 +1,23 @@
+NipsPerKing HumanWinsNormal 2
+NipsPerKing ZombieRank 0
+NipsPerKing VespeneHarvested 8500
+NipsPerKing HumansRescued 3
+NipsPerKing SecurityForcesKilled 0
+NipsPerKing ZombiesKilled 1937
+NipsPerKing FuelDiverted 1
+NipsPerKing HumanRank 0
+NipsPerKing NumberOfTimesCaptured 6
+NipsPerKing TurretsBuilt 24
+NipsPerKing ZombieWins 0
+NipsPerKing GamesLeft 1
+NipsPerKing GamesPlayedAsHuman 5
+NipsPerKing GamesPlayedAsZombie 0
+NipsPerKing HumansCaptured 0
+NipsPerKing K/D Ratio 322,83
+NipsPerKing Average Marine Winrate 40%
+NipsPerKing Average Fuel Diverts PerGame 0,2
+NipsPerKing Average Vespene Harvested PerGame 1700
+NipsPerKing Average Zombie Winrate NaN%
+NipsPerKing Average Security Kills Per Game NaN
+NipsPerKing Average Deaths PerGame 1,2
+NipsPerKing Average Infestation Class Class 1

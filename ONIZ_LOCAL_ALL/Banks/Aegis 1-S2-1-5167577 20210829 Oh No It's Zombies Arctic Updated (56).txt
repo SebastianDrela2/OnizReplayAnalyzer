@@ -1,0 +1,24 @@
+Aegis HumanWinsNormal 7
+Aegis LeftLastGameAsZombie 0
+Aegis ZombieRank 0
+Aegis VespeneHarvested 24100
+Aegis HumansRescued 13
+Aegis SecurityForcesKilled 0
+Aegis ZombiesKilled 9006
+Aegis FuelDiverted 30
+Aegis HumanRank 16.3334
+Aegis NumberOfTimesCaptured 21
+Aegis TurretsBuilt 58
+Aegis ZombieWins 0
+Aegis GamesLeft 0
+Aegis GamesPlayedAsHuman 12
+Aegis GamesPlayedAsZombie 0
+Aegis HumansCaptured 0
+Aegis K/D Ratio 428,86
+Aegis Average Marine Winrate 57,99999999999999%
+Aegis Average Fuel Diverts PerGame 2,5
+Aegis Average Vespene Harvested PerGame 2008,33
+Aegis Average Zombie Winrate NaN%
+Aegis Average Security Kills Per Game NaN
+Aegis Average Deaths PerGame 1,75
+Aegis Average Infestation Class Class 1

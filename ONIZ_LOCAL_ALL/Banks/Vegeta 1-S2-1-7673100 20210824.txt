@@ -1,0 +1,23 @@
+Vegeta HumanWinsNormal 16
+Vegeta ZombieRank 1
+Vegeta VespeneHarvested 72800
+Vegeta HumansRescued 44
+Vegeta SecurityForcesKilled 5526
+Vegeta ZombiesKilled 22738
+Vegeta FuelDiverted 2
+Vegeta HumanRank 2.6
+Vegeta NumberOfTimesCaptured 74
+Vegeta TurretsBuilt 348
+Vegeta ZombieWins 3
+Vegeta GamesLeft 1
+Vegeta GamesPlayedAsHuman 37
+Vegeta GamesPlayedAsZombie 13
+Vegeta HumansCaptured 118
+Vegeta K/D Ratio 307,27
+Vegeta Average Marine Winrate 43%
+Vegeta Average Fuel Diverts PerGame 0,05
+Vegeta Average Vespene Harvested PerGame 1967,57
+Vegeta Average Zombie Winrate 23%
+Vegeta Average Security Kills Per Game 425
+Vegeta Average Deaths PerGame 2
+Vegeta Average Infestation Class Class 5

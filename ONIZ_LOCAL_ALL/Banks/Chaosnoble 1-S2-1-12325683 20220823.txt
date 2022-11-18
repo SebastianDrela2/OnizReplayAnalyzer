@@ -1,0 +1,23 @@
+Chaosnoble HumanWinsNormal 4
+Chaosnoble ZombieRank 0
+Chaosnoble VespeneHarvested 22200
+Chaosnoble HumansRescued 10
+Chaosnoble SecurityForcesKilled 482
+Chaosnoble ZombiesKilled 4877
+Chaosnoble FuelDiverted 13
+Chaosnoble HumanRank 1
+Chaosnoble NumberOfTimesCaptured 39
+Chaosnoble TurretsBuilt 68
+Chaosnoble ZombieWins 1
+Chaosnoble GamesLeft 7
+Chaosnoble GamesPlayedAsHuman 23
+Chaosnoble GamesPlayedAsZombie 1
+Chaosnoble HumansCaptured 0
+Chaosnoble K/D Ratio 125,05
+Chaosnoble Average Marine Winrate 17%
+Chaosnoble Average Fuel Diverts PerGame 0,57
+Chaosnoble Average Vespene Harvested PerGame 965,22
+Chaosnoble Average Zombie Winrate 100%
+Chaosnoble Average Security Kills Per Game 482
+Chaosnoble Average Deaths PerGame 1,7
+Chaosnoble Average Infestation Class Class 5

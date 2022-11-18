@@ -1,0 +1,23 @@
+KelthuzadxD HumanWinsNormal 2
+KelthuzadxD ZombieRank 0
+KelthuzadxD VespeneHarvested 8000
+KelthuzadxD HumansRescued 3
+KelthuzadxD SecurityForcesKilled 326
+KelthuzadxD ZombiesKilled 1193
+KelthuzadxD FuelDiverted 1
+KelthuzadxD HumanRank 1
+KelthuzadxD NumberOfTimesCaptured 5
+KelthuzadxD TurretsBuilt 26
+KelthuzadxD ZombieWins 1
+KelthuzadxD GamesLeft 0
+KelthuzadxD GamesPlayedAsHuman 3
+KelthuzadxD GamesPlayedAsZombie 1
+KelthuzadxD HumansCaptured 0
+KelthuzadxD K/D Ratio 238,6
+KelthuzadxD Average Marine Winrate 67%
+KelthuzadxD Average Fuel Diverts PerGame 0,33
+KelthuzadxD Average Vespene Harvested PerGame 2666,67
+KelthuzadxD Average Zombie Winrate 100%
+KelthuzadxD Average Security Kills Per Game 326
+KelthuzadxD Average Deaths PerGame 1,67
+KelthuzadxD Average Infestation Class Class 4

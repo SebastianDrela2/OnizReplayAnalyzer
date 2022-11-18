@@ -1,0 +1,23 @@
+corgi HumanWinsNormal 7
+corgi ZombieRank 0
+corgi VespeneHarvested 49560
+corgi HumansRescued 10
+corgi SecurityForcesKilled 445
+corgi ZombiesKilled 10371
+corgi FuelDiverted 79
+corgi HumanRank 7.5
+corgi NumberOfTimesCaptured 14
+corgi TurretsBuilt 17
+corgi ZombieWins 0
+corgi GamesLeft 1
+corgi GamesPlayedAsHuman 15
+corgi GamesPlayedAsZombie 2
+corgi HumansCaptured 2
+corgi K/D Ratio 740,79
+corgi Average Marine Winrate 47%
+corgi Average Fuel Diverts PerGame 5,27
+corgi Average Vespene Harvested PerGame 3304
+corgi Average Zombie Winrate 0%
+corgi Average Security Kills Per Game 222
+corgi Average Deaths PerGame 0,93
+corgi Average Infestation Class Class 3

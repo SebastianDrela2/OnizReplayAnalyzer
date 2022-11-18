@@ -1,0 +1,24 @@
+Jzrocket HumanWinsNormal 36
+Jzrocket LeftLastGameAsZombie 0
+Jzrocket ZombieRank 0
+Jzrocket VespeneHarvested 211800
+Jzrocket HumansRescued 32
+Jzrocket SecurityForcesKilled 449
+Jzrocket ZombiesKilled 48693
+Jzrocket FuelDiverted 40
+Jzrocket HumanRank 1.0834
+Jzrocket NumberOfTimesCaptured 114
+Jzrocket TurretsBuilt 779
+Jzrocket ZombieWins 0
+Jzrocket GamesLeft 3
+Jzrocket GamesPlayedAsHuman 79
+Jzrocket GamesPlayedAsZombie 1
+Jzrocket HumansCaptured 17
+Jzrocket K/D Ratio 427,13
+Jzrocket Average Marine Winrate 46%
+Jzrocket Average Fuel Diverts PerGame 0,51
+Jzrocket Average Vespene Harvested PerGame 2681,01
+Jzrocket Average Zombie Winrate 0%
+Jzrocket Average Security Kills Per Game 449
+Jzrocket Average Deaths PerGame 1,44
+Jzrocket Average Infestation Class Class 5

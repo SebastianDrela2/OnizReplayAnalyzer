@@ -1,0 +1,23 @@
+Uncreative HumanWinsNormal 1
+Uncreative ZombieRank -0.5
+Uncreative VespeneHarvested 12400
+Uncreative HumansRescued 0
+Uncreative SecurityForcesKilled 2445
+Uncreative ZombiesKilled 5032
+Uncreative FuelDiverted 23
+Uncreative HumanRank 0
+Uncreative NumberOfTimesCaptured 18
+Uncreative TurretsBuilt 104
+Uncreative ZombieWins 1
+Uncreative GamesLeft 0
+Uncreative GamesPlayedAsHuman 7
+Uncreative GamesPlayedAsZombie 5
+Uncreative HumansCaptured 29
+Uncreative K/D Ratio 279,56
+Uncreative Average Marine Winrate 14,000000000000002%
+Uncreative Average Fuel Diverts PerGame 3,29
+Uncreative Average Vespene Harvested PerGame 1771,43
+Uncreative Average Zombie Winrate 20%
+Uncreative Average Security Kills Per Game 489
+Uncreative Average Deaths PerGame 2,57
+Uncreative Average Infestation Class Class 5

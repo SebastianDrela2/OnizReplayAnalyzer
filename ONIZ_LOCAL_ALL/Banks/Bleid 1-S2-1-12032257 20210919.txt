@@ -1,0 +1,23 @@
+Bleid HumanWinsNormal 0
+Bleid ZombieRank 0
+Bleid VespeneHarvested 300
+Bleid HumansRescued 1
+Bleid SecurityForcesKilled 0
+Bleid ZombiesKilled 104
+Bleid FuelDiverted 0
+Bleid HumanRank 0
+Bleid NumberOfTimesCaptured 4
+Bleid TurretsBuilt 2
+Bleid ZombieWins 0
+Bleid GamesLeft 0
+Bleid GamesPlayedAsHuman 1
+Bleid GamesPlayedAsZombie 0
+Bleid HumansCaptured 0
+Bleid K/D Ratio 26
+Bleid Average Marine Winrate 0%
+Bleid Average Fuel Diverts PerGame 0
+Bleid Average Vespene Harvested PerGame 300
+Bleid Average Zombie Winrate NaN%
+Bleid Average Security Kills Per Game NaN
+Bleid Average Deaths PerGame 4
+Bleid Average Infestation Class Class 1

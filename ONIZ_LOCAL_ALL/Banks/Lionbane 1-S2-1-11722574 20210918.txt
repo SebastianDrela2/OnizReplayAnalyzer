@@ -1,0 +1,24 @@
+Lionbane HumanWinsNormal 203
+Lionbane ZombieRank 0
+Lionbane VespeneHarvested 1466200
+Lionbane HumansRescued 239
+Lionbane SecurityForcesKilled 32993
+Lionbane ZombiesKilled 308025
+Lionbane FuelDiverted 1547
+Lionbane PlayedRankedMode5.0 1
+Lionbane HumanRank 1.25
+Lionbane NumberOfTimesCaptured 1106
+Lionbane TurretsBuilt 5598
+Lionbane ZombieWins 9
+Lionbane GamesLeft 22
+Lionbane GamesPlayedAsHuman 508
+Lionbane GamesPlayedAsZombie 80
+Lionbane HumansCaptured 776
+Lionbane K/D Ratio 278,5
+Lionbane Average Marine Winrate 40%
+Lionbane Average Fuel Diverts PerGame 3,05
+Lionbane Average Vespene Harvested PerGame 2886,22
+Lionbane Average Zombie Winrate 11%
+Lionbane Average Security Kills Per Game 412
+Lionbane Average Deaths PerGame 2,18
+Lionbane Average Infestation Class Class 5

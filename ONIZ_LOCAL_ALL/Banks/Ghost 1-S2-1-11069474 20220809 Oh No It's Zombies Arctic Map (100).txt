@@ -1,0 +1,23 @@
+Ghost HumanWinsNormal 0
+Ghost ZombieRank 0
+Ghost VespeneHarvested 0
+Ghost HumansRescued 0
+Ghost SecurityForcesKilled 0
+Ghost ZombiesKilled 0
+Ghost FuelDiverted 0
+Ghost HumanRank 0
+Ghost NumberOfTimesCaptured 0
+Ghost TurretsBuilt 0
+Ghost ZombieWins 0
+Ghost GamesLeft 0
+Ghost GamesPlayedAsHuman 0
+Ghost GamesPlayedAsZombie 0
+Ghost HumansCaptured 0
+Ghost K/D Ratio NaN
+Ghost Average Marine Winrate NaN%
+Ghost Average Fuel Diverts PerGame NaN
+Ghost Average Vespene Harvested PerGame NaN
+Ghost Average Zombie Winrate NaN%
+Ghost Average Security Kills Per Game NaN
+Ghost Average Deaths PerGame NaN
+Ghost Average Infestation Class Class 1

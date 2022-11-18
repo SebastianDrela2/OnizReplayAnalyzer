@@ -1,0 +1,23 @@
+Kaedin HumanWinsNormal 46
+Kaedin ZombieRank 0
+Kaedin VespeneHarvested 367900
+Kaedin HumansRescued 54
+Kaedin SecurityForcesKilled 1527
+Kaedin ZombiesKilled 46312
+Kaedin FuelDiverted 379
+Kaedin HumanRank 8.5834
+Kaedin NumberOfTimesCaptured 108
+Kaedin TurretsBuilt 992
+Kaedin ZombieWins 3
+Kaedin GamesLeft 5
+Kaedin GamesPlayedAsHuman 93
+Kaedin GamesPlayedAsZombie 4
+Kaedin HumansCaptured 47
+Lawliet K/D Ratio 428,81
+Lawliet Average Marine Winrate 49%
+Lawliet Average Fuel Diverts PerGame 4,08
+Lawliet Average Vespene Harvested PerGame 3955,91
+Lawliet Average Zombie Winrate 75%
+Lawliet Average Security Kills Per Game 382
+Lawliet Average Deaths PerGame 1,16
+Lawliet Average Infestation Class Class 4

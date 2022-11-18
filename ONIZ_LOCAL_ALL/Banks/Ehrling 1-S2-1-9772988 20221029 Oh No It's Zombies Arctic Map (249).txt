@@ -1,0 +1,23 @@
+Ehrling HumanWinsNormal 31
+Ehrling ZombieRank 1.1667
+Ehrling VespeneHarvested 216820
+Ehrling HumansRescued 63
+Ehrling SecurityForcesKilled 13558
+Ehrling ZombiesKilled 46340
+Ehrling FuelDiverted 178
+Ehrling HumanRank 0
+Ehrling NumberOfTimesCaptured 167
+Ehrling TurretsBuilt 247
+Ehrling ZombieWins 6
+Ehrling GamesLeft 3
+Ehrling GamesPlayedAsHuman 93
+Ehrling GamesPlayedAsZombie 32
+Ehrling HumansCaptured 264
+Ehrling K/D Ratio 277,49
+Ehrling Average Marine Winrate 33%
+Ehrling Average Fuel Diverts PerGame 1,91
+Ehrling Average Vespene Harvested PerGame 2331,4
+Ehrling Average Zombie Winrate 19%
+Ehrling Average Security Kills Per Game 424
+Ehrling Average Deaths PerGame 1,8
+Ehrling Average Infestation Class Class 5

@@ -1,0 +1,23 @@
+Jmsslayer HumanWinsNormal 13
+Jmsslayer ZombieRank 6.333
+Jmsslayer VespeneHarvested 44500
+Jmsslayer HumansRescued 12
+Jmsslayer SecurityForcesKilled 4638
+Jmsslayer ZombiesKilled 9254
+Jmsslayer FuelDiverted 80
+Jmsslayer HumanRank 13.5
+Jmsslayer NumberOfTimesCaptured 54
+Jmsslayer TurretsBuilt 65
+Jmsslayer ZombieWins 5
+Jmsslayer GamesLeft 1
+Jmsslayer GamesPlayedAsHuman 20
+Jmsslayer GamesPlayedAsZombie 10
+Jmsslayer HumansCaptured 119
+Jmsslayer K/D Ratio 171,37
+Jmsslayer Average Marine Winrate 65%
+Jmsslayer Average Fuel Diverts PerGame 4
+Jmsslayer Average Vespene Harvested PerGame 2225
+Jmsslayer Average Zombie Winrate 50%
+Jmsslayer Average Security Kills Per Game 464
+Jmsslayer Average Deaths PerGame 2,7
+Jmsslayer Average Infestation Class Class 5

@@ -1,0 +1,23 @@
+Mars HumanWinsNormal 2
+Mars ZombieRank 0
+Mars VespeneHarvested 12600
+Mars HumansRescued 0
+Mars SecurityForcesKilled 0
+Mars ZombiesKilled 1345
+Mars FuelDiverted 0
+Mars HumanRank 0
+Mars NumberOfTimesCaptured 11
+Mars TurretsBuilt 4
+Mars ZombieWins 0
+Mars GamesLeft 1
+Mars GamesPlayedAsHuman 5
+Mars GamesPlayedAsZombie 0
+Mars HumansCaptured 0
+Mars K/D Ratio 122,27
+Mars Average Marine Winrate 40%
+Mars Average Fuel Diverts PerGame 0
+Mars Average Vespene Harvested PerGame 2520
+Mars Average Zombie Winrate NaN%
+Mars Average Security Kills Per Game NaN
+Mars Average Deaths PerGame 2,2
+Mars Average Infestation Class Class 1

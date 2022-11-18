@@ -1,0 +1,23 @@
+Grubshivler HumanWinsNormal 25
+Grubshivler ZombieRank 0
+Grubshivler VespeneHarvested 195860
+Grubshivler HumansRescued 49
+Grubshivler SecurityForcesKilled 5611
+Grubshivler ZombiesKilled 34990
+Grubshivler FuelDiverted 88
+Grubshivler HumanRank 1
+Grubshivler NumberOfTimesCaptured 153
+Grubshivler TurretsBuilt 543
+Grubshivler ZombieWins 0
+Grubshivler GamesLeft 10
+Grubshivler GamesPlayedAsHuman 93
+Grubshivler GamesPlayedAsZombie 17
+Grubshivler HumansCaptured 74
+Grubshivler K/D Ratio 228,69
+Grubshivler Average Marine Winrate 27%
+Grubshivler Average Fuel Diverts PerGame 0,95
+Grubshivler Average Vespene Harvested PerGame 2106,02
+Grubshivler Average Zombie Winrate 0%
+Grubshivler Average Security Kills Per Game 330
+Grubshivler Average Deaths PerGame 1,65
+Grubshivler Average Infestation Class Class 4

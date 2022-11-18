@@ -1,0 +1,23 @@
+Sneakyyeww HumanWinsNormal 18
+Sneakyyeww ZombieRank 21.4997
+Sneakyyeww VespeneHarvested 113000
+Sneakyyeww HumansRescued 21
+Sneakyyeww SecurityForcesKilled 7582
+Sneakyyeww ZombiesKilled 26941
+Sneakyyeww FuelDiverted 81
+Sneakyyeww HumanRank 8.9335
+Sneakyyeww NumberOfTimesCaptured 52
+Sneakyyeww TurretsBuilt 119
+Sneakyyeww ZombieWins 14
+Sneakyyeww GamesLeft 1
+Sneakyyeww GamesPlayedAsHuman 36
+Sneakyyeww GamesPlayedAsZombie 16
+Sneakyyeww HumansCaptured 162
+Sneakyyeww K/D Ratio 518,1
+Sneakyyeww Average Marine Winrate 50%
+Sneakyyeww Average Fuel Diverts PerGame 2,25
+Sneakyyeww Average Vespene Harvested PerGame 3138,89
+Sneakyyeww Average Zombie Winrate 88%
+Sneakyyeww Average Security Kills Per Game 474
+Sneakyyeww Average Deaths PerGame 1,44
+Sneakyyeww Average Infestation Class Class 5

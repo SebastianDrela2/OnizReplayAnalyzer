@@ -1,0 +1,23 @@
+zergtoss HumanWinsNormal 16
+zergtoss ZombieRank 0
+zergtoss VespeneHarvested 97040
+zergtoss HumansRescued 40
+zergtoss SecurityForcesKilled 3503
+zergtoss ZombiesKilled 20972
+zergtoss FuelDiverted 17
+zergtoss HumanRank 2.5
+zergtoss NumberOfTimesCaptured 82
+zergtoss TurretsBuilt 154
+zergtoss ZombieWins 0
+zergtoss GamesLeft 0
+zergtoss GamesPlayedAsHuman 37
+zergtoss GamesPlayedAsZombie 7
+zergtoss HumansCaptured 82
+zergtoss K/D Ratio 255,76
+zergtoss Average Marine Winrate 43%
+zergtoss Average Fuel Diverts PerGame 0,46
+zergtoss Average Vespene Harvested PerGame 2622,7
+zergtoss Average Zombie Winrate 0%
+zergtoss Average Security Kills Per Game 500
+zergtoss Average Deaths PerGame 2,22
+zergtoss Average Infestation Class Class 5

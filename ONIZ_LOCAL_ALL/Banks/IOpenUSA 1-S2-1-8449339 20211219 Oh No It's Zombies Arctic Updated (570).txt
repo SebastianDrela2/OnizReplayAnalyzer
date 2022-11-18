@@ -1,0 +1,26 @@
+IOpenUSA HumanWinsNormal 86
+IOpenUSA LeftLastGameAsZombie 0
+IOpenUSA ZombieRank 0
+IOpenUSA PlayedRankedMode 1
+IOpenUSA VespeneHarvested 462800
+IOpenUSA HumansRescued 221
+IOpenUSA SecurityForcesKilled 6006
+IOpenUSA ZombiesKilled 127448
+IOpenUSA FuelDiverted 17
+IOpenUSA PlayedRankedMode5.0 1
+IOpenUSA HumanRank 28
+IOpenUSA NumberOfTimesCaptured 240
+IOpenUSA TurretsBuilt 1214
+IOpenUSA ZombieWins 9
+IOpenUSA GamesLeft 10
+IOpenUSA GamesPlayedAsHuman 161
+IOpenUSA GamesPlayedAsZombie 15
+IOpenUSA HumansCaptured 165
+IOpenUSA K/D Ratio 531,03
+IOpenUSA Average Marine Winrate 53%
+IOpenUSA Average Fuel Diverts PerGame 0,11
+IOpenUSA Average Vespene Harvested PerGame 2874,53
+IOpenUSA Average Zombie Winrate 60%
+IOpenUSA Average Security Kills Per Game 400
+IOpenUSA Average Deaths PerGame 1,49
+IOpenUSA Average Infestation Class Class 4

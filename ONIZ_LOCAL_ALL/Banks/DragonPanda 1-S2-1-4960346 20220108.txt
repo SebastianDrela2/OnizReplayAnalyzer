@@ -1,0 +1,22 @@
+DragonPanda HumanWinsNormal 0
+DragonPanda LeftLastGameAsZombie 0
+DragonPanda VespeneHarvested 2700
+DragonPanda HumansRescued 0
+DragonPanda SecurityForcesKilled 0
+DragonPanda ZombiesKilled 906
+DragonPanda FuelDiverted 3
+DragonPanda NumberOfTimesCaptured 0
+DragonPanda TurretsBuilt 15
+DragonPanda ZombieWins 0
+DragonPanda GamesLeft 0
+DragonPanda GamesPlayedAsHuman 1
+DragonPanda GamesPlayedAsZombie 0
+DragonPanda HumansCaptured 0
+DragonPanda K/D Ratio ∞
+DragonPanda Average Marine Winrate 0%
+DragonPanda Average Fuel Diverts PerGame 3
+DragonPanda Average Vespene Harvested PerGame 2700
+DragonPanda Average Zombie Winrate NaN%
+DragonPanda Average Security Kills Per Game NaN
+DragonPanda Average Deaths PerGame 0
+DragonPanda Average Infestation Class Class 1

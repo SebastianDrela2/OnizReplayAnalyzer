@@ -1,0 +1,23 @@
+ArcticBlade HumanWinsNormal 8
+ArcticBlade ZombieRank 9.6667
+ArcticBlade VespeneHarvested 58000
+ArcticBlade HumansRescued 24
+ArcticBlade SecurityForcesKilled 3654
+ArcticBlade ZombiesKilled 9341
+ArcticBlade FuelDiverted 4
+ArcticBlade HumanRank 0
+ArcticBlade NumberOfTimesCaptured 83
+ArcticBlade TurretsBuilt 86
+ArcticBlade ZombieWins 4
+ArcticBlade GamesLeft 4
+ArcticBlade GamesPlayedAsHuman 27
+ArcticBlade GamesPlayedAsZombie 9
+ArcticBlade HumansCaptured 86
+ArcticBlade K/D Ratio 112,54
+ArcticBlade Average Marine Winrate 30%
+ArcticBlade Average Fuel Diverts PerGame 0,15
+ArcticBlade Average Vespene Harvested PerGame 2148,15
+ArcticBlade Average Zombie Winrate 44%
+ArcticBlade Average Security Kills Per Game 406
+ArcticBlade Average Deaths PerGame 3,07
+ArcticBlade Average Infestation Class Class 4

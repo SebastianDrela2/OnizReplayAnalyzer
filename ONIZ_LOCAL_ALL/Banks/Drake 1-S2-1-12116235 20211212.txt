@@ -1,0 +1,23 @@
+Drake HumanWinsNormal 172
+Drake ZombieRank 31
+Drake VespeneHarvested 987300
+Drake HumansRescued 184
+Drake SecurityForcesKilled 64481
+Drake ZombiesKilled 188875
+Drake FuelDiverted 1855
+Drake HumanRank 9.6672
+Drake NumberOfTimesCaptured 692
+Drake TurretsBuilt 1985
+Drake ZombieWins 79
+Drake GamesLeft 39
+Drake GamesPlayedAsHuman 354
+Drake GamesPlayedAsZombie 194
+Drake HumansCaptured 1491
+Drake K/D Ratio 272,94
+Drake Average Marine Winrate 49%
+Drake Average Fuel Diverts PerGame 5,24
+Drake Average Vespene Harvested PerGame 2788,98
+Drake Average Zombie Winrate 41%
+Drake Average Security Kills Per Game 332
+Drake Average Deaths PerGame 1,95
+Drake Average Infestation Class Class 4

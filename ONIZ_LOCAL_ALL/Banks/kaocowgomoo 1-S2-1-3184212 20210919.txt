@@ -1,0 +1,23 @@
+kaocowgomoo HumanWinsNormal 6
+kaocowgomoo ZombieRank 0
+kaocowgomoo VespeneHarvested 20900
+kaocowgomoo HumansRescued 8
+kaocowgomoo SecurityForcesKilled 0
+kaocowgomoo ZombiesKilled 6358
+kaocowgomoo FuelDiverted 0
+kaocowgomoo HumanRank 11
+kaocowgomoo NumberOfTimesCaptured 14
+kaocowgomoo TurretsBuilt 46
+kaocowgomoo ZombieWins 0
+kaocowgomoo GamesLeft 0
+kaocowgomoo GamesPlayedAsHuman 11
+kaocowgomoo GamesPlayedAsZombie 0
+kaocowgomoo HumansCaptured 0
+kaocowgomoo K/D Ratio 454,14
+kaocowgomoo Average Marine Winrate 55,00000000000001%
+kaocowgomoo Average Fuel Diverts PerGame 0
+kaocowgomoo Average Vespene Harvested PerGame 1900
+kaocowgomoo Average Zombie Winrate NaN%
+kaocowgomoo Average Security Kills Per Game NaN
+kaocowgomoo Average Deaths PerGame 1,27
+kaocowgomoo Average Infestation Class Class 1

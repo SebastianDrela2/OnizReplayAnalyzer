@@ -1,0 +1,24 @@
+Manweslover HumanWinsNormal 8
+Manweslover ZombieRank 0
+Manweslover VespeneHarvested 37400
+Manweslover HumansRescued 8
+Manweslover SecurityForcesKilled 0
+Manweslover ZombiesKilled 7642
+Manweslover PlayedRankedMode5.0 1
+Manweslover FuelDiverted 57
+Manweslover HumanRank 6
+Manweslover NumberOfTimesCaptured 25
+Manweslover TurretsBuilt 123
+Manweslover ZombieWins 0
+Manweslover GamesLeft 4
+Manweslover GamesPlayedAsHuman 17
+Manweslover GamesPlayedAsZombie 0
+Manweslover HumansCaptured 0
+Manweslover K/D Ratio 305,68
+Manweslover Average Marine Winrate 47%
+Manweslover Average Fuel Diverts PerGame 3,35
+Manweslover Average Vespene Harvested PerGame 2200
+Manweslover Average Zombie Winrate NaN%
+Manweslover Average Security Kills Per Game NaN
+Manweslover Average Deaths PerGame 1,47
+Manweslover Average Infestation Class Class 1

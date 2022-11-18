@@ -1,0 +1,23 @@
+JesyBoi HumanWinsNormal 2
+JesyBoi ZombieRank 0
+JesyBoi VespeneHarvested 15600
+JesyBoi HumansRescued 9
+JesyBoi SecurityForcesKilled 0
+JesyBoi ZombiesKilled 3457
+JesyBoi FuelDiverted 2
+JesyBoi HumanRank 0
+JesyBoi NumberOfTimesCaptured 32
+JesyBoi TurretsBuilt 29
+JesyBoi ZombieWins 0
+JesyBoi GamesLeft 15
+JesyBoi GamesPlayedAsHuman 21
+JesyBoi GamesPlayedAsZombie 1
+JesyBoi HumansCaptured 0
+JesyBoi K/D Ratio 108,03
+JesyBoi Average Marine Winrate 10%
+JesyBoi Average Fuel Diverts PerGame 0,1
+JesyBoi Average Vespene Harvested PerGame 742,86
+JesyBoi Average Zombie Winrate 0%
+JesyBoi Average Security Kills Per Game 0
+JesyBoi Average Deaths PerGame 1,52
+JesyBoi Average Infestation Class Class 1

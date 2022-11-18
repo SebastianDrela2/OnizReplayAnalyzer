@@ -1,0 +1,23 @@
+Rodorigo HumanWinsNormal 1
+Rodorigo ZombieRank 0
+Rodorigo VespeneHarvested 3200
+Rodorigo HumansRescued 1
+Rodorigo SecurityForcesKilled 0
+Rodorigo ZombiesKilled 852
+Rodorigo FuelDiverted 15
+Rodorigo HumanRank 1
+Rodorigo NumberOfTimesCaptured 1
+Rodorigo TurretsBuilt 5
+Rodorigo ZombieWins 0
+Rodorigo GamesLeft 0
+Rodorigo GamesPlayedAsHuman 2
+Rodorigo GamesPlayedAsZombie 0
+Rodorigo HumansCaptured 0
+Rodorigo K/D Ratio 852
+Rodorigo Average Marine Winrate 50%
+Rodorigo Average Fuel Diverts PerGame 7,5
+Rodorigo Average Vespene Harvested PerGame 1600
+Rodorigo Average Zombie Winrate NaN%
+Rodorigo Average Security Kills Per Game NaN
+Rodorigo Average Deaths PerGame 0,5
+Rodorigo Average Infestation Class Class 1

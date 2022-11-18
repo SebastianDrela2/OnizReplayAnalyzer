@@ -1,0 +1,23 @@
+Clarencezer HumanWinsNormal 7
+Clarencezer ZombieRank 0
+Clarencezer VespeneHarvested 14200
+Clarencezer HumansRescued 5
+Clarencezer SecurityForcesKilled 0
+Clarencezer ZombiesKilled 4454
+Clarencezer FuelDiverted 27
+Clarencezer HumanRank 12
+Clarencezer NumberOfTimesCaptured 15
+Clarencezer TurretsBuilt 79
+Clarencezer ZombieWins 0
+Clarencezer GamesLeft 0
+Clarencezer GamesPlayedAsHuman 11
+Clarencezer GamesPlayedAsZombie 0
+Clarencezer HumansCaptured 0
+Clarencezer K/D Ratio 296,93
+Clarencezer Average Marine Winrate 64%
+Clarencezer Average Fuel Diverts PerGame 2,45
+Clarencezer Average Vespene Harvested PerGame 1290,91
+Clarencezer Average Zombie Winrate NaN%
+Clarencezer Average Security Kills Per Game NaN
+Clarencezer Average Deaths PerGame 1,36
+Clarencezer Average Infestation Class Class 1

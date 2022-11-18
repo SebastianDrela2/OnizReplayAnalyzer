@@ -1,0 +1,23 @@
+MarFly HumanWinsNormal 336
+MarFly ZombieRank 1
+MarFly VespeneHarvested 1551900
+MarFly HumansRescued 629
+MarFly SecurityForcesKilled 1305
+MarFly ZombiesKilled 413192
+MarFly FuelDiverted 26
+MarFly HumanRank 31
+MarFly NumberOfTimesCaptured 1013
+MarFly TurretsBuilt 2108
+MarFly ZombieWins 2
+MarFly GamesLeft 31
+MarFly GamesPlayedAsHuman 640
+MarFly GamesPlayedAsZombie 8
+MarFly HumansCaptured 29
+MarFly K/D Ratio 407,89
+MarFly Average Marine Winrate 52%
+MarFly Average Fuel Diverts PerGame 0,04
+MarFly Average Vespene Harvested PerGame 2424,84
+MarFly Average Zombie Winrate 25%
+MarFly Average Security Kills Per Game 163
+MarFly Average Deaths PerGame 1,58
+MarFly Average Infestation Class Class 2

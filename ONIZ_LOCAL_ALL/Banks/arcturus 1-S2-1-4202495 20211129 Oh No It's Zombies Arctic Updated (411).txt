@@ -1,0 +1,23 @@
+arcturus HumanWinsNormal 0
+arcturus ZombieRank 0
+arcturus VespeneHarvested 5600
+arcturus HumansRescued 2
+arcturus SecurityForcesKilled 0
+arcturus ZombiesKilled 891
+arcturus FuelDiverted 0
+arcturus HumanRank 0
+arcturus NumberOfTimesCaptured 4
+arcturus TurretsBuilt 12
+arcturus ZombieWins 0
+arcturus GamesLeft 0
+arcturus GamesPlayedAsHuman 2
+arcturus GamesPlayedAsZombie 0
+arcturus HumansCaptured 0
+arcturus K/D Ratio 222,75
+arcturus Average Marine Winrate 0%
+arcturus Average Fuel Diverts PerGame 0
+arcturus Average Vespene Harvested PerGame 2800
+arcturus Average Zombie Winrate NaN%
+arcturus Average Security Kills Per Game NaN
+arcturus Average Deaths PerGame 2
+arcturus Average Infestation Class Class 1

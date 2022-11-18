@@ -1,0 +1,23 @@
+JoeTheHoe HumanWinsNormal 1
+JoeTheHoe ZombieRank 0
+JoeTheHoe VespeneHarvested 10200
+JoeTheHoe HumansRescued 2
+JoeTheHoe SecurityForcesKilled 0
+JoeTheHoe ZombiesKilled 1204
+JoeTheHoe FuelDiverted 0
+JoeTheHoe HumanRank 0
+JoeTheHoe NumberOfTimesCaptured 4
+JoeTheHoe TurretsBuilt 32
+JoeTheHoe ZombieWins 0
+JoeTheHoe GamesLeft 1
+JoeTheHoe GamesPlayedAsHuman 4
+JoeTheHoe GamesPlayedAsZombie 0
+JoeTheHoe HumansCaptured 0
+JoeTheHoe K/D Ratio 301
+JoeTheHoe Average Marine Winrate 25%
+JoeTheHoe Average Fuel Diverts PerGame 0
+JoeTheHoe Average Vespene Harvested PerGame 2550
+JoeTheHoe Average Zombie Winrate NaN%
+JoeTheHoe Average Security Kills Per Game NaN
+JoeTheHoe Average Deaths PerGame 1
+JoeTheHoe Average Infestation Class Class 1

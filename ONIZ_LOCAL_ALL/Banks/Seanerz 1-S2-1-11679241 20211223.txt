@@ -1,0 +1,23 @@
+Seanerz HumanWinsNormal 2
+Seanerz ZombieRank 0
+Seanerz VespeneHarvested 6700
+Seanerz HumansRescued 5
+Seanerz SecurityForcesKilled 0
+Seanerz ZombiesKilled 2165
+Seanerz FuelDiverted 16
+Seanerz HumanRank 4
+Seanerz NumberOfTimesCaptured 14
+Seanerz TurretsBuilt 10
+Seanerz ZombieWins 0
+Seanerz GamesLeft 0
+Seanerz GamesPlayedAsHuman 7
+Seanerz GamesPlayedAsZombie 0
+Seanerz HumansCaptured 0
+Seanerz K/D Ratio 154,64
+Seanerz Average Marine Winrate 28,999999999999996%
+Seanerz Average Fuel Diverts PerGame 2,29
+Seanerz Average Vespene Harvested PerGame 957,14
+Seanerz Average Zombie Winrate NaN%
+Seanerz Average Security Kills Per Game NaN
+Seanerz Average Deaths PerGame 2
+Seanerz Average Infestation Class Class 1

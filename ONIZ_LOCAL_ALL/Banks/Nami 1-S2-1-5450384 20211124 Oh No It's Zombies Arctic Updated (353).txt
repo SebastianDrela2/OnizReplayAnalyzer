@@ -1,0 +1,23 @@
+Nami HumanWinsNormal 6
+Nami ZombieRank 0
+Nami VespeneHarvested 60800
+Nami HumansRescued 18
+Nami SecurityForcesKilled 6113
+Nami ZombiesKilled 10348
+Nami FuelDiverted 30
+Nami HumanRank 0
+Nami NumberOfTimesCaptured 73
+Nami TurretsBuilt 41
+Nami ZombieWins 0
+Nami GamesLeft 5
+Nami GamesPlayedAsHuman 29
+Nami GamesPlayedAsZombie 18
+Nami HumansCaptured 118
+battlerig K/D Ratio 141,75
+battlerig Average Marine Winrate 300%
+battlerig Average Fuel Diverts PerGame 15
+battlerig Average Vespene Harvested PerGame 30400
+battlerig Average Zombie Winrate 0%
+battlerig Average Security Kills Per Game 340
+battlerig Average Deaths PerGame 36,5
+battlerig Average Infestation Class Class 4

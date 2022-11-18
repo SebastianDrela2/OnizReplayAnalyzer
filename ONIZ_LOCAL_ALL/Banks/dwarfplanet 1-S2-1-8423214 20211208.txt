@@ -1,0 +1,24 @@
+dwarfplanet HumanWinsNormal 32
+dwarfplanet ZombieRank 0
+dwarfplanet VespeneHarvested 185200
+dwarfplanet HumansRescued 130
+dwarfplanet SecurityForcesKilled 6632
+dwarfplanet ZombiesKilled 45632
+dwarfplanet FuelDiverted 142
+dwarfplanet PlayedRankedMode5.0 1
+dwarfplanet HumanRank 3.5
+dwarfplanet NumberOfTimesCaptured 105
+dwarfplanet TurretsBuilt 567
+dwarfplanet ZombieWins 2
+dwarfplanet GamesLeft 4
+dwarfplanet GamesPlayedAsHuman 73
+dwarfplanet GamesPlayedAsZombie 16
+dwarfplanet HumansCaptured 176
+dwarfplanet K/D Ratio 434,59
+dwarfplanet Average Marine Winrate 44%
+dwarfplanet Average Fuel Diverts PerGame 1,95
+dwarfplanet Average Vespene Harvested PerGame 2536,99
+dwarfplanet Average Zombie Winrate 12%
+dwarfplanet Average Security Kills Per Game 414
+dwarfplanet Average Deaths PerGame 1,44
+dwarfplanet Average Infestation Class Class 5

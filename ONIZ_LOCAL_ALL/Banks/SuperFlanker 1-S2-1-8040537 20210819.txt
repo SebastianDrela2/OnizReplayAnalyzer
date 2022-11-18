@@ -1,0 +1,23 @@
+SuperFlanker HumanWinsNormal 4
+SuperFlanker ZombieRank 0
+SuperFlanker VespeneHarvested 14400
+SuperFlanker HumansRescued 13
+SuperFlanker SecurityForcesKilled 503
+SuperFlanker ZombiesKilled 6241
+SuperFlanker FuelDiverted 2
+SuperFlanker HumanRank 3
+SuperFlanker NumberOfTimesCaptured 16
+SuperFlanker TurretsBuilt 70
+SuperFlanker ZombieWins 0
+SuperFlanker GamesLeft 3
+SuperFlanker GamesPlayedAsHuman 12
+SuperFlanker GamesPlayedAsZombie 1
+SuperFlanker HumansCaptured 12
+SuperFlanker K/D Ratio 390,06
+SuperFlanker Average Marine Winrate 33%
+SuperFlanker Average Fuel Diverts PerGame 0,17
+SuperFlanker Average Vespene Harvested PerGame 1200
+SuperFlanker Average Zombie Winrate 0%
+SuperFlanker Average Security Kills Per Game 503
+SuperFlanker Average Deaths PerGame 1,33
+SuperFlanker Average Infestation Class Class 5

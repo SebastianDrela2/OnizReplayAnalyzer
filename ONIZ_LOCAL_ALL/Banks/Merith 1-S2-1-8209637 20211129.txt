@@ -1,0 +1,23 @@
+Merith HumanWinsNormal 0
+Merith ZombieRank 0
+Merith VespeneHarvested 2300
+Merith HumansRescued 1
+Merith SecurityForcesKilled 0
+Merith ZombiesKilled 529
+Merith FuelDiverted 8
+Merith HumanRank 0
+Merith NumberOfTimesCaptured 4
+Merith TurretsBuilt 6
+Merith ZombieWins 0
+Merith GamesLeft 0
+Merith GamesPlayedAsHuman 2
+Merith GamesPlayedAsZombie 0
+Merith HumansCaptured 0
+Merith K/D Ratio 132,25
+Merith Average Marine Winrate 0%
+Merith Average Fuel Diverts PerGame 4
+Merith Average Vespene Harvested PerGame 1150
+Merith Average Zombie Winrate NaN%
+Merith Average Security Kills Per Game NaN
+Merith Average Deaths PerGame 2
+Merith Average Infestation Class Class 1

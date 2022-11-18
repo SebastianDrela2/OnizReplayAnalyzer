@@ -1,0 +1,23 @@
+MajorNorris HumanWinsNormal 6
+MajorNorris ZombieRank 0
+MajorNorris VespeneHarvested 43000
+MajorNorris HumansRescued 3
+MajorNorris SecurityForcesKilled 6338
+MajorNorris ZombiesKilled 10105
+MajorNorris FuelDiverted 31
+MajorNorris HumanRank 0
+MajorNorris NumberOfTimesCaptured 33
+MajorNorris TurretsBuilt 229
+MajorNorris ZombieWins 1
+MajorNorris GamesLeft 2
+MajorNorris GamesPlayedAsHuman 21
+MajorNorris GamesPlayedAsZombie 15
+MajorNorris HumansCaptured 109
+MajorNorris K/D Ratio 306,21
+MajorNorris Average Marine Winrate 28,999999999999996%
+MajorNorris Average Fuel Diverts PerGame 1,48
+MajorNorris Average Vespene Harvested PerGame 2047,62
+MajorNorris Average Zombie Winrate 7,000000000000001%
+MajorNorris Average Security Kills Per Game 423
+MajorNorris Average Deaths PerGame 1,57
+MajorNorris Average Infestation Class Class 5

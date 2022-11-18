@@ -1,0 +1,24 @@
+Davarus HumanWinsNormal 38
+Davarus ZombieRank 0
+Davarus VespeneHarvested 307400
+Davarus HumansRescued 31
+Davarus SecurityForcesKilled 791
+Davarus ZombiesKilled 43330
+Davarus FuelDiverted 57
+Davarus PlayedRankedMode5.0 1
+Davarus HumanRank 2
+Davarus NumberOfTimesCaptured 134
+Davarus TurretsBuilt 801
+Davarus ZombieWins 0
+Davarus GamesLeft 3
+Davarus GamesPlayedAsHuman 105
+Davarus GamesPlayedAsZombie 3
+Davarus HumansCaptured 14
+Davarus K/D Ratio 323,36
+Davarus Average Marine Winrate 36%
+Davarus Average Fuel Diverts PerGame 0,54
+Davarus Average Vespene Harvested PerGame 2927,62
+Davarus Average Zombie Winrate 0%
+Davarus Average Security Kills Per Game 264
+Davarus Average Deaths PerGame 1,28
+Davarus Average Infestation Class Class 3

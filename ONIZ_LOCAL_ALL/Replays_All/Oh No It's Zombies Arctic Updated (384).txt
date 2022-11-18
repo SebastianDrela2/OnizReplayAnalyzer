@@ -1,0 +1,183 @@
+Analyzed: Oh No It's Zombies Arctic Updated (384)
+
+ID : 0 PlayerName: Frosky Race: Terran
+ID : 1 PlayerName: King Race: Zerg
+ID : 2 PlayerName: Violet Race: Terran
+ID : 3 PlayerName: Drake Race: Terran
+ID : 4 PlayerName: Nami Race: Terran
+ID : 5 PlayerName: BuildAWall Race: Terran
+ID : 6 PlayerName: GreyWanderer Race: Terran
+ID : 7 PlayerName: Security Race: Infested Terran
+King Zombie Loss
+Public Lobby
+
+Game Length:[35:008]
+Players ammount: 8
+Marine rank avg: 12
+GrandMaster ammount: 1
+PURCHASES: 
+[00:588] Frosky Unlocked AssaultRifle
+[00:889] Frosky Placed MiningDroid
+[02:524] Frosky Unlocked Shotgun
+[03:632] Frosky Unlocked SpecOpsShotgun
+[05:007] Frosky Unlocked ExplorationDroid
+[05:044] Frosky Placed ExplorationDroid
+[06:702] Frosky Placed ExplorationDroid
+[09:003] Frosky Unlocked ConcussiveBeams
+[09:063] Frosky Unlocked AdvancedDroidEngines
+[09:220] Frosky Placed ExplorationDroid
+[10:363] Frosky Unlocked BioMechanicalRepairDrone
+[10:536] Frosky Placed HealingDrone
+[13:178] Frosky Unlocked TurboDroidEngines
+[14:533] Frosky Unlocked Stimpack
+[14:878] Frosky Placed HealingDrone
+[15:089] Frosky Placed HealingDrone
+[15:752] Frosky Placed HealingDrone
+[16:463] Frosky Placed MiningDroid
+[17:861] Frosky Placed HealingDrone
+[18:925] Frosky Placed HealingDrone
+[21:758] Frosky Placed HealingDrone
+[31:720] Frosky Placed HealingDrone
+[31:956] Frosky Placed HealingDrone
+[00:552] King Bought PlayerNumber
+[00:771] King Spawned MassiveCocoon
+[00:962] King Spawned MassiveCocoon
+[02:042] King Spawned Underseer
+[02:211] King Spawned InfestedAbomination
+[02:638] King Bought StrainHealth
+[06:433] King Bought UnlockDropPods
+[08:560] King Bought StrainVolatile
+[09:330] King Bought AdvancedPowerInfestation
+[11:780] King Bought SiphonFuel
+[12:939] King Bought SpawnNydusWorm
+[13:908] King Placed/Upgraded GreaterNydusWorm
+[16:143] King Bought EvolveDropPods
+[16:146] King Bought EvolveDropPods
+[16:151] King Bought EvolveDropPods
+[16:153] King Bought EvolveDropPods
+[17:707] King Bought EvolveDropPods
+[17:711] King Bought EvolveDropPods
+[18:802] King Bought BuildExtractorScienceLabs
+[18:802] King Placed/Upgraded AutomatedExtractor
+[19:217] King Bought BuildExtractorManufacturingSector
+[19:217] King Placed/Upgraded AutomatedExtractor
+[19:531] King Spawned MassiveCocoon
+[19:889] King Placed/Upgraded Virophage
+[20:611] King Spawned Underseer
+[20:920] King Spawned MassiveCocoon
+[21:534] King Placed/Upgraded GreaterNydusWorm
+[21:684] King Placed/Upgraded Virophage
+[22:360] King Spawned PrimalTownHallUprooted
+[23:801] King Bought CreepSpeed
+[24:302] King Bought SiphonFuel
+[25:374] King Bought DropshipsFueled
+[26:303] King Bought UltimateInfestationResearched
+[26:425] King Spawned MassiveCocoon
+[26:634] King Spawned MassiveCocoon
+[26:720] King Spawned MassiveCocoon
+[26:778] King Spawned MassiveCocoon
+[27:865] King Spawned PrimalTownHallUprooted
+[28:074] King Spawned PrimalTownHallUprooted
+[28:160] King Spawned PrimalTownHallUprooted
+[28:218] King Spawned PrimalTownHallUprooted
+[29:183] King Bought CreepSpeed
+[29:218] King Bought VirulentCreep
+[29:218] King Bought VirulentCreep
+[30:446] King Placed/Upgraded NydusCanalCreeper
+[31:517] King Bought StrainVolatile
+[31:527] King Bought PureStrainVolatile
+[31:544] King Bought KaboomerStrain
+[31:564] King Bought PureStrainVolatile
+[31:581] King Bought KaboomerStrain
+[32:150] King Placed/Upgraded GreaterNydusWorm
+[32:356] King Placed/Upgraded NydusCanalCreeper
+[00:588] Violet Unlocked AssaultRifle
+[00:756] Violet Placed/Upgraded MiningDroid
+[00:588] Drake Unlocked AssaultRifle
+[00:771] Drake Placed/Upgraded MiningDroid
+[01:923] Drake Unlocked AdvancedDroidEngines
+[05:840] Drake Unlocked TurboDroidEngines
+[05:886] Drake Unlocked HellfireRocketLauncher
+[08:169] Drake Unlocked SpecOpsHellfireRocketLauncher
+[08:309] Drake Unlocked ShockwaveMissiles
+[11:152] Drake Unlocked FlashBang
+[11:550] Drake Unlocked HazmatSuit
+[13:904] Drake Placed/Upgraded MiningDroid
+[19:017] Drake Unlocked BioMechanicalRepairDrone
+[19:086] Drake Unlocked AdvancedHazmatSuit
+[19:352] Drake Unlocked Stimpack
+[21:453] Drake Placed/Upgraded HealingDrone
+[22:194] Drake Placed/Upgraded HealingDrone
+[25:314] Drake Placed/Upgraded HealingDrone
+[26:114] Drake Placed/Upgraded HealingDrone
+[26:632] Drake Placed/Upgraded HealingDrone
+[28:625] Drake Unlocked Teleporter
+[29:441] Drake Placed/Upgraded HealingDrone
+[31:266] Drake Placed/Upgraded HealingDrone
+[31:892] Drake Placed/Upgraded HealingDrone
+[33:577] Drake Placed/Upgraded MiningDroid
+[33:828] Drake Placed/Upgraded HealingDrone
+[00:588] Nami Unlocked AssaultRifle
+[03:396] Nami Placed/Upgraded MiningDroid
+[03:525] Nami Unlocked AdvancedDroidEngines
+[03:541] Nami Unlocked TurboDroidEngines
+[05:817] Nami Unlocked Shotgun
+[07:521] Nami Unlocked SpecOpsShotgun
+[11:551] Nami Bought ShieldSuit
+[11:551] Nami Bought CombatSuit
+[11:551] Nami Bought HazmatSuit
+[11:551] Nami Bought HazmatSuit
+[12:862] Nami Unlocked IncendiaryBullets
+[13:910] Nami Unlocked Stimpack
+[14:055] Nami Unlocked MedicShield
+[14:144] Nami Unlocked SuperStimpack
+[14:162] Nami Unlocked SpecOpsSuperStimpack
+[19:087] Nami Bought HazmatSuit
+[19:502] Nami Unlocked MiningCharge
+[19:515] Nami Unlocked AdvancedMiningCharge
+[25:915] Nami Placed/Upgraded NukePack
+[00:588] BuildAWall Unlocked AssaultRifle
+[00:740] BuildAWall Placed/Upgraded MiningDroid
+[00:798] BuildAWall Unlocked OverloadWeapon
+[03:597] BuildAWall Unlocked ArcWelder
+[05:557] BuildAWall Unlocked AutoTurret
+[05:571] BuildAWall Unlocked FlameTurret
+[06:177] BuildAWall Placed/Upgraded AutoTurret
+[07:189] BuildAWall Unlocked CombatSuit
+[08:240] BuildAWall Unlocked Stimpack
+[09:120] BuildAWall Placed/Upgraded AutoTurret
+[09:362] BuildAWall Placed/Upgraded AutoTurret
+[12:090] BuildAWall Placed/Upgraded MiningDroid
+[14:871] BuildAWall Placed/Upgraded AutoTurret
+[15:053] BuildAWall Placed/Upgraded AutoTurret
+[15:228] BuildAWall Placed/Upgraded AutoTurret
+[16:122] BuildAWall Placed/Upgraded MiningDroid
+[17:268] BuildAWall Unlocked AdvancedCombatSuit
+[17:298] BuildAWall Unlocked AdvancedDroidEngines
+[19:827] BuildAWall Unlocked TurboDroidEngines
+[20:861] BuildAWall Unlocked PsiDisrupter
+[20:885] BuildAWall Unlocked PsiDepressor
+[20:952] BuildAWall Placed/Upgraded PsiIndoctrinator
+[21:391] BuildAWall Placed/Upgraded PsiIndoctrinator
+[26:410] BuildAWall Placed/Upgraded PsiIndoctrinator
+[34:048] BuildAWall Placed/Upgraded AutoTurret
+[00:588] GreyWanderer Unlocked AssaultRifle
+[02:305] GreyWanderer Unlocked Shotgun
+[05:296] GreyWanderer Unlocked BioMechanicalRepairDrone
+[05:312] GreyWanderer Unlocked SpecOpsBioMechanicalRepairDrone
+[06:412] GreyWanderer Unlocked FragGrenade
+[07:055] GreyWanderer Unlocked SpecOpsFragGrenade
+[07:190] GreyWanderer Bought ShieldSuit
+[07:190] GreyWanderer Bought CombatSuit
+[07:190] GreyWanderer Bought HazmatSuit
+[07:190] GreyWanderer Bought CombatSuit
+[08:417] GreyWanderer Unlocked AdvancedDroidEngines
+[10:232] GreyWanderer Unlocked SpecOpsShotgun
+[12:446] GreyWanderer Unlocked Teleporter
+[14:173] GreyWanderer Unlocked PsiDisrupter
+[17:269] GreyWanderer Bought CombatSuit
+[31:593] GreyWanderer Unlocked MiningCharge
+King First Alpha Underseer |  Loss
+
+King Placed 3 Greaters.
+--------------------------------

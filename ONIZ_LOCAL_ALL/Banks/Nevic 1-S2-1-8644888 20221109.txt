@@ -1,0 +1,23 @@
+Nevic HumanWinsNormal 107
+Nevic ZombieRank 5.5
+Nevic VespeneHarvested 531660
+Nevic HumansRescued 137
+Nevic SecurityForcesKilled 7038
+Nevic ZombiesKilled 169844
+Nevic FuelDiverted 1
+Nevic HumanRank 0
+Nevic NumberOfTimesCaptured 515
+Nevic TurretsBuilt 517
+Nevic ZombieWins 7
+Nevic GamesLeft 66
+Nevic GamesPlayedAsHuman 277
+Nevic GamesPlayedAsZombie 21
+Nevic HumansCaptured 161
+Nevic K/D Ratio 329,79
+Nevic Average Marine Winrate 39%
+Nevic Average Fuel Diverts PerGame 0
+Nevic Average Vespene Harvested PerGame 1919,35
+Nevic Average Zombie Winrate 33%
+Nevic Average Security Kills Per Game 335
+Nevic Average Deaths PerGame 1,86
+Nevic Average Infestation Class Class 4

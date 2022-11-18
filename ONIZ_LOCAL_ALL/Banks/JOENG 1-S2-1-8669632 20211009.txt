@@ -1,0 +1,23 @@
+JOENG HumanWinsNormal 37
+JOENG ZombieRank 0
+JOENG VespeneHarvested 182400
+JOENG HumansRescued 105
+JOENG SecurityForcesKilled 40
+JOENG ZombiesKilled 61685
+JOENG FuelDiverted 38
+JOENG HumanRank -0.5
+JOENG NumberOfTimesCaptured 265
+JOENG TurretsBuilt 428
+JOENG ZombieWins 0
+JOENG GamesLeft 8
+JOENG GamesPlayedAsHuman 109
+JOENG GamesPlayedAsZombie 1
+JOENG HumansCaptured 0
+JOENG K/D Ratio 232,77
+JOENG Average Marine Winrate 34%
+JOENG Average Fuel Diverts PerGame 0,35
+JOENG Average Vespene Harvested PerGame 1673,39
+JOENG Average Zombie Winrate 0%
+JOENG Average Security Kills Per Game 40
+JOENG Average Deaths PerGame 2,43
+JOENG Average Infestation Class Class 1

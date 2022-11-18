@@ -1,0 +1,23 @@
+Kitty HumanWinsNormal 25
+Kitty ZombieRank 26.1662
+Kitty VespeneHarvested 164180
+Kitty HumansRescued 17
+Kitty SecurityForcesKilled 10778
+Kitty ZombiesKilled 42851
+Kitty FuelDiverted 147
+Kitty HumanRank 10.25
+Kitty NumberOfTimesCaptured 38
+Kitty TurretsBuilt 315
+Kitty ZombieWins 22
+Kitty GamesLeft 2
+Kitty GamesPlayedAsHuman 52
+Kitty GamesPlayedAsZombie 25
+Kitty HumansCaptured 256
+Kitty K/D Ratio 1127,66
+Kitty Average Marine Winrate 48%
+Kitty Average Fuel Diverts PerGame 2,83
+Kitty Average Vespene Harvested PerGame 3157,31
+Kitty Average Zombie Winrate 88%
+Kitty Average Security Kills Per Game 431
+Kitty Average Deaths PerGame 0,73
+Kitty Average Infestation Class Class 5

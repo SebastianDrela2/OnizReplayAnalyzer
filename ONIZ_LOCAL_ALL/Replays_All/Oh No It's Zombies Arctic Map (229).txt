@@ -1,0 +1,40 @@
+Analyzed: Oh No It's Zombies Arctic Map (229)
+
+ID : 0 PlayerName: Frosky Race: Zerg
+ID : 7 PlayerName: Security Race: Infested Terran
+Frosky Zombie Win
+Public Lobby
+
+Game Length:[29:786]
+Players ammount: 2
+Marine rank avg: 0,6666666666666666
+GrandMaster ammount: 1
+PURCHASES: 
+[00:649] Frosky Spawned MassiveCocoon
+[00:857] Frosky Spawned MassiveCocoon
+[01:725] Frosky Spawned MassiveCocoon
+[01:729] Frosky Spawned Underseer
+[02:297] Frosky Spawned PrimalTownHallUprooted
+[03:165] Frosky Spawned PrimalTownHallUprooted
+[03:376] Frosky Bought UnlockDropPods
+[04:608] Frosky Placed/Upgraded NydusCanalCreeper
+[05:920] Frosky Bought EvolveDropPods
+[05:923] Frosky Bought EvolveDropPods
+[05:926] Frosky Bought EvolveDropPods
+[06:257] Frosky Placed/Upgraded NydusCanalCreeper
+[09:333] Frosky Spawned MassiveCocoon
+[10:413] Frosky Spawned Underseer
+[12:255] Frosky Spawned MassiveCocoon
+[12:477] Frosky Placed/Upgraded NydusCanalCreeper
+[12:718] Frosky Placed/Upgraded NydusCanalCreeper
+[13:695] Frosky Spawned PrimalTownHallUprooted
+[15:470] Frosky Spawned MassiveCocoon
+[16:550] Frosky Spawned Underseer
+[20:016] Frosky Placed/Upgraded NydusCanalCreeper
+[20:257] Frosky Placed/Upgraded NydusCanalCreeper
+[23:596] Frosky Placed/Upgraded NydusCanalCreeper
+[23:837] Frosky Placed/Upgraded NydusCanalCreeper
+Frosky First Alpha Underseer |  Win
+
+Frosky Placed 0 Greaters.
+--------------------------------

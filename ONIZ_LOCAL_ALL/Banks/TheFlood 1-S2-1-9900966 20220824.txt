@@ -1,0 +1,23 @@
+TheFlood HumanWinsNormal 16
+TheFlood ZombieRank 0
+TheFlood VespeneHarvested 107180
+TheFlood HumansRescued 25
+TheFlood SecurityForcesKilled 638
+TheFlood ZombiesKilled 17280
+TheFlood FuelDiverted 37
+TheFlood HumanRank 0
+TheFlood NumberOfTimesCaptured 95
+TheFlood TurretsBuilt 164
+TheFlood ZombieWins 1
+TheFlood GamesLeft 6
+TheFlood GamesPlayedAsHuman 41
+TheFlood GamesPlayedAsZombie 3
+TheFlood HumansCaptured 7
+TheFlood K/D Ratio 181,89
+TheFlood Average Marine Winrate 39%
+TheFlood Average Fuel Diverts PerGame 0,9
+TheFlood Average Vespene Harvested PerGame 2614,15
+TheFlood Average Zombie Winrate 33%
+TheFlood Average Security Kills Per Game 213
+TheFlood Average Deaths PerGame 2,32
+TheFlood Average Infestation Class Class 3

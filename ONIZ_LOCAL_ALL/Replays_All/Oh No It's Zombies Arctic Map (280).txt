@@ -1,0 +1,49 @@
+Analyzed: Oh No It's Zombies Arctic Map (280)
+
+ID : 0 PlayerName: Toxicpanda Race: Zerg
+ID : 1 PlayerName: Frosky Race: Zerg
+ID : 7 PlayerName: Security Race: Zerg
+Frosky Zombie Win
+Public Lobby
+
+Game Length:[06:677]
+Players ammount: 3
+Marine rank avg: 3,5
+GrandMaster ammount: 2
+PURCHASES: 
+[00:568] Frosky Bought PlayerNumber
+[00:572] Frosky Unlocked AssaultRifle
+[00:618] Frosky Spawned MassiveCocoon
+[01:206] Frosky Unlocked Stimpack
+[01:246] Frosky Unlocked CombatSuit
+[01:253] Frosky Unlocked AdvancedCombatSuit
+[01:972] Frosky Unlocked AIAssistant
+[01:982] Frosky Unlocked CombatShield
+[02:058] Frosky Spawned InfestedAbomination
+[02:059] Frosky Unlocked SpecOpsAssaultRifle
+[02:104] Frosky Unlocked AutoTargetingSystem
+[02:511] Frosky Unlocked CloakingDevice
+[02:516] Frosky Unlocked SpecOpsCloakingDevice
+[03:899] Frosky Unlocked QuantumBackpack
+[04:825] Frosky Bought UnlockDropPods
+[04:826] Frosky Bought UnlockDropPods
+[04:830] Frosky Bought EvolveDropPods
+[04:831] Frosky Bought EvolveDropPods
+[04:832] Frosky Bought EvolveDropPods
+[04:833] Frosky Bought EvolveDropPods
+[05:440] Frosky Bought GateControlInfested
+[06:251] Frosky Bought EvolveDropPods
+[06:252] Frosky Bought EvolveDropPods
+[06:260] Frosky Bought EvolveDropPods
+[06:260] Frosky Bought EvolveDropPods
+[06:261] Frosky Bought EvolveDropPods
+[06:261] Frosky Bought EvolveDropPods
+[01:247]  Bought ShieldSuit
+[01:247]  Bought CombatSuit
+[01:247]  Bought HazmatSuit
+[01:247]  Bought CombatSuit
+[01:254]  Bought CombatSuit
+Frosky First Alpha InfestedAbomination |  Win
+
+Frosky Placed 0 Greaters.
+--------------------------------

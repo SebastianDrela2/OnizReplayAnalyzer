@@ -1,0 +1,23 @@
+Meszko HumanWinsNormal 2
+Meszko ZombieRank 0
+Meszko VespeneHarvested 7700
+Meszko HumansRescued 1
+Meszko SecurityForcesKilled 0
+Meszko ZombiesKilled 1350
+Meszko FuelDiverted 8
+Meszko HumanRank 0
+Meszko NumberOfTimesCaptured 7
+Meszko TurretsBuilt 33
+Meszko ZombieWins 0
+Meszko GamesLeft 1
+Meszko GamesPlayedAsHuman 5
+Meszko GamesPlayedAsZombie 0
+Meszko HumansCaptured 0
+Meszko K/D Ratio 192,86
+Meszko Average Marine Winrate 40%
+Meszko Average Fuel Diverts PerGame 1,6
+Meszko Average Vespene Harvested PerGame 1540
+Meszko Average Zombie Winrate NaN%
+Meszko Average Security Kills Per Game NaN
+Meszko Average Deaths PerGame 1,4
+Meszko Average Infestation Class Class 1

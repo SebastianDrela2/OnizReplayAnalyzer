@@ -1,0 +1,23 @@
+Hinone HumanWinsNormal 8
+Hinone ZombieRank 0
+Hinone VespeneHarvested 37920
+Hinone HumansRescued 6
+Hinone SecurityForcesKilled 0
+Hinone ZombiesKilled 13704
+Hinone FuelDiverted 86
+Hinone HumanRank 1
+Hinone NumberOfTimesCaptured 25
+Hinone TurretsBuilt 228
+Hinone ZombieWins 0
+Hinone GamesLeft 1
+Hinone GamesPlayedAsHuman 21
+Hinone GamesPlayedAsZombie 0
+Hinone HumansCaptured 0
+Hinone K/D Ratio 548,16
+Hinone Average Marine Winrate 38%
+Hinone Average Fuel Diverts PerGame 4,1
+Hinone Average Vespene Harvested PerGame 1805,71
+Hinone Average Zombie Winrate NaN%
+Hinone Average Security Kills Per Game NaN
+Hinone Average Deaths PerGame 1,19
+Hinone Average Infestation Class Class 1

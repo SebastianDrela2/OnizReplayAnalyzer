@@ -1,0 +1,23 @@
+DrSatan HumanWinsNormal 2
+DrSatan ZombieRank 0
+DrSatan VespeneHarvested 6600
+DrSatan HumansRescued 0
+DrSatan SecurityForcesKilled 0
+DrSatan ZombiesKilled 1076
+DrSatan FuelDiverted 0
+DrSatan HumanRank 1
+DrSatan NumberOfTimesCaptured 5
+DrSatan TurretsBuilt 13
+DrSatan ZombieWins 0
+DrSatan GamesLeft 0
+DrSatan GamesPlayedAsHuman 3
+DrSatan GamesPlayedAsZombie 0
+DrSatan HumansCaptured 0
+DrSatan K/D Ratio 215,2
+DrSatan Average Marine Winrate 67%
+DrSatan Average Fuel Diverts PerGame 0
+DrSatan Average Vespene Harvested PerGame 2200
+DrSatan Average Zombie Winrate NaN%
+DrSatan Average Security Kills Per Game NaN
+DrSatan Average Deaths PerGame 1,67
+DrSatan Average Infestation Class Class 1

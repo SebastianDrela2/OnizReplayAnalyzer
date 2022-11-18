@@ -1,0 +1,23 @@
+Cybrochara HumanWinsNormal 12
+Cybrochara ZombieRank 0
+Cybrochara VespeneHarvested 63700
+Cybrochara HumansRescued 11
+Cybrochara SecurityForcesKilled 388
+Cybrochara ZombiesKilled 18246
+Cybrochara FuelDiverted 34
+Cybrochara HumanRank 3
+Cybrochara NumberOfTimesCaptured 59
+Cybrochara TurretsBuilt 337
+Cybrochara ZombieWins 0
+Cybrochara GamesLeft 0
+Cybrochara GamesPlayedAsHuman 29
+Cybrochara GamesPlayedAsZombie 1
+Cybrochara HumansCaptured 6
+Cybrochara K/D Ratio 309,25
+Cybrochara Average Marine Winrate 41%
+Cybrochara Average Fuel Diverts PerGame 1,17
+Cybrochara Average Vespene Harvested PerGame 2196,55
+Cybrochara Average Zombie Winrate 0%
+Cybrochara Average Security Kills Per Game 388
+Cybrochara Average Deaths PerGame 2,03
+Cybrochara Average Infestation Class Class 4

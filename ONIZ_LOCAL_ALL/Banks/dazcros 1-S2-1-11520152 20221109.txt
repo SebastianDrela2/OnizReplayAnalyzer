@@ -1,0 +1,23 @@
+dazcros HumanWinsNormal 1
+dazcros ZombieRank 0
+dazcros VespeneHarvested 6500
+dazcros HumansRescued 1
+dazcros SecurityForcesKilled 0
+dazcros ZombiesKilled 1899
+dazcros FuelDiverted 0
+dazcros HumanRank 1
+dazcros NumberOfTimesCaptured 3
+dazcros TurretsBuilt 5
+dazcros ZombieWins 0
+dazcros GamesLeft 0
+dazcros GamesPlayedAsHuman 2
+dazcros GamesPlayedAsZombie 0
+dazcros HumansCaptured 0
+dazcros K/D Ratio 633
+dazcros Average Marine Winrate 50%
+dazcros Average Fuel Diverts PerGame 0
+dazcros Average Vespene Harvested PerGame 3250
+dazcros Average Zombie Winrate NaN%
+dazcros Average Security Kills Per Game NaN
+dazcros Average Deaths PerGame 1,5
+dazcros Average Infestation Class Class 1

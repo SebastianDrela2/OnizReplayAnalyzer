@@ -1,0 +1,23 @@
+Azure HumanWinsNormal 62
+Azure ZombieRank 12.6652
+Azure VespeneHarvested 372800
+Azure HumansRescued 180
+Azure SecurityForcesKilled 14287
+Azure ZombiesKilled 137368
+Azure FuelDiverted 153
+Azure HumanRank 4
+Azure NumberOfTimesCaptured 243
+Azure TurretsBuilt 1011
+Azure ZombieWins 19
+Azure GamesLeft 1
+Azure GamesPlayedAsHuman 136
+Azure GamesPlayedAsZombie 30
+Azure HumansCaptured 367
+Azure K/D Ratio 565,3
+Azure Average Marine Winrate 46%
+Azure Average Fuel Diverts PerGame 1,12
+Azure Average Vespene Harvested PerGame 2741,18
+Azure Average Zombie Winrate 63%
+Azure Average Security Kills Per Game 476
+Azure Average Deaths PerGame 1,79
+Azure Average Infestation Class Class 5

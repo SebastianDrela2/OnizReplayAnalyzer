@@ -1,0 +1,21 @@
+Chewelews HumanWinsNormal 0
+Chewelews VespeneHarvested 0
+Chewelews HumansRescued 0
+Chewelews SecurityForcesKilled 0
+Chewelews ZombiesKilled 20
+Chewelews FuelDiverted 0
+Chewelews NumberOfTimesCaptured 1
+Chewelews TurretsBuilt 0
+Chewelews ZombieWins 0
+Chewelews GamesLeft 0
+Chewelews GamesPlayedAsHuman 1
+Chewelews GamesPlayedAsZombie 0
+Chewelews HumansCaptured 0
+Chewelews K/D Ratio 20
+Chewelews Average Marine Winrate 0%
+Chewelews Average Fuel Diverts PerGame 0
+Chewelews Average Vespene Harvested PerGame 0
+Chewelews Average Zombie Winrate NaN%
+Chewelews Average Security Kills Per Game NaN
+Chewelews Average Deaths PerGame 1
+Chewelews Average Infestation Class Class 1

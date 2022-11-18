@@ -1,0 +1,23 @@
+Infernal HumanWinsNormal 2
+Infernal ZombieRank 0
+Infernal VespeneHarvested 14700
+Infernal HumansRescued 5
+Infernal SecurityForcesKilled 0
+Infernal ZombiesKilled 3406
+Infernal FuelDiverted 11
+Infernal HumanRank 3
+Infernal NumberOfTimesCaptured 8
+Infernal TurretsBuilt 27
+Infernal ZombieWins 0
+Infernal GamesLeft 3
+Infernal GamesPlayedAsHuman 8
+Infernal GamesPlayedAsZombie 0
+Infernal HumansCaptured 0
+Infernal K/D Ratio 425,75
+Infernal Average Marine Winrate 25%
+Infernal Average Fuel Diverts PerGame 1,38
+Infernal Average Vespene Harvested PerGame 1837,5
+Infernal Average Zombie Winrate NaN%
+Infernal Average Security Kills Per Game NaN
+Infernal Average Deaths PerGame 1
+Infernal Average Infestation Class Class 1

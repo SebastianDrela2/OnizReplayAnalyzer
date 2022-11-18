@@ -1,0 +1,23 @@
+SkyJio HumanWinsNormal 400
+SkyJio ZombieRank 1.9997
+SkyJio VespeneHarvested 2321900
+SkyJio HumansRescued 861
+SkyJio SecurityForcesKilled 7210
+SkyJio ZombiesKilled 717949
+SkyJio FuelDiverted 441
+SkyJio HumanRank 19.917
+SkyJio NumberOfTimesCaptured 1072
+SkyJio TurretsBuilt 3168
+SkyJio ZombieWins 8
+SkyJio GamesLeft 72
+SkyJio GamesPlayedAsHuman 863
+SkyJio GamesPlayedAsZombie 32
+SkyJio HumansCaptured 148
+SkyJio K/D Ratio 669,73
+SkyJio Average Marine Winrate 46%
+SkyJio Average Fuel Diverts PerGame 0,51
+SkyJio Average Vespene Harvested PerGame 2690,5
+SkyJio Average Zombie Winrate 25%
+SkyJio Average Security Kills Per Game 225
+SkyJio Average Deaths PerGame 1,24
+SkyJio Average Infestation Class Class 3

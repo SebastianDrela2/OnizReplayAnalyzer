@@ -1,0 +1,23 @@
+taylornator HumanWinsNormal 73
+taylornator ZombieRank 0
+taylornator VespeneHarvested 391300
+taylornator HumansRescued 107
+taylornator SecurityForcesKilled 703
+taylornator ZombiesKilled 100011
+taylornator FuelDiverted 223
+taylornator HumanRank 7.6667
+taylornator NumberOfTimesCaptured 226
+taylornator TurretsBuilt 662
+taylornator ZombieWins 0
+taylornator GamesLeft 0
+taylornator GamesPlayedAsHuman 162
+taylornator GamesPlayedAsZombie 2
+taylornator HumansCaptured 19
+taylornator K/D Ratio 442,53
+taylornator Average Marine Winrate 45%
+taylornator Average Fuel Diverts PerGame 1,38
+taylornator Average Vespene Harvested PerGame 2415,43
+taylornator Average Zombie Winrate 0%
+taylornator Average Security Kills Per Game 352
+taylornator Average Deaths PerGame 1,4
+taylornator Average Infestation Class Class 4

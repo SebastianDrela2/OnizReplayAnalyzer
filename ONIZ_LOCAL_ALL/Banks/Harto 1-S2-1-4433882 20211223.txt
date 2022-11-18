@@ -1,0 +1,24 @@
+Harto HumanWinsNormal 80
+Harto ZombieRank 0
+Harto VespeneHarvested 436500
+Harto HumansRescued 98
+Harto SecurityForcesKilled 461
+Harto ZombiesKilled 88219
+Harto PlayedRankedMode5.0 1
+Harto FuelDiverted 374
+Harto HumanRank 29.25
+Harto NumberOfTimesCaptured 124
+Harto TurretsBuilt 1372
+Harto ZombieWins 1
+Harto GamesLeft 17
+Harto GamesPlayedAsHuman 134
+Harto GamesPlayedAsZombie 3
+Harto HumansCaptured 16
+Harto K/D Ratio 711,44
+Harto Average Marine Winrate 60%
+Harto Average Fuel Diverts PerGame 2,79
+Harto Average Vespene Harvested PerGame 3257,46
+Harto Average Zombie Winrate 33%
+Harto Average Security Kills Per Game 154
+Harto Average Deaths PerGame 0,93
+Harto Average Infestation Class Class 2

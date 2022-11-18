@@ -1,0 +1,24 @@
+SKYTOSS HumanWinsNormal 103
+SKYTOSS ZombieRank 18.6643
+SKYTOSS VespeneHarvested 518000
+SKYTOSS HumansRescued 136
+SKYTOSS SecurityForcesKilled 40966
+SKYTOSS ZombiesKilled 116775
+SKYTOSS FuelDiverted 1015
+SKYTOSS PlayedRankedMode5.0 1
+SKYTOSS HumanRank 1.5
+SKYTOSS NumberOfTimesCaptured 298
+SKYTOSS TurretsBuilt 1467
+SKYTOSS ZombieWins 53
+SKYTOSS GamesLeft 35
+SKYTOSS GamesPlayedAsHuman 221
+SKYTOSS GamesPlayedAsZombie 96
+SKYTOSS HumansCaptured 726
+SKYTOSS K/D Ratio 391,86
+SKYTOSS Average Marine Winrate 47%
+SKYTOSS Average Fuel Diverts PerGame 4,59
+SKYTOSS Average Vespene Harvested PerGame 2343,89
+SKYTOSS Average Zombie Winrate 55,00000000000001%
+SKYTOSS Average Security Kills Per Game 427
+SKYTOSS Average Deaths PerGame 1,35
+SKYTOSS Average Infestation Class Class 5

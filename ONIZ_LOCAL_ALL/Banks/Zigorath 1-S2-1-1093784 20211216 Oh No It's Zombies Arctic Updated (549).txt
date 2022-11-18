@@ -1,0 +1,23 @@
+Zigorath HumanWinsNormal 6
+Zigorath ZombieRank 0
+Zigorath VespeneHarvested 36900
+Zigorath HumansRescued 9
+Zigorath SecurityForcesKilled 328
+Zigorath ZombiesKilled 11043
+Zigorath FuelDiverted 31
+Zigorath HumanRank 0
+Zigorath NumberOfTimesCaptured 29
+Zigorath TurretsBuilt 101
+Zigorath ZombieWins 0
+Zigorath GamesLeft 5
+Zigorath GamesPlayedAsHuman 24
+Zigorath GamesPlayedAsZombie 1
+Zigorath HumansCaptured 7
+Zigorath K/D Ratio 380,79
+Zigorath Average Marine Winrate 25%
+Zigorath Average Fuel Diverts PerGame 1,29
+Zigorath Average Vespene Harvested PerGame 1537,5
+Zigorath Average Zombie Winrate 0%
+Zigorath Average Security Kills Per Game 328
+Zigorath Average Deaths PerGame 1,21
+Zigorath Average Infestation Class Class 4

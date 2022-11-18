@@ -1,0 +1,23 @@
+Partisan HumanWinsNormal 49
+Partisan ZombieRank 0
+Partisan VespeneHarvested 414520
+Partisan HumansRescued 79
+Partisan SecurityForcesKilled 21494
+Partisan ZombiesKilled 50664
+Partisan FuelDiverted 563
+Partisan HumanRank 8
+Partisan NumberOfTimesCaptured 113
+Partisan TurretsBuilt 835
+Partisan ZombieWins 22
+Partisan GamesLeft 2
+Partisan GamesPlayedAsHuman 107
+Partisan GamesPlayedAsZombie 43
+Partisan HumansCaptured 463
+Partisan K/D Ratio 448,35
+Partisan Average Marine Winrate 46%
+Partisan Average Fuel Diverts PerGame 5,26
+Partisan Average Vespene Harvested PerGame 3874,02
+Partisan Average Zombie Winrate 51%
+Partisan Average Security Kills Per Game 500
+Partisan Average Deaths PerGame 1,06
+Partisan Average Infestation Class Class 5

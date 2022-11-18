@@ -1,0 +1,23 @@
+Vip HumanWinsNormal 4
+Vip ZombieRank 0
+Vip VespeneHarvested 27700
+Vip HumansRescued 11
+Vip SecurityForcesKilled 721
+Vip ZombiesKilled 6733
+Vip FuelDiverted 10
+Vip HumanRank 2.5
+Vip NumberOfTimesCaptured 13
+Vip TurretsBuilt 43
+Vip ZombieWins 2
+Vip GamesLeft 0
+Vip GamesPlayedAsHuman 10
+Vip GamesPlayedAsZombie 2
+Vip HumansCaptured 18
+Vip K/D Ratio 517,92
+Vip Average Marine Winrate 40%
+Vip Average Fuel Diverts PerGame 1
+Vip Average Vespene Harvested PerGame 2770
+Vip Average Zombie Winrate 100%
+Vip Average Security Kills Per Game 360
+Vip Average Deaths PerGame 1,3
+Vip Average Infestation Class Class 4

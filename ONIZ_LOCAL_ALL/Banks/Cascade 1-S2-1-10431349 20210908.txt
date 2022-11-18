@@ -1,0 +1,23 @@
+Cascade HumanWinsNormal 5
+Cascade ZombieRank 0
+Cascade VespeneHarvested 19900
+Cascade HumansRescued 6
+Cascade SecurityForcesKilled 0
+Cascade ZombiesKilled 6030
+Cascade FuelDiverted 25
+Cascade HumanRank 5.75
+Cascade NumberOfTimesCaptured 18
+Cascade TurretsBuilt 71
+Cascade ZombieWins 0
+Cascade GamesLeft 0
+Cascade GamesPlayedAsHuman 12
+Cascade GamesPlayedAsZombie 0
+Cascade HumansCaptured 0
+Cascade K/D Ratio 335
+Cascade Average Marine Winrate 42%
+Cascade Average Fuel Diverts PerGame 2,08
+Cascade Average Vespene Harvested PerGame 1658,33
+Cascade Average Zombie Winrate NaN%
+Cascade Average Security Kills Per Game NaN
+Cascade Average Deaths PerGame 1,5
+Cascade Average Infestation Class Class 1

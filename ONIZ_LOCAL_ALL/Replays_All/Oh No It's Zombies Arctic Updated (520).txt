@@ -1,0 +1,196 @@
+Analyzed: Oh No It's Zombies Arctic Updated (520)
+
+ID : 0 PlayerName: Frosky Race: Terran
+ID : 1 PlayerName: dwarfplanet Race: Terran
+ID : 2 PlayerName: GustavAldogg Race: Terran
+ID : 3 PlayerName: BarcodesOP Race: Terran
+ID : 4 PlayerName: Casual Race: Terran
+ID : 5 PlayerName: Atalus Race: Terran
+ID : 6 PlayerName: Unknown Race: Zerg
+ID : 7 PlayerName: Security Race: Primal Zerg
+Unknown Zombie Win
+Public Lobby
+
+Game Length:[28:778]
+Players ammount: 8
+Marine rank avg: 7,5
+GrandMaster ammount: 1
+PURCHASES: 
+[00:588] Frosky Unlocked AssaultRifle
+[00:750] Frosky Placed/Upgraded MiningDroid
+[01:049] Frosky Unlocked Shotgun
+[03:687] Frosky Unlocked SpecOpsShotgun
+[08:178] Frosky Unlocked MedicShield
+[08:210] Frosky Unlocked Stimpack
+[08:901] Frosky Unlocked AdvancedDroidEngines
+[11:409] Frosky Unlocked HighPrecisionBeams
+[11:436] Frosky Unlocked HazmatSuit
+[12:347] Frosky Unlocked ExplorationDroid
+[12:431] Frosky Placed/Upgraded ExplorationDroid
+[12:475] Frosky Placed/Upgraded ExplorationDroid
+[12:576] Frosky Placed/Upgraded ExplorationDroid
+[13:644] Frosky Unlocked AdvancedHazmatSuit
+[14:649] Frosky Unlocked BioMechanicalRepairDrone
+[15:749] Frosky Placed/Upgraded HealingDrone
+[17:450] Frosky Unlocked AIAssistant
+[17:605] Frosky Unlocked SpecOpsBioMechanicalRepairDrone
+[18:317] Frosky Unlocked SuperStimpack
+[19:115] Frosky Placed/Upgraded HealingDrone
+[21:948] Frosky Unlocked QuantumBackpack
+[21:976] Frosky Unlocked AutoTurret
+[22:339] Frosky Placed/Upgraded HealingDrone
+[22:515] Frosky Placed/Upgraded AutoTurret
+[26:894] Frosky Placed/Upgraded HealingDrone
+[00:588] dwarfplanet Unlocked AssaultRifle
+[01:541] dwarfplanet Unlocked SpecOpsAssaultRifle
+[04:303] dwarfplanet Placed/Upgraded MiningDroid
+[06:677] dwarfplanet Unlocked TitaniumBulletCasings
+[09:295] dwarfplanet Unlocked OverloadWeapon
+[10:056] dwarfplanet Unlocked MedicShield
+[10:066] dwarfplanet Unlocked AIAssistant
+[11:437] dwarfplanet Bought ShieldSuit
+[11:437] dwarfplanet Bought CombatSuit
+[11:437] dwarfplanet Bought HazmatSuit
+[11:437] dwarfplanet Bought HazmatSuit
+[12:726] dwarfplanet Unlocked AdvancedDroidEngines
+[13:645] dwarfplanet Bought HazmatSuit
+[14:446] dwarfplanet Placed/Upgraded MiningDroid
+[16:136] dwarfplanet Unlocked ExplorationDroid
+[16:581] dwarfplanet Placed/Upgraded ExplorationDroid
+[21:491] dwarfplanet Unlocked TurboDroidEngines
+[21:869] dwarfplanet Placed/Upgraded ExplorationDroid
+[22:193] dwarfplanet Unlocked AutoTurret
+[24:195] dwarfplanet Placed/Upgraded AutoTurret
+[24:703] dwarfplanet Placed/Upgraded AutoTurret
+[25:584] dwarfplanet Unlocked HazmatSuit
+[25:596] dwarfplanet Unlocked AdvancedHazmatSuit
+[26:588] dwarfplanet Unlocked SuperStimpack
+[26:996] dwarfplanet Placed/Upgraded AutoTurret
+[27:713] dwarfplanet Placed/Upgraded AutoTurret
+[00:588] GustavAldogg Unlocked AssaultRifle
+[00:757] GustavAldogg Placed/Upgraded MiningDroid
+[00:803] GustavAldogg Unlocked Stimpack
+[04:567] GustavAldogg Unlocked Flamethrower
+[07:755] GustavAldogg Unlocked SpecOpsFlamethrower
+[07:977] GustavAldogg Unlocked CryoFreeze
+[08:884] GustavAldogg Unlocked BioMechanicalRepairDrone
+[09:009] GustavAldogg Placed/Upgraded HealingDrone
+[09:496] GustavAldogg Placed/Upgraded HealingDrone
+[10:725] GustavAldogg Placed/Upgraded HealingDrone
+[11:947] GustavAldogg Unlocked AdvancedDroidEngines
+[13:664] GustavAldogg Unlocked Teleporter
+[15:547] GustavAldogg Placed/Upgraded HealingDrone
+[16:710] GustavAldogg Placed/Upgraded HealingDrone
+[17:729] GustavAldogg Placed/Upgraded MiningDroid
+[18:591] GustavAldogg Placed/Upgraded HealingDrone
+[20:854] GustavAldogg Unlocked TurboDroidEngines
+[25:262] GustavAldogg Placed/Upgraded HealingDrone
+[25:479] GustavAldogg Placed/Upgraded HealingDrone
+[25:585] GustavAldogg Bought ShieldSuit
+[25:585] GustavAldogg Bought CombatSuit
+[25:585] GustavAldogg Bought HazmatSuit
+[25:585] GustavAldogg Bought HazmatSuit
+[25:597] GustavAldogg Bought HazmatSuit
+[26:160] GustavAldogg Placed/Upgraded HealingDrone
+[00:588] BarcodesOP Unlocked AssaultRifle
+[00:988] BarcodesOP Placed/Upgraded MiningDroid
+[01:056] BarcodesOP Unlocked Stimpack
+[04:253] BarcodesOP Unlocked AdvancedDroidEngines
+[06:388] BarcodesOP Unlocked HazmatSuit
+[07:840] BarcodesOP Unlocked TurboDroidEngines
+[08:989] BarcodesOP Unlocked MedicShield
+[10:672] BarcodesOP Unlocked SuperStimpack
+[11:898] BarcodesOP Unlocked EnergyPack
+[11:973] BarcodesOP Unlocked OpticalVisor
+[12:945] BarcodesOP Unlocked HellfireRocketLauncher
+[14:462] BarcodesOP Unlocked SpecOpsHellfireRocketLauncher
+[15:084] BarcodesOP Unlocked AutoTurret
+[15:636] BarcodesOP Unlocked SpecOpsTurret
+[18:419] BarcodesOP Unlocked ShockwaveMissiles
+[18:479] BarcodesOP Unlocked SpecOpsSuperStimpack
+[18:716] BarcodesOP Placed/Upgraded AutoTurret
+[19:642] BarcodesOP Placed/Upgraded AutoTurret
+[19:923] BarcodesOP Placed/Upgraded AutoTurret
+[21:512] BarcodesOP Unlocked PsiDisrupter
+[21:627] BarcodesOP Unlocked SpecOpsPsiDisruptor
+[22:534] BarcodesOP Placed/Upgraded PsiIndoctrinator
+[24:034] BarcodesOP Unlocked BioMechanicalRepairDrone
+[24:050] BarcodesOP Unlocked RechargeDrone
+[24:089] BarcodesOP Placed/Upgraded HealingDrone
+[24:309] BarcodesOP Placed/Upgraded AutoTurret
+[25:368] BarcodesOP Placed/Upgraded AutoTurret
+[27:503] BarcodesOP Placed/Upgraded PsiIndoctrinator
+[27:770] BarcodesOP Placed/Upgraded AutoTurret
+[27:946] BarcodesOP Placed/Upgraded AutoTurret
+[00:588] Casual Unlocked AssaultRifle
+[01:569] Casual Placed/Upgraded MiningDroid
+[01:740] Casual Unlocked SpecOpsAssaultRifle
+[06:389] Casual Bought ShieldSuit
+[06:389] Casual Bought CombatSuit
+[06:389] Casual Bought HazmatSuit
+[06:389] Casual Bought HazmatSuit
+[06:434] Casual Unlocked AutoTurret
+[09:133] Casual Unlocked FlameTurret
+[09:550] Casual Placed/Upgraded AutoTurret
+[10:932] Casual Placed/Upgraded AutoTurret
+[11:108] Casual Placed/Upgraded AutoTurret
+[12:835] Casual Placed/Upgraded AutoTurret
+[16:113] Casual Unlocked Teleporter
+[21:551] Casual Placed/Upgraded MiningDroid
+[24:820] Casual Placed/Upgraded AutoTurret
+[24:997] Casual Placed/Upgraded AutoTurret
+[25:545] Casual Placed/Upgraded AutoTurret
+[00:588] Atalus Unlocked AssaultRifle
+[00:778] Atalus Placed/Upgraded MiningDroid
+[00:869] Atalus Unlocked AdvancedDroidEngines
+[04:708] Atalus Unlocked TurboDroidEngines
+[05:970] Atalus Unlocked Flamethrower
+[07:806] Atalus Unlocked SpecOpsFlamethrower
+[07:860] Atalus Unlocked LongRangeIncinerators
+[14:335] Atalus Unlocked Shieldsiotunlocked
+[14:344] Atalus Unlocked AdvancedShieldSuit
+[14:466] Atalus Unlocked MedicShield
+[14:495] Atalus Unlocked EnergyPack
+[14:501] Atalus Unlocked OpticalVisor
+[15:314] Atalus Unlocked BioMechanicalRepairDrone
+[19:101] Atalus Unlocked SpecOpsBioMechanicalRepairDrone
+[19:105] Atalus Unlocked RechargeDrone
+[20:175] Atalus Placed/Upgraded HealingDrone
+[25:556] Atalus Placed/Upgraded MiningDroid
+[26:350] Atalus Placed/Upgraded HealingDrone
+[00:552] Unknown Bought PlayerNumber
+[01:094] Unknown Bought StrainSpeed
+[02:226] Unknown Bought PureStrainSpeed
+[03:920] Unknown Bought HunterlingStrain
+[07:280] Unknown Bought StrainHealth
+[07:293] Unknown Bought PureStrainHealth
+[09:158] Unknown Bought TankStrain
+[14:336] Unknown Bought ShieldSuit
+[14:336] Unknown Bought CombatSuit
+[14:336] Unknown Bought HazmatSuit
+[14:336] Unknown Bought ShieldSuit
+[14:345] Unknown Bought ShieldSuit
+[14:588] Unknown Bought StrainDamage
+[14:598] Unknown Bought PureStrainDamage
+[14:610] Unknown Bought DefilerStrain
+[15:489] Unknown Bought BuildExtractorProcessingFacilities
+[17:058] Unknown Bought BuildExtractorExcavationZone
+[17:514] Unknown Bought AdvancedPowerInfestation
+[19:269] Unknown Bought BuildExtractorScienceLabs
+[20:986] Unknown Bought StrainVolatile
+[20:999] Unknown Bought PureStrainVolatile
+[21:008] Unknown Bought KaboomerStrain
+[22:569] Unknown Spawned MassiveCocoon
+[23:101] Unknown Bought SpawnNydusWorm
+[23:649] Unknown Spawned Underseer
+[25:037] Unknown Bought GreaterNydus
+[25:690] Unknown Bought CreepSpeed
+[25:774] Unknown Bought UnlockDropPods
+[27:287] Unknown Bought AdvancedInfestationSecurity
+[27:675] Unknown Bought TrackHumans
+[28:398] Unknown Bought AdvancedInfestationContainment
+[28:421] Unknown Bought SiphonFuel
+Unknown First Alpha Underseer |  Win
+
+Unknown Placed 0 Greaters.
+--------------------------------

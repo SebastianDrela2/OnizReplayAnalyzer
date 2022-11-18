@@ -1,0 +1,23 @@
+KHAOTIC HumanWinsNormal 15
+KHAOTIC ZombieRank 3
+KHAOTIC VespeneHarvested 76100
+KHAOTIC HumansRescued 23
+KHAOTIC SecurityForcesKilled 2560
+KHAOTIC ZombiesKilled 18500
+KHAOTIC FuelDiverted 8
+KHAOTIC HumanRank 2.6
+KHAOTIC NumberOfTimesCaptured 117
+KHAOTIC TurretsBuilt 111
+KHAOTIC ZombieWins 1
+KHAOTIC GamesLeft 3
+KHAOTIC GamesPlayedAsHuman 46
+KHAOTIC GamesPlayedAsZombie 5
+KHAOTIC HumansCaptured 65
+KHAOTIC K/D Ratio 158,12
+KHAOTIC Average Marine Winrate 33%
+KHAOTIC Average Fuel Diverts PerGame 0,17
+KHAOTIC Average Vespene Harvested PerGame 1654,35
+KHAOTIC Average Zombie Winrate 20%
+KHAOTIC Average Security Kills Per Game 512
+KHAOTIC Average Deaths PerGame 2,54
+KHAOTIC Average Infestation Class Class 5

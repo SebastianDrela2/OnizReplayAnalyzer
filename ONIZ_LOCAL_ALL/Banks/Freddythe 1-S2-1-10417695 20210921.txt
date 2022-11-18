@@ -1,0 +1,24 @@
+Freddythe HumanWinsNormal 9
+Freddythe LeftLastGameAsZombie 0
+Freddythe ZombieRank 0
+Freddythe VespeneHarvested 51000
+Freddythe HumansRescued 11
+Freddythe SecurityForcesKilled 2240
+Freddythe ZombiesKilled 13564
+Freddythe FuelDiverted 26
+Freddythe HumanRank 1.5
+Freddythe NumberOfTimesCaptured 72
+Freddythe TurretsBuilt 58
+Freddythe ZombieWins 0
+Freddythe GamesLeft 2
+Freddythe GamesPlayedAsHuman 25
+Freddythe GamesPlayedAsZombie 6
+Freddythe HumansCaptured 51
+Freddythe K/D Ratio 188,39
+Freddythe Average Marine Winrate 36%
+Freddythe Average Fuel Diverts PerGame 1,04
+Freddythe Average Vespene Harvested PerGame 2040
+Freddythe Average Zombie Winrate 0%
+Freddythe Average Security Kills Per Game 373
+Freddythe Average Deaths PerGame 2,88
+Freddythe Average Infestation Class Class 4

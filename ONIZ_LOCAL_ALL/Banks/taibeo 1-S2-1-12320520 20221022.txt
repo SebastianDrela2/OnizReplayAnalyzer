@@ -1,0 +1,23 @@
+taibeo HumanWinsNormal 75
+taibeo ZombieRank 31.8332
+taibeo VespeneHarvested 541000
+taibeo HumansRescued 97
+taibeo SecurityForcesKilled 39131
+taibeo ZombiesKilled 93362
+taibeo FuelDiverted 265
+taibeo HumanRank 3.4338
+taibeo NumberOfTimesCaptured 337
+taibeo TurretsBuilt 747
+taibeo ZombieWins 66
+taibeo GamesLeft 1
+taibeo GamesPlayedAsHuman 166
+taibeo GamesPlayedAsZombie 95
+taibeo HumansCaptured 865
+taibeo K/D Ratio 277,04
+taibeo Average Marine Winrate 45%
+taibeo Average Fuel Diverts PerGame 1,6
+taibeo Average Vespene Harvested PerGame 3259,04
+taibeo Average Zombie Winrate 69%
+taibeo Average Security Kills Per Game 412
+taibeo Average Deaths PerGame 2,03
+taibeo Average Infestation Class Class 5

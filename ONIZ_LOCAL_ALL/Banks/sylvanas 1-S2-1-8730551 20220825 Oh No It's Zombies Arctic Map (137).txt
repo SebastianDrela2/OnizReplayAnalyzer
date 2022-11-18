@@ -1,0 +1,23 @@
+sylvanas HumanWinsNormal 5
+sylvanas ZombieRank 0
+sylvanas VespeneHarvested 34980
+sylvanas HumansRescued 6
+sylvanas SecurityForcesKilled 399
+sylvanas ZombiesKilled 5846
+sylvanas FuelDiverted 23
+sylvanas HumanRank 4.5
+sylvanas NumberOfTimesCaptured 24
+sylvanas TurretsBuilt 77
+sylvanas ZombieWins 0
+sylvanas GamesLeft 1
+sylvanas GamesPlayedAsHuman 13
+sylvanas GamesPlayedAsZombie 1
+sylvanas HumansCaptured 17
+sylvanas K/D Ratio 243,58
+sylvanas Average Marine Winrate 38%
+sylvanas Average Fuel Diverts PerGame 1,77
+sylvanas Average Vespene Harvested PerGame 2690,77
+sylvanas Average Zombie Winrate 0%
+sylvanas Average Security Kills Per Game 399
+sylvanas Average Deaths PerGame 1,85
+sylvanas Average Infestation Class Class 4

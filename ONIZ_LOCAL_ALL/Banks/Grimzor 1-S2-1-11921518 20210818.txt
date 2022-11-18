@@ -1,0 +1,24 @@
+Grimzor HumanWinsNormal 13
+Grimzor ZombieRank 0
+Grimzor VespeneHarvested 80100
+Grimzor HumansRescued 29
+Grimzor SecurityForcesKilled 2220
+Grimzor ZombiesKilled 15844
+Grimzor FuelDiverted 195
+Grimzor PlayedRankedMode5.0 1
+Grimzor HumanRank 1.25
+Grimzor NumberOfTimesCaptured 100
+Grimzor TurretsBuilt 80
+Grimzor ZombieWins 0
+Grimzor GamesLeft 2
+Grimzor GamesPlayedAsHuman 46
+Grimzor GamesPlayedAsZombie 8
+Grimzor HumansCaptured 34
+Grimzor K/D Ratio 158,44
+Grimzor Average Marine Winrate 28,000000000000004%
+Grimzor Average Fuel Diverts PerGame 4,24
+Grimzor Average Vespene Harvested PerGame 1741,3
+Grimzor Average Zombie Winrate 0%
+Grimzor Average Security Kills Per Game 278
+Grimzor Average Deaths PerGame 2,17
+Grimzor Average Infestation Class Class 3

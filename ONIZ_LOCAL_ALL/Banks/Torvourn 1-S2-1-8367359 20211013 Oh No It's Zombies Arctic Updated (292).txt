@@ -1,0 +1,24 @@
+Torvourn HumanWinsNormal 4
+Torvourn LeftLastGameAsZombie 0
+Torvourn ZombieRank 0
+Torvourn VespeneHarvested 17500
+Torvourn HumansRescued 15
+Torvourn SecurityForcesKilled 327
+Torvourn ZombiesKilled 4967
+Torvourn FuelDiverted 12
+Torvourn HumanRank 3
+Torvourn NumberOfTimesCaptured 21
+Torvourn TurretsBuilt 24
+Torvourn ZombieWins 0
+Torvourn GamesLeft 0
+Torvourn GamesPlayedAsHuman 11
+Torvourn GamesPlayedAsZombie 1
+Torvourn HumansCaptured 9
+Megma K/D Ratio 236,52
+Megma Average Marine Winrate 36%
+Megma Average Fuel Diverts PerGame 1,09
+Megma Average Vespene Harvested PerGame 1590,91
+Megma Average Zombie Winrate 0%
+Megma Average Security Kills Per Game 327
+Megma Average Deaths PerGame 1,91
+Megma Average Infestation Class Class 4

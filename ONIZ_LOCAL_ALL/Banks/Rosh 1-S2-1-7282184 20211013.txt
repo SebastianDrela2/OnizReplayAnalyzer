@@ -1,0 +1,23 @@
+Rosh HumanWinsNormal 1
+Rosh ZombieRank 0
+Rosh VespeneHarvested 8600
+Rosh HumansRescued 5
+Rosh SecurityForcesKilled 0
+Rosh ZombiesKilled 2947
+Rosh FuelDiverted 0
+Rosh HumanRank 1
+Rosh NumberOfTimesCaptured 17
+Rosh TurretsBuilt 6
+Rosh ZombieWins 0
+Rosh GamesLeft 0
+Rosh GamesPlayedAsHuman 7
+Rosh GamesPlayedAsZombie 0
+Rosh HumansCaptured 0
+Rosh K/D Ratio 173,35
+Rosh Average Marine Winrate 14,000000000000002%
+Rosh Average Fuel Diverts PerGame 0
+Rosh Average Vespene Harvested PerGame 1228,57
+Rosh Average Zombie Winrate NaN%
+Rosh Average Security Kills Per Game NaN
+Rosh Average Deaths PerGame 2,43
+Rosh Average Infestation Class Class 1

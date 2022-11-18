@@ -1,0 +1,23 @@
+Grimmjow HumanWinsNormal 0
+Grimmjow ZombieRank 0
+Grimmjow VespeneHarvested 1300
+Grimmjow HumansRescued 0
+Grimmjow SecurityForcesKilled 0
+Grimmjow ZombiesKilled 235
+Grimmjow FuelDiverted 0
+Grimmjow HumanRank 0
+Grimmjow NumberOfTimesCaptured 2
+Grimmjow TurretsBuilt 5
+Grimmjow ZombieWins 0
+Grimmjow GamesLeft 0
+Grimmjow GamesPlayedAsHuman 1
+Grimmjow GamesPlayedAsZombie 0
+Grimmjow HumansCaptured 0
+DJWOLF K/D Ratio 117,5
+DJWOLF Average Marine Winrate 0%
+DJWOLF Average Fuel Diverts PerGame 0
+DJWOLF Average Vespene Harvested PerGame 1300
+DJWOLF Average Zombie Winrate NaN%
+DJWOLF Average Security Kills Per Game NaN
+DJWOLF Average Deaths PerGame 2
+DJWOLF Average Infestation Class Class 1

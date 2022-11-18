@@ -1,0 +1,23 @@
+Slon HumanWinsNormal 53
+Slon ZombieRank 0.6665
+Slon VespeneHarvested 251300
+Slon HumansRescued 76
+Slon SecurityForcesKilled 631
+Slon ZombiesKilled 94102
+Slon FuelDiverted 64
+Slon HumanRank 4.75
+Slon NumberOfTimesCaptured 289
+Slon TurretsBuilt 164
+Slon ZombieWins 1
+Slon GamesLeft 20
+Slon GamesPlayedAsHuman 126
+Slon GamesPlayedAsZombie 2
+Slon HumansCaptured 16
+Slon K/D Ratio 325,61
+Slon Average Marine Winrate 42%
+Slon Average Fuel Diverts PerGame 0,51
+Slon Average Vespene Harvested PerGame 1994,44
+Slon Average Zombie Winrate 50%
+Slon Average Security Kills Per Game 316
+Slon Average Deaths PerGame 2,29
+Slon Average Infestation Class Class 4

@@ -1,0 +1,23 @@
+Kreen HumanWinsNormal 25
+Kreen ZombieRank 0
+Kreen VespeneHarvested 177600
+Kreen HumansRescued 25
+Kreen SecurityForcesKilled 1176
+Kreen ZombiesKilled 52308
+Kreen FuelDiverted 140
+Kreen HumanRank 3.8334
+Kreen NumberOfTimesCaptured 93
+Kreen TurretsBuilt 748
+Kreen ZombieWins 0
+Kreen GamesLeft 8
+Kreen GamesPlayedAsHuman 65
+Kreen GamesPlayedAsZombie 4
+Kreen HumansCaptured 25
+Kreen K/D Ratio 562,45
+Kreen Average Marine Winrate 38%
+Kreen Average Fuel Diverts PerGame 2,15
+Kreen Average Vespene Harvested PerGame 2732,31
+Kreen Average Zombie Winrate 0%
+Kreen Average Security Kills Per Game 294
+Kreen Average Deaths PerGame 1,43
+Kreen Average Infestation Class Class 4

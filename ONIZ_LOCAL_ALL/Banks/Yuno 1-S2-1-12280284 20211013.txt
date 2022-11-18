@@ -1,0 +1,23 @@
+Yuno HumanWinsNormal 21
+Yuno ZombieRank 20.333
+Yuno VespeneHarvested 99000
+Yuno HumansRescued 42
+Yuno SecurityForcesKilled 5558
+Yuno ZombiesKilled 34507
+Yuno FuelDiverted 54
+Yuno HumanRank 9.2084
+Yuno NumberOfTimesCaptured 54
+Yuno TurretsBuilt 45
+Yuno ZombieWins 13
+Yuno GamesLeft 3
+Yuno GamesPlayedAsHuman 47
+Yuno GamesPlayedAsZombie 14
+Yuno HumansCaptured 129
+Yuno K/D Ratio 639,02
+Yuno Average Marine Winrate 45%
+Yuno Average Fuel Diverts PerGame 1,15
+Yuno Average Vespene Harvested PerGame 2106,38
+Yuno Average Zombie Winrate 93%
+Yuno Average Security Kills Per Game 397
+Yuno Average Deaths PerGame 1,15
+Yuno Average Infestation Class Class 4

@@ -1,0 +1,23 @@
+Nehemir HumanWinsNormal 10
+Nehemir ZombieRank 8
+Nehemir VespeneHarvested 32800
+Nehemir HumansRescued 7
+Nehemir SecurityForcesKilled 2338
+Nehemir ZombiesKilled 7624
+Nehemir FuelDiverted 8
+Nehemir HumanRank 1
+Nehemir NumberOfTimesCaptured 36
+Nehemir TurretsBuilt 73
+Nehemir ZombieWins 4
+Nehemir GamesLeft 12
+Nehemir GamesPlayedAsHuman 29
+Nehemir GamesPlayedAsZombie 9
+Nehemir HumansCaptured 10
+Nehemir K/D Ratio 211,78
+Nehemir Average Marine Winrate 34%
+Nehemir Average Fuel Diverts PerGame 0,28
+Nehemir Average Vespene Harvested PerGame 1131,03
+Nehemir Average Zombie Winrate 44%
+Nehemir Average Security Kills Per Game 260
+Nehemir Average Deaths PerGame 1,24
+Nehemir Average Infestation Class Class 3

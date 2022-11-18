@@ -1,0 +1,23 @@
+Dalas HumanWinsNormal 96
+Dalas ZombieRank 5.4997
+Dalas VespeneHarvested 395900
+Dalas HumansRescued 142
+Dalas SecurityForcesKilled 2506
+Dalas ZombiesKilled 161399
+Dalas FuelDiverted 380
+Dalas HumanRank 8.9167
+Dalas NumberOfTimesCaptured 252
+Dalas TurretsBuilt 813
+Dalas ZombieWins 7
+Dalas GamesLeft 22
+Dalas GamesPlayedAsHuman 195
+Dalas GamesPlayedAsZombie 14
+Dalas HumansCaptured 74
+Dalas K/D Ratio 640,47
+Dalas Average Marine Winrate 49%
+Dalas Average Fuel Diverts PerGame 1,95
+Dalas Average Vespene Harvested PerGame 2030,26
+Dalas Average Zombie Winrate 50%
+Dalas Average Security Kills Per Game 179
+Dalas Average Deaths PerGame 1,29
+Dalas Average Infestation Class Class 3

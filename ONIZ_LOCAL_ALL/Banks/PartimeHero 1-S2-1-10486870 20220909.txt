@@ -1,0 +1,23 @@
+PartimeHero HumanWinsNormal 77
+PartimeHero ZombieRank 12.4995
+PartimeHero VespeneHarvested 472160
+PartimeHero HumansRescued 91
+PartimeHero SecurityForcesKilled 9257
+PartimeHero ZombiesKilled 77626
+PartimeHero FuelDiverted 669
+PartimeHero HumanRank 29.75
+PartimeHero NumberOfTimesCaptured 111
+PartimeHero TurretsBuilt 226
+PartimeHero ZombieWins 14
+PartimeHero GamesLeft 4
+PartimeHero GamesPlayedAsHuman 138
+PartimeHero GamesPlayedAsZombie 21
+PartimeHero HumansCaptured 201
+PartimeHero K/D Ratio 699,33
+PartimeHero Average Marine Winrate 56,00000000000001%
+PartimeHero Average Fuel Diverts PerGame 4,85
+PartimeHero Average Vespene Harvested PerGame 3421,45
+PartimeHero Average Zombie Winrate 67%
+PartimeHero Average Security Kills Per Game 441
+PartimeHero Average Deaths PerGame 0,8
+PartimeHero Average Infestation Class Class 5

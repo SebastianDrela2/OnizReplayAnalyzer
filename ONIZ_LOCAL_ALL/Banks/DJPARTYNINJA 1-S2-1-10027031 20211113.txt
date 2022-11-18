@@ -1,0 +1,24 @@
+DJPARTYNINJA HumanWinsNormal 25
+DJPARTYNINJA ZombieRank 0
+DJPARTYNINJA VespeneHarvested 113900
+DJPARTYNINJA HumansRescued 31
+DJPARTYNINJA SecurityForcesKilled 752
+DJPARTYNINJA ZombiesKilled 23517
+DJPARTYNINJA FuelDiverted 79
+DJPARTYNINJA PlayedRankedMode5.0 1
+DJPARTYNINJA HumanRank 11
+DJPARTYNINJA NumberOfTimesCaptured 34
+DJPARTYNINJA TurretsBuilt 234
+DJPARTYNINJA ZombieWins 0
+DJPARTYNINJA GamesLeft 4
+DJPARTYNINJA GamesPlayedAsHuman 46
+DJPARTYNINJA GamesPlayedAsZombie 2
+DJPARTYNINJA HumansCaptured 10
+DJPARTYNINJA K/D Ratio 691,68
+DJPARTYNINJA Average Marine Winrate 54%
+DJPARTYNINJA Average Fuel Diverts PerGame 1,72
+DJPARTYNINJA Average Vespene Harvested PerGame 2476,09
+DJPARTYNINJA Average Zombie Winrate 0%
+DJPARTYNINJA Average Security Kills Per Game 376
+DJPARTYNINJA Average Deaths PerGame 0,74
+DJPARTYNINJA Average Infestation Class Class 4

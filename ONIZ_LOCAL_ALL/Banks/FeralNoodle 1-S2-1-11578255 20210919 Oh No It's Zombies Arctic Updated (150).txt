@@ -1,0 +1,25 @@
+FeralNoodle HumanWinsNormal 4
+FeralNoodle LeftLastGameAsZombie 0
+FeralNoodle ZombieRank 4
+FeralNoodle VespeneHarvested 24000
+FeralNoodle HumansRescued 21
+FeralNoodle SecurityForcesKilled 2654
+FeralNoodle ZombiesKilled 4448
+FeralNoodle FuelDiverted 36
+FeralNoodle PlayedRankedMode5.0 1
+FeralNoodle HumanRank 10.5
+FeralNoodle NumberOfTimesCaptured 35
+FeralNoodle TurretsBuilt 40
+FeralNoodle ZombieWins 2
+FeralNoodle GamesLeft 5
+FeralNoodle GamesPlayedAsHuman 21
+FeralNoodle GamesPlayedAsZombie 10
+FeralNoodle HumansCaptured 41
+FeralNoodle K/D Ratio 127,09
+FeralNoodle Average Marine Winrate 19%
+FeralNoodle Average Fuel Diverts PerGame 1,71
+FeralNoodle Average Vespene Harvested PerGame 1142,86
+FeralNoodle Average Zombie Winrate 20%
+FeralNoodle Average Security Kills Per Game 265
+FeralNoodle Average Deaths PerGame 1,67
+FeralNoodle Average Infestation Class Class 3

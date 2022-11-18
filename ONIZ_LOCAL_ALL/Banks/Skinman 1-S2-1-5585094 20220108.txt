@@ -1,0 +1,23 @@
+Skinman HumanWinsNormal 1
+Skinman ZombieRank 0
+Skinman VespeneHarvested 11400
+Skinman HumansRescued 2
+Skinman SecurityForcesKilled 0
+Skinman ZombiesKilled 2419
+Skinman FuelDiverted 13
+Skinman HumanRank 2
+Skinman NumberOfTimesCaptured 4
+Skinman TurretsBuilt 3
+Skinman ZombieWins 0
+Skinman GamesLeft 1
+Skinman GamesPlayedAsHuman 6
+Skinman GamesPlayedAsZombie 0
+Skinman HumansCaptured 0
+Skinman K/D Ratio 604,75
+Skinman Average Marine Winrate 17%
+Skinman Average Fuel Diverts PerGame 2,17
+Skinman Average Vespene Harvested PerGame 1900
+Skinman Average Zombie Winrate NaN%
+Skinman Average Security Kills Per Game NaN
+Skinman Average Deaths PerGame 0,67
+Skinman Average Infestation Class Class 1

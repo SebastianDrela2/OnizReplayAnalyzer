@@ -1,0 +1,23 @@
+CuongDeee HumanWinsNormal 181
+CuongDeee ZombieRank 3
+CuongDeee VespeneHarvested 862320
+CuongDeee HumansRescued 122
+CuongDeee SecurityForcesKilled 1356
+CuongDeee ZombiesKilled 174770
+CuongDeee FuelDiverted 828
+CuongDeee HumanRank 30
+CuongDeee NumberOfTimesCaptured 500
+CuongDeee TurretsBuilt 891
+CuongDeee ZombieWins 1
+CuongDeee GamesLeft 5
+CuongDeee GamesPlayedAsHuman 329
+CuongDeee GamesPlayedAsZombie 5
+CuongDeee HumansCaptured 19
+CuongDeee K/D Ratio 349,54
+CuongDeee Average Marine Winrate 55,00000000000001%
+CuongDeee Average Fuel Diverts PerGame 2,52
+CuongDeee Average Vespene Harvested PerGame 2621,03
+CuongDeee Average Zombie Winrate 20%
+CuongDeee Average Security Kills Per Game 271
+CuongDeee Average Deaths PerGame 1,52
+CuongDeee Average Infestation Class Class 3

@@ -1,0 +1,24 @@
+blaisin HumanWinsNormal 16
+blaisin ZombieRank 0
+blaisin VespeneHarvested 137800
+blaisin HumansRescued 36
+blaisin SecurityForcesKilled 966
+blaisin ZombiesKilled 30040
+blaisin FuelDiverted 34
+blaisin PlayedRankedMode5.0 1
+blaisin HumanRank 0
+blaisin NumberOfTimesCaptured 167
+blaisin TurretsBuilt 560
+blaisin ZombieWins 0
+blaisin GamesLeft 16
+blaisin GamesPlayedAsHuman 76
+blaisin GamesPlayedAsZombie 3
+blaisin HumansCaptured 22
+blaisin K/D Ratio 179,88
+blaisin Average Marine Winrate 21%
+blaisin Average Fuel Diverts PerGame 0,45
+blaisin Average Vespene Harvested PerGame 1813,16
+blaisin Average Zombie Winrate 0%
+blaisin Average Security Kills Per Game 322
+blaisin Average Deaths PerGame 2,2
+blaisin Average Infestation Class Class 4

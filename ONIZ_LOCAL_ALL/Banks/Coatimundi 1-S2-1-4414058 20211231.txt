@@ -1,0 +1,23 @@
+Coatimundi HumanWinsNormal 0
+Coatimundi ZombieRank 0
+Coatimundi VespeneHarvested 0
+Coatimundi HumansRescued 0
+Coatimundi SecurityForcesKilled 0
+Coatimundi ZombiesKilled 0
+Coatimundi FuelDiverted 0
+Coatimundi HumanRank 0
+Coatimundi NumberOfTimesCaptured 0
+Coatimundi TurretsBuilt 0
+Coatimundi ZombieWins 0
+Coatimundi GamesLeft 0
+Coatimundi GamesPlayedAsHuman 0
+Coatimundi GamesPlayedAsZombie 0
+Coatimundi HumansCaptured 0
+Coatimundi K/D Ratio NaN
+Coatimundi Average Marine Winrate NaN%
+Coatimundi Average Fuel Diverts PerGame NaN
+Coatimundi Average Vespene Harvested PerGame NaN
+Coatimundi Average Zombie Winrate NaN%
+Coatimundi Average Security Kills Per Game NaN
+Coatimundi Average Deaths PerGame NaN
+Coatimundi Average Infestation Class Class 1

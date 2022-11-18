@@ -1,0 +1,23 @@
+Asuki HumanWinsNormal 38
+Asuki ZombieRank 2.9992
+Asuki VespeneHarvested 356160
+Asuki HumansRescued 63
+Asuki SecurityForcesKilled 25669
+Asuki ZombiesKilled 36915
+Asuki FuelDiverted 57
+Asuki HumanRank 1
+Asuki NumberOfTimesCaptured 140
+Asuki TurretsBuilt 256
+Asuki ZombieWins 33
+Asuki GamesLeft 21
+Asuki GamesPlayedAsHuman 121
+Asuki GamesPlayedAsZombie 82
+Asuki HumansCaptured 591
+Asuki K/D Ratio 263,68
+Asuki Average Marine Winrate 31%
+Asuki Average Fuel Diverts PerGame 0,47
+Asuki Average Vespene Harvested PerGame 2943,47
+Asuki Average Zombie Winrate 40%
+Asuki Average Security Kills Per Game 313
+Asuki Average Deaths PerGame 1,16
+Asuki Average Infestation Class Class 4

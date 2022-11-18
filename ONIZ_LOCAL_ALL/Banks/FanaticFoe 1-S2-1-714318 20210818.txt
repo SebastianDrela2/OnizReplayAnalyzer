@@ -1,0 +1,24 @@
+FanaticFoe HumanWinsNormal 284
+FanaticFoe ZombieRank 19.9985
+FanaticFoe VespeneHarvested 1561600
+FanaticFoe HumansRescued 447
+FanaticFoe SecurityForcesKilled 34311
+FanaticFoe ZombiesKilled 343082
+FanaticFoe FuelDiverted 790
+FanaticFoe PlayedRankedMode5.0 1
+FanaticFoe HumanRank 31
+FanaticFoe NumberOfTimesCaptured 335
+FanaticFoe TurretsBuilt 1043
+FanaticFoe ZombieWins 31
+FanaticFoe GamesLeft 16
+FanaticFoe GamesPlayedAsHuman 416
+FanaticFoe GamesPlayedAsZombie 69
+FanaticFoe HumansCaptured 662
+FanaticFoe K/D Ratio 1024,13
+FanaticFoe Average Marine Winrate 68%
+FanaticFoe Average Fuel Diverts PerGame 1,9
+FanaticFoe Average Vespene Harvested PerGame 3753,85
+FanaticFoe Average Zombie Winrate 45%
+FanaticFoe Average Security Kills Per Game 497
+FanaticFoe Average Deaths PerGame 0,81
+FanaticFoe Average Infestation Class Class 5

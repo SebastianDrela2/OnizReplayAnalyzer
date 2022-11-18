@@ -1,0 +1,123 @@
+Analyzed: Oh No It's Zombies Arctic Updated (293)
+
+ID : 0 PlayerName: ianbro Race: Terran
+ID : 1 PlayerName: Alpha Race: Terran
+ID : 2 PlayerName: Dagran Race: Terran
+ID : 3 PlayerName: Rosh Race: Terran
+ID : 4 PlayerName: michaelmms Race: Terran
+ID : 5 PlayerName: Frosky Race: Terran
+ID : 6 PlayerName: Throne Race: Zerg
+ID : 7 PlayerName: Security Race: Infested Terran
+Throne Zombie Win
+Public Lobby
+
+Game Length:[21:495]
+Players ammount: 8
+Marine rank avg: 5
+GrandMaster ammount: 1
+PURCHASES: 
+[00:588] ianbro Unlocked AssaultRifle
+[00:588] Alpha Unlocked AssaultRifle
+[05:007] Alpha Placed/Upgraded MiningDroid
+[05:223] Alpha Unlocked AdvancedDroidEngines
+[05:243] Alpha Unlocked TurboDroidEngines
+[06:145] Alpha Unlocked SuperHealingDrone
+[07:803] Alpha Unlocked PsiDisrupter
+[07:836] Alpha Unlocked SpecOpsPsiDisruptor
+[08:232] Alpha Placed/Upgraded PsiIndoctrinator
+[13:305] Alpha Placed/Upgraded MiningDroid
+[13:628] Alpha Unlocked AutoTurret
+[13:717] Alpha Unlocked BioMechanicalRepairDrone
+[13:902] Alpha Unlocked SpecOpsBioMechanicalRepairDrone
+[14:168] Alpha Placed/Upgraded HealingDrone
+[14:891] Alpha Placed/Upgraded HealingDrone
+[16:071] Alpha Placed/Upgraded HealingDrone
+[16:517] Alpha Unlocked BeamRifle
+[16:530] Alpha Unlocked SpecOpsPlasmaRifle
+[17:093] Alpha Unlocked OpticalVisor
+[17:192] Alpha Unlocked MedicShield
+[17:335] Alpha Unlocked CombatShield
+[17:449] Alpha Unlocked QuantumBackpack
+[17:611] Alpha Unlocked EnergySuit
+[17:612] Alpha Unlocked EnergySuit
+[17:751] Alpha Unlocked Stimpack
+[17:890] Alpha Unlocked SpecOpsTurret
+[17:902] Alpha Unlocked FlameTurret
+[17:911] Alpha Unlocked HeavyTurret
+[18:163] Alpha Placed/Upgraded AutoTurret
+[18:526] Alpha Placed/Upgraded AutoTurret
+[18:842] Alpha Placed/Upgraded AutoTurret
+[19:763] Alpha Placed/Upgraded PsiIndoctrinator
+[20:101] Alpha Placed/Upgraded PsiIndoctrinator
+[17:612] Dagran Bought ShieldSuit
+[17:612] Dagran Bought CombatSuit
+[17:612] Dagran Bought HazmatSuit
+[00:588] Rosh Unlocked AssaultRifle
+[00:784] Rosh Placed/Upgraded MiningDroid
+[03:885] Rosh Unlocked SpecOpsAssaultRifle
+[04:090] Rosh Unlocked CombatSuit
+[04:109] Rosh Unlocked AdvancedCombatSuit
+[04:249] Rosh Unlocked Stimpack
+[04:328] Rosh Unlocked AdvancedDroidEngines
+[08:535] Rosh Unlocked AutoTurret
+[08:577] Rosh Unlocked SpecOpsTurret
+[08:723] Rosh Unlocked ForceFieldGrenade
+[08:750] Rosh Unlocked SpecOpsForcefieldGrenade
+[09:021] Rosh Unlocked CombatShield
+[09:098] Rosh Unlocked AIAssistant
+[00:588] michaelmms Unlocked AssaultRifle
+[04:091] michaelmms Bought ShieldSuit
+[04:091] michaelmms Bought CombatSuit
+[04:091] michaelmms Bought HazmatSuit
+[04:091] michaelmms Bought CombatSuit
+[04:110] michaelmms Bought CombatSuit
+[00:588] Frosky Unlocked AssaultRifle
+[00:748] Frosky Placed/Upgraded MiningDroid
+[00:804] Frosky Unlocked ArcWelder
+[02:029] Frosky Unlocked AdvancedDroidEngines
+[02:041] Frosky Unlocked TurboDroidEngines
+[02:516] Frosky Unlocked BioMechanicalRepairDrone
+[02:544] Frosky Unlocked CombatAccelerationDrone
+[02:625] Frosky Placed/Upgraded HealingDrone
+[02:800] Frosky Placed/Upgraded HealingDrone
+[03:035] Frosky Placed/Upgraded HealingDrone
+[03:420] Frosky Placed/Upgraded HealingDrone
+[04:007] Frosky Unlocked AutoTurret
+[04:021] Frosky Unlocked HeavyTurret
+[04:409] Frosky Placed/Upgraded AutoTurret
+[04:567] Frosky Placed/Upgraded AutoTurret
+[04:728] Frosky Placed/Upgraded AutoTurret
+[06:280] Frosky Unlocked MotionSensor
+[06:758] Frosky Placed/Upgraded AutoTurret
+[07:014] Frosky Placed/Upgraded SensorTower
+[07:352] Frosky Unlocked Stimpack
+[07:403] Frosky Unlocked PsiDisrupter
+[07:431] Frosky Unlocked PsiDepressor
+[07:534] Frosky Placed/Upgraded PsiIndoctrinator
+[07:742] Frosky Placed/Upgraded SensorTower
+[07:957] Frosky Placed/Upgraded AutoTurret
+[00:552] Throne Bought PlayerNumber
+[00:728] Throne Spawned MassiveCocoon
+[02:168] Throne Spawned Anubalisk
+[03:521] Throne Bought StrainSpeed
+[03:529] Throne Bought PureStrainSpeed
+[04:427] Throne Bought HunterlingStrain
+[07:827] Throne Bought StrainSpeed
+[08:587] Throne Bought PureStrainSpeed
+[09:933] Throne Bought HunterlingStrain
+[10:979] Throne Bought UnlockDropPods
+[11:605] Throne Bought EvolveDropPods
+[12:076] Throne Bought EvolveDropPods
+[12:080] Throne Bought EvolveDropPods
+[13:301] Throne Bought EvolveDropPods
+[13:305] Throne Bought EvolveDropPods
+[14:500] Throne Bought StrainVolatile
+[16:190] Throne Bought PureStrainVolatile
+[17:640] Throne Bought AdvancedInfestationContainment
+[18:466] Throne Bought AdvancedPowerInfestation
+[19:531] Throne Bought KaboomerStrain
+[19:874] Throne Bought EvolveDropPods
+Throne First Alpha Anubalisk |  Win
+
+Throne Placed 0 Greaters.
+--------------------------------

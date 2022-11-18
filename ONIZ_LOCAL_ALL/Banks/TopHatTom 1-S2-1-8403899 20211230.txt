@@ -1,0 +1,23 @@
+TopHatTom HumanWinsNormal 15
+TopHatTom ZombieRank 5.9997
+TopHatTom VespeneHarvested 77520
+TopHatTom HumansRescued 31
+TopHatTom SecurityForcesKilled 6135
+TopHatTom ZombiesKilled 22172
+TopHatTom FuelDiverted 38
+TopHatTom HumanRank 0
+TopHatTom NumberOfTimesCaptured 151
+TopHatTom TurretsBuilt 86
+TopHatTom ZombieWins 8
+TopHatTom GamesLeft 2
+TopHatTom GamesPlayedAsHuman 47
+TopHatTom GamesPlayedAsZombie 14
+TopHatTom HumansCaptured 139
+TopHatTom K/D Ratio 146,83
+TopHatTom Average Marine Winrate 32%
+TopHatTom Average Fuel Diverts PerGame 0,81
+TopHatTom Average Vespene Harvested PerGame 1649,36
+TopHatTom Average Zombie Winrate 56,99999999999999%
+TopHatTom Average Security Kills Per Game 438
+TopHatTom Average Deaths PerGame 3,21
+TopHatTom Average Infestation Class Class 5

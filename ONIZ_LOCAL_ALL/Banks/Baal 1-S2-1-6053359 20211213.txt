@@ -1,0 +1,23 @@
+Baal HumanWinsNormal 30
+Baal ZombieRank 0
+Baal VespeneHarvested 206000
+Baal HumansRescued 50
+Baal SecurityForcesKilled 0
+Baal ZombiesKilled 44022
+Baal FuelDiverted 56
+Baal HumanRank 3.5
+Baal NumberOfTimesCaptured 75
+Baal TurretsBuilt 365
+Baal ZombieWins 0
+Baal GamesLeft 12
+Baal GamesPlayedAsHuman 70
+Baal GamesPlayedAsZombie 0
+Baal HumansCaptured 0
+Baal K/D Ratio 586,96
+Baal Average Marine Winrate 43%
+Baal Average Fuel Diverts PerGame 0,8
+Baal Average Vespene Harvested PerGame 2942,86
+Baal Average Zombie Winrate NaN%
+Baal Average Security Kills Per Game NaN
+Baal Average Deaths PerGame 1,07
+Baal Average Infestation Class Class 1

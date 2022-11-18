@@ -1,0 +1,23 @@
+cheese HumanWinsNormal 71
+cheese ZombieRank 0
+cheese VespeneHarvested 471460
+cheese HumansRescued 90
+cheese SecurityForcesKilled 13490
+cheese ZombiesKilled 115054
+cheese FuelDiverted 40
+cheese HumanRank 5
+cheese NumberOfTimesCaptured 230
+cheese TurretsBuilt 500
+cheese ZombieWins 13
+cheese GamesLeft 17
+cheese GamesPlayedAsHuman 163
+cheese GamesPlayedAsZombie 33
+cheese HumansCaptured 337
+cheese K/D Ratio 500,23
+cheese Average Marine Winrate 44%
+cheese Average Fuel Diverts PerGame 0,25
+cheese Average Vespene Harvested PerGame 2892,39
+cheese Average Zombie Winrate 39%
+cheese Average Security Kills Per Game 409
+cheese Average Deaths PerGame 1,41
+cheese Average Infestation Class Class 5

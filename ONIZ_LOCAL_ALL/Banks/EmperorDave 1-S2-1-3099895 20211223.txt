@@ -1,0 +1,23 @@
+EmperorDave HumanWinsNormal 54
+EmperorDave ZombieRank 0
+EmperorDave VespeneHarvested 284600
+EmperorDave HumansRescued 140
+EmperorDave SecurityForcesKilled 30230
+EmperorDave ZombiesKilled 75791
+EmperorDave FuelDiverted 163
+EmperorDave HumanRank 0
+EmperorDave NumberOfTimesCaptured 257
+EmperorDave TurretsBuilt 469
+EmperorDave ZombieWins 23
+EmperorDave GamesLeft 3
+EmperorDave GamesPlayedAsHuman 137
+EmperorDave GamesPlayedAsZombie 74
+EmperorDave HumansCaptured 670
+EmperorDave K/D Ratio 294,91
+EmperorDave Average Marine Winrate 39%
+EmperorDave Average Fuel Diverts PerGame 1,19
+EmperorDave Average Vespene Harvested PerGame 2077,37
+EmperorDave Average Zombie Winrate 31%
+EmperorDave Average Security Kills Per Game 409
+EmperorDave Average Deaths PerGame 1,88
+EmperorDave Average Infestation Class Class 5

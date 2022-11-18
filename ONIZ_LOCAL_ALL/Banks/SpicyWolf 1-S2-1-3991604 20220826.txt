@@ -1,0 +1,23 @@
+SpicyWolf HumanWinsNormal 11
+SpicyWolf ZombieRank 6.5
+SpicyWolf VespeneHarvested 76600
+SpicyWolf HumansRescued 11
+SpicyWolf SecurityForcesKilled 5979
+SpicyWolf ZombiesKilled 15368
+SpicyWolf FuelDiverted 55
+SpicyWolf HumanRank 1
+SpicyWolf NumberOfTimesCaptured 30
+SpicyWolf TurretsBuilt 74
+SpicyWolf ZombieWins 6
+SpicyWolf GamesLeft 0
+SpicyWolf GamesPlayedAsHuman 30
+SpicyWolf GamesPlayedAsZombie 14
+SpicyWolf HumansCaptured 135
+SpicyWolf K/D Ratio 512,27
+SpicyWolf Average Marine Winrate 37%
+SpicyWolf Average Fuel Diverts PerGame 1,83
+SpicyWolf Average Vespene Harvested PerGame 2553,33
+SpicyWolf Average Zombie Winrate 43%
+SpicyWolf Average Security Kills Per Game 427
+SpicyWolf Average Deaths PerGame 1
+SpicyWolf Average Infestation Class Class 5

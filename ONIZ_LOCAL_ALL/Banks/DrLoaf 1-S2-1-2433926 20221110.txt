@@ -1,0 +1,23 @@
+DrLoaf HumanWinsNormal 20
+DrLoaf ZombieRank 14.8322
+DrLoaf VespeneHarvested 158860
+DrLoaf HumansRescued 40
+DrLoaf SecurityForcesKilled 11938
+DrLoaf ZombiesKilled 34018
+DrLoaf FuelDiverted 141
+DrLoaf HumanRank 0
+DrLoaf NumberOfTimesCaptured 53
+DrLoaf TurretsBuilt 247
+DrLoaf ZombieWins 21
+DrLoaf GamesLeft 0
+DrLoaf GamesPlayedAsHuman 47
+DrLoaf GamesPlayedAsZombie 27
+DrLoaf HumansCaptured 282
+DrLoaf K/D Ratio 641,85
+DrLoaf Average Marine Winrate 43%
+DrLoaf Average Fuel Diverts PerGame 3
+DrLoaf Average Vespene Harvested PerGame 3380
+DrLoaf Average Zombie Winrate 78%
+DrLoaf Average Security Kills Per Game 442
+DrLoaf Average Deaths PerGame 1,13
+DrLoaf Average Infestation Class Class 5

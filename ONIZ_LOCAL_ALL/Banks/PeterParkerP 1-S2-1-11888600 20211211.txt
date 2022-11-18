@@ -1,0 +1,23 @@
+PeterParkerP HumanWinsNormal 87
+PeterParkerP ZombieRank 3
+PeterParkerP VespeneHarvested 417300
+PeterParkerP HumansRescued 108
+PeterParkerP SecurityForcesKilled 2850
+PeterParkerP ZombiesKilled 115792
+PeterParkerP FuelDiverted 175
+PeterParkerP HumanRank 10.0751
+PeterParkerP NumberOfTimesCaptured 249
+PeterParkerP TurretsBuilt 261
+PeterParkerP ZombieWins 2
+PeterParkerP GamesLeft 30
+PeterParkerP GamesPlayedAsHuman 180
+PeterParkerP GamesPlayedAsZombie 10
+PeterParkerP HumansCaptured 68
+PeterParkerP K/D Ratio 465,03
+PeterParkerP Average Marine Winrate 48%
+PeterParkerP Average Fuel Diverts PerGame 0,97
+PeterParkerP Average Vespene Harvested PerGame 2318,33
+PeterParkerP Average Zombie Winrate 20%
+PeterParkerP Average Security Kills Per Game 285
+PeterParkerP Average Deaths PerGame 1,38
+PeterParkerP Average Infestation Class Class 3

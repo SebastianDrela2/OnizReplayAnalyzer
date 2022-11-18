@@ -1,0 +1,23 @@
+Muqali HumanWinsNormal 23
+Muqali ZombieRank 1
+Muqali VespeneHarvested 99400
+Muqali HumansRescued 14
+Muqali SecurityForcesKilled 1461
+Muqali ZombiesKilled 27687
+Muqali FuelDiverted 57
+Muqali HumanRank 14.125
+Muqali NumberOfTimesCaptured 46
+Muqali TurretsBuilt 50
+Muqali ZombieWins 2
+Muqali GamesLeft 3
+Muqali GamesPlayedAsHuman 40
+Muqali GamesPlayedAsZombie 3
+Muqali HumansCaptured 25
+Muqali K/D Ratio 601,89
+Muqali Average Marine Winrate 56,99999999999999%
+Muqali Average Fuel Diverts PerGame 1,42
+Muqali Average Vespene Harvested PerGame 2485
+Muqali Average Zombie Winrate 67%
+Muqali Average Security Kills Per Game 487
+Muqali Average Deaths PerGame 1,15
+Muqali Average Infestation Class Class 5

@@ -1,0 +1,23 @@
+HalfpastMatt HumanWinsNormal 6
+HalfpastMatt ZombieRank 9
+HalfpastMatt VespeneHarvested 46100
+HalfpastMatt HumansRescued 18
+HalfpastMatt SecurityForcesKilled 2447
+HalfpastMatt ZombiesKilled 13688
+HalfpastMatt FuelDiverted 16
+HalfpastMatt HumanRank 0
+HalfpastMatt NumberOfTimesCaptured 31
+HalfpastMatt TurretsBuilt 212
+HalfpastMatt ZombieWins 3
+HalfpastMatt GamesLeft 8
+HalfpastMatt GamesPlayedAsHuman 28
+HalfpastMatt GamesPlayedAsZombie 6
+HalfpastMatt HumansCaptured 37
+HalfpastMatt K/D Ratio 441,55
+HalfpastMatt Average Marine Winrate 21%
+HalfpastMatt Average Fuel Diverts PerGame 0,57
+HalfpastMatt Average Vespene Harvested PerGame 1646,43
+HalfpastMatt Average Zombie Winrate 50%
+HalfpastMatt Average Security Kills Per Game 408
+HalfpastMatt Average Deaths PerGame 1,11
+HalfpastMatt Average Infestation Class Class 5

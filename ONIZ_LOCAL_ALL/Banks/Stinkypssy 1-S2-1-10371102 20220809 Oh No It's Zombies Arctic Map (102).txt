@@ -1,0 +1,23 @@
+Stinkypssy HumanWinsNormal 15
+Stinkypssy ZombieRank 0
+Stinkypssy VespeneHarvested 86500
+Stinkypssy HumansRescued 21
+Stinkypssy SecurityForcesKilled 5857
+Stinkypssy ZombiesKilled 27377
+Stinkypssy FuelDiverted 31
+Stinkypssy HumanRank 3
+Stinkypssy NumberOfTimesCaptured 72
+Stinkypssy TurretsBuilt 143
+Stinkypssy ZombieWins 0
+Stinkypssy GamesLeft 10
+Stinkypssy GamesPlayedAsHuman 47
+Stinkypssy GamesPlayedAsZombie 14
+Stinkypssy HumansCaptured 87
+Stinkypssy K/D Ratio 380,24
+Stinkypssy Average Marine Winrate 32%
+Stinkypssy Average Fuel Diverts PerGame 0,66
+Stinkypssy Average Vespene Harvested PerGame 1840,43
+Stinkypssy Average Zombie Winrate 0%
+Stinkypssy Average Security Kills Per Game 418
+Stinkypssy Average Deaths PerGame 1,53
+Stinkypssy Average Infestation Class Class 5

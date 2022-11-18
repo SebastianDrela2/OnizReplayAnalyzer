@@ -1,0 +1,23 @@
+mranderson HumanWinsNormal 4
+mranderson ZombieRank 0
+mranderson VespeneHarvested 46060
+mranderson HumansRescued 39
+mranderson SecurityForcesKilled 0
+mranderson ZombiesKilled 11704
+mranderson FuelDiverted 6
+mranderson HumanRank 0
+mranderson NumberOfTimesCaptured 42
+mranderson TurretsBuilt 116
+mranderson ZombieWins 0
+mranderson GamesLeft 1
+mranderson GamesPlayedAsHuman 19
+mranderson GamesPlayedAsZombie 1
+mranderson HumansCaptured 0
+mranderson K/D Ratio 278,67
+mranderson Average Marine Winrate 21%
+mranderson Average Fuel Diverts PerGame 0,32
+mranderson Average Vespene Harvested PerGame 2424,21
+mranderson Average Zombie Winrate 0%
+mranderson Average Security Kills Per Game 0
+mranderson Average Deaths PerGame 2,21
+mranderson Average Infestation Class Class 1

@@ -1,0 +1,23 @@
+Peachybutt HumanWinsNormal 5
+Peachybutt ZombieRank 0
+Peachybutt VespeneHarvested 39700
+Peachybutt HumansRescued 24
+Peachybutt SecurityForcesKilled 373
+Peachybutt ZombiesKilled 10031
+Peachybutt FuelDiverted 6
+Peachybutt HumanRank 0
+Peachybutt NumberOfTimesCaptured 49
+Peachybutt TurretsBuilt 50
+Peachybutt ZombieWins 1
+Peachybutt GamesLeft 3
+Peachybutt GamesPlayedAsHuman 22
+Peachybutt GamesPlayedAsZombie 1
+Peachybutt HumansCaptured 1
+Peachybutt K/D Ratio 204,71
+Peachybutt Average Marine Winrate 23%
+Peachybutt Average Fuel Diverts PerGame 0,27
+Peachybutt Average Vespene Harvested PerGame 1804,55
+Peachybutt Average Zombie Winrate 100%
+Peachybutt Average Security Kills Per Game 373
+Peachybutt Average Deaths PerGame 2,23
+Peachybutt Average Infestation Class Class 4

@@ -1,0 +1,23 @@
+Joy HumanWinsNormal 2
+Joy ZombieRank 0
+Joy VespeneHarvested 6000
+Joy HumansRescued 1
+Joy SecurityForcesKilled 0
+Joy ZombiesKilled 715
+Joy FuelDiverted 3
+Joy HumanRank 1
+Joy NumberOfTimesCaptured 8
+Joy TurretsBuilt 0
+Joy ZombieWins 0
+Joy GamesLeft 0
+Joy GamesPlayedAsHuman 4
+Joy GamesPlayedAsZombie 0
+Joy HumansCaptured 0
+Joy K/D Ratio 89,38
+Joy Average Marine Winrate 50%
+Joy Average Fuel Diverts PerGame 0,75
+Joy Average Vespene Harvested PerGame 1500
+Joy Average Zombie Winrate NaN%
+Joy Average Security Kills Per Game NaN
+Joy Average Deaths PerGame 2
+Joy Average Infestation Class Class 1

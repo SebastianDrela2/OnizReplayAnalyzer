@@ -1,0 +1,23 @@
+Basik HumanWinsNormal 71
+Basik ZombieRank 0
+Basik VespeneHarvested 415580
+Basik HumansRescued 63
+Basik SecurityForcesKilled 1370
+Basik ZombiesKilled 94298
+Basik FuelDiverted 28
+Basik HumanRank 8.5
+Basik NumberOfTimesCaptured 211
+Basik TurretsBuilt 131
+Basik ZombieWins 2
+Basik GamesLeft 7
+Basik GamesPlayedAsHuman 149
+Basik GamesPlayedAsZombie 4
+Basik HumansCaptured 34
+Basik K/D Ratio 446,91
+Basik Average Marine Winrate 48%
+Basik Average Fuel Diverts PerGame 0,19
+Basik Average Vespene Harvested PerGame 2789,13
+Basik Average Zombie Winrate 50%
+Basik Average Security Kills Per Game 342
+Basik Average Deaths PerGame 1,42
+Basik Average Infestation Class Class 4

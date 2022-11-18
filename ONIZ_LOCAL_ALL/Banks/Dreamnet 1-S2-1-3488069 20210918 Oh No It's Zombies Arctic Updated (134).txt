@@ -1,0 +1,23 @@
+Dreamnet HumanWinsNormal 0
+Dreamnet ZombieRank 0
+Dreamnet VespeneHarvested 3500
+Dreamnet HumansRescued 2
+Dreamnet SecurityForcesKilled 0
+Dreamnet ZombiesKilled 383
+Dreamnet FuelDiverted 7
+Dreamnet HumanRank 0
+Dreamnet NumberOfTimesCaptured 6
+Dreamnet TurretsBuilt 0
+Dreamnet ZombieWins 0
+Dreamnet GamesLeft 0
+Dreamnet GamesPlayedAsHuman 2
+Dreamnet GamesPlayedAsZombie 0
+Dreamnet HumansCaptured 0
+Dreamnet K/D Ratio 63,83
+Dreamnet Average Marine Winrate 0%
+Dreamnet Average Fuel Diverts PerGame 3,5
+Dreamnet Average Vespene Harvested PerGame 1750
+Dreamnet Average Zombie Winrate NaN%
+Dreamnet Average Security Kills Per Game NaN
+Dreamnet Average Deaths PerGame 3
+Dreamnet Average Infestation Class Class 1

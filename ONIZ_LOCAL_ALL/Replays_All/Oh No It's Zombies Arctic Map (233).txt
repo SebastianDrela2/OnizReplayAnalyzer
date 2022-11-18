@@ -1,0 +1,68 @@
+Analyzed: Oh No It's Zombies Arctic Map (233)
+
+ID : 0 PlayerName: Toxicpanda Race: Terran
+ID : 1 PlayerName: Frosky Race: Zerg
+ID : 7 PlayerName: Security Race: Primal Zerg
+Frosky Zombie Win
+Public Lobby
+
+Game Length:[11:974]
+Players ammount: 3
+Marine rank avg: 0,6666666666666666
+GrandMaster ammount: 2
+PURCHASES: 
+[00:572] Toxicpanda Unlocked AssaultRifle
+[00:850] Toxicpanda Placed MiningDroid
+[01:168] Toxicpanda Unlocked AdvancedDroidEngines
+[01:217] Toxicpanda Unlocked TurboDroidEngines
+[01:509] Toxicpanda Unlocked AutoTurret
+[01:524] Toxicpanda Unlocked FlameTurret
+[01:615] Toxicpanda Unlocked SpecOpsAssaultRifle
+[01:662] Toxicpanda Unlocked AutoTargetingSystem
+[01:720] Toxicpanda Unlocked Stimpack
+[01:927] Toxicpanda Unlocked QuantumBackpack
+[01:985] Toxicpanda Unlocked MedicShield
+[02:216] Toxicpanda Placed AutoTurret
+[02:495] Toxicpanda Placed AutoTurret
+[02:873] Toxicpanda Unlocked FragGrenade
+[02:927] Toxicpanda Unlocked SpecOpsFragGrenade
+[03:212] Toxicpanda Placed AutoTurret
+[03:568] Toxicpanda Unlocked BioMechanicalRepairDrone
+[03:913] Toxicpanda Placed AutoTurret
+[04:211] Toxicpanda Placed AutoTurret
+[04:398] Toxicpanda Placed HealingDrone
+[04:923] Toxicpanda Placed HealingDrone
+[06:312] Toxicpanda Placed HealingDrone
+[06:522] Toxicpanda Unlocked ExplorationDroid
+[06:546] Toxicpanda Placed ExplorationDroid
+[06:552] Toxicpanda Placed ExplorationDroid
+[08:095] Toxicpanda Placed HealingDrone
+[08:516] Toxicpanda Placed AutoTurret
+[08:708] Toxicpanda Placed AutoTurret
+[08:896] Toxicpanda Placed AutoTurret
+[08:983] Toxicpanda Unlocked HeavyTurret
+[09:113] Toxicpanda Placed AutoTurret
+[09:494] Toxicpanda Placed AutoTurret
+[09:814] Toxicpanda Placed AutoTurret
+[09:992] Toxicpanda Placed AutoTurret
+[10:256] Toxicpanda Placed AutoTurret
+[10:352] Toxicpanda Placed ExplorationDroid
+[10:428] Toxicpanda Placed AutoTurret
+[10:620] Toxicpanda Placed AutoTurret
+[10:698] Toxicpanda Unlocked SpecOpsBioMechanicalRepairDrone
+[10:815] Toxicpanda Placed HealingDrone
+[10:893] Toxicpanda Unlocked ArcWelder
+[10:906] Toxicpanda Unlocked SpecOpsArcWelder
+[11:022] Toxicpanda Placed HealingDrone
+[11:130] Toxicpanda Placed AutoTurret
+[00:568] Frosky Bought PlayerNumber
+[03:615] Frosky Bought StrainHealth
+[03:628] Frosky Bought StrainHealth
+[06:043] Frosky Bought StrainVolatile
+[06:052] Frosky Bought StrainVolatile
+[09:607] Frosky Spawned MassiveCocoon
+[10:687] Frosky Spawned Underseer
+Frosky First Alpha Underseer |  Win
+
+Frosky Placed 0 Greaters.
+--------------------------------

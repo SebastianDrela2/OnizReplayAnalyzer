@@ -1,0 +1,23 @@
+flanksaber HumanWinsNormal 36
+flanksaber ZombieRank 0
+flanksaber VespeneHarvested 192900
+flanksaber HumansRescued 33
+flanksaber SecurityForcesKilled 18824
+flanksaber ZombiesKilled 25631
+flanksaber FuelDiverted 105
+flanksaber HumanRank 6
+flanksaber NumberOfTimesCaptured 158
+flanksaber TurretsBuilt 217
+flanksaber ZombieWins 16
+flanksaber GamesLeft 9
+flanksaber GamesPlayedAsHuman 86
+flanksaber GamesPlayedAsZombie 41
+flanksaber HumansCaptured 279
+flanksaber K/D Ratio 162,22
+flanksaber Average Marine Winrate 42%
+flanksaber Average Fuel Diverts PerGame 1,22
+flanksaber Average Vespene Harvested PerGame 2243,02
+flanksaber Average Zombie Winrate 39%
+flanksaber Average Security Kills Per Game 459
+flanksaber Average Deaths PerGame 1,84
+flanksaber Average Infestation Class Class 5

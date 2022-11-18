@@ -1,0 +1,23 @@
+QurIzE HumanWinsNormal 6
+QurIzE ZombieRank 0
+QurIzE VespeneHarvested 26100
+QurIzE HumansRescued 10
+QurIzE SecurityForcesKilled 0
+QurIzE ZombiesKilled 9544
+QurIzE FuelDiverted 3
+QurIzE HumanRank 2
+QurIzE NumberOfTimesCaptured 26
+QurIzE TurretsBuilt 32
+QurIzE ZombieWins 0
+QurIzE GamesLeft 0
+QurIzE GamesPlayedAsHuman 18
+QurIzE GamesPlayedAsZombie 0
+QurIzE HumansCaptured 0
+QurIzE K/D Ratio 367,08
+QurIzE Average Marine Winrate 33%
+QurIzE Average Fuel Diverts PerGame 0,17
+QurIzE Average Vespene Harvested PerGame 1450
+QurIzE Average Zombie Winrate NaN%
+QurIzE Average Security Kills Per Game NaN
+QurIzE Average Deaths PerGame 1,44
+QurIzE Average Infestation Class Class 1

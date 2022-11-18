@@ -1,0 +1,23 @@
+Analyzed: Oh No It's Zombies Arctic Map (257)
+
+ID : 0 PlayerName: Frosky Race: Zerg
+ID : 1 PlayerName: Artanis Race: Terran
+ID : 3 PlayerName: Toxicpanda Race: Terran
+ID : 4 PlayerName: Wooky Race: Terran
+ID : 6 PlayerName: RedReaperz Race: Terran
+ID : 7 PlayerName: Security Race: Infested Terran
+Frosky Zombie Win
+Public Lobby
+
+Game Length:[01:120]
+Players ammount: 6
+Marine rank avg: 11
+GrandMaster ammount: 3
+PURCHASES: 
+[00:820] Frosky Bought StrainSpeed
+[00:572] Artanis Unlocked AssaultRifle
+[00:572] Toxicpanda Unlocked AssaultRifle
+[00:572] RedReaperz Unlocked AssaultRifle
+
+Frosky Placed 0 Greaters.
+--------------------------------

@@ -1,0 +1,23 @@
+timbit HumanWinsNormal 60
+timbit ZombieRank 12.3327
+timbit VespeneHarvested 360000
+timbit HumansRescued 194
+timbit SecurityForcesKilled 24808
+timbit ZombiesKilled 83033
+timbit FuelDiverted 240
+timbit HumanRank 1
+timbit NumberOfTimesCaptured 246
+timbit TurretsBuilt 654
+timbit ZombieWins 24
+timbit GamesLeft 3
+timbit GamesPlayedAsHuman 137
+timbit GamesPlayedAsZombie 52
+timbit HumansCaptured 502
+timbit K/D Ratio 337,53
+timbit Average Marine Winrate 44%
+timbit Average Fuel Diverts PerGame 1,75
+timbit Average Vespene Harvested PerGame 2627,74
+timbit Average Zombie Winrate 46%
+timbit Average Security Kills Per Game 477
+timbit Average Deaths PerGame 1,8
+timbit Average Infestation Class Class 5

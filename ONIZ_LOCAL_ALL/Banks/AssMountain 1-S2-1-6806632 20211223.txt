@@ -1,0 +1,22 @@
+AssMountain HumanWinsNormal 1
+AssMountain LeftLastGameAsZombie 0
+AssMountain VespeneHarvested 5600
+AssMountain HumansRescued 2
+AssMountain SecurityForcesKilled 0
+AssMountain ZombiesKilled 1173
+AssMountain FuelDiverted 0
+AssMountain NumberOfTimesCaptured 4
+AssMountain TurretsBuilt 2
+AssMountain ZombieWins 0
+AssMountain GamesLeft 2
+AssMountain GamesPlayedAsHuman 5
+AssMountain GamesPlayedAsZombie 0
+AssMountain HumansCaptured 0
+AssMountain K/D Ratio 293,25
+AssMountain Average Marine Winrate 20%
+AssMountain Average Fuel Diverts PerGame 0
+AssMountain Average Vespene Harvested PerGame 1120
+AssMountain Average Zombie Winrate NaN%
+AssMountain Average Security Kills Per Game NaN
+AssMountain Average Deaths PerGame 0,8
+AssMountain Average Infestation Class Class 1

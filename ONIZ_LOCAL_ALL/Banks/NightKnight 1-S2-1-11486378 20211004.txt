@@ -1,0 +1,23 @@
+NightKnight HumanWinsNormal 3
+NightKnight ZombieRank 0
+NightKnight VespeneHarvested 28600
+NightKnight HumansRescued 2
+NightKnight SecurityForcesKilled 2189
+NightKnight ZombiesKilled 3710
+NightKnight FuelDiverted 2
+NightKnight HumanRank 0
+NightKnight NumberOfTimesCaptured 33
+NightKnight TurretsBuilt 66
+NightKnight ZombieWins 0
+NightKnight GamesLeft 3
+NightKnight GamesPlayedAsHuman 17
+NightKnight GamesPlayedAsZombie 5
+NightKnight HumansCaptured 47
+NightKnight K/D Ratio 112,42
+NightKnight Average Marine Winrate 18%
+NightKnight Average Fuel Diverts PerGame 0,12
+NightKnight Average Vespene Harvested PerGame 1682,35
+NightKnight Average Zombie Winrate 0%
+NightKnight Average Security Kills Per Game 438
+NightKnight Average Deaths PerGame 1,94
+NightKnight Average Infestation Class Class 5

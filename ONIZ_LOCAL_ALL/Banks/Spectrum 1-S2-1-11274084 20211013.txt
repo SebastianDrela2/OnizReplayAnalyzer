@@ -1,0 +1,23 @@
+Spectrum HumanWinsNormal 1
+Spectrum ZombieRank 0
+Spectrum VespeneHarvested 3300
+Spectrum HumansRescued 0
+Spectrum SecurityForcesKilled 0
+Spectrum ZombiesKilled 333
+Spectrum FuelDiverted 0
+Spectrum HumanRank 1
+Spectrum NumberOfTimesCaptured 0
+Spectrum TurretsBuilt 0
+Spectrum ZombieWins 0
+Spectrum GamesLeft 0
+Spectrum GamesPlayedAsHuman 1
+Spectrum GamesPlayedAsZombie 0
+Spectrum HumansCaptured 0
+Spectrum K/D Ratio ∞
+Spectrum Average Marine Winrate 100%
+Spectrum Average Fuel Diverts PerGame 0
+Spectrum Average Vespene Harvested PerGame 3300
+Spectrum Average Zombie Winrate NaN%
+Spectrum Average Security Kills Per Game NaN
+Spectrum Average Deaths PerGame 0
+Spectrum Average Infestation Class Class 1

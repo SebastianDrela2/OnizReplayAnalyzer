@@ -1,0 +1,23 @@
+katus HumanWinsNormal 30
+katus ZombieRank 0
+katus VespeneHarvested 194480
+katus HumansRescued 54
+katus SecurityForcesKilled 0
+katus ZombiesKilled 45474
+katus FuelDiverted 70
+katus HumanRank -0.25
+katus NumberOfTimesCaptured 59
+katus TurretsBuilt 399
+katus ZombieWins 0
+katus GamesLeft 18
+katus GamesPlayedAsHuman 77
+katus GamesPlayedAsZombie 0
+katus HumansCaptured 0
+katus K/D Ratio 770,75
+katus Average Marine Winrate 39%
+katus Average Fuel Diverts PerGame 0,91
+katus Average Vespene Harvested PerGame 2525,71
+katus Average Zombie Winrate NaN%
+katus Average Security Kills Per Game NaN
+katus Average Deaths PerGame 0,77
+katus Average Infestation Class Class 1

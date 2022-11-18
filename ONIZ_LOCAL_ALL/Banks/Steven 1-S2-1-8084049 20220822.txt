@@ -1,0 +1,24 @@
+Steven HumanWinsNormal 13
+Steven ZombieRank 16.4992
+Steven VespeneHarvested 65100
+Steven HumansRescued 26
+Steven SecurityForcesKilled 10647
+Steven ZombiesKilled 13232
+Steven FuelDiverted 39
+Steven PlayedRankedMode5.0 1
+Steven HumanRank 7.5
+Steven NumberOfTimesCaptured 49
+Steven TurretsBuilt 192
+Steven ZombieWins 17
+Steven GamesLeft 2
+Steven GamesPlayedAsHuman 25
+Steven GamesPlayedAsZombie 23
+Steven HumansCaptured 294
+Steven K/D Ratio 270,04
+Steven Average Marine Winrate 52%
+Steven Average Fuel Diverts PerGame 1,56
+Steven Average Vespene Harvested PerGame 2604
+Steven Average Zombie Winrate 74%
+Steven Average Security Kills Per Game 463
+Steven Average Deaths PerGame 1,96
+Steven Average Infestation Class Class 5

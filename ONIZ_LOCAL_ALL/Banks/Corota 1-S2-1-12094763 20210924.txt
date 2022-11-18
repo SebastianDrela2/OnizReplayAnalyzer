@@ -1,0 +1,21 @@
+Corota HumanWinsNormal 0
+Corota VespeneHarvested 1100
+Corota HumansRescued 0
+Corota SecurityForcesKilled 0
+Corota ZombiesKilled 68
+Corota FuelDiverted 0
+Corota NumberOfTimesCaptured 1
+Corota TurretsBuilt 1
+Corota ZombieWins 0
+Corota GamesLeft 0
+Corota GamesPlayedAsHuman 1
+Corota GamesPlayedAsZombie 0
+Corota HumansCaptured 0
+Corota K/D Ratio 68
+Corota Average Marine Winrate 0%
+Corota Average Fuel Diverts PerGame 0
+Corota Average Vespene Harvested PerGame 1100
+Corota Average Zombie Winrate NaN%
+Corota Average Security Kills Per Game NaN
+Corota Average Deaths PerGame 1
+Corota Average Infestation Class Class 1

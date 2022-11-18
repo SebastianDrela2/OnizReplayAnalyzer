@@ -1,0 +1,23 @@
+RyK HumanWinsNormal 148
+RyK ZombieRank 15.833
+RyK VespeneHarvested 801600
+RyK HumansRescued 147
+RyK SecurityForcesKilled 5825
+RyK ZombiesKilled 220213
+RyK FuelDiverted 605
+RyK HumanRank 31
+RyK NumberOfTimesCaptured 302
+RyK TurretsBuilt 1840
+RyK ZombieWins 11
+RyK GamesLeft 36
+RyK GamesPlayedAsHuman 268
+RyK GamesPlayedAsZombie 13
+RyK HumansCaptured 136
+RyK K/D Ratio 729,18
+RyK Average Marine Winrate 55,00000000000001%
+RyK Average Fuel Diverts PerGame 2,26
+RyK Average Vespene Harvested PerGame 2991,04
+RyK Average Zombie Winrate 85%
+RyK Average Security Kills Per Game 448
+RyK Average Deaths PerGame 1,13
+RyK Average Infestation Class Class 5

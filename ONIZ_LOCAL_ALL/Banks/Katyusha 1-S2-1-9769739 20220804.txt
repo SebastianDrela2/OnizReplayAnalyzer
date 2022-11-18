@@ -1,0 +1,23 @@
+Katyusha HumanWinsNormal 109
+Katyusha ZombieRank 29.4987
+Katyusha VespeneHarvested 618100
+Katyusha HumansRescued 153
+Katyusha SecurityForcesKilled 34768
+Katyusha ZombiesKilled 141673
+Katyusha FuelDiverted 584
+Katyusha HumanRank 26.4755
+Katyusha NumberOfTimesCaptured 290
+Katyusha TurretsBuilt 747
+Katyusha ZombieWins 41
+Katyusha GamesLeft 10
+Katyusha GamesPlayedAsHuman 210
+Katyusha GamesPlayedAsZombie 75
+Katyusha HumansCaptured 834
+Katyusha K/D Ratio 488,53
+Katyusha Average Marine Winrate 52%
+Katyusha Average Fuel Diverts PerGame 2,78
+Katyusha Average Vespene Harvested PerGame 2943,33
+Katyusha Average Zombie Winrate 55,00000000000001%
+Katyusha Average Security Kills Per Game 464
+Katyusha Average Deaths PerGame 1,38
+Katyusha Average Infestation Class Class 5

@@ -1,0 +1,25 @@
+NFL HumanWinsNormal 52
+NFL LeftLastGameAsZombie 0
+NFL ZombieRank 0
+NFL VespeneHarvested 256900
+NFL HumansRescued 72
+NFL SecurityForcesKilled 1410
+NFL ZombiesKilled 79222
+NFL FuelDiverted 113
+NFL PlayedRankedMode5.0 1
+NFL HumanRank 2
+NFL NumberOfTimesCaptured 131
+NFL TurretsBuilt 458
+NFL ZombieWins 0
+NFL GamesLeft 29
+NFL GamesPlayedAsHuman 123
+NFL GamesPlayedAsZombie 3
+NFL HumansCaptured 32
+NFL K/D Ratio 604,75
+NFL Average Marine Winrate 42%
+NFL Average Fuel Diverts PerGame 0,92
+NFL Average Vespene Harvested PerGame 2088,62
+NFL Average Zombie Winrate 0%
+NFL Average Security Kills Per Game 470
+NFL Average Deaths PerGame 1,07
+NFL Average Infestation Class Class 5

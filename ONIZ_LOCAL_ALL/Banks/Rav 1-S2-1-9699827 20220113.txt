@@ -1,0 +1,23 @@
+Rav HumanWinsNormal 5
+Rav ZombieRank 0
+Rav VespeneHarvested 45220
+Rav HumansRescued 4
+Rav SecurityForcesKilled 441
+Rav ZombiesKilled 8097
+Rav FuelDiverted 15
+Rav HumanRank 0
+Rav NumberOfTimesCaptured 20
+Rav TurretsBuilt 70
+Rav ZombieWins 1
+Rav GamesLeft 0
+Rav GamesPlayedAsHuman 13
+Rav GamesPlayedAsZombie 1
+Rav HumansCaptured 0
+Rav K/D Ratio 404,85
+Rav Average Marine Winrate 38%
+Rav Average Fuel Diverts PerGame 1,15
+Rav Average Vespene Harvested PerGame 3478,46
+Rav Average Zombie Winrate 100%
+Rav Average Security Kills Per Game 441
+Rav Average Deaths PerGame 1,54
+Rav Average Infestation Class Class 5

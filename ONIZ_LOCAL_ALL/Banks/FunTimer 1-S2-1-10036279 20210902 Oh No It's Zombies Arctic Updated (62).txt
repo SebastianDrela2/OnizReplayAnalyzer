@@ -1,0 +1,23 @@
+FunTimer HumanWinsNormal 6
+FunTimer ZombieRank 0
+FunTimer VespeneHarvested 35400
+FunTimer HumansRescued 12
+FunTimer SecurityForcesKilled 0
+FunTimer ZombiesKilled 7922
+FunTimer FuelDiverted 14
+FunTimer HumanRank 3.1667
+FunTimer NumberOfTimesCaptured 30
+FunTimer TurretsBuilt 218
+FunTimer ZombieWins 0
+FunTimer GamesLeft 0
+FunTimer GamesPlayedAsHuman 15
+FunTimer GamesPlayedAsZombie 0
+FunTimer HumansCaptured 0
+FunTimer K/D Ratio 264,07
+FunTimer Average Marine Winrate 40%
+FunTimer Average Fuel Diverts PerGame 0,93
+FunTimer Average Vespene Harvested PerGame 2360
+FunTimer Average Zombie Winrate NaN%
+FunTimer Average Security Kills Per Game NaN
+FunTimer Average Deaths PerGame 2
+FunTimer Average Infestation Class Class 1

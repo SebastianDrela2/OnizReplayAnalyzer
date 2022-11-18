@@ -1,0 +1,25 @@
+Babushka HumanWinsNormal 3
+Babushka LeftLastGameAsZombie 0
+Babushka ZombieRank 0
+Babushka VespeneHarvested 27100
+Babushka HumansRescued 11
+Babushka SecurityForcesKilled 1310
+Babushka ZombiesKilled 5264
+Babushka FuelDiverted 38
+Babushka PlayedRankedMode5.0 1
+Babushka HumanRank 2
+Babushka NumberOfTimesCaptured 19
+Babushka TurretsBuilt 36
+Babushka ZombieWins 1
+Babushka GamesLeft 1
+Babushka GamesPlayedAsHuman 11
+Babushka GamesPlayedAsZombie 4
+Babushka HumansCaptured 23
+Babushka K/D Ratio 277,05
+Babushka Average Marine Winrate 27%
+Babushka Average Fuel Diverts PerGame 3,45
+Babushka Average Vespene Harvested PerGame 2463,64
+Babushka Average Zombie Winrate 25%
+Babushka Average Security Kills Per Game 328
+Babushka Average Deaths PerGame 1,73
+Babushka Average Infestation Class Class 4

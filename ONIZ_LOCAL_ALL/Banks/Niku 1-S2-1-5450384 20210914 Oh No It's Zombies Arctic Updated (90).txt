@@ -1,0 +1,23 @@
+Niku HumanWinsNormal 0
+Niku ZombieRank 0
+Niku VespeneHarvested 5100
+Niku HumansRescued 2
+Niku SecurityForcesKilled 0
+Niku ZombiesKilled 1263
+Niku FuelDiverted 11
+Niku HumanRank 0
+Niku NumberOfTimesCaptured 9
+Niku TurretsBuilt 2
+Niku ZombieWins 0
+Niku GamesLeft 0
+Niku GamesPlayedAsHuman 4
+Niku GamesPlayedAsZombie 0
+Niku HumansCaptured 0
+Niku K/D Ratio 140,33
+Niku Average Marine Winrate 0%
+Niku Average Fuel Diverts PerGame 2,75
+Niku Average Vespene Harvested PerGame 1275
+Niku Average Zombie Winrate NaN%
+Niku Average Security Kills Per Game NaN
+Niku Average Deaths PerGame 2,25
+Niku Average Infestation Class Class 1

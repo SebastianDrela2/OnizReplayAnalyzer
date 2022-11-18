@@ -1,0 +1,23 @@
+GianCarlo HumanWinsNormal 3
+GianCarlo ZombieRank 0
+GianCarlo VespeneHarvested 14400
+GianCarlo HumansRescued 3
+GianCarlo SecurityForcesKilled 0
+GianCarlo ZombiesKilled 4929
+GianCarlo FuelDiverted 2
+GianCarlo HumanRank 0
+GianCarlo NumberOfTimesCaptured 42
+GianCarlo TurretsBuilt 43
+GianCarlo ZombieWins 0
+GianCarlo GamesLeft 6
+GianCarlo GamesPlayedAsHuman 19
+GianCarlo GamesPlayedAsZombie 0
+GianCarlo HumansCaptured 0
+GianCarlo K/D Ratio 117,36
+GianCarlo Average Marine Winrate 16%
+GianCarlo Average Fuel Diverts PerGame 0,11
+GianCarlo Average Vespene Harvested PerGame 757,89
+GianCarlo Average Zombie Winrate NaN%
+GianCarlo Average Security Kills Per Game NaN
+GianCarlo Average Deaths PerGame 2,21
+GianCarlo Average Infestation Class Class 1

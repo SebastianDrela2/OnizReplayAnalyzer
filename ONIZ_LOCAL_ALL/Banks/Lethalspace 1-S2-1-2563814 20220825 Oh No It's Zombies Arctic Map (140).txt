@@ -1,0 +1,24 @@
+Lethalspace HumanWinsNormal 12
+Lethalspace ZombieRank 0
+Lethalspace VespeneHarvested 96860
+Lethalspace HumansRescued 22
+Lethalspace SecurityForcesKilled 4871
+Lethalspace ZombiesKilled 23253
+Lethalspace FuelDiverted 18
+Lethalspace PlayedRankedMode5.0 1
+Lethalspace HumanRank 0
+Lethalspace NumberOfTimesCaptured 70
+Lethalspace TurretsBuilt 322
+Lethalspace ZombieWins 1
+Lethalspace GamesLeft 1
+Lethalspace GamesPlayedAsHuman 40
+Lethalspace GamesPlayedAsZombie 13
+Lethalspace HumansCaptured 99
+Lethalspace K/D Ratio 332,19
+Lethalspace Average Marine Winrate 30%
+Lethalspace Average Fuel Diverts PerGame 0,45
+Lethalspace Average Vespene Harvested PerGame 2421,5
+Lethalspace Average Zombie Winrate 8%
+Lethalspace Average Security Kills Per Game 375
+Lethalspace Average Deaths PerGame 1,75
+Lethalspace Average Infestation Class Class 4

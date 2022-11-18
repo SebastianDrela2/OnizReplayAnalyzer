@@ -1,0 +1,23 @@
+Fourga HumanWinsNormal 0
+Fourga ZombieRank 0
+Fourga VespeneHarvested 600
+Fourga HumansRescued 3
+Fourga SecurityForcesKilled 0
+Fourga ZombiesKilled 257
+Fourga FuelDiverted 6
+Fourga HumanRank 0
+Fourga NumberOfTimesCaptured 2
+Fourga TurretsBuilt 0
+Fourga ZombieWins 0
+Fourga GamesLeft 0
+Fourga GamesPlayedAsHuman 1
+Fourga GamesPlayedAsZombie 0
+Fourga HumansCaptured 0
+Fourga K/D Ratio 128,5
+Fourga Average Marine Winrate 0%
+Fourga Average Fuel Diverts PerGame 6
+Fourga Average Vespene Harvested PerGame 600
+Fourga Average Zombie Winrate NaN%
+Fourga Average Security Kills Per Game NaN
+Fourga Average Deaths PerGame 2
+Fourga Average Infestation Class Class 1

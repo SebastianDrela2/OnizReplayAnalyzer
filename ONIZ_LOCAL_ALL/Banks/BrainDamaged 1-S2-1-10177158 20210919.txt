@@ -1,0 +1,23 @@
+BrainDamaged HumanWinsNormal 12
+BrainDamaged ZombieRank 0
+BrainDamaged VespeneHarvested 54100
+BrainDamaged HumansRescued 28
+BrainDamaged SecurityForcesKilled 0
+BrainDamaged ZombiesKilled 13275
+BrainDamaged FuelDiverted 47
+BrainDamaged HumanRank 3.5
+BrainDamaged NumberOfTimesCaptured 53
+BrainDamaged TurretsBuilt 174
+BrainDamaged ZombieWins 0
+BrainDamaged GamesLeft 26
+BrainDamaged GamesPlayedAsHuman 177
+BrainDamaged GamesPlayedAsZombie 1
+BrainDamaged HumansCaptured 0
+BrainDamaged K/D Ratio 250,47
+BrainDamaged Average Marine Winrate 7,000000000000001%
+BrainDamaged Average Fuel Diverts PerGame 0,27
+BrainDamaged Average Vespene Harvested PerGame 305,65
+BrainDamaged Average Zombie Winrate 0%
+BrainDamaged Average Security Kills Per Game 0
+BrainDamaged Average Deaths PerGame 0,3
+BrainDamaged Average Infestation Class Class 1

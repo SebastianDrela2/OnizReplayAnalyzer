@@ -1,0 +1,23 @@
+gumball HumanWinsNormal 5
+gumball ZombieRank 0
+gumball VespeneHarvested 19200
+gumball HumansRescued 7
+gumball SecurityForcesKilled 0
+gumball ZombiesKilled 4015
+gumball FuelDiverted 0
+gumball HumanRank 0.5
+gumball NumberOfTimesCaptured 46
+gumball TurretsBuilt 60
+gumball ZombieWins 0
+gumball GamesLeft 3
+gumball GamesPlayedAsHuman 21
+gumball GamesPlayedAsZombie 1
+gumball HumansCaptured 0
+gumball K/D Ratio 87,28
+gumball Average Marine Winrate 24%
+gumball Average Fuel Diverts PerGame 0
+gumball Average Vespene Harvested PerGame 914,29
+gumball Average Zombie Winrate 0%
+gumball Average Security Kills Per Game 0
+gumball Average Deaths PerGame 2,19
+gumball Average Infestation Class Class 1

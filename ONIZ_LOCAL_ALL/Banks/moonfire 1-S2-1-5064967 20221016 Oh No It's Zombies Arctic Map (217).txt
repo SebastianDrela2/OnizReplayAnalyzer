@@ -1,0 +1,23 @@
+moonfire HumanWinsNormal 24
+moonfire ZombieRank 5.5002
+moonfire VespeneHarvested 143140
+moonfire HumansRescued 39
+moonfire SecurityForcesKilled 3013
+moonfire ZombiesKilled 31537
+moonfire FuelDiverted 97
+moonfire HumanRank 2.625
+moonfire NumberOfTimesCaptured 61
+moonfire TurretsBuilt 465
+moonfire ZombieWins 2
+moonfire GamesLeft 19
+moonfire GamesPlayedAsHuman 57
+moonfire GamesPlayedAsZombie 8
+moonfire HumansCaptured 89
+moonfire K/D Ratio 517
+moonfire Average Marine Winrate 42%
+moonfire Average Fuel Diverts PerGame 1,7
+moonfire Average Vespene Harvested PerGame 2511,23
+moonfire Average Zombie Winrate 25%
+moonfire Average Security Kills Per Game 377
+moonfire Average Deaths PerGame 1,07
+moonfire Average Infestation Class Class 4

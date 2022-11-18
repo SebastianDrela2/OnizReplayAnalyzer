@@ -1,0 +1,23 @@
+BCman HumanWinsNormal 8
+BCman ZombieRank 0
+BCman VespeneHarvested 48300
+BCman HumansRescued 38
+BCman SecurityForcesKilled 0
+BCman ZombiesKilled 16090
+BCman FuelDiverted 102
+BCman HumanRank 1.5
+BCman NumberOfTimesCaptured 38
+BCman TurretsBuilt 174
+BCman ZombieWins 0
+BCman GamesLeft 0
+BCman GamesPlayedAsHuman 22
+BCman GamesPlayedAsZombie 0
+BCman HumansCaptured 0
+BCman K/D Ratio 423,42
+BCman Average Marine Winrate 36%
+BCman Average Fuel Diverts PerGame 4,64
+BCman Average Vespene Harvested PerGame 2195,45
+BCman Average Zombie Winrate NaN%
+BCman Average Security Kills Per Game NaN
+BCman Average Deaths PerGame 1,73
+BCman Average Infestation Class Class 1

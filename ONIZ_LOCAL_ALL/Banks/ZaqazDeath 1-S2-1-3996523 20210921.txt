@@ -1,0 +1,23 @@
+ZaqazDeath HumanWinsNormal 49
+ZaqazDeath ZombieRank 0
+ZaqazDeath VespeneHarvested 195300
+ZaqazDeath HumansRescued 73
+ZaqazDeath SecurityForcesKilled 184
+ZaqazDeath ZombiesKilled 81402
+ZaqazDeath FuelDiverted 187
+ZaqazDeath HumanRank 10.0834
+ZaqazDeath NumberOfTimesCaptured 204
+ZaqazDeath TurretsBuilt 149
+ZaqazDeath ZombieWins 0
+ZaqazDeath GamesLeft 12
+ZaqazDeath GamesPlayedAsHuman 97
+ZaqazDeath GamesPlayedAsZombie 1
+ZaqazDeath HumansCaptured 1
+ZaqazDeath K/D Ratio 399,03
+ZaqazDeath Average Marine Winrate 51%
+ZaqazDeath Average Fuel Diverts PerGame 1,93
+ZaqazDeath Average Vespene Harvested PerGame 2013,4
+ZaqazDeath Average Zombie Winrate 0%
+ZaqazDeath Average Security Kills Per Game 184
+ZaqazDeath Average Deaths PerGame 2,1
+ZaqazDeath Average Infestation Class Class 3

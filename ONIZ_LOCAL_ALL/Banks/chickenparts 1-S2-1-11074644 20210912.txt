@@ -1,0 +1,23 @@
+chickenparts HumanWinsNormal 195
+chickenparts ZombieRank 1.3334
+chickenparts VespeneHarvested 1331200
+chickenparts HumansRescued 193
+chickenparts SecurityForcesKilled 1698
+chickenparts ZombiesKilled 262286
+chickenparts FuelDiverted 902
+chickenparts HumanRank 20.3837
+chickenparts NumberOfTimesCaptured 401
+chickenparts TurretsBuilt 3524
+chickenparts ZombieWins 1
+chickenparts GamesLeft 57
+chickenparts GamesPlayedAsHuman 397
+chickenparts GamesPlayedAsZombie 7
+chickenparts HumansCaptured 30
+chickenparts K/D Ratio 654,08
+chickenparts Average Marine Winrate 49%
+chickenparts Average Fuel Diverts PerGame 2,27
+chickenparts Average Vespene Harvested PerGame 3353,15
+chickenparts Average Zombie Winrate 14,000000000000002%
+chickenparts Average Security Kills Per Game 243
+chickenparts Average Deaths PerGame 1,01
+chickenparts Average Infestation Class Class 3

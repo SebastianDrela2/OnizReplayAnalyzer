@@ -1,0 +1,21 @@
+HolyOvermind HumanWinsNormal 0
+HolyOvermind VespeneHarvested 1000
+HolyOvermind HumansRescued 0
+HolyOvermind SecurityForcesKilled 0
+HolyOvermind ZombiesKilled 66
+HolyOvermind FuelDiverted 5
+HolyOvermind NumberOfTimesCaptured 1
+HolyOvermind TurretsBuilt 0
+HolyOvermind ZombieWins 0
+HolyOvermind GamesLeft 1
+HolyOvermind GamesPlayedAsHuman 2
+HolyOvermind GamesPlayedAsZombie 0
+HolyOvermind HumansCaptured 0
+HolyOvermind K/D Ratio 66
+HolyOvermind Average Marine Winrate 0%
+HolyOvermind Average Fuel Diverts PerGame 2,5
+HolyOvermind Average Vespene Harvested PerGame 500
+HolyOvermind Average Zombie Winrate NaN%
+HolyOvermind Average Security Kills Per Game NaN
+HolyOvermind Average Deaths PerGame 0,5
+HolyOvermind Average Infestation Class Class 1

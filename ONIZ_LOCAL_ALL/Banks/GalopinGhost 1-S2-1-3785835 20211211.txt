@@ -1,0 +1,25 @@
+GalopinGhost HumanWinsNormal 43
+GalopinGhost LeftLastGameAsZombie 0
+GalopinGhost ZombieRank 0
+GalopinGhost VespeneHarvested 224900
+GalopinGhost HumansRescued 48
+GalopinGhost SecurityForcesKilled 10409
+GalopinGhost ZombiesKilled 39267
+GalopinGhost FuelDiverted 103
+GalopinGhost PlayedRankedMode5.0 1
+GalopinGhost HumanRank 6.35
+GalopinGhost NumberOfTimesCaptured 109
+GalopinGhost TurretsBuilt 354
+GalopinGhost ZombieWins 6
+GalopinGhost GamesLeft 21
+GalopinGhost GamesPlayedAsHuman 86
+GalopinGhost GamesPlayedAsZombie 29
+GalopinGhost HumansCaptured 281
+GalopinGhost K/D Ratio 360,25
+GalopinGhost Average Marine Winrate 50%
+GalopinGhost Average Fuel Diverts PerGame 1,2
+GalopinGhost Average Vespene Harvested PerGame 2615,12
+GalopinGhost Average Zombie Winrate 21%
+GalopinGhost Average Security Kills Per Game 359
+GalopinGhost Average Deaths PerGame 1,27
+GalopinGhost Average Infestation Class Class 4

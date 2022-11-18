@@ -1,0 +1,23 @@
+PrimeSTEMI HumanWinsNormal 40
+PrimeSTEMI ZombieRank 0
+PrimeSTEMI VespeneHarvested 222300
+PrimeSTEMI HumansRescued 19
+PrimeSTEMI SecurityForcesKilled 7095
+PrimeSTEMI ZombiesKilled 30995
+PrimeSTEMI FuelDiverted 182
+PrimeSTEMI HumanRank 15.1667
+PrimeSTEMI NumberOfTimesCaptured 50
+PrimeSTEMI TurretsBuilt 329
+PrimeSTEMI ZombieWins 4
+PrimeSTEMI GamesLeft 7
+PrimeSTEMI GamesPlayedAsHuman 69
+PrimeSTEMI GamesPlayedAsZombie 18
+PrimeSTEMI HumansCaptured 173
+PrimeSTEMI K/D Ratio 619,9
+PrimeSTEMI Average Marine Winrate 57,99999999999999%
+PrimeSTEMI Average Fuel Diverts PerGame 2,64
+PrimeSTEMI Average Vespene Harvested PerGame 3221,74
+PrimeSTEMI Average Zombie Winrate 22%
+PrimeSTEMI Average Security Kills Per Game 394
+PrimeSTEMI Average Deaths PerGame 0,72
+PrimeSTEMI Average Infestation Class Class 4

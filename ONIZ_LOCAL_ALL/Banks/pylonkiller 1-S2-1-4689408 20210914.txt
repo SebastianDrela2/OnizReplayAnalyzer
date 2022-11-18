@@ -1,0 +1,23 @@
+pylonkiller HumanWinsNormal 2
+pylonkiller ZombieRank 0
+pylonkiller VespeneHarvested 3400
+pylonkiller HumansRescued 7
+pylonkiller SecurityForcesKilled 0
+pylonkiller ZombiesKilled 1063
+pylonkiller FuelDiverted 0
+pylonkiller HumanRank 1
+pylonkiller NumberOfTimesCaptured 2
+pylonkiller TurretsBuilt 3
+pylonkiller ZombieWins 0
+pylonkiller GamesLeft 2
+pylonkiller GamesPlayedAsHuman 5
+pylonkiller GamesPlayedAsZombie 0
+pylonkiller HumansCaptured 0
+pylonkiller K/D Ratio 531,5
+pylonkiller Average Marine Winrate 40%
+pylonkiller Average Fuel Diverts PerGame 0
+pylonkiller Average Vespene Harvested PerGame 680
+pylonkiller Average Zombie Winrate NaN%
+pylonkiller Average Security Kills Per Game NaN
+pylonkiller Average Deaths PerGame 0,4
+pylonkiller Average Infestation Class Class 1

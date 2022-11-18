@@ -1,0 +1,24 @@
+AICOB HumanWinsNormal 15
+AICOB ZombieRank 0
+AICOB VespeneHarvested 92800
+AICOB HumansRescued 31
+AICOB SecurityForcesKilled 822
+AICOB ZombiesKilled 21989
+AICOB PlayedRankedMode5.0 1
+AICOB FuelDiverted 58
+AICOB HumanRank 3
+AICOB NumberOfTimesCaptured 58
+AICOB TurretsBuilt 160
+AICOB ZombieWins 1
+AICOB GamesLeft 6
+AICOB GamesPlayedAsHuman 43
+AICOB GamesPlayedAsZombie 2
+AICOB HumansCaptured 15
+AICOB K/D Ratio 379,12
+AICOB Average Marine Winrate 35%
+AICOB Average Fuel Diverts PerGame 1,35
+AICOB Average Vespene Harvested PerGame 2158,14
+AICOB Average Zombie Winrate 50%
+AICOB Average Security Kills Per Game 411
+AICOB Average Deaths PerGame 1,35
+AICOB Average Infestation Class Class 5

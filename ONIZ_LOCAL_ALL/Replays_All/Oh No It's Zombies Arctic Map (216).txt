@@ -1,0 +1,165 @@
+Analyzed: Oh No It's Zombies Arctic Map (216)
+
+ID : 0 PlayerName: Frosky Race: Terran
+ID : 1 PlayerName: Wooky Race: Terran
+ID : 2 PlayerName: Katyusha Race: Terran
+ID : 3 PlayerName: Bread Race: Terran
+ID : 4 PlayerName: csiz Race: Zerg
+ID : 5 PlayerName: dreamer Race: Terran
+ID : 6 PlayerName: Semicedevine Race: Terran
+ID : 7 PlayerName: Security Race: Terran Horner
+csiz Zombie Win
+Private Lobby
+
+Game Length:[18:607]
+Players ammount: 8
+Marine rank avg: 17,5
+GrandMaster ammount: 4
+PURCHASES: 
+[00:572] Frosky Unlocked AssaultRifle
+[02:182] Frosky Unlocked AdvancedDroidEngines
+[02:228] Frosky Placed/Upgraded MiningDroid
+[07:253] Frosky Unlocked TurboDroidEngines
+[09:471] Frosky Unlocked AutoTurret
+[09:485] Frosky Unlocked FlameTurret
+[09:710] Frosky Placed/Upgraded AutoTurret
+[10:663] Frosky Placed/Upgraded AutoTurret
+[14:730] Frosky Placed/Upgraded MiningDroid
+[16:759] Frosky Unlocked Flamethrower
+[17:605] Frosky Unlocked HeavyTurret
+[00:572] Wooky Unlocked AssaultRifle
+[01:128] Wooky Placed/Upgraded MiningDroid
+[01:301] Wooky Unlocked AdvancedDroidEngines
+[01:341] Wooky Unlocked FragGrenade
+[07:270] Wooky Unlocked SpecOpsAssaultRifle
+[07:285] Wooky Unlocked AutoTargetingSystem
+[10:624] Wooky Unlocked Shieldsiotunlocked
+[10:659] Wooky Unlocked Stimpack
+[12:231] Wooky Unlocked MiningCharge
+[12:259] Wooky Unlocked SpecOpsFragGrenade
+[13:084] Wooky Placed/Upgraded NukePack
+[13:612] Wooky Placed/Upgraded NukePack
+[00:572] Katyusha Unlocked AssaultRifle
+[00:651] Katyusha Placed/Upgraded MiningDroid
+[00:716] Katyusha Unlocked IncendiaryGrenade
+[04:888] Katyusha Unlocked SpecOpsAssaultRifle
+[04:918] Katyusha Unlocked AutoTargetingSystem
+[06:388] Katyusha Unlocked OverloadWeapon
+[09:927] Katyusha Unlocked AdvancedDroidEngines
+[10:625] Katyusha Bought ShieldSuit
+[10:625] Katyusha Bought CombatSuit
+[10:625] Katyusha Bought HazmatSuit
+[10:625] Katyusha Bought ShieldSuit
+[10:952] Katyusha Unlocked BioMechanicalRepairDrone
+[11:019] Katyusha Placed/Upgraded HealingDrone
+[11:024] Katyusha Unlocked ExplorationDroid
+[12:605] Katyusha Unlocked PowerConverter
+[13:113] Katyusha Unlocked CombatSuit
+[13:230] Katyusha Placed/Upgraded ExplorationDroid
+[13:283] Katyusha Placed/Upgraded ExplorationDroid
+[14:351] Katyusha Placed/Upgraded ExplorationDroid
+[15:285] Katyusha Unlocked HazmatSuit
+[00:572] Bread Unlocked AssaultRifle
+[00:651] Bread Placed MiningDroid
+[00:833] Bread Unlocked ArcWelder
+[01:563] Bread Unlocked BioMechanicalRepairDrone
+[01:580] Bread Unlocked CombatAccelerationDrone
+[02:614] Bread Placed HealingDrone
+[02:752] Bread Placed HealingDrone
+[02:886] Bread Placed HealingDrone
+[03:456] Bread Unlocked MotionSensor
+[03:908] Bread Placed SensorTower
+[04:730] Bread Placed SensorTower
+[09:229] Bread Unlocked AdvancedDroidEngines
+[09:238] Bread Unlocked TurboDroidEngines
+[09:294] Bread Unlocked PsiDisrupter
+[09:311] Bread Unlocked SpecOpsPsiDisruptor
+[09:968] Bread Placed PsiIndoctrinator
+[10:754] Bread Placed PsiIndoctrinator
+[11:472] Bread Placed PsiIndoctrinator
+[12:196] Bread Placed PsiIndoctrinator
+[12:664] Bread Unlocked RechargeDrone
+[12:940] Bread Placed HealingDrone
+[13:088] Bread Placed HealingDrone
+[13:114] Bread Bought ShieldSuit
+[13:114] Bread Bought CombatSuit
+[13:114] Bread Bought HazmatSuit
+[13:114] Bread Bought CombatSuit
+[13:293] Bread Placed HealingDrone
+[15:286] Bread Bought ShieldSuit
+[15:286] Bread Bought CombatSuit
+[15:286] Bread Bought HazmatSuit
+[15:286] Bread Bought HazmatSuit
+[16:405] Bread Unlocked AutoTurret
+[00:568] csiz Bought PlayerNumber
+[00:818] csiz Spawned MassiveCocoon
+[01:898] csiz Spawned Underseer
+[02:240] csiz Spawned MassiveCocoon
+[03:342] csiz Placed/Upgraded PrimalSunkenColony
+[03:343] csiz Bought SunkenColony
+[03:653] csiz Placed/Upgraded LocustNest
+[03:680] csiz Spawned InfestedAbomination
+[06:609] csiz Placed/Upgraded LesserNydusWorm
+[06:610] csiz Bought GreaterNydus
+[07:772] csiz Bought GreaterNydus
+[07:879] csiz Bought BuildExtractorScienceLabs
+[07:879] csiz Placed/Upgraded AutomatedExtractor
+[08:597] csiz Placed/Upgraded Virophage
+[09:539] csiz Placed/Upgraded LocustNest
+[10:795] csiz Bought UnlockDropPods
+[10:952] csiz Bought EvolveDropPods
+[11:136] csiz Bought SunkenColony
+[11:306] csiz Bought EvolveDropPods
+[11:365] csiz Bought EvolveDropPods
+[11:823] csiz Placed/Upgraded NydusCanalCreeper
+[12:698] csiz Bought AdvancedInfestationContainment
+[14:473] csiz Bought EvolveDropPods
+[14:476] csiz Bought EvolveDropPods
+[14:480] csiz Bought EvolveDropPods
+[15:190] csiz Bought VirulentCreep
+[15:190] csiz Bought VirulentCreep
+[15:849] csiz Bought SiphonFuel
+[16:350] csiz Bought StrainSpeed
+[16:375] csiz Bought BuildExtractorScienceLabs
+[17:248] csiz Bought PureStrainSpeed
+[18:224] csiz Placed/Upgraded Virophage
+[00:572] dreamer Unlocked AssaultRifle
+[00:739] dreamer Placed/Upgraded MiningDroid
+[00:798] dreamer Unlocked AdvancedDroidEngines
+[02:737] dreamer Unlocked Stimpack
+[04:004] dreamer Unlocked FragGrenade
+[05:238] dreamer Unlocked AIAssistant
+[05:277] dreamer Unlocked SpecOpsFragGrenade
+[06:835] dreamer Unlocked BeamRifle
+[08:261] dreamer Unlocked SpecOpsPlasmaRifle
+[09:503] dreamer Unlocked EnergySuit
+[09:504] dreamer Unlocked EnergySuit
+[09:526] dreamer Unlocked AdvancedEnergySuit
+[09:527] dreamer Unlocked EnergySuit
+[09:527] dreamer Unlocked AdvancedEnergySuit
+[10:549] dreamer Unlocked QuantumBackpack
+[14:345] dreamer Unlocked MedicShield
+[14:529] dreamer Unlocked PlasmaRifleMod3
+[15:962] dreamer Unlocked AutoTurret
+[16:084] dreamer Placed/Upgraded AutoTurret
+[16:848] dreamer Unlocked HeavyTurret
+[00:572] Semicedevine Unlocked AssaultRifle
+[00:916] Semicedevine Unlocked OverloadWeapon
+[04:302] Semicedevine Unlocked SpecOpsAssaultRifle
+[07:656] Semicedevine Unlocked CombatSuit
+[07:662] Semicedevine Unlocked AdvancedCombatSuit
+[09:504] Semicedevine Bought ShieldSuit
+[09:504] Semicedevine Bought CombatSuit
+[09:504] Semicedevine Bought HazmatSuit
+[09:860] Semicedevine Unlocked AdvancedDroidEngines
+[12:780] Semicedevine Unlocked TurboDroidEngines
+[13:853] Semicedevine Unlocked BioMechanicalRepairDrone
+[07:657] Security Bought ShieldSuit
+[07:657] Security Bought CombatSuit
+[07:657] Security Bought HazmatSuit
+[07:657] Security Bought CombatSuit
+[07:663] Security Bought CombatSuit
+csiz First Alpha Underseer |  Win
+
+csiz Placed 0 Greaters.
+--------------------------------

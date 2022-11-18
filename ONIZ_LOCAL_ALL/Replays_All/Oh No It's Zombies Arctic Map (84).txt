@@ -1,0 +1,22 @@
+Analyzed: Oh No It's Zombies Arctic Map (84)
+
+ID : 0 PlayerName: Frosky Race: Zerg
+ID : 7 PlayerName: Security Race: Terran Mengsk
+Frosky Zombie Win
+Public Lobby
+
+Game Length:[12:297]
+Players ammount: 2
+Marine rank avg: 0,5
+GrandMaster ammount: 1
+PURCHASES: 
+[01:295] Frosky Bought StrainSpeed
+[01:305] Frosky Bought PureStrainSpeed
+[01:886] Frosky Bought HunterlingStrain
+[04:234] Frosky Placed/Upgraded Virophage
+[05:361] Frosky Bought ConstructiveCreep
+[06:379] Frosky Bought ConstructiveCreep
+[08:295] Frosky Bought StrainHealth
+
+Frosky Placed 0 Greaters.
+--------------------------------

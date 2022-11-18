@@ -1,0 +1,23 @@
+Gura HumanWinsNormal 65
+Gura ZombieRank 13.165
+Gura VespeneHarvested 408920
+Gura HumansRescued 85
+Gura SecurityForcesKilled 22889
+Gura ZombiesKilled 78524
+Gura FuelDiverted 192
+Gura HumanRank 11.7084
+Gura NumberOfTimesCaptured 136
+Gura TurretsBuilt 244
+Gura ZombieWins 39
+Gura GamesLeft 10
+Gura GamesPlayedAsHuman 129
+Gura GamesPlayedAsZombie 49
+Gura HumansCaptured 329
+Gura K/D Ratio 577,38
+Gura Average Marine Winrate 50%
+Gura Average Fuel Diverts PerGame 1,49
+Gura Average Vespene Harvested PerGame 3169,92
+Gura Average Zombie Winrate 80%
+Gura Average Security Kills Per Game 467
+Gura Average Deaths PerGame 1,05
+Gura Average Infestation Class Class 5

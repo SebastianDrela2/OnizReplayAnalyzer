@@ -1,0 +1,24 @@
+Kian HumanWinsNormal 69
+Kian ZombieRank 5.6647
+Kian VespeneHarvested 437300
+Kian HumansRescued 66
+Kian SecurityForcesKilled 31537
+Kian ZombiesKilled 54254
+Kian FuelDiverted 116
+Kian PlayedRankedMode5.0 1
+Kian HumanRank 20.85
+Kian NumberOfTimesCaptured 206
+Kian TurretsBuilt 496
+Kian ZombieWins 21
+Kian GamesLeft 0
+Kian GamesPlayedAsHuman 143
+Kian GamesPlayedAsZombie 66
+Kian HumansCaptured 612
+Kian K/D Ratio 263,37
+Kian Average Marine Winrate 48%
+Kian Average Fuel Diverts PerGame 0,81
+Kian Average Vespene Harvested PerGame 3058,04
+Kian Average Zombie Winrate 32%
+Kian Average Security Kills Per Game 478
+Kian Average Deaths PerGame 1,44
+Kian Average Infestation Class Class 5

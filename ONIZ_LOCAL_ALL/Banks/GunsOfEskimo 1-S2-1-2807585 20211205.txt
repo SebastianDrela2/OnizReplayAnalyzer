@@ -1,0 +1,23 @@
+GunsOfEskimo HumanWinsNormal 47
+GunsOfEskimo ZombieRank 0
+GunsOfEskimo VespeneHarvested 245100
+GunsOfEskimo HumansRescued 54
+GunsOfEskimo SecurityForcesKilled 0
+GunsOfEskimo ZombiesKilled 55625
+GunsOfEskimo FuelDiverted 206
+GunsOfEskimo HumanRank 7.75
+GunsOfEskimo NumberOfTimesCaptured 237
+GunsOfEskimo TurretsBuilt 443
+GunsOfEskimo ZombieWins 0
+GunsOfEskimo GamesLeft 10
+GunsOfEskimo GamesPlayedAsHuman 105
+GunsOfEskimo GamesPlayedAsZombie 1
+GunsOfEskimo HumansCaptured 1
+GunsOfEskimo K/D Ratio 234,7
+GunsOfEskimo Average Marine Winrate 45%
+GunsOfEskimo Average Fuel Diverts PerGame 1,96
+GunsOfEskimo Average Vespene Harvested PerGame 2334,29
+GunsOfEskimo Average Zombie Winrate 0%
+GunsOfEskimo Average Security Kills Per Game 0
+GunsOfEskimo Average Deaths PerGame 2,26
+GunsOfEskimo Average Infestation Class Class 1

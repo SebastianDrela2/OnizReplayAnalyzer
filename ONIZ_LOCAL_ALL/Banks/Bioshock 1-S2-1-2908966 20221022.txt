@@ -1,0 +1,23 @@
+Bioshock HumanWinsNormal 16
+Bioshock ZombieRank 0
+Bioshock VespeneHarvested 80620
+Bioshock HumansRescued 46
+Bioshock SecurityForcesKilled 8853
+Bioshock ZombiesKilled 28015
+Bioshock FuelDiverted 48
+Bioshock HumanRank 0
+Bioshock NumberOfTimesCaptured 155
+Bioshock TurretsBuilt 159
+Bioshock ZombieWins 1
+Bioshock GamesLeft 10
+Bioshock GamesPlayedAsHuman 65
+Bioshock GamesPlayedAsZombie 22
+Bioshock HumansCaptured 147
+Bioshock K/D Ratio 180,74
+Bioshock Average Marine Winrate 25%
+Bioshock Average Fuel Diverts PerGame 0,74
+Bioshock Average Vespene Harvested PerGame 1240,31
+Bioshock Average Zombie Winrate 5%
+Bioshock Average Security Kills Per Game 402
+Bioshock Average Deaths PerGame 2,38
+Bioshock Average Infestation Class Class 4

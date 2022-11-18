@@ -1,0 +1,24 @@
+bananaman HumanWinsNormal 1
+bananaman ZombieRank 0
+bananaman VespeneHarvested 1800
+bananaman HumansRescued 0
+bananaman SecurityForcesKilled 0
+bananaman ZombiesKilled 272
+bananaman FuelDiverted 1
+bananaman PlayedRankedMode5.0 1
+bananaman HumanRank 1
+bananaman NumberOfTimesCaptured 2
+bananaman TurretsBuilt 10
+bananaman ZombieWins 0
+bananaman GamesLeft 0
+bananaman GamesPlayedAsHuman 1
+bananaman GamesPlayedAsZombie 0
+bananaman HumansCaptured 0
+traps K/D Ratio 136
+traps Average Marine Winrate 100%
+traps Average Fuel Diverts PerGame 1
+traps Average Vespene Harvested PerGame 1800
+traps Average Zombie Winrate NaN%
+traps Average Security Kills Per Game NaN
+traps Average Deaths PerGame 2
+traps Average Infestation Class Class 1

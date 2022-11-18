@@ -1,0 +1,23 @@
+ZAGARA HumanWinsNormal 12
+ZAGARA ZombieRank 0
+ZAGARA VespeneHarvested 70600
+ZAGARA HumansRescued 31
+ZAGARA SecurityForcesKilled 9029
+ZAGARA ZombiesKilled 12334
+ZAGARA FuelDiverted 85
+ZAGARA HumanRank 2.5
+ZAGARA NumberOfTimesCaptured 120
+ZAGARA TurretsBuilt 163
+ZAGARA ZombieWins 6
+ZAGARA GamesLeft 5
+ZAGARA GamesPlayedAsHuman 42
+ZAGARA GamesPlayedAsZombie 28
+ZAGARA HumansCaptured 139
+Alcoólatra K/D Ratio 102,78
+Alcoólatra Average Marine Winrate 28,999999999999996%
+Alcoólatra Average Fuel Diverts PerGame 2,02
+Alcoólatra Average Vespene Harvested PerGame 1680,95
+Alcoólatra Average Zombie Winrate 21%
+Alcoólatra Average Security Kills Per Game 322
+Alcoólatra Average Deaths PerGame 2,86
+Alcoólatra Average Infestation Class Class 4

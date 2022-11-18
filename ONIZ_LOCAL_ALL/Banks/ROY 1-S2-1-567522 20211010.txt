@@ -1,0 +1,24 @@
+ROY HumanWinsNormal 435
+ROY ZombieRank 0.4997
+ROY VespeneHarvested 2848400
+ROY HumansRescued 826
+ROY SecurityForcesKilled 5441
+ROY ZombiesKilled 608047
+ROY FuelDiverted 1961
+ROY PlayedRankedMode5.0 1
+ROY HumanRank 13.3334
+ROY NumberOfTimesCaptured 1849
+ROY TurretsBuilt 3050
+ROY ZombieWins 4
+ROY GamesLeft 37
+ROY GamesPlayedAsHuman 1046
+ROY GamesPlayedAsZombie 21
+ROY HumansCaptured 99
+ROY K/D Ratio 328,85
+ROY Average Marine Winrate 42%
+ROY Average Fuel Diverts PerGame 1,87
+ROY Average Vespene Harvested PerGame 2723,14
+ROY Average Zombie Winrate 19%
+ROY Average Security Kills Per Game 259
+ROY Average Deaths PerGame 1,77
+ROY Average Infestation Class Class 3

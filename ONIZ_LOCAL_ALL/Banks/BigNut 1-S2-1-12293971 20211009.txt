@@ -1,0 +1,23 @@
+BigNut HumanWinsNormal 8
+BigNut ZombieRank 0
+BigNut VespeneHarvested 57700
+BigNut HumansRescued 13
+BigNut SecurityForcesKilled 2506
+BigNut ZombiesKilled 15046
+BigNut FuelDiverted 40
+BigNut HumanRank 5.5
+BigNut NumberOfTimesCaptured 24
+BigNut TurretsBuilt 103
+BigNut ZombieWins 4
+BigNut GamesLeft 0
+BigNut GamesPlayedAsHuman 18
+BigNut GamesPlayedAsZombie 5
+BigNut HumansCaptured 71
+BigNut K/D Ratio 626,92
+BigNut Average Marine Winrate 44%
+BigNut Average Fuel Diverts PerGame 2,22
+BigNut Average Vespene Harvested PerGame 3205,56
+BigNut Average Zombie Winrate 80%
+BigNut Average Security Kills Per Game 501
+BigNut Average Deaths PerGame 1,33
+BigNut Average Infestation Class Class 5

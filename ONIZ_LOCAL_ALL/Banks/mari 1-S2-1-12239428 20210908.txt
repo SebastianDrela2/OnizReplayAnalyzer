@@ -1,0 +1,23 @@
+mari HumanWinsNormal 37
+mari ZombieRank 13.333
+mari VespeneHarvested 122500
+mari HumansRescued 61
+mari SecurityForcesKilled 7330
+mari ZombiesKilled 54884
+mari FuelDiverted 79
+mari HumanRank 25.417
+mari NumberOfTimesCaptured 72
+mari TurretsBuilt 150
+mari ZombieWins 11
+mari GamesLeft 3
+mari GamesPlayedAsHuman 58
+mari GamesPlayedAsZombie 17
+mari HumansCaptured 214
+mari K/D Ratio 762,28
+mari Average Marine Winrate 64%
+mari Average Fuel Diverts PerGame 1,36
+mari Average Vespene Harvested PerGame 2112,07
+mari Average Zombie Winrate 65%
+mari Average Security Kills Per Game 431
+mari Average Deaths PerGame 1,24
+mari Average Infestation Class Class 5

@@ -1,0 +1,23 @@
+Semicedevine HumanWinsNormal 218
+Semicedevine ZombieRank 13.999
+Semicedevine VespeneHarvested 1345140
+Semicedevine HumansRescued 192
+Semicedevine SecurityForcesKilled 66088
+Semicedevine ZombiesKilled 298055
+Semicedevine FuelDiverted 1146
+Semicedevine HumanRank 17.6752
+Semicedevine NumberOfTimesCaptured 836
+Semicedevine TurretsBuilt 2576
+Semicedevine ZombieWins 77
+Semicedevine GamesLeft 33
+Semicedevine GamesPlayedAsHuman 503
+Semicedevine GamesPlayedAsZombie 171
+Semicedevine HumansCaptured 1009
+Semicedevine K/D Ratio 356,53
+Semicedevine Average Marine Winrate 43%
+Semicedevine Average Fuel Diverts PerGame 2,28
+Semicedevine Average Vespene Harvested PerGame 2674,23
+Semicedevine Average Zombie Winrate 45%
+Semicedevine Average Security Kills Per Game 386
+Semicedevine Average Deaths PerGame 1,66
+Semicedevine Average Infestation Class Class 4

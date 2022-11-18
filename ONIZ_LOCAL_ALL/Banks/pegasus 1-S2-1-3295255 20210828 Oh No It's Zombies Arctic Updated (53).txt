@@ -1,0 +1,23 @@
+pegasus HumanWinsNormal 65
+pegasus ZombieRank 10.4997
+pegasus VespeneHarvested 339100
+pegasus HumansRescued 101
+pegasus SecurityForcesKilled 7360
+pegasus ZombiesKilled 81367
+pegasus FuelDiverted 305
+pegasus HumanRank 3
+pegasus NumberOfTimesCaptured 190
+pegasus TurretsBuilt 536
+pegasus ZombieWins 12
+pegasus GamesLeft 18
+pegasus GamesPlayedAsHuman 134
+pegasus GamesPlayedAsZombie 22
+pegasus HumansCaptured 166
+pegasus K/D Ratio 428,25
+pegasus Average Marine Winrate 49%
+pegasus Average Fuel Diverts PerGame 2,28
+pegasus Average Vespene Harvested PerGame 2530,6
+pegasus Average Zombie Winrate 55,00000000000001%
+pegasus Average Security Kills Per Game 335
+pegasus Average Deaths PerGame 1,42
+pegasus Average Infestation Class Class 4

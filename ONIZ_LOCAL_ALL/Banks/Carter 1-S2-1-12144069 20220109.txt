@@ -1,0 +1,23 @@
+Carter HumanWinsNormal 0
+Carter ZombieRank 0
+Carter VespeneHarvested 0
+Carter HumansRescued 0
+Carter SecurityForcesKilled 0
+Carter ZombiesKilled 0
+Carter FuelDiverted 0
+Carter HumanRank 0
+Carter NumberOfTimesCaptured 0
+Carter TurretsBuilt 0
+Carter ZombieWins 0
+Carter GamesLeft 0
+Carter GamesPlayedAsHuman 0
+Carter GamesPlayedAsZombie 0
+Carter HumansCaptured 0
+Carter K/D Ratio NaN
+Carter Average Marine Winrate NaN%
+Carter Average Fuel Diverts PerGame NaN
+Carter Average Vespene Harvested PerGame NaN
+Carter Average Zombie Winrate NaN%
+Carter Average Security Kills Per Game NaN
+Carter Average Deaths PerGame NaN
+Carter Average Infestation Class Class 1

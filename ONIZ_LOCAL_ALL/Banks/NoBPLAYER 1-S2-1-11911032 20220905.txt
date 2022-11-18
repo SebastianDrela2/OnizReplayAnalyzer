@@ -1,0 +1,23 @@
+NoBPLAYER HumanWinsNormal 34
+NoBPLAYER ZombieRank 0
+NoBPLAYER VespeneHarvested 198980
+NoBPLAYER HumansRescued 39
+NoBPLAYER SecurityForcesKilled 15553
+NoBPLAYER ZombiesKilled 37935
+NoBPLAYER FuelDiverted 104
+NoBPLAYER HumanRank 1
+NoBPLAYER NumberOfTimesCaptured 194
+NoBPLAYER TurretsBuilt 693
+NoBPLAYER ZombieWins 30
+NoBPLAYER GamesLeft 9
+NoBPLAYER GamesPlayedAsHuman 91
+NoBPLAYER GamesPlayedAsZombie 40
+NoBPLAYER HumansCaptured 19
+NoBPLAYER K/D Ratio 195,54
+NoBPLAYER Average Marine Winrate 37%
+NoBPLAYER Average Fuel Diverts PerGame 1,14
+NoBPLAYER Average Vespene Harvested PerGame 2186,59
+NoBPLAYER Average Zombie Winrate 75%
+NoBPLAYER Average Security Kills Per Game 389
+NoBPLAYER Average Deaths PerGame 2,13
+NoBPLAYER Average Infestation Class Class 4

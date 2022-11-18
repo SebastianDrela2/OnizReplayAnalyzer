@@ -1,0 +1,183 @@
+Analyzed: Oh No It's Zombies Arctic Updated (470)
+
+ID : 0 PlayerName: dreamer Race: Terran
+ID : 1 PlayerName: King Race: Terran
+ID : 2 PlayerName: Frosky Race: Zerg
+ID : 3 PlayerName: RammusSaidOK Race: Terran
+ID : 4 PlayerName: Hellfire Race: Terran
+ID : 5 PlayerName: Marth Race: Terran
+ID : 6 PlayerName: Zero Race: Terran
+ID : 7 PlayerName: Security Race: Terran
+Frosky Zombie Win
+Public Lobby
+
+Game Length:[28:445]
+Players ammount: 8
+Marine rank avg: 7,833333333333333
+GrandMaster ammount: 1
+PURCHASES: 
+[00:588] dreamer Unlocked AssaultRifle
+[00:945] dreamer Placed/Upgraded MiningDroid
+[01:158] dreamer Unlocked BeamRifle
+[04:144] dreamer Unlocked Stimpack
+[04:270] dreamer Unlocked MedicShield
+[08:101] dreamer Unlocked SpecOpsPlasmaRifle
+[08:153] dreamer Unlocked LongRangeScope
+[13:667] dreamer Unlocked SuperStimpack
+[13:682] dreamer Unlocked SpecOpsSuperStimpack
+[13:811] dreamer Unlocked Shieldsiotunlocked
+[24:358] dreamer Unlocked AutoTurret
+[24:391] dreamer Unlocked HeavyTurret
+[25:728] dreamer Unlocked EnergyPack
+[25:754] dreamer Unlocked AIAssistant
+[25:864] dreamer Unlocked FragGrenade
+[25:881] dreamer Unlocked SpecOpsFragGrenade
+[27:577] dreamer Unlocked MiningCharge
+[00:588] King Unlocked AssaultRifle
+[00:679] King Placed MiningDroid
+[00:817] King Unlocked OverloadWeapon
+[04:249] King Unlocked AdvancedDroidEngines
+[04:930] King Unlocked ExplorationDroid
+[05:048] King Placed ExplorationDroid
+[05:061] King Placed ExplorationDroid
+[05:159] King Placed ExplorationDroid
+[07:929] King Unlocked SpecOpsAssaultRifle
+[09:403] King Unlocked TitaniumBulletCasings
+[13:314] King Unlocked AutoTurret
+[13:335] King Unlocked HeavyTurret
+[13:417] King Unlocked EnergySuit
+[13:418] King Unlocked EnergySuit
+[13:812] King Bought ShieldSuit
+[13:812] King Bought CombatSuit
+[13:812] King Bought HazmatSuit
+[13:812] King Bought ShieldSuit
+[14:740] King Placed MiningDroid
+[16:820] King Placed AutoTurret
+[17:693] King Unlocked CombatShield
+[17:919] King Unlocked CloakingDevice
+[18:501] King Placed AutoTurret
+[20:706] King Unlocked SpecOpsCloakingDevice
+[21:767] King Placed AutoTurret
+[23:940] King Unlocked AdvancedEnergySuit
+[23:941] King Unlocked EnergySuit
+[23:941] King Unlocked AdvancedEnergySuit
+[26:650] King Unlocked MiningCharge
+[00:552] Frosky Bought PlayerNumber
+[01:398] Frosky Spawned MassiveCocoon
+[02:838] Frosky Spawned Hunter
+[03:921] Frosky Spawned MassiveCocoon
+[05:361] Frosky Spawned Hunter
+[05:826] Frosky Bought CreepSpeed
+[07:182] Frosky Bought VirulentCreep
+[07:182] Frosky Bought VirulentCreep
+[08:534] Frosky Bought BuildExtractorScienceLabs
+[08:534] Frosky Placed/Upgraded AutomatedExtractor
+[08:714] Frosky Bought AdvancedInfestationContainment
+[10:357] Frosky Bought BuildExtractorScienceLabs
+[10:537] Frosky Bought BuildExtractorExcavationZone
+[10:537] Frosky Placed/Upgraded AutomatedExtractor
+[11:179] Frosky Spawned MassiveCocoon
+[12:619] Frosky Spawned Anubalisk
+[13:418] Frosky Bought ShieldSuit
+[13:418] Frosky Bought CombatSuit
+[13:418] Frosky Bought HazmatSuit
+[13:847] Frosky Bought UnlockDropPods
+[14:545] Frosky Bought EvolveDropPods
+[14:549] Frosky Bought EvolveDropPods
+[15:270] Frosky Placed/Upgraded Virophage
+[16:028] Frosky Spawned MassiveCocoon
+[16:281] Frosky Bought EvolveDropPods
+[17:155] Frosky Placed/Upgraded ToxicNest
+[17:160] Frosky Placed/Upgraded ToxicNest
+[17:277] Frosky Placed/Upgraded NydusCanalCreeper
+[17:468] Frosky Spawned Anubalisk
+[17:545] Frosky Placed/Upgraded ToxicNest
+[17:749] Frosky Bought BuildExtractorManufacturingSector
+[17:749] Frosky Placed/Upgraded AutomatedExtractor
+[18:859] Frosky Bought BuildExtractorScienceLabs
+[18:859] Frosky Placed/Upgraded AutomatedExtractor
+[19:213] Frosky Bought SiphonFuel
+[20:959] Frosky Bought CreepSpeed
+[21:325] Frosky Placed/Upgraded Virophage
+[22:404] Frosky Placed/Upgraded Virophage
+[22:940] Frosky Bought SiphonFuel
+[23:404] Frosky Spawned MassiveCocoon
+[24:104] Frosky Spawned MassiveCocoon
+[24:844] Frosky Spawned Anubalisk
+[25:179] Frosky Bought EvolveDropPods
+[25:182] Frosky Bought EvolveDropPods
+[25:184] Frosky Spawned Underseer
+[25:185] Frosky Bought EvolveDropPods
+[25:281] Frosky Placed/Upgraded PrimalSunkenColony
+[25:282] Frosky Bought SunkenColony
+[25:974] Frosky Bought SiphonFuel
+[26:649] Frosky Bought StrainSpeed
+[26:652] Frosky Bought StrainSpeed
+[27:368] Frosky Bought DropshipsFueled
+[00:588] RammusSaidOK Unlocked AssaultRifle
+[00:667] RammusSaidOK Placed/Upgraded MiningDroid
+[00:850] RammusSaidOK Unlocked AdvancedDroidEngines
+[03:135] RammusSaidOK Unlocked TurboDroidEngines
+[06:172] RammusSaidOK Unlocked HellfireRocketLauncher
+[06:189] RammusSaidOK Unlocked SpecOpsHellfireRocketLauncher
+[07:977] RammusSaidOK Unlocked ShockwaveMissiles
+[08:092] RammusSaidOK Unlocked CombatSuit
+[11:976] RammusSaidOK Unlocked OverloadWeapon
+[13:821] RammusSaidOK Unlocked AdvancedCombatSuit
+[17:929] RammusSaidOK Unlocked Teleporter
+[23:667] RammusSaidOK Unlocked MiningCharge
+[23:732] RammusSaidOK Unlocked AdvancedMiningCharge
+[25:979] RammusSaidOK Placed/Upgraded NukePack
+[27:482] RammusSaidOK Placed/Upgraded NukePack
+[00:588] Hellfire Unlocked AssaultRifle
+[00:775] Hellfire Placed/Upgraded MiningDroid
+[02:542] Hellfire Unlocked BeamRifle
+[04:807] Hellfire Unlocked AdvancedDroidEngines
+[07:162] Hellfire Unlocked Stimpack
+[08:093] Hellfire Bought ShieldSuit
+[08:093] Hellfire Bought CombatSuit
+[08:093] Hellfire Bought HazmatSuit
+[08:093] Hellfire Bought CombatSuit
+[08:112] Hellfire Unlocked HazmatSuit
+[09:568] Hellfire Unlocked AdvancedHazmatSuit
+[11:009] Hellfire Placed/Upgraded MiningDroid
+[13:822] Hellfire Bought CombatSuit
+[16:100] Hellfire Unlocked PsiDisrupter
+[16:411] Hellfire Placed/Upgraded PsiIndoctrinator
+[00:588] Marth Unlocked AssaultRifle
+[00:819] Marth Unlocked Shotgun
+[05:771] Marth Placed/Upgraded MiningDroid
+[08:113] Marth Bought ShieldSuit
+[08:113] Marth Bought CombatSuit
+[08:113] Marth Bought HazmatSuit
+[08:113] Marth Bought HazmatSuit
+[09:569] Marth Bought HazmatSuit
+[09:573] Marth Unlocked SpecOpsShotgun
+[15:967] Marth Unlocked IncendiaryBullets
+[16:999] Marth Unlocked CombatSuit
+[21:463] Marth Unlocked MiningCharge
+[24:892] Marth Unlocked AdvancedMiningCharge
+[27:133] Marth Placed/Upgraded NukePack
+[27:591] Marth Placed/Upgraded NukePack
+[00:588] Zero Unlocked AssaultRifle
+[01:032] Zero Unlocked AdvancedDroidEngines
+[03:722] Zero Unlocked BeamRifle
+[04:784] Zero Unlocked SpecOpsPlasmaRifle
+[07:279] Zero Unlocked CorrosivePlasma
+[07:646] Zero Unlocked CombatSuit
+[09:851] Zero Unlocked AdvancedCombatSuit
+[11:157] Zero Unlocked PsiDisrupter
+[12:510] Zero Unlocked BioMechanicalRepairDrone
+[17:000] Zero Bought ShieldSuit
+[17:000] Zero Bought CombatSuit
+[17:000] Zero Bought HazmatSuit
+[17:000] Zero Bought CombatSuit
+[07:647] Security Bought ShieldSuit
+[07:647] Security Bought CombatSuit
+[07:647] Security Bought HazmatSuit
+[07:647] Security Bought CombatSuit
+[09:852] Security Bought CombatSuit
+Frosky First Alpha Hunter |  Win
+
+Frosky Placed 0 Greaters.
+--------------------------------

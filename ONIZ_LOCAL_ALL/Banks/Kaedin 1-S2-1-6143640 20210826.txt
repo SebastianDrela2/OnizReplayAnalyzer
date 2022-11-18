@@ -1,0 +1,23 @@
+Kaedin HumanWinsNormal 47
+Kaedin ZombieRank 0
+Kaedin VespeneHarvested 372300
+Kaedin HumansRescued 54
+Kaedin SecurityForcesKilled 1527
+Kaedin ZombiesKilled 46926
+Kaedin FuelDiverted 379
+Kaedin HumanRank 9.5834
+Kaedin NumberOfTimesCaptured 108
+Kaedin TurretsBuilt 1011
+Kaedin ZombieWins 3
+Kaedin GamesLeft 5
+Kaedin GamesPlayedAsHuman 94
+Kaedin GamesPlayedAsZombie 4
+Kaedin HumansCaptured 47
+Kaedin K/D Ratio 434,5
+Kaedin Average Marine Winrate 50%
+Kaedin Average Fuel Diverts PerGame 4,03
+Kaedin Average Vespene Harvested PerGame 3960,64
+Kaedin Average Zombie Winrate 75%
+Kaedin Average Security Kills Per Game 382
+Kaedin Average Deaths PerGame 1,15
+Kaedin Average Infestation Class Class 4

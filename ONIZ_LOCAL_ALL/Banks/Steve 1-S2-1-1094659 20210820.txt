@@ -1,0 +1,23 @@
+Steve HumanWinsNormal 3
+Steve ZombieRank 0
+Steve VespeneHarvested 19600
+Steve HumansRescued 3
+Steve SecurityForcesKilled 0
+Steve ZombiesKilled 5360
+Steve FuelDiverted 9
+Steve HumanRank 0
+Steve NumberOfTimesCaptured 19
+Steve TurretsBuilt 55
+Steve ZombieWins 0
+Steve GamesLeft 1
+Steve GamesPlayedAsHuman 8
+Steve GamesPlayedAsZombie 0
+Steve HumansCaptured 0
+Steve K/D Ratio 282,11
+Steve Average Marine Winrate 38%
+Steve Average Fuel Diverts PerGame 1,12
+Steve Average Vespene Harvested PerGame 2450
+Steve Average Zombie Winrate NaN%
+Steve Average Security Kills Per Game NaN
+Steve Average Deaths PerGame 2,38
+Steve Average Infestation Class Class 1

@@ -1,0 +1,190 @@
+Analyzed: Oh No It's Zombies Arctic Updated (469)
+
+ID : 0 PlayerName: dreamer Race: Terran
+ID : 1 PlayerName: dwarfplanet Race: Terran
+ID : 2 PlayerName: Marth Race: Terran
+ID : 3 PlayerName: RammusSaidOK Race: Zerg
+ID : 4 PlayerName: Frosky Race: Terran
+ID : 5 PlayerName: forforadi Race: Terran
+ID : 6 PlayerName: luistheninja Race: Terran
+ID : 7 PlayerName: Security Race: 
+RammusSaidOK Zombie Win
+Public Lobby
+
+Game Length:[29:107]
+Players ammount: 8
+Marine rank avg: 6,333333333333333
+GrandMaster ammount: 1
+PURCHASES: 
+[00:588] dreamer Unlocked AssaultRifle
+[01:044] dreamer Placed/Upgraded MiningDroid
+[01:151] dreamer Unlocked BeamRifle
+[05:331] dreamer Unlocked SpecOpsPlasmaRifle
+[05:397] dreamer Unlocked LongRangeScope
+[08:142] dreamer Unlocked MedicShield
+[08:204] dreamer Unlocked Stimpack
+[12:763] dreamer Unlocked SuperStimpack
+[12:916] dreamer Unlocked SpecOpsSuperStimpack
+[22:800] dreamer Unlocked Shieldsiotunlocked
+[22:825] dreamer Unlocked AdvancedShieldSuit
+[22:898] dreamer Unlocked AutoTurret
+[22:918] dreamer Unlocked SpecOpsTurret
+[00:588] dwarfplanet Unlocked AssaultRifle
+[00:781] dwarfplanet Placed/Upgraded MiningDroid
+[00:916] dwarfplanet Unlocked AdvancedDroidEngines
+[03:772] dwarfplanet Unlocked TurboDroidEngines
+[04:891] dwarfplanet Unlocked BioMechanicalRepairDrone
+[04:993] dwarfplanet Placed/Upgraded HealingDrone
+[08:380] dwarfplanet Unlocked SpecOpsAssaultRifle
+[09:162] dwarfplanet Placed/Upgraded HealingDrone
+[09:799] dwarfplanet Placed/Upgraded HealingDrone
+[11:839] dwarfplanet Placed/Upgraded HealingDrone
+[12:427] dwarfplanet Placed/Upgraded MiningDroid
+[16:365] dwarfplanet Placed/Upgraded MiningDroid
+[18:234] dwarfplanet Placed/Upgraded HealingDrone
+[20:814] dwarfplanet Unlocked CloakingDevice
+[22:801] dwarfplanet Bought ShieldSuit
+[22:801] dwarfplanet Bought CombatSuit
+[22:801] dwarfplanet Bought HazmatSuit
+[22:801] dwarfplanet Bought ShieldSuit
+[22:826] dwarfplanet Bought ShieldSuit
+[00:588] Marth Unlocked AssaultRifle
+[00:902] Marth Placed MiningDroid
+[04:128] Marth Unlocked AdvancedDroidEngines
+[04:263] Marth Unlocked TurboDroidEngines
+[06:988] Marth Unlocked ExplorationDroid
+[07:103] Marth Placed ExplorationDroid
+[07:145] Marth Placed ExplorationDroid
+[09:104] Marth Unlocked SpecOpsAssaultRifle
+[09:190] Marth Unlocked TitaniumBulletCasings
+[12:245] Marth Placed MiningDroid
+[14:925] Marth Unlocked CombatSuit
+[16:298] Marth Unlocked AdvancedCombatSuit
+[20:837] Marth Unlocked Stimpack
+[20:995] Marth Unlocked MedicShield
+[28:018] Marth Unlocked SuperStimpack
+[00:552] RammusSaidOK Bought PlayerNumber
+[02:131] RammusSaidOK Bought CreepSpeed
+[04:798] RammusSaidOK Spawned MassiveCocoon
+[06:238] RammusSaidOK Spawned PrimalTownHallUprooted
+[06:734] RammusSaidOK Spawned MassiveCocoon
+[08:174] RammusSaidOK Spawned Hunter
+[08:272] RammusSaidOK Placed/Upgraded ToxicNest
+[08:367] RammusSaidOK Placed/Upgraded ToxicNest
+[08:395] RammusSaidOK Placed/Upgraded ToxicNest
+[10:418] RammusSaidOK Bought BuildExtractorProcessingFacilities
+[10:418] RammusSaidOK Placed/Upgraded AutomatedExtractor
+[10:495] RammusSaidOK Placed/Upgraded ToxicNest
+[10:525] RammusSaidOK Placed/Upgraded ToxicNest
+[10:546] RammusSaidOK Placed/Upgraded ToxicNest
+[11:081] RammusSaidOK Placed/Upgraded ToxicNest
+[11:812] RammusSaidOK Placed/Upgraded ToxicNest
+[14:091] RammusSaidOK Bought VirulentCreep
+[14:091] RammusSaidOK Bought VirulentCreep
+[14:926] RammusSaidOK Bought ShieldSuit
+[14:926] RammusSaidOK Bought CombatSuit
+[14:926] RammusSaidOK Bought HazmatSuit
+[14:926] RammusSaidOK Bought CombatSuit
+[15:129] RammusSaidOK Bought AdvancedPowerInfestation
+[15:660] RammusSaidOK Placed/Upgraded ToxicNest
+[15:692] RammusSaidOK Placed/Upgraded ToxicNest
+[15:704] RammusSaidOK Placed/Upgraded ToxicNest
+[16:299] RammusSaidOK Bought CombatSuit
+[16:498] RammusSaidOK Bought SiphonFuel
+[16:548] RammusSaidOK Bought BuildExtractorExcavationZone
+[16:548] RammusSaidOK Placed/Upgraded AutomatedExtractor
+[18:048] RammusSaidOK Placed/Upgraded ToxicNest
+[18:074] RammusSaidOK Bought CreepSpeed
+[18:203] RammusSaidOK Placed/Upgraded ToxicNest
+[18:449] RammusSaidOK Placed/Upgraded ToxicNest
+[18:688] RammusSaidOK Placed/Upgraded ToxicNest
+[19:544] RammusSaidOK Bought SiphonFuel
+[19:573] RammusSaidOK Bought BuildExtractorScienceLabs
+[19:573] RammusSaidOK Placed/Upgraded AutomatedExtractor
+[19:711] RammusSaidOK Bought RegenerativeCreep
+[19:930] RammusSaidOK Placed/Upgraded ToxicNest
+[19:979] RammusSaidOK Placed/Upgraded ToxicNest
+[20:559] RammusSaidOK Bought BuildExtractorScienceLabs
+[21:009] RammusSaidOK Spawned MassiveCocoon
+[21:851] RammusSaidOK Spawned MassiveCocoon
+[22:429] RammusSaidOK Bought SiphonFuel
+[22:449] RammusSaidOK Spawned Anubalisk
+[22:629] RammusSaidOK Placed/Upgraded ToxicNest
+[22:645] RammusSaidOK Placed/Upgraded ToxicNest
+[22:656] RammusSaidOK Placed/Upgraded ToxicNest
+[23:101] RammusSaidOK Bought BuildExtractorManufacturingSector
+[23:101] RammusSaidOK Placed/Upgraded AutomatedExtractor
+[23:291] RammusSaidOK Spawned Anubalisk
+[23:470] RammusSaidOK Placed/Upgraded ToxicNest
+[25:098] RammusSaidOK Bought ExtractorCostReductionManufacturingSector
+[25:098] RammusSaidOK Bought BuildExtractorManufacturingSector
+[25:333] RammusSaidOK Bought SiphonFuel
+[25:552] RammusSaidOK Spawned MassiveCocoon
+[26:054] RammusSaidOK Spawned MassiveCocoon
+[26:669] RammusSaidOK Spawned MassiveCocoon
+[26:992] RammusSaidOK Spawned Hunter
+[27:494] RammusSaidOK Spawned Anubalisk
+[27:522] RammusSaidOK Spawned MassiveCocoon
+[27:846] RammusSaidOK Placed/Upgraded ToxicNest
+[27:860] RammusSaidOK Placed/Upgraded ToxicNest
+[27:873] RammusSaidOK Placed/Upgraded ToxicNest
+[28:109] RammusSaidOK Spawned Anubalisk
+[28:695] RammusSaidOK Bought SiphonFuel
+[28:962] RammusSaidOK Spawned Anubalisk
+[28:977] RammusSaidOK Bought AdvancedInfestationContainment
+[00:588] Frosky Unlocked AssaultRifle
+[00:667] Frosky Placed/Upgraded MiningDroid
+[00:804] Frosky Unlocked Flamethrower
+[01:995] Frosky Unlocked SpecOpsFlamethrower
+[05:320] Frosky Unlocked AdvancedDroidEngines
+[06:112] Frosky Placed/Upgraded MiningDroid
+[08:035] Frosky Unlocked ExplorationDroid
+[08:076] Frosky Placed/Upgraded ExplorationDroid
+[08:125] Frosky Placed/Upgraded ExplorationDroid
+[08:266] Frosky Placed/Upgraded ExplorationDroid
+[09:270] Frosky Unlocked BioMechanicalRepairDrone
+[09:493] Frosky Placed/Upgraded HealingDrone
+[09:703] Frosky Placed/Upgraded HealingDrone
+[11:963] Frosky Unlocked TurboDroidEngines
+[12:828] Frosky Placed/Upgraded HealingDrone
+[17:449] Frosky Placed/Upgraded HealingDrone
+[23:633] Frosky Placed/Upgraded HealingDrone
+[00:588] forforadi Unlocked AssaultRifle
+[00:680] forforadi Placed/Upgraded MiningDroid
+[00:772] forforadi Unlocked AdvancedDroidEngines
+[03:182] forforadi Unlocked HellfireRocketLauncher
+[03:245] forforadi Unlocked CombatShield
+[06:735] forforadi Unlocked SpecOpsHellfireRocketLauncher
+[06:795] forforadi Unlocked IncendiaryGrenade
+[08:181] forforadi Unlocked Shieldsiotunlocked
+[10:048] forforadi Unlocked AutoTurret
+[10:356] forforadi Placed/Upgraded AutoTurret
+[11:422] forforadi Placed/Upgraded AutoTurret
+[11:613] forforadi Placed/Upgraded AutoTurret
+[12:408] forforadi Placed/Upgraded AutoTurret
+[12:611] forforadi Placed/Upgraded AutoTurret
+[12:720] forforadi Unlocked SpecOpsTurret
+[14:685] forforadi Placed/Upgraded AutoTurret
+[20:320] forforadi Placed/Upgraded AutoTurret
+[24:566] forforadi Placed/Upgraded AutoTurret
+[00:588] luistheninja Unlocked AssaultRifle
+[01:397] luistheninja Unlocked HellfireRocketLauncher
+[02:855] luistheninja Unlocked SpecOpsHellfireRocketLauncher
+[05:243] luistheninja Unlocked ShockwaveMissiles
+[07:944] luistheninja Unlocked Stimpack
+[08:182] luistheninja Bought ShieldSuit
+[08:182] luistheninja Bought CombatSuit
+[08:182] luistheninja Bought HazmatSuit
+[08:182] luistheninja Bought ShieldSuit
+[08:820] luistheninja Unlocked CombatSuit
+[11:363] luistheninja Unlocked AdvancedCombatSuit
+[21:062] luistheninja Unlocked Teleporter
+[08:821] Security Bought ShieldSuit
+[08:821] Security Bought CombatSuit
+[08:821] Security Bought HazmatSuit
+[08:821] Security Bought CombatSuit
+[11:364] Security Bought CombatSuit
+RammusSaidOK First Alpha PrimalTownHallUprooted |  Win
+
+RammusSaidOK Placed 0 Greaters.
+--------------------------------

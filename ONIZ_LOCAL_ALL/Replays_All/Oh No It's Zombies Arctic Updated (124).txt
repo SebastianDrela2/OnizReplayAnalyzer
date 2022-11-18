@@ -1,0 +1,199 @@
+Analyzed: Oh No It's Zombies Arctic Updated (124)
+
+ID : 0 PlayerName: RyK Race: Zerg
+ID : 1 PlayerName: OwlEater Race: Terran
+ID : 2 PlayerName: BCman Race: Terran
+ID : 3 PlayerName: chickenparts Race: Terran
+ID : 4 PlayerName: SteirylSleiy Race: Terran
+ID : 5 PlayerName: Frosky Race: Terran
+ID : 6 PlayerName: Mclovin Race: Terran
+ID : 7 PlayerName: Security Race: Infested Terran
+RyK Zombie Loss
+Public Lobby
+
+Game Length:[28:339]
+Players ammount: 8
+Marine rank avg: 12,166666666666666
+GrandMaster ammount: 2
+PURCHASES: 
+[01:087] RyK Spawned MassiveCocoon
+[02:527] RyK Spawned InfestedAbomination
+[02:916] RyK Placed/Upgraded PrimalSunkenColony
+[02:917] RyK Bought SunkenColony
+[03:588] RyK Bought SunkenColony
+[03:997] RyK Bought SunkenColony
+[03:997] RyK Placed/Upgraded PrimalSunkenColony
+[04:891] RyK Bought StrainHealth
+[04:911] RyK Bought PureStrainHealth
+[05:484] RyK Bought SunkenColony
+[06:279] RyK Bought StrainSpeed
+[06:290] RyK Bought PureStrainSpeed
+[07:026] RyK Bought HunterlingStrain
+[08:903] RyK Bought TankStrain
+[11:188] RyK Spawned MassiveCocoon
+[13:441] RyK Bought AdvancedInfestationContainment
+[15:213] RyK Bought SpawnNydusWorm
+[16:395] RyK Bought BuildExtractorScienceLabs
+[16:395] RyK Placed/Upgraded AutomatedExtractor
+[16:477] RyK Bought BuildExtractorProcessingFacilities
+[16:477] RyK Placed/Upgraded AutomatedExtractor
+[17:561] RyK Bought UnlockDropPods
+[17:564] RyK Bought EvolveDropPods
+[17:821] RyK Placed/Upgraded GreaterNydusWorm
+[19:073] RyK Bought BuildExtractorExcavationZone
+[19:073] RyK Placed/Upgraded AutomatedExtractor
+[19:746] RyK Bought VirulentCreep
+[20:854] RyK Placed/Upgraded NydusCanalCreeper
+[20:925] RyK Bought CreepSpeed
+[22:465] RyK Bought StrainSpeed
+[22:736] RyK Placed/Upgraded Virophage
+[22:897] RyK Placed/Upgraded Virophage
+[24:233] RyK Bought VirulentCreep
+[24:631] RyK Bought BuildExtractorExcavationZone
+[24:865] RyK Placed/Upgraded GreaterNydusWorm
+[24:976] RyK Bought EvolveDropPods
+[24:979] RyK Bought EvolveDropPods
+[24:982] RyK Bought EvolveDropPods
+[25:834] RyK Bought EvolveDropPods
+[25:837] RyK Bought EvolveDropPods
+[27:415] RyK Placed/Upgraded LesserNydusWorm
+[27:416] RyK Bought GreaterNydus
+[27:653] RyK Bought PureStrainSpeed
+[27:662] RyK Bought HunterlingStrain
+[00:588] OwlEater Unlocked AssaultRifle
+[03:323] OwlEater Placed/Upgraded MiningDroid
+[05:066] OwlEater Unlocked SpecOpsAssaultRifle
+[05:214] OwlEater Unlocked TitaniumBulletCasings
+[05:990] OwlEater Unlocked PsiDisrupter
+[07:069] OwlEater Placed/Upgraded PsiIndoctrinator
+[10:799] OwlEater Unlocked CombatSuit
+[10:800] OwlEater Unlocked ShieldSuit
+[10:800] OwlEater Unlocked AdvancedShieldSuit
+[10:800] OwlEater Unlocked CombatSuit
+[10:800] OwlEater Unlocked AdvancedCombatSuit
+[10:800] OwlEater Unlocked HazmatSuit
+[10:800] OwlEater Unlocked AdvancedHazmatSuit
+[10:800] OwlEater Unlocked CombatSuit
+[10:860] OwlEater Unlocked AdvancedCombatSuit
+[10:861] OwlEater Unlocked CombatSuit
+[10:861] OwlEater Unlocked AdvancedCombatSuit
+[11:297] OwlEater Placed/Upgraded PsiIndoctrinator
+[14:319] OwlEater Unlocked SpecOpsPsiDisruptor
+[15:736] OwlEater Placed/Upgraded MiningDroid
+[17:294] OwlEater Placed/Upgraded PsiIndoctrinator
+[00:588] BCman Unlocked AssaultRifle
+[00:738] BCman Placed/Upgraded MiningDroid
+[00:891] BCman Unlocked AdvancedDroidEngines
+[02:907] BCman Unlocked Stimpack
+[04:506] BCman Unlocked BeamRifle
+[05:662] BCman Unlocked SpecOpsAssaultRifle
+[07:457] BCman Unlocked SpecOpsPlasmaRifle
+[08:129] BCman Unlocked BioMechanicalRepairDrone
+[08:516] BCman Placed/Upgraded HealingDrone
+[09:095] BCman Placed/Upgraded HealingDrone
+[10:661] BCman Unlocked CorrosivePlasma
+[11:628] BCman Unlocked CombatSuit
+[11:629] BCman Unlocked ShieldSuit
+[11:629] BCman Unlocked AdvancedShieldSuit
+[11:629] BCman Unlocked CombatSuit
+[11:629] BCman Unlocked AdvancedCombatSuit
+[11:629] BCman Unlocked HazmatSuit
+[11:629] BCman Unlocked AdvancedHazmatSuit
+[11:629] BCman Unlocked CombatSuit
+[12:251] BCman Unlocked Teleporter
+[13:416] BCman Unlocked MedicShield
+[14:941] BCman Placed/Upgraded HealingDrone
+[19:955] BCman Placed/Upgraded HealingDrone
+[20:453] BCman Placed/Upgraded HealingDrone
+[21:302] BCman Placed/Upgraded HealingDrone
+[24:127] BCman Placed/Upgraded HealingDrone
+[00:588] chickenparts Unlocked AssaultRifle
+[00:667] chickenparts Placed/Upgraded MiningDroid
+[00:764] chickenparts Unlocked AdvancedDroidEngines
+[00:588] SteirylSleiy Unlocked AssaultRifle
+[00:865] SteirylSleiy Placed/Upgraded MiningDroid
+[00:883] SteirylSleiy Unlocked AdvancedDroidEngines
+[02:501] SteirylSleiy Unlocked Stimpack
+[04:719] SteirylSleiy Unlocked TurboDroidEngines
+[06:340] SteirylSleiy Unlocked CombatSuit
+[06:341] SteirylSleiy Unlocked ShieldSuit
+[06:341] SteirylSleiy Unlocked AdvancedShieldSuit
+[06:341] SteirylSleiy Unlocked CombatSuit
+[06:341] SteirylSleiy Unlocked AdvancedCombatSuit
+[06:341] SteirylSleiy Unlocked HazmatSuit
+[06:341] SteirylSleiy Unlocked AdvancedHazmatSuit
+[06:341] SteirylSleiy Unlocked CombatSuit
+[06:358] SteirylSleiy Unlocked AdvancedCombatSuit
+[06:359] SteirylSleiy Unlocked CombatSuit
+[06:359] SteirylSleiy Unlocked AdvancedCombatSuit
+[07:678] SteirylSleiy Unlocked ArcWelder
+[09:147] SteirylSleiy Unlocked BioMechanicalRepairDrone
+[09:193] SteirylSleiy Placed/Upgraded HealingDrone
+[09:291] SteirylSleiy Unlocked HellfireRocketLauncher
+[09:636] SteirylSleiy Placed/Upgraded HealingDrone
+[12:423] SteirylSleiy Unlocked MiningCharge
+[12:436] SteirylSleiy Unlocked AdvancedMiningCharge
+[12:540] SteirylSleiy Placed/Upgraded NukePack
+[12:553] SteirylSleiy Placed/Upgraded HealingDrone
+[12:789] SteirylSleiy Placed/Upgraded NukePack
+[12:818] SteirylSleiy Placed/Upgraded HealingDrone
+[12:990] SteirylSleiy Unlocked PsiDisrupter
+[13:435] SteirylSleiy Placed/Upgraded PsiIndoctrinator
+[13:800] SteirylSleiy Unlocked SpecOpsHellfireRocketLauncher
+[13:931] SteirylSleiy Unlocked ShockwaveMissiles
+[14:191] SteirylSleiy Placed/Upgraded HealingDrone
+[15:787] SteirylSleiy Placed/Upgraded HealingDrone
+[16:478] SteirylSleiy Placed/Upgraded MiningDroid
+[17:408] SteirylSleiy Unlocked MotionSensor
+[17:559] SteirylSleiy Placed/Upgraded SensorTower
+[18:489] SteirylSleiy Unlocked SpecOpsPsiDisruptor
+[23:940] SteirylSleiy Placed/Upgraded PsiIndoctrinator
+[24:152] SteirylSleiy Placed/Upgraded HealingDrone
+[24:864] SteirylSleiy Placed/Upgraded MiningDroid
+[00:588] Frosky Unlocked AssaultRifle
+[00:667] Frosky Placed/Upgraded MiningDroid
+[00:824] Frosky Unlocked Flamethrower
+[02:896] Frosky Unlocked AdvancedDroidEngines
+[05:627] Frosky Unlocked TurboDroidEngines
+[05:977] Frosky Unlocked MotionSensor
+[07:096] Frosky Placed/Upgraded SensorTower
+[07:472] Frosky Unlocked AdvancedMotionSensor
+[08:922] Frosky Unlocked SpecOpsFlamethrower
+[11:093] Frosky Placed/Upgraded SensorTower
+[16:203] Frosky Unlocked CryoFreeze
+[16:278] Frosky Unlocked CombatShield
+[16:282] Frosky Unlocked QuantumBackpack
+[16:288] Frosky Unlocked OpticalVisor
+[16:340] Frosky Unlocked CombatSuit
+[16:341] Frosky Unlocked ShieldSuit
+[16:341] Frosky Unlocked AdvancedShieldSuit
+[16:341] Frosky Unlocked CombatSuit
+[16:341] Frosky Unlocked AdvancedCombatSuit
+[16:341] Frosky Unlocked HazmatSuit
+[16:341] Frosky Unlocked AdvancedHazmatSuit
+[16:341] Frosky Unlocked CombatSuit
+[17:292] Frosky Placed/Upgraded MiningDroid
+[00:588] Mclovin Unlocked AssaultRifle
+[02:625] Mclovin Unlocked SpecOpsAssaultRifle
+[05:410] Mclovin Unlocked SuperStimpack
+[05:475] Mclovin Unlocked AdvancedDroidEngines
+[07:880] Mclovin Unlocked CombatSuit
+[07:881] Mclovin Unlocked ShieldSuit
+[07:881] Mclovin Unlocked AdvancedShieldSuit
+[07:881] Mclovin Unlocked CombatSuit
+[07:881] Mclovin Unlocked AdvancedCombatSuit
+[07:881] Mclovin Unlocked HazmatSuit
+[07:881] Mclovin Unlocked AdvancedHazmatSuit
+[07:881] Mclovin Unlocked CombatSuit
+[07:906] Mclovin Unlocked AdvancedCombatSuit
+[07:907] Mclovin Unlocked CombatSuit
+[07:907] Mclovin Unlocked AdvancedCombatSuit
+[09:463] Mclovin Unlocked TurboDroidEngines
+[11:830] Mclovin Unlocked QuantumBackpack
+[11:920] Mclovin Unlocked BioMechanicalRepairDrone
+[13:396] Mclovin Unlocked SpecOpsSuperStimpack
+[13:766] Mclovin Unlocked Stimpack
+RyK First Alpha InfestedAbomination |  Loss
+
+RyK Placed 2 Greaters.
+--------------------------------

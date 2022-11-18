@@ -1,0 +1,23 @@
+Coolguygamin HumanWinsNormal 0
+Coolguygamin ZombieRank 0
+Coolguygamin VespeneHarvested 0
+Coolguygamin HumansRescued 0
+Coolguygamin SecurityForcesKilled 0
+Coolguygamin ZombiesKilled 0
+Coolguygamin FuelDiverted 0
+Coolguygamin HumanRank 0
+Coolguygamin NumberOfTimesCaptured 0
+Coolguygamin TurretsBuilt 0
+Coolguygamin ZombieWins 0
+Coolguygamin GamesLeft 1
+Coolguygamin GamesPlayedAsHuman 1
+Coolguygamin GamesPlayedAsZombie 0
+Coolguygamin HumansCaptured 0
+Coolguygamin K/D Ratio NaN
+Coolguygamin Average Marine Winrate 0%
+Coolguygamin Average Fuel Diverts PerGame 0
+Coolguygamin Average Vespene Harvested PerGame 0
+Coolguygamin Average Zombie Winrate NaN%
+Coolguygamin Average Security Kills Per Game NaN
+Coolguygamin Average Deaths PerGame 0
+Coolguygamin Average Infestation Class Class 1

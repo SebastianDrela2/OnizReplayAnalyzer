@@ -1,0 +1,23 @@
+LordIgnac HumanWinsNormal 4
+LordIgnac ZombieRank 0
+LordIgnac VespeneHarvested 34200
+LordIgnac HumansRescued 11
+LordIgnac SecurityForcesKilled 1330
+LordIgnac ZombiesKilled 7279
+LordIgnac FuelDiverted 10
+LordIgnac HumanRank 6
+LordIgnac NumberOfTimesCaptured 14
+LordIgnac TurretsBuilt 45
+LordIgnac ZombieWins 3
+LordIgnac GamesLeft 0
+LordIgnac GamesPlayedAsHuman 10
+LordIgnac GamesPlayedAsZombie 4
+LordIgnac HumansCaptured 26
+LordIgnac K/D Ratio 519,93
+LordIgnac Average Marine Winrate 40%
+LordIgnac Average Fuel Diverts PerGame 1
+LordIgnac Average Vespene Harvested PerGame 3420
+LordIgnac Average Zombie Winrate 75%
+LordIgnac Average Security Kills Per Game 332
+LordIgnac Average Deaths PerGame 1,4
+LordIgnac Average Infestation Class Class 4

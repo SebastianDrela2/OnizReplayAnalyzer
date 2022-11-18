@@ -1,0 +1,23 @@
+MilkyUrine HumanWinsNormal 3
+MilkyUrine ZombieRank 0
+MilkyUrine VespeneHarvested 16200
+MilkyUrine HumansRescued 5
+MilkyUrine SecurityForcesKilled 526
+MilkyUrine ZombiesKilled 3504
+MilkyUrine FuelDiverted 0
+MilkyUrine HumanRank 8
+MilkyUrine NumberOfTimesCaptured 9
+MilkyUrine TurretsBuilt 51
+MilkyUrine ZombieWins 0
+MilkyUrine GamesLeft 0
+MilkyUrine GamesPlayedAsHuman 6
+MilkyUrine GamesPlayedAsZombie 1
+MilkyUrine HumansCaptured 11
+MilkyUrine K/D Ratio 389,33
+MilkyUrine Average Marine Winrate 50%
+MilkyUrine Average Fuel Diverts PerGame 0
+MilkyUrine Average Vespene Harvested PerGame 2700
+MilkyUrine Average Zombie Winrate 0%
+MilkyUrine Average Security Kills Per Game 526
+MilkyUrine Average Deaths PerGame 1,5
+MilkyUrine Average Infestation Class Class 6

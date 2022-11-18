@@ -1,0 +1,23 @@
+SilentEmilio HumanWinsNormal 10
+SilentEmilio ZombieRank 9.3332
+SilentEmilio VespeneHarvested 120800
+SilentEmilio HumansRescued 29
+SilentEmilio SecurityForcesKilled 4987
+SilentEmilio ZombiesKilled 25422
+SilentEmilio FuelDiverted 21
+SilentEmilio HumanRank 2.875
+SilentEmilio NumberOfTimesCaptured 53
+SilentEmilio TurretsBuilt 78
+SilentEmilio ZombieWins 4
+SilentEmilio GamesLeft 3
+SilentEmilio GamesPlayedAsHuman 37
+SilentEmilio GamesPlayedAsZombie 11
+SilentEmilio HumansCaptured 183
+PlayerZero K/D Ratio 479,66
+PlayerZero Average Marine Winrate 27%
+PlayerZero Average Fuel Diverts PerGame 0,57
+PlayerZero Average Vespene Harvested PerGame 3264,86
+PlayerZero Average Zombie Winrate 36%
+PlayerZero Average Security Kills Per Game 453
+PlayerZero Average Deaths PerGame 1,43
+PlayerZero Average Infestation Class Class 5

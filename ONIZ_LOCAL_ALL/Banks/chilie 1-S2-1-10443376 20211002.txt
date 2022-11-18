@@ -1,0 +1,23 @@
+chilie HumanWinsNormal 6
+chilie ZombieRank 0
+chilie VespeneHarvested 37800
+chilie HumansRescued 8
+chilie SecurityForcesKilled 1367
+chilie ZombiesKilled 12281
+chilie FuelDiverted 8
+chilie HumanRank 5.5
+chilie NumberOfTimesCaptured 14
+chilie TurretsBuilt 67
+chilie ZombieWins 2
+chilie GamesLeft 0
+chilie GamesPlayedAsHuman 13
+chilie GamesPlayedAsZombie 3
+chilie HumansCaptured 42
+chilie K/D Ratio 877,21
+chilie Average Marine Winrate 46%
+chilie Average Fuel Diverts PerGame 0,62
+chilie Average Vespene Harvested PerGame 2907,69
+chilie Average Zombie Winrate 67%
+chilie Average Security Kills Per Game 456
+chilie Average Deaths PerGame 1,08
+chilie Average Infestation Class Class 5

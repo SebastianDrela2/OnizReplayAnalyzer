@@ -1,0 +1,23 @@
+Barcode HumanWinsNormal 22
+Barcode ZombieRank 3.8332
+Barcode VespeneHarvested 144000
+Barcode HumansRescued 37
+Barcode SecurityForcesKilled 11095
+Barcode ZombiesKilled 27907
+Barcode FuelDiverted 60
+Barcode HumanRank 0
+Barcode NumberOfTimesCaptured 113
+Barcode TurretsBuilt 264
+Barcode ZombieWins 7
+Barcode GamesLeft 4
+Barcode GamesPlayedAsHuman 63
+Barcode GamesPlayedAsZombie 24
+Barcode HumansCaptured 223
+Barcode K/D Ratio 246,96
+Barcode Average Marine Winrate 35%
+Barcode Average Fuel Diverts PerGame 0,95
+Barcode Average Vespene Harvested PerGame 2285,71
+Barcode Average Zombie Winrate 28,999999999999996%
+Barcode Average Security Kills Per Game 462
+Barcode Average Deaths PerGame 1,79
+Barcode Average Infestation Class Class 5

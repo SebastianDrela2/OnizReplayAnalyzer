@@ -1,0 +1,23 @@
+VanE HumanWinsNormal 0
+VanE ZombieRank 0
+VanE VespeneHarvested 7800
+VanE HumansRescued 2
+VanE SecurityForcesKilled 745
+VanE ZombiesKilled 665
+VanE FuelDiverted 7
+VanE HumanRank 0
+VanE NumberOfTimesCaptured 16
+VanE TurretsBuilt 4
+VanE ZombieWins 1
+VanE GamesLeft 1
+VanE GamesPlayedAsHuman 6
+VanE GamesPlayedAsZombie 2
+VanE HumansCaptured 7
+VanE K/D Ratio 41,56
+VanE Average Marine Winrate 0%
+VanE Average Fuel Diverts PerGame 1,17
+VanE Average Vespene Harvested PerGame 1300
+VanE Average Zombie Winrate 50%
+VanE Average Security Kills Per Game 372
+VanE Average Deaths PerGame 2,67
+VanE Average Infestation Class Class 4

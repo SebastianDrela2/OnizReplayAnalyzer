@@ -1,0 +1,24 @@
+TheZergKing HumanWinsNormal 170
+TheZergKing ZombieRank 9.4992
+TheZergKing VespeneHarvested 1010900
+TheZergKing HumansRescued 339
+TheZergKing SecurityForcesKilled 15949
+TheZergKing ZombiesKilled 223465
+TheZergKing FuelDiverted 740
+TheZergKing PlayedRankedMode5.0 1
+TheZergKing HumanRank 22.225
+TheZergKing NumberOfTimesCaptured 603
+TheZergKing TurretsBuilt 1410
+TheZergKing ZombieWins 31
+TheZergKing GamesLeft 4
+TheZergKing GamesPlayedAsHuman 349
+TheZergKing GamesPlayedAsZombie 43
+TheZergKing HumansCaptured 258
+TheZergKing K/D Ratio 370,59
+TheZergKing Average Marine Winrate 49%
+TheZergKing Average Fuel Diverts PerGame 2,12
+TheZergKing Average Vespene Harvested PerGame 2896,56
+TheZergKing Average Zombie Winrate 72%
+TheZergKing Average Security Kills Per Game 371
+TheZergKing Average Deaths PerGame 1,73
+TheZergKing Average Infestation Class Class 4

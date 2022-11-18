@@ -1,0 +1,23 @@
+PanAsh HumanWinsNormal 3
+PanAsh ZombieRank 12
+PanAsh VespeneHarvested 17600
+PanAsh HumansRescued 10
+PanAsh SecurityForcesKilled 2030
+PanAsh ZombiesKilled 4181
+PanAsh FuelDiverted 46
+PanAsh HumanRank 3
+PanAsh NumberOfTimesCaptured 27
+PanAsh TurretsBuilt 30
+PanAsh ZombieWins 5
+PanAsh GamesLeft 3
+PanAsh GamesPlayedAsHuman 14
+PanAsh GamesPlayedAsZombie 6
+PanAsh HumansCaptured 1
+PanAsh K/D Ratio 154,85
+PanAsh Average Marine Winrate 21%
+PanAsh Average Fuel Diverts PerGame 3,29
+PanAsh Average Vespene Harvested PerGame 1257,14
+PanAsh Average Zombie Winrate 83%
+PanAsh Average Security Kills Per Game 338
+PanAsh Average Deaths PerGame 1,93
+PanAsh Average Infestation Class Class 4

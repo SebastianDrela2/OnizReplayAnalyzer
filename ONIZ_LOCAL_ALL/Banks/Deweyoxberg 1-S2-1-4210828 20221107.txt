@@ -1,0 +1,25 @@
+Deweyoxberg HumanWinsNormal 45
+Deweyoxberg LeftLastGameAsZombie 0
+Deweyoxberg ZombieRank 0
+Deweyoxberg VespeneHarvested 235000
+Deweyoxberg HumansRescued 147
+Deweyoxberg SecurityForcesKilled 34620
+Deweyoxberg ZombiesKilled 101404
+Deweyoxberg FuelDiverted 104
+Deweyoxberg PlayedRankedMode5.0 1
+Deweyoxberg HumanRank 3.5
+Deweyoxberg NumberOfTimesCaptured 322
+Deweyoxberg TurretsBuilt 819
+Deweyoxberg ZombieWins 24
+Deweyoxberg GamesLeft 11
+Deweyoxberg GamesPlayedAsHuman 130
+Deweyoxberg GamesPlayedAsZombie 82
+Deweyoxberg HumansCaptured 753
+Deweyoxberg K/D Ratio 314,92
+Deweyoxberg Average Marine Winrate 35%
+Deweyoxberg Average Fuel Diverts PerGame 0,8
+Deweyoxberg Average Vespene Harvested PerGame 1807,69
+Deweyoxberg Average Zombie Winrate 28,999999999999996%
+Deweyoxberg Average Security Kills Per Game 422
+Deweyoxberg Average Deaths PerGame 2,48
+Deweyoxberg Average Infestation Class Class 5

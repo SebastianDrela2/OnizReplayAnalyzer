@@ -1,0 +1,126 @@
+Analyzed: Oh No It's Zombies Arctic Updated (119)
+
+ID : 0 PlayerName: SilentEmilio Race: Zerg
+ID : 1 PlayerName: Frosky Race: Terran
+ID : 2 PlayerName: SteirylSleiy Race: Terran
+ID : 3 PlayerName: Yello Race: Terran
+ID : 4 PlayerName: PlayerZero Race: Terran
+ID : 5 PlayerName: IOU Race: Terran
+ID : 6 PlayerName: Batman Race: Terran
+ID : 7 PlayerName: Security Race: Terran Horner
+SilentEmilio Zombie Win
+Public Lobby
+
+Game Length:[26:860]
+Players ammount: 8
+Marine rank avg: 4
+GrandMaster ammount: 1
+PURCHASES: 
+[00:804] SilentEmilio Placed/Upgraded PrimalSunkenColony
+[00:805] SilentEmilio Bought SunkenColony
+[01:584] SilentEmilio Bought UnlockDropPods
+[02:930] SilentEmilio Bought EvolveDropPods
+[02:944] SilentEmilio Bought EvolveDropPods
+[03:661] SilentEmilio Bought EvolveDropPods
+[04:826] SilentEmilio Bought EvolveDropPods
+[04:828] SilentEmilio Bought EvolveDropPods
+[05:776] SilentEmilio Bought EvolveDropPods
+[06:622] SilentEmilio Bought BuildExtractorProcessingFacilities
+[06:622] SilentEmilio Placed/Upgraded AutomatedExtractor
+[07:087] SilentEmilio Bought SunkenColony
+[07:087] SilentEmilio Placed/Upgraded PrimalSunkenColony
+[09:023] SilentEmilio Bought AdvancedInfestationContainment
+[09:900] SilentEmilio Bought SunkenColony
+[10:057] SilentEmilio Bought SunkenColony
+[10:219] SilentEmilio Bought CreepSpeed
+[11:477] SilentEmilio Bought BuildExtractorScienceLabs
+[11:477] SilentEmilio Placed/Upgraded AutomatedExtractor
+[13:057] SilentEmilio Placed/Upgraded NydusCanalCreeper
+[13:361] SilentEmilio Placed/Upgraded PrimalSunkenColony
+[13:362] SilentEmilio Bought SunkenColony
+[13:978] SilentEmilio Bought SpawnNydusWorm
+[14:024] SilentEmilio Placed/Upgraded GreaterNydusWorm
+[14:451] SilentEmilio Bought StrainVolatile
+[14:724] SilentEmilio Bought SunkenColony
+[17:625] SilentEmilio Bought BuildExtractorExcavationZone
+[17:625] SilentEmilio Placed/Upgraded AutomatedExtractor
+[17:735] SilentEmilio Bought RegenerativeCreep
+[18:850] SilentEmilio Bought BuildExtractorManufacturingSector
+[18:850] SilentEmilio Placed/Upgraded AutomatedExtractor
+[19:463] SilentEmilio Bought CreepSpeed
+[21:654] SilentEmilio Bought AdvancedInfestationSecurity
+[23:903] SilentEmilio Bought ExtractorCostReductionManufacturingSector
+[23:903] SilentEmilio Bought BuildExtractorManufacturingSector
+[25:899] SilentEmilio Bought AdvancedPowerInfestation
+[00:588] Frosky Unlocked AssaultRifle
+[00:667] Frosky Placed/Upgraded MiningDroid
+[00:709] Frosky Unlocked AdvancedDroidEngines
+[04:090] Frosky Unlocked Flamethrower
+[05:494] Frosky Unlocked SpecOpsFlamethrower
+[07:184] Frosky Unlocked CryoFreeze
+[00:588] SteirylSleiy Unlocked AssaultRifle
+[00:749] SteirylSleiy Placed/Upgraded MiningDroid
+[00:781] SteirylSleiy Unlocked ExplorationDroid
+[00:880] SteirylSleiy Placed/Upgraded ExplorationDroid
+[00:888] SteirylSleiy Placed/Upgraded ExplorationDroid
+[01:104] SteirylSleiy Placed/Upgraded ExplorationDroid
+[03:863] SteirylSleiy Unlocked AdvancedDroidEngines
+[06:584] SteirylSleiy Placed/Upgraded ExplorationDroid
+[06:841] SteirylSleiy Unlocked TurboDroidEngines
+[07:878] SteirylSleiy Unlocked BioMechanicalRepairDrone
+[07:892] SteirylSleiy Unlocked SpecOpsBioMechanicalRepairDrone
+[08:033] SteirylSleiy Placed/Upgraded HealingDrone
+[08:710] SteirylSleiy Placed/Upgraded HealingDrone
+[10:371] SteirylSleiy Unlocked HellfireRocketLauncher
+[11:822] SteirylSleiy Placed/Upgraded HealingDrone
+[12:446] SteirylSleiy Unlocked Stimpack
+[13:381] SteirylSleiy Placed/Upgraded MiningDroid
+[14:524] SteirylSleiy Unlocked SpecOpsHellfireRocketLauncher
+[15:058] SteirylSleiy Placed/Upgraded HealingDrone
+[15:253] SteirylSleiy Placed/Upgraded HealingDrone
+[00:588] Yello Unlocked AssaultRifle
+[00:667] Yello Placed/Upgraded MiningDroid
+[00:816] Yello Unlocked AdvancedDroidEngines
+[03:109] Yello Unlocked FragGrenade
+[03:123] Yello Unlocked SpecOpsFragGrenade
+[06:238] Yello Unlocked TurboDroidEngines
+[07:630] Yello Unlocked HellfireRocketLauncher
+[09:254] Yello Unlocked Stimpack
+[00:588] PlayerZero Unlocked AssaultRifle
+[00:689] PlayerZero Placed/Upgraded MiningDroid
+[01:060] PlayerZero Unlocked Flamethrower
+[03:839] PlayerZero Unlocked AdvancedDroidEngines
+[06:477] PlayerZero Unlocked SpecOpsFlamethrower
+[10:554] PlayerZero Unlocked Shieldsiotunlocked
+[10:555] PlayerZero Unlocked ShieldSuit
+[10:555] PlayerZero Unlocked AdvancedShieldSuit
+[10:555] PlayerZero Unlocked CombatSuit
+[10:555] PlayerZero Unlocked AdvancedCombatSuit
+[10:555] PlayerZero Unlocked HazmatSuit
+[10:555] PlayerZero Unlocked AdvancedHazmatSuit
+[10:555] PlayerZero Unlocked ShieldSuit
+[10:571] PlayerZero Unlocked AdvancedShieldSuit
+[10:572] PlayerZero Unlocked ShieldSuit
+[10:572] PlayerZero Unlocked AdvancedShieldSuit
+[12:609] PlayerZero Unlocked Stimpack
+[12:865] PlayerZero Unlocked CombatShield
+[13:068] PlayerZero Unlocked SuperStimpack
+[16:684] PlayerZero Unlocked SpecOpsSuperStimpack
+[18:209] PlayerZero Unlocked PsiDisrupter
+[19:081] PlayerZero Placed/Upgraded PsiIndoctrinator
+[22:694] PlayerZero Placed/Upgraded PsiIndoctrinator
+[24:544] PlayerZero Placed/Upgraded MiningDroid
+[25:472] PlayerZero Unlocked BioMechanicalRepairDrone
+[25:514] PlayerZero Placed/Upgraded HealingDrone
+[25:697] PlayerZero Placed/Upgraded HealingDrone
+[26:049] PlayerZero Placed/Upgraded PsiIndoctrinator
+[00:588] IOU Unlocked AssaultRifle
+[01:532] IOU Placed/Upgraded MiningDroid
+[13:586] IOU Placed/Upgraded MiningDroid
+[24:366] IOU Placed/Upgraded MiningDroid
+[00:588] Batman Unlocked AssaultRifle
+[11:190] Batman Unlocked SpecOpsAssaultRifle
+[14:358] Batman Unlocked AutoTargetingSystem
+
+SilentEmilio Placed 1 Greaters.
+--------------------------------

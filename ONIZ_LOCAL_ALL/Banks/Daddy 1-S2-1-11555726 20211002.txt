@@ -1,0 +1,23 @@
+Daddy HumanWinsNormal 3
+Daddy ZombieRank 0
+Daddy VespeneHarvested 11500
+Daddy HumansRescued 1
+Daddy SecurityForcesKilled 403
+Daddy ZombiesKilled 2901
+Daddy FuelDiverted 37
+Daddy HumanRank 3
+Daddy NumberOfTimesCaptured 20
+Daddy TurretsBuilt 55
+Daddy ZombieWins 0
+Daddy GamesLeft 2
+Daddy GamesPlayedAsHuman 9
+Daddy GamesPlayedAsZombie 2
+Daddy HumansCaptured 12
+Daddy K/D Ratio 145,05
+Daddy Average Marine Winrate 33%
+Daddy Average Fuel Diverts PerGame 4,11
+Daddy Average Vespene Harvested PerGame 1277,78
+Daddy Average Zombie Winrate 0%
+Daddy Average Security Kills Per Game 202
+Daddy Average Deaths PerGame 2,22
+Daddy Average Infestation Class Class 3

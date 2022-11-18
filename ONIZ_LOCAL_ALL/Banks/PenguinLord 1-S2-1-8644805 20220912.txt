@@ -1,0 +1,23 @@
+PenguinLord HumanWinsNormal 7
+PenguinLord ZombieRank 7.333
+PenguinLord VespeneHarvested 35840
+PenguinLord HumansRescued 17
+PenguinLord SecurityForcesKilled 2411
+PenguinLord ZombiesKilled 11765
+PenguinLord FuelDiverted 114
+PenguinLord HumanRank 2.5
+PenguinLord NumberOfTimesCaptured 46
+PenguinLord TurretsBuilt 20
+PenguinLord ZombieWins 4
+PenguinLord GamesLeft 2
+PenguinLord GamesPlayedAsHuman 23
+PenguinLord GamesPlayedAsZombie 7
+PenguinLord HumansCaptured 65
+PenguinLord K/D Ratio 255,76
+PenguinLord Average Marine Winrate 30%
+PenguinLord Average Fuel Diverts PerGame 4,96
+PenguinLord Average Vespene Harvested PerGame 1558,26
+PenguinLord Average Zombie Winrate 56,99999999999999%
+PenguinLord Average Security Kills Per Game 344
+PenguinLord Average Deaths PerGame 2
+PenguinLord Average Infestation Class Class 4

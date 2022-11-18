@@ -1,0 +1,23 @@
+rescuebot HumanWinsNormal 0
+rescuebot ZombieRank 0
+rescuebot VespeneHarvested 800
+rescuebot HumansRescued 0
+rescuebot SecurityForcesKilled 0
+rescuebot ZombiesKilled 47
+rescuebot FuelDiverted 2
+rescuebot HumanRank 0
+rescuebot NumberOfTimesCaptured 2
+rescuebot TurretsBuilt 0
+rescuebot ZombieWins 0
+rescuebot GamesLeft 0
+rescuebot GamesPlayedAsHuman 1
+rescuebot GamesPlayedAsZombie 0
+rescuebot HumansCaptured 0
+rescuebot K/D Ratio 23,5
+rescuebot Average Marine Winrate 0%
+rescuebot Average Fuel Diverts PerGame 2
+rescuebot Average Vespene Harvested PerGame 800
+rescuebot Average Zombie Winrate NaN%
+rescuebot Average Security Kills Per Game NaN
+rescuebot Average Deaths PerGame 2
+rescuebot Average Infestation Class Class 1

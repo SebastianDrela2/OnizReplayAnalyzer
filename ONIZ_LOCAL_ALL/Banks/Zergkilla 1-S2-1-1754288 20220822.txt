@@ -1,0 +1,23 @@
+Zergkilla HumanWinsNormal 8
+Zergkilla ZombieRank 0
+Zergkilla VespeneHarvested 38580
+Zergkilla HumansRescued 24
+Zergkilla SecurityForcesKilled 0
+Zergkilla ZombiesKilled 12809
+Zergkilla FuelDiverted 6
+Zergkilla HumanRank 4
+Zergkilla NumberOfTimesCaptured 24
+Zergkilla TurretsBuilt 140
+Zergkilla ZombieWins 0
+Zergkilla GamesLeft 1
+Zergkilla GamesPlayedAsHuman 18
+Zergkilla GamesPlayedAsZombie 0
+Zergkilla HumansCaptured 0
+Zergkilla K/D Ratio 533,71
+Zergkilla Average Marine Winrate 44%
+Zergkilla Average Fuel Diverts PerGame 0,33
+Zergkilla Average Vespene Harvested PerGame 2143,33
+Zergkilla Average Zombie Winrate NaN%
+Zergkilla Average Security Kills Per Game NaN
+Zergkilla Average Deaths PerGame 1,33
+Zergkilla Average Infestation Class Class 1

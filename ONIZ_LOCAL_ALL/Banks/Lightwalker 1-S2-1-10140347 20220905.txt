@@ -1,0 +1,23 @@
+Lightwalker HumanWinsNormal 28
+Lightwalker ZombieRank 0.3332
+Lightwalker VespeneHarvested 118220
+Lightwalker HumansRescued 47
+Lightwalker SecurityForcesKilled 11551
+Lightwalker ZombiesKilled 35001
+Lightwalker FuelDiverted 104
+Lightwalker HumanRank 4.75
+Lightwalker NumberOfTimesCaptured 89
+Lightwalker TurretsBuilt 127
+Lightwalker ZombieWins 5
+Lightwalker GamesLeft 7
+Lightwalker GamesPlayedAsHuman 68
+Lightwalker GamesPlayedAsZombie 29
+Lightwalker HumansCaptured 198
+Lightwalker K/D Ratio 393,27
+Lightwalker Average Marine Winrate 41%
+Lightwalker Average Fuel Diverts PerGame 1,53
+Lightwalker Average Vespene Harvested PerGame 1738,53
+Lightwalker Average Zombie Winrate 17%
+Lightwalker Average Security Kills Per Game 398
+Lightwalker Average Deaths PerGame 1,31
+Lightwalker Average Infestation Class Class 4

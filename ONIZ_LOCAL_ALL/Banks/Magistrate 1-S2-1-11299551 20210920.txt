@@ -1,0 +1,23 @@
+Magistrate HumanWinsNormal 5
+Magistrate ZombieRank 0
+Magistrate VespeneHarvested 24900
+Magistrate HumansRescued 2
+Magistrate SecurityForcesKilled 736
+Magistrate ZombiesKilled 10034
+Magistrate FuelDiverted 1
+Magistrate HumanRank 2
+Magistrate NumberOfTimesCaptured 44
+Magistrate TurretsBuilt 81
+Magistrate ZombieWins 0
+Magistrate GamesLeft 3
+Magistrate GamesPlayedAsHuman 18
+Magistrate GamesPlayedAsZombie 3
+Magistrate HumansCaptured 14
+Magistrate K/D Ratio 228,05
+Magistrate Average Marine Winrate 28,000000000000004%
+Magistrate Average Fuel Diverts PerGame 0,06
+Magistrate Average Vespene Harvested PerGame 1383,33
+Magistrate Average Zombie Winrate 0%
+Magistrate Average Security Kills Per Game 245
+Magistrate Average Deaths PerGame 2,44
+Magistrate Average Infestation Class Class 3

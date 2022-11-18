@@ -1,0 +1,23 @@
+FlashCorp HumanWinsNormal 14
+FlashCorp ZombieRank 0
+FlashCorp VespeneHarvested 101860
+FlashCorp HumansRescued 20
+FlashCorp SecurityForcesKilled 0
+FlashCorp ZombiesKilled 15983
+FlashCorp FuelDiverted 5
+FlashCorp HumanRank 0.5
+FlashCorp NumberOfTimesCaptured 41
+FlashCorp TurretsBuilt 119
+FlashCorp ZombieWins 0
+FlashCorp GamesLeft 0
+FlashCorp GamesPlayedAsHuman 34
+FlashCorp GamesPlayedAsZombie 0
+FlashCorp HumansCaptured 0
+FlashCorp K/D Ratio 389,83
+FlashCorp Average Marine Winrate 41%
+FlashCorp Average Fuel Diverts PerGame 0,15
+FlashCorp Average Vespene Harvested PerGame 2995,88
+FlashCorp Average Zombie Winrate NaN%
+FlashCorp Average Security Kills Per Game NaN
+FlashCorp Average Deaths PerGame 1,21
+FlashCorp Average Infestation Class Class 1

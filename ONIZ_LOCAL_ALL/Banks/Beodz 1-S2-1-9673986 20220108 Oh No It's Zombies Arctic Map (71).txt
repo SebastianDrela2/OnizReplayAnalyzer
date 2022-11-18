@@ -1,0 +1,23 @@
+Beodz HumanWinsNormal 1
+Beodz ZombieRank 0
+Beodz VespeneHarvested 7100
+Beodz HumansRescued 0
+Beodz SecurityForcesKilled 0
+Beodz ZombiesKilled 1228
+Beodz FuelDiverted 0
+Beodz HumanRank 1
+Beodz NumberOfTimesCaptured 1
+Beodz TurretsBuilt 4
+Beodz ZombieWins 0
+Beodz GamesLeft 0
+Beodz GamesPlayedAsHuman 2
+Beodz GamesPlayedAsZombie 0
+Beodz HumansCaptured 0
+Beodz K/D Ratio 1228
+Beodz Average Marine Winrate 50%
+Beodz Average Fuel Diverts PerGame 0
+Beodz Average Vespene Harvested PerGame 3550
+Beodz Average Zombie Winrate NaN%
+Beodz Average Security Kills Per Game NaN
+Beodz Average Deaths PerGame 0,5
+Beodz Average Infestation Class Class 1

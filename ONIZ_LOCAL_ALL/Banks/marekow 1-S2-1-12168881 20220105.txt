@@ -1,0 +1,23 @@
+marekow HumanWinsNormal 11
+marekow ZombieRank 0
+marekow VespeneHarvested 67540
+marekow HumansRescued 13
+marekow SecurityForcesKilled 1455
+marekow ZombiesKilled 12489
+marekow FuelDiverted 36
+marekow HumanRank 1.5
+marekow NumberOfTimesCaptured 47
+marekow TurretsBuilt 88
+marekow ZombieWins 2
+marekow GamesLeft 1
+marekow GamesPlayedAsHuman 27
+marekow GamesPlayedAsZombie 3
+marekow HumansCaptured 30
+marekow K/D Ratio 265,72
+marekow Average Marine Winrate 41%
+marekow Average Fuel Diverts PerGame 1,33
+marekow Average Vespene Harvested PerGame 2501,48
+marekow Average Zombie Winrate 67%
+marekow Average Security Kills Per Game 485
+marekow Average Deaths PerGame 1,74
+marekow Average Infestation Class Class 5

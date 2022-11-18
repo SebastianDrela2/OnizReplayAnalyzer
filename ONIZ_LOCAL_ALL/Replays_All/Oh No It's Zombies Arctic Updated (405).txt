@@ -1,0 +1,28 @@
+Analyzed: Oh No It's Zombies Arctic Updated (405)
+
+ID : 0 PlayerName: Tin Race: Terran
+ID : 1 PlayerName: RyK Race: Zerg
+ID : 2 PlayerName: archdracon Race: Terran
+ID : 3 PlayerName: MarFly Race: Terran
+ID : 4 PlayerName: Frosky Race: Terran
+ID : 5 PlayerName: PartimeHero Race: Terran
+ID : 6 PlayerName: Zepherd Race: Terran
+ID : 7 PlayerName: Security Race: Terran
+RyK Zombie Win
+Private Lobby
+
+Game Length:[01:602]
+Players ammount: 8
+Marine rank avg: 25,166666666666668
+GrandMaster ammount: 7
+PURCHASES: 
+[00:588] Tin Unlocked AssaultRifle
+[00:552] RyK Bought PlayerNumber
+[00:588] archdracon Unlocked AssaultRifle
+[00:588] Frosky Unlocked AssaultRifle
+[00:588] PartimeHero Unlocked AssaultRifle
+[00:667] PartimeHero Placed/Upgraded MiningDroid
+[00:588] Zepherd Unlocked AssaultRifle
+
+RyK Placed 0 Greaters.
+--------------------------------

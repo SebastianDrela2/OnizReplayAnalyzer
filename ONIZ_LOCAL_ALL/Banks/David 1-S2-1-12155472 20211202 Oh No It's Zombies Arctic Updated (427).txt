@@ -1,0 +1,23 @@
+David HumanWinsNormal 0
+David ZombieRank 0
+David VespeneHarvested 17000
+David HumansRescued 3
+David SecurityForcesKilled 632
+David ZombiesKilled 3266
+David FuelDiverted 3
+David HumanRank 0
+David NumberOfTimesCaptured 27
+David TurretsBuilt 9
+David ZombieWins 2
+David GamesLeft 1
+David GamesPlayedAsHuman 11
+David GamesPlayedAsZombie 3
+David HumansCaptured 9
+David K/D Ratio 120,96
+David Average Marine Winrate 0%
+David Average Fuel Diverts PerGame 0,27
+David Average Vespene Harvested PerGame 1545,45
+David Average Zombie Winrate 67%
+David Average Security Kills Per Game 211
+David Average Deaths PerGame 2,45
+David Average Infestation Class Class 3

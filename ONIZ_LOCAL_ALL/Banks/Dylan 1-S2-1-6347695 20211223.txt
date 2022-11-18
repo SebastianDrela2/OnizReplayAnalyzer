@@ -1,0 +1,27 @@
+Dylan HumanWinsNormal 45
+Dylan LeftLastGameAsZombie 0
+Dylan ZombieRank 9
+Dylan PlayedRankedMode 1
+Dylan VespeneHarvested 443400
+Dylan HumansRescued 143
+Dylan SecurityForcesKilled 2340
+Dylan ZombiesKilled 73311
+Dylan FuelDiverted 573
+Dylan PlayedRankedMode5.0 1
+Dylan HumanRank 25.25
+Dylan NumberOfTimesCaptured 138
+Dylan TurretsBuilt 428
+Dylan ZombieWins 4
+Dylan GamesLeft 32
+Dylan GamesPlayedAsHuman 154
+Dylan GamesPlayedAsZombie 9
+Dylan HumansCaptured 10
+Dylan PlayedRankedMode2.0 1
+Dylan K/D Ratio 531,24
+Dylan Average Marine Winrate 28,999999999999996%
+Dylan Average Fuel Diverts PerGame 3,72
+Dylan Average Vespene Harvested PerGame 2879,22
+Dylan Average Zombie Winrate 44%
+Dylan Average Security Kills Per Game 260
+Dylan Average Deaths PerGame 0,9
+Dylan Average Infestation Class Class 3

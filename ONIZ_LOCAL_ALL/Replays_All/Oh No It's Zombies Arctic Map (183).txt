@@ -1,0 +1,33 @@
+Analyzed: Oh No It's Zombies Arctic Map (183)
+
+ID : 0 PlayerName: Frosky Race: Zerg
+ID : 1 PlayerName: marekow Race: Terran
+ID : 2 PlayerName: azlanthecat Race: Terran
+ID : 3 PlayerName: Ascherit Race: Terran
+ID : 4 PlayerName: RedReaperz Race: Terran
+ID : 5 PlayerName: dreamer Race: Terran
+ID : 6 PlayerName: BlackJack Race: Terran
+ID : 7 PlayerName: Security Race: Protoss
+Frosky Zombie Win
+Public Lobby
+
+Game Length:[01:852]
+Players ammount: 8
+Marine rank avg: 14
+GrandMaster ammount: 3
+PURCHASES: 
+[00:889] Frosky Spawned MassiveCocoon
+[00:572] marekow Unlocked AssaultRifle
+[00:651] marekow Placed/Upgraded MiningDroid
+[00:572] azlanthecat Unlocked AssaultRifle
+[00:572] Ascherit Unlocked AssaultRifle
+[00:651] Ascherit Placed/Upgraded MiningDroid
+[00:689] Ascherit Unlocked IncendiaryGrenade
+[00:572] RedReaperz Unlocked AssaultRifle
+[00:651] RedReaperz Placed/Upgraded MiningDroid
+[00:764] RedReaperz Unlocked AdvancedDroidEngines
+[00:572] dreamer Unlocked AssaultRifle
+[00:572] BlackJack Unlocked AssaultRifle
+
+Frosky Placed 0 Greaters.
+--------------------------------

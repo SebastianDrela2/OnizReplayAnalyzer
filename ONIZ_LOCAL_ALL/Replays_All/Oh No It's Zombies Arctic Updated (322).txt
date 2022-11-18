@@ -1,0 +1,127 @@
+Analyzed: Oh No It's Zombies Arctic Updated (322)
+
+ID : 0 PlayerName: BuildAWall Race: Terran
+ID : 1 PlayerName: sentryking Race: Terran
+ID : 2 PlayerName: Frosky Race: Zerg
+ID : 3 PlayerName: Lionbane Race: Terran
+ID : 4 PlayerName: Riptide Race: Terran
+ID : 5 PlayerName: WeWereKings Race: Terran
+ID : 6 PlayerName: BenAssflex Race: Terran
+ID : 7 PlayerName: Security Race: Infested Terran
+Frosky Zombie Loss
+Public Lobby
+
+Game Length:[49:137]
+Players ammount: 8
+Marine rank avg: 5,333333333333333
+GrandMaster ammount: 1
+PURCHASES: 
+[00:588] BuildAWall Unlocked AssaultRifle
+[00:808] BuildAWall Placed/Upgraded MiningDroid
+[01:151] BuildAWall Unlocked OverloadWeapon
+[03:044] BuildAWall Unlocked SpecOpsAssaultRifle
+[06:212] BuildAWall Unlocked AutoTargetingSystem
+[13:199] BuildAWall Unlocked HazmatSuit
+[13:925] BuildAWall Placed/Upgraded MiningDroid
+[00:588] sentryking Unlocked AssaultRifle
+[00:667] sentryking Placed MiningDroid
+[00:939] sentryking Unlocked PsiDisrupter
+[02:546] sentryking Unlocked PsiDepressor
+[04:043] sentryking Placed PsiIndoctrinator
+[05:397] sentryking Placed PsiIndoctrinator
+[08:799] sentryking Placed PsiIndoctrinator
+[10:502] sentryking Placed PsiIndoctrinator
+[13:200] sentryking Bought ShieldSuit
+[13:200] sentryking Bought CombatSuit
+[13:200] sentryking Bought HazmatSuit
+[13:200] sentryking Bought HazmatSuit
+[14:325] sentryking Unlocked SpecOpsPsiDisruptor
+[00:552] Frosky Bought PlayerNumber
+[00:867] Frosky Spawned MassiveCocoon
+[02:307] Frosky Spawned Hunter
+[03:137] Frosky Spawned MassiveCocoon
+[03:987] Frosky Placed/Upgraded ToxicNest
+[04:000] Frosky Placed/Upgraded ToxicNest
+[04:008] Frosky Placed/Upgraded ToxicNest
+[04:577] Frosky Spawned Hunter
+[05:306] Frosky Bought CreepSpeed
+[06:873] Frosky Placed/Upgraded ToxicNest
+[07:550] Frosky Spawned MassiveCocoon
+[08:590] Frosky Bought CreepSpeed
+[08:989] Frosky Spawned Anubalisk
+[09:980] Frosky Bought VirulentCreep
+[09:980] Frosky Bought VirulentCreep
+[13:213] Frosky Bought AdvancedInfestationContainment
+[13:799] Frosky Bought StrainSpeed
+[16:557] Frosky Bought PureStrainSpeed
+[16:566] Frosky Bought StrainSpeed
+[20:066] Frosky Bought PureStrainSpeed
+[20:074] Frosky Bought HunterlingStrain
+[22:891] Frosky Placed/Upgraded NydusCanalCreeper
+[24:465] Frosky Bought StrainDamage
+[24:474] Frosky Bought PureStrainDamage
+[24:487] Frosky Bought DefilerStrain
+[25:280] Frosky Bought UnlockDropPods
+[25:286] Frosky Bought EvolveDropPods
+[25:289] Frosky Bought EvolveDropPods
+[26:969] Frosky Bought StrainVolatile
+[28:912] Frosky Bought HunterlingStrain
+[29:748] Frosky Bought EvolveDropPods
+[30:420] Frosky Bought EvolveDropPods
+[31:638] Frosky Bought EvolveDropPods
+[32:879] Frosky Placed/Upgraded NydusCanalCreeper
+[33:148] Frosky Bought DropshipsFueled
+[33:556] Frosky Bought UltimateInfestationResearched
+[33:643] Frosky Bought StrainSpeed
+[33:651] Frosky Bought PureStrainSpeed
+[33:661] Frosky Bought HunterlingStrain
+[33:671] Frosky Bought PureStrainVolatile
+[33:681] Frosky Bought KaboomerStrain
+[33:750] Frosky Bought EvolveDropPods
+[34:428] Frosky Placed/Upgraded NydusCanalCreeper
+[34:669] Frosky Placed/Upgraded NydusCanalCreeper
+[36:708] Frosky Bought ConstructiveCreep
+[00:588] Lionbane Unlocked AssaultRifle
+[00:693] Lionbane Placed/Upgraded MiningDroid
+[00:902] Lionbane Unlocked FragGrenade
+[00:909] Lionbane Unlocked SpecOpsFragGrenade
+[03:271] Lionbane Unlocked AdvancedDroidEngines
+[05:903] Lionbane Unlocked TurboDroidEngines
+[12:622] Lionbane Placed/Upgraded MiningDroid
+[12:919] Lionbane Unlocked BeamRifle
+[15:199] Lionbane Unlocked SpecOpsPlasmaRifle
+[15:238] Lionbane Unlocked LongRangeScope
+[00:588] Riptide Unlocked AssaultRifle
+[00:810] Riptide Placed/Upgraded MiningDroid
+[02:916] Riptide Unlocked AdvancedDroidEngines
+[08:944] Riptide Unlocked BeamRifle
+[09:019] Riptide Placed/Upgraded MiningDroid
+[10:833] Riptide Unlocked SpecOpsPlasmaRifle
+[11:640] Riptide Unlocked MedicShield
+[12:926] Riptide Unlocked HazmatSuit
+[00:588] WeWereKings Unlocked AssaultRifle
+[00:852] WeWereKings Placed/Upgraded MiningDroid
+[01:272] WeWereKings Unlocked Shotgun
+[04:498] WeWereKings Unlocked SpecOpsShotgun
+[05:213] WeWereKings Unlocked CombatSuit
+[06:264] WeWereKings Unlocked AdvancedCombatSuit
+[12:927] WeWereKings Bought ShieldSuit
+[12:927] WeWereKings Bought CombatSuit
+[12:927] WeWereKings Bought HazmatSuit
+[12:927] WeWereKings Bought HazmatSuit
+[00:588] BenAssflex Unlocked AssaultRifle
+[01:741] BenAssflex Unlocked Stimpack
+[04:185] BenAssflex Unlocked AdvancedDroidEngines
+[05:214] BenAssflex Bought ShieldSuit
+[05:214] BenAssflex Bought CombatSuit
+[05:214] BenAssflex Bought HazmatSuit
+[05:214] BenAssflex Bought CombatSuit
+[06:265] BenAssflex Bought CombatSuit
+[11:139] BenAssflex Unlocked MotionSensor
+[12:451] BenAssflex Unlocked PsiDisrupter
+[15:132] BenAssflex Unlocked BeamRifle
+[16:231] BenAssflex Unlocked SpecOpsPlasmaRifle
+Frosky First Alpha Hunter |  Loss
+
+Frosky Placed 0 Greaters.
+--------------------------------

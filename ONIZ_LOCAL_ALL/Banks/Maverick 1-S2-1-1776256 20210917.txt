@@ -1,0 +1,23 @@
+Maverick HumanWinsNormal 14
+Maverick ZombieRank 0
+Maverick VespeneHarvested 76200
+Maverick HumansRescued 24
+Maverick SecurityForcesKilled 0
+Maverick ZombiesKilled 13325
+Maverick FuelDiverted 16
+Maverick HumanRank 8.3334
+Maverick NumberOfTimesCaptured 70
+Maverick TurretsBuilt 18
+Maverick ZombieWins 0
+Maverick GamesLeft 1
+Maverick GamesPlayedAsHuman 29
+Maverick GamesPlayedAsZombie 0
+Maverick HumansCaptured 0
+Maverick K/D Ratio 190,36
+Maverick Average Marine Winrate 48%
+Maverick Average Fuel Diverts PerGame 0,55
+Maverick Average Vespene Harvested PerGame 2627,59
+Maverick Average Zombie Winrate NaN%
+Maverick Average Security Kills Per Game NaN
+Maverick Average Deaths PerGame 2,41
+Maverick Average Infestation Class Class 1

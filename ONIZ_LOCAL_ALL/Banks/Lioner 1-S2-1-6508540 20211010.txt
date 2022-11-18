@@ -1,0 +1,23 @@
+Lioner HumanWinsNormal 4
+Lioner ZombieRank 0
+Lioner VespeneHarvested 46600
+Lioner HumansRescued 10
+Lioner SecurityForcesKilled 0
+Lioner ZombiesKilled 5654
+Lioner FuelDiverted 2
+Lioner HumanRank 0
+Lioner NumberOfTimesCaptured 24
+Lioner TurretsBuilt 60
+Lioner ZombieWins 0
+Lioner GamesLeft 7
+Lioner GamesPlayedAsZombie 3
+Lioner GamesPlayedAsHuman 20
+Lioner HumansCaptured 0
+Lioner K/D Ratio 235,58
+Lioner Average Marine Winrate 20%
+Lioner Average Fuel Diverts PerGame 0,1
+Lioner Average Vespene Harvested PerGame 2330
+Lioner Average Zombie Winrate 0%
+Lioner Average Security Kills Per Game 0
+Lioner Average Deaths PerGame 1,2
+Lioner Average Infestation Class Class 1

@@ -1,0 +1,23 @@
+Agnol HumanWinsNormal 5
+Agnol ZombieRank 0
+Agnol VespeneHarvested 29340
+Agnol HumansRescued 6
+Agnol SecurityForcesKilled 0
+Agnol ZombiesKilled 4968
+Agnol FuelDiverted 9
+Agnol HumanRank 2.5
+Agnol NumberOfTimesCaptured 9
+Agnol TurretsBuilt 68
+Agnol ZombieWins 0
+Agnol GamesLeft 0
+Agnol GamesPlayedAsHuman 9
+Agnol GamesPlayedAsZombie 0
+Agnol HumansCaptured 0
+Agnol K/D Ratio 552
+Agnol Average Marine Winrate 56,00000000000001%
+Agnol Average Fuel Diverts PerGame 1
+Agnol Average Vespene Harvested PerGame 3260
+Agnol Average Zombie Winrate NaN%
+Agnol Average Security Kills Per Game NaN
+Agnol Average Deaths PerGame 1
+Agnol Average Infestation Class Class 1

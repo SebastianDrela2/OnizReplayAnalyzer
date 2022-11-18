@@ -1,0 +1,23 @@
+zhuthepig HumanWinsNormal 5
+zhuthepig ZombieRank 0
+zhuthepig VespeneHarvested 39300
+zhuthepig HumansRescued 19
+zhuthepig SecurityForcesKilled 529
+zhuthepig ZombiesKilled 6070
+zhuthepig FuelDiverted 25
+zhuthepig HumanRank 5
+zhuthepig NumberOfTimesCaptured 33
+zhuthepig TurretsBuilt 29
+zhuthepig ZombieWins 0
+zhuthepig GamesLeft 0
+zhuthepig GamesPlayedAsHuman 12
+zhuthepig GamesPlayedAsZombie 1
+zhuthepig HumansCaptured 13
+zhuthepig K/D Ratio 183,94
+zhuthepig Average Marine Winrate 42%
+zhuthepig Average Fuel Diverts PerGame 2,08
+zhuthepig Average Vespene Harvested PerGame 3275
+zhuthepig Average Zombie Winrate 0%
+zhuthepig Average Security Kills Per Game 529
+zhuthepig Average Deaths PerGame 2,75
+zhuthepig Average Infestation Class Class 6

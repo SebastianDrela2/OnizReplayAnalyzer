@@ -1,0 +1,23 @@
+Gafe HumanWinsNormal 117
+Gafe ZombieRank 13.6628
+Gafe VespeneHarvested 503300
+Gafe HumansRescued 149
+Gafe SecurityForcesKilled 62326
+Gafe ZombiesKilled 190275
+Gafe FuelDiverted 1090
+Gafe HumanRank 22.2087
+Gafe NumberOfTimesCaptured 403
+Gafe TurretsBuilt 1049
+Gafe ZombieWins 63
+Gafe GamesLeft 1
+Gafe GamesPlayedAsHuman 226
+Gafe GamesPlayedAsZombie 138
+Gafe HumansCaptured 1422
+Gafe K/D Ratio 472,15
+Gafe Average Marine Winrate 52%
+Gafe Average Fuel Diverts PerGame 4,82
+Gafe Average Vespene Harvested PerGame 2226,99
+Gafe Average Zombie Winrate 46%
+Gafe Average Security Kills Per Game 452
+Gafe Average Deaths PerGame 1,78
+Gafe Average Infestation Class Class 5

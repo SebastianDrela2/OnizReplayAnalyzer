@@ -1,0 +1,23 @@
+Aaronsarmy HumanWinsNormal 0
+Aaronsarmy ZombieRank 0
+Aaronsarmy VespeneHarvested 3700
+Aaronsarmy HumansRescued 3
+Aaronsarmy SecurityForcesKilled 0
+Aaronsarmy ZombiesKilled 764
+Aaronsarmy FuelDiverted 0
+Aaronsarmy HumanRank 0
+Aaronsarmy NumberOfTimesCaptured 4
+Aaronsarmy TurretsBuilt 2
+Aaronsarmy ZombieWins 0
+Aaronsarmy GamesLeft 0
+Aaronsarmy GamesPlayedAsHuman 2
+Aaronsarmy GamesPlayedAsZombie 0
+Aaronsarmy HumansCaptured 0
+Aaronsarmy K/D Ratio 191
+Aaronsarmy Average Marine Winrate 0%
+Aaronsarmy Average Fuel Diverts PerGame 0
+Aaronsarmy Average Vespene Harvested PerGame 1850
+Aaronsarmy Average Zombie Winrate NaN%
+Aaronsarmy Average Security Kills Per Game NaN
+Aaronsarmy Average Deaths PerGame 2
+Aaronsarmy Average Infestation Class Class 1

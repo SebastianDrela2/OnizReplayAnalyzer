@@ -1,0 +1,23 @@
+VioletFemmes HumanWinsNormal 3
+VioletFemmes ZombieRank 0
+VioletFemmes VespeneHarvested 41300
+VioletFemmes HumansRescued 15
+VioletFemmes SecurityForcesKilled 0
+VioletFemmes ZombiesKilled 9912
+VioletFemmes FuelDiverted 64
+VioletFemmes HumanRank 0
+VioletFemmes NumberOfTimesCaptured 56
+VioletFemmes TurretsBuilt 27
+VioletFemmes ZombieWins 0
+VioletFemmes GamesLeft 11
+VioletFemmes GamesPlayedAsHuman 29
+VioletFemmes GamesPlayedAsZombie 5
+VioletFemmes HumansCaptured 0
+VioletFemmes K/D Ratio 177
+VioletFemmes Average Marine Winrate 10%
+VioletFemmes Average Fuel Diverts PerGame 2,21
+VioletFemmes Average Vespene Harvested PerGame 1424,14
+VioletFemmes Average Zombie Winrate 0%
+VioletFemmes Average Security Kills Per Game 0
+VioletFemmes Average Deaths PerGame 1,93
+VioletFemmes Average Infestation Class Class 1

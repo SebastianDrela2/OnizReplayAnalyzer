@@ -1,0 +1,23 @@
+RoLiNaD HumanWinsNormal 23
+RoLiNaD ZombieRank 0
+RoLiNaD VespeneHarvested 142100
+RoLiNaD HumansRescued 50
+RoLiNaD SecurityForcesKilled 16773
+RoLiNaD ZombiesKilled 20555
+RoLiNaD FuelDiverted 130
+RoLiNaD HumanRank 2
+RoLiNaD NumberOfTimesCaptured 131
+RoLiNaD TurretsBuilt 325
+RoLiNaD ZombieWins 8
+RoLiNaD GamesLeft 6
+RoLiNaD GamesPlayedAsHuman 65
+RoLiNaD GamesPlayedAsZombie 39
+RoLiNaD HumansCaptured 416
+RoLiNaD K/D Ratio 156,91
+RoLiNaD Average Marine Winrate 35%
+RoLiNaD Average Fuel Diverts PerGame 2
+RoLiNaD Average Vespene Harvested PerGame 2186,15
+RoLiNaD Average Zombie Winrate 21%
+RoLiNaD Average Security Kills Per Game 430
+RoLiNaD Average Deaths PerGame 2,02
+RoLiNaD Average Infestation Class Class 5

@@ -1,0 +1,186 @@
+Analyzed: Oh No It's Zombies Arctic Updated (539)
+
+ID : 0 PlayerName: BuildAWall Race: Terran
+ID : 1 PlayerName: RammusSaidOK Race: Terran
+ID : 2 PlayerName: Isoton Race: Terran
+ID : 3 PlayerName: WINNER Race: Terran
+ID : 4 PlayerName: doghead Race: Terran
+ID : 5 PlayerName: Frosky Race: Terran
+ID : 6 PlayerName: cheese Race: Zerg
+ID : 7 PlayerName: Security Race: Terran Tychus
+cheese Zombie Win
+Public Lobby
+
+Game Length:[33:158]
+Players ammount: 8
+Marine rank avg: 6,833333333333333
+GrandMaster ammount: 2
+PURCHASES: 
+[00:588] BuildAWall Unlocked AssaultRifle
+[00:667] BuildAWall Placed/Upgraded MiningDroid
+[00:806] BuildAWall Unlocked Shotgun
+[04:806] BuildAWall Unlocked SpecOpsShotgun
+[08:918] BuildAWall Unlocked Stimpack
+[09:344] BuildAWall Unlocked Shieldsiotunlocked
+[10:818] BuildAWall Placed/Upgraded MiningDroid
+[11:589] BuildAWall Unlocked AdvancedShieldSuit
+[13:595] BuildAWall Unlocked AutoTurret
+[13:801] BuildAWall Placed/Upgraded AutoTurret
+[13:990] BuildAWall Placed/Upgraded AutoTurret
+[14:177] BuildAWall Placed/Upgraded AutoTurret
+[17:367] BuildAWall Placed/Upgraded MiningDroid
+[18:063] BuildAWall Placed/Upgraded AutoTurret
+[18:235] BuildAWall Placed/Upgraded AutoTurret
+[18:419] BuildAWall Placed/Upgraded AutoTurret
+[18:597] BuildAWall Placed/Upgraded AutoTurret
+[19:994] BuildAWall Placed/Upgraded AutoTurret
+[20:517] BuildAWall Placed/Upgraded AutoTurret
+[22:504] BuildAWall Unlocked CloakingDevice
+[25:964] BuildAWall Unlocked MiningCharge
+[25:974] BuildAWall Unlocked AdvancedMiningCharge
+[26:331] BuildAWall Placed/Upgraded NukePack
+[26:639] BuildAWall Unlocked BioMechanicalRepairDrone
+[26:768] BuildAWall Placed/Upgraded HealingDrone
+[27:420] BuildAWall Placed/Upgraded HealingDrone
+[28:088] BuildAWall Placed/Upgraded HealingDrone
+[29:032] BuildAWall Placed/Upgraded NukePack
+[31:109] BuildAWall Unlocked IncendiaryBullets
+[32:597] BuildAWall Placed/Upgraded NukePack
+[00:588] RammusSaidOK Unlocked AssaultRifle
+[00:667] RammusSaidOK Placed/Upgraded MiningDroid
+[00:772] RammusSaidOK Unlocked AdvancedDroidEngines
+[07:250] RammusSaidOK Unlocked TurboDroidEngines
+[09:345] RammusSaidOK Bought ShieldSuit
+[09:345] RammusSaidOK Bought CombatSuit
+[09:345] RammusSaidOK Bought HazmatSuit
+[09:345] RammusSaidOK Bought ShieldSuit
+[09:870] RammusSaidOK Unlocked SpecOpsAssaultRifle
+[11:155] RammusSaidOK Unlocked TitaniumBulletCasings
+[11:590] RammusSaidOK Bought ShieldSuit
+[17:126] RammusSaidOK Unlocked CombatSuit
+[17:155] RammusSaidOK Unlocked AdvancedCombatSuit
+[20:763] RammusSaidOK Placed/Upgraded MiningDroid
+[24:565] RammusSaidOK Unlocked OverloadWeapon
+[30:753] RammusSaidOK Unlocked MiningCharge
+[30:874] RammusSaidOK Placed/Upgraded NukePack
+[00:588] Isoton Unlocked AssaultRifle
+[04:695] Isoton Unlocked HellfireRocketLauncher
+[05:147] Isoton Unlocked Shieldsiotunlocked
+[12:595] Isoton Placed/Upgraded MiningDroid
+[17:127] Isoton Bought ShieldSuit
+[17:127] Isoton Bought CombatSuit
+[17:127] Isoton Bought HazmatSuit
+[17:127] Isoton Bought CombatSuit
+[17:156] Isoton Bought CombatSuit
+[18:003] Isoton Unlocked SpecOpsHellfireRocketLauncher
+[18:548] Isoton Unlocked AdvancedShieldSuit
+[00:588] WINNER Unlocked AssaultRifle
+[05:148] WINNER Bought ShieldSuit
+[05:148] WINNER Bought CombatSuit
+[05:148] WINNER Bought HazmatSuit
+[05:148] WINNER Bought ShieldSuit
+[09:529] WINNER Placed/Upgraded MiningDroid
+[18:549] WINNER Bought ShieldSuit
+[00:588] doghead Unlocked AssaultRifle
+[00:938] doghead Placed/Upgraded MiningDroid
+[02:234] doghead Unlocked AdvancedDroidEngines
+[03:034] doghead Unlocked ExplorationDroid
+[06:300] doghead Unlocked Shieldsiotunlocked
+[06:437] doghead Unlocked AdvancedShieldSuit
+[08:479] doghead Unlocked HazmatSuit
+[11:154] doghead Unlocked BeamRifle
+[12:331] doghead Unlocked SpecOpsPlasmaRifle
+[13:860] doghead Unlocked CorrosivePlasma
+[14:321] doghead Unlocked LongRangeScope
+[19:084] doghead Placed/Upgraded MiningDroid
+[30:183] doghead Unlocked PlasmaRifleMod3
+[30:414] doghead Placed/Upgraded ExplorationDroid
+[30:452] doghead Placed/Upgraded ExplorationDroid
+[30:579] doghead Unlocked AdvancedExplorationDroid
+[00:588] Frosky Unlocked AssaultRifle
+[00:667] Frosky Placed/Upgraded MiningDroid
+[00:718] Frosky Unlocked Shotgun
+[03:736] Frosky Unlocked SpecOpsShotgun
+[06:301] Frosky Bought ShieldSuit
+[06:301] Frosky Bought CombatSuit
+[06:301] Frosky Bought HazmatSuit
+[06:301] Frosky Bought ShieldSuit
+[06:438] Frosky Bought ShieldSuit
+[08:480] Frosky Bought ShieldSuit
+[08:480] Frosky Bought CombatSuit
+[08:480] Frosky Bought HazmatSuit
+[08:480] Frosky Bought HazmatSuit
+[08:827] Frosky Bought ShieldSuit
+[08:827] Frosky Bought CombatSuit
+[08:827] Frosky Bought HazmatSuit
+[08:827] Frosky Bought AdvancedShieldSuit
+[08:898] Frosky Unlocked Stimpack
+[09:877] Frosky Unlocked MedicShield
+[10:368] Frosky Unlocked HighPrecisionBeams
+[12:235] Frosky Unlocked SuperStimpack
+[17:194] Frosky Unlocked ExplorationDroid
+[17:243] Frosky Placed/Upgraded ExplorationDroid
+[17:246] Frosky Placed/Upgraded ExplorationDroid
+[17:415] Frosky Placed/Upgraded ExplorationDroid
+[20:910] Frosky Unlocked BioMechanicalRepairDrone
+[29:035] Frosky Unlocked HazmatSuit
+[31:444] Frosky Placed/Upgraded HealingDrone
+[00:552] cheese Bought PlayerNumber
+[00:856] cheese Bought SunkenColony
+[01:096] cheese Spawned MassiveCocoon
+[02:536] cheese Spawned Hunter
+[03:835] cheese Bought RegenerativeCreep
+[05:093] cheese Bought VirulentCreep
+[05:093] cheese Bought VirulentCreep
+[06:265] cheese Bought RegenerativeCreep
+[07:684] cheese Bought CreepSpeed
+[10:077] cheese Bought SunkenColony
+[10:914] cheese Bought StrainVolatile
+[13:501] cheese Bought UnlockDropPods
+[14:801] cheese Bought BuildExtractorProcessingFacilities
+[16:658] cheese Bought ExtractorCostReductionProcessingFacilities
+[16:658] cheese Bought BuildExtractorProcessingFacilities
+[16:674] cheese Bought PureStrainVolatile
+[16:839] cheese Bought BuildExtractorManufacturingSector
+[17:640] cheese Bought KaboomerStrain
+[18:531] cheese Bought BuildExtractorScienceLabs
+[19:657] cheese Bought BuildExtractorScienceLabs
+[20:125] cheese Bought StrainSpeed
+[20:860] cheese Bought PureStrainSpeed
+[21:568] cheese Bought EvolveDropPods
+[21:574] cheese Bought EvolveDropPods
+[23:574] cheese Bought SpawnNydusWorm
+[23:937] cheese Bought AdvancedPowerInfestation
+[24:765] cheese Bought AdvancedInfestationSecurity
+[24:995] cheese Bought TrackHumans
+[25:548] cheese Bought DropshipsFueled
+[25:565] cheese Bought HunterlingStrain
+[25:824] cheese Bought UltimateInfestationResearched
+[26:410] cheese Bought EvolveDropPods
+[26:413] cheese Bought EvolveDropPods
+[26:417] cheese Bought EvolveDropPods
+[26:422] cheese Bought EvolveDropPods
+[27:281] cheese Spawned MassiveCocoon
+[27:439] cheese Bought SunkenColony
+[27:533] cheese Bought StrainHealth
+[28:361] cheese Spawned Underseer
+[28:444] cheese Bought SunkenColony
+[29:036] cheese Bought ShieldSuit
+[29:036] cheese Bought CombatSuit
+[29:036] cheese Bought HazmatSuit
+[29:036] cheese Bought HazmatSuit
+[29:698] cheese Bought PureStrainHealth
+[29:706] cheese Bought TankStrain
+[30:511] cheese Bought GreaterNydus
+[31:031] cheese Bought GreaterNydus
+[31:068] cheese Bought StrainDamage
+[31:080] cheese Bought PureStrainDamage
+[31:091] cheese Bought DefilerStrain
+[31:438] cheese Bought GreaterNydus
+[31:892] cheese Bought StrainSpeed
+[32:827] cheese Bought GreaterNydus
+[33:092] cheese Bought PureStrainSpeed
+cheese First Alpha Hunter |  Win
+
+cheese Placed 0 Greaters.
+--------------------------------

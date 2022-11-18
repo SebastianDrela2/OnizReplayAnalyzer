@@ -1,0 +1,23 @@
+RustedRoot HumanWinsNormal 1
+RustedRoot ZombieRank 0
+RustedRoot VespeneHarvested 3800
+RustedRoot HumansRescued 2
+RustedRoot SecurityForcesKilled 0
+RustedRoot ZombiesKilled 891
+RustedRoot FuelDiverted 11
+RustedRoot HumanRank 1
+RustedRoot NumberOfTimesCaptured 5
+RustedRoot TurretsBuilt 0
+RustedRoot ZombieWins 0
+RustedRoot GamesLeft 0
+RustedRoot GamesPlayedAsHuman 2
+RustedRoot GamesPlayedAsZombie 0
+RustedRoot HumansCaptured 0
+RustedRoot K/D Ratio 178,2
+RustedRoot Average Marine Winrate 50%
+RustedRoot Average Fuel Diverts PerGame 5,5
+RustedRoot Average Vespene Harvested PerGame 1900
+RustedRoot Average Zombie Winrate NaN%
+RustedRoot Average Security Kills Per Game NaN
+RustedRoot Average Deaths PerGame 2,5
+RustedRoot Average Infestation Class Class 1

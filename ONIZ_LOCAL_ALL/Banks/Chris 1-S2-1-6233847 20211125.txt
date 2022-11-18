@@ -1,0 +1,23 @@
+Chris HumanWinsNormal 0
+Chris ZombieRank 0
+Chris VespeneHarvested 4700
+Chris HumansRescued 3
+Chris SecurityForcesKilled 0
+Chris ZombiesKilled 279
+Chris FuelDiverted 0
+Chris HumanRank 0
+Chris NumberOfTimesCaptured 15
+Chris TurretsBuilt 1
+Chris ZombieWins 0
+Chris GamesLeft 0
+Chris GamesPlayedAsHuman 3
+Chris GamesPlayedAsZombie 0
+Chris HumansCaptured 0
+Chris K/D Ratio 18,6
+Chris Average Marine Winrate 0%
+Chris Average Fuel Diverts PerGame 0
+Chris Average Vespene Harvested PerGame 1566,67
+Chris Average Zombie Winrate NaN%
+Chris Average Security Kills Per Game NaN
+Chris Average Deaths PerGame 5
+Chris Average Infestation Class Class 1

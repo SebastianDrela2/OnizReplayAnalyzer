@@ -1,0 +1,53 @@
+Analyzed: Oh No It's Zombies Arctic Map (264)
+
+ID : 0 PlayerName: Frosky Race: Terran
+ID : 7 PlayerName: Security Race: Terran Tychus
+ Zombie Win
+Public Lobby
+
+Game Length:[15:808]
+Players ammount: 2
+Marine rank avg: 0,3333333333333333
+GrandMaster ammount: 1
+PURCHASES: 
+[00:572] Frosky Unlocked AssaultRifle
+[00:832] Frosky Unlocked ArcWelder
+[04:616] Frosky Unlocked Stimpack
+[04:636] Frosky Unlocked CombatSuit
+[04:637] Frosky Unlocked ShieldSuit
+[04:637] Frosky Unlocked AdvancedShieldSuit
+[04:637] Frosky Unlocked CombatSuit
+[04:637] Frosky Unlocked AdvancedCombatSuit
+[04:637] Frosky Unlocked HazmatSuit
+[04:637] Frosky Unlocked AdvancedHazmatSuit
+[04:637] Frosky Unlocked CombatSuit
+[04:643] Frosky Unlocked AdvancedCombatSuit
+[04:644] Frosky Unlocked CombatSuit
+[04:644] Frosky Unlocked AdvancedCombatSuit
+[04:671] Frosky Unlocked AIAssistant
+[04:673] Frosky Unlocked CombatShield
+[09:404] Frosky Unlocked MotionSensor
+[09:516] Frosky Placed/Upgraded SensorTower
+[09:689] Frosky Unlocked AdvancedMotionSensor
+[11:327] Frosky Unlocked AutoTurret
+[11:355] Frosky Unlocked FlameTurret
+[11:541] Frosky Placed/Upgraded AutoTurret
+[11:812] Frosky Unlocked QuantumBackpack
+[11:841] Frosky Unlocked BioMechanicalRepairDrone
+[11:854] Frosky Unlocked SpecOpsBioMechanicalRepairDrone
+[11:923] Frosky Placed/Upgraded HealingDrone
+[12:064] Frosky Placed/Upgraded AutoTurret
+[12:354] Frosky Placed/Upgraded AutoTurret
+[12:507] Frosky Placed/Upgraded AutoTurret
+[12:664] Frosky Placed/Upgraded AutoTurret
+[12:797] Frosky Placed/Upgraded HealingDrone
+[13:148] Frosky Placed/Upgraded AutoTurret
+[13:359] Frosky Placed/Upgraded AutoTurret
+[13:492] Frosky Placed/Upgraded AutoTurret
+[13:730] Frosky Placed/Upgraded AutoTurret
+[14:122] Frosky Placed/Upgraded AutoTurret
+[14:753] Frosky Placed/Upgraded AutoTurret
+[15:057] Frosky Placed/Upgraded AutoTurret
+
+ Placed 0 Greaters.
+--------------------------------

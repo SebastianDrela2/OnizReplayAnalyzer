@@ -1,0 +1,23 @@
+Dodikdov HumanWinsNormal 3
+Dodikdov ZombieRank 0
+Dodikdov VespeneHarvested 10800
+Dodikdov HumansRescued 1
+Dodikdov SecurityForcesKilled 0
+Dodikdov ZombiesKilled 3284
+Dodikdov FuelDiverted 15
+Dodikdov HumanRank 7
+Dodikdov NumberOfTimesCaptured 15
+Dodikdov TurretsBuilt 41
+Dodikdov ZombieWins 0
+Dodikdov GamesLeft 1
+Dodikdov GamesPlayedAsHuman 7
+Dodikdov GamesPlayedAsZombie 0
+Dodikdov HumansCaptured 0
+Dodikdov K/D Ratio 218,93
+Dodikdov Average Marine Winrate 43%
+Dodikdov Average Fuel Diverts PerGame 2,14
+Dodikdov Average Vespene Harvested PerGame 1542,86
+Dodikdov Average Zombie Winrate NaN%
+Dodikdov Average Security Kills Per Game NaN
+Dodikdov Average Deaths PerGame 2,14
+Dodikdov Average Infestation Class Class 1

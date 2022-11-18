@@ -1,0 +1,23 @@
+Clara HumanWinsNormal 4
+Clara ZombieRank 0
+Clara VespeneHarvested 22900
+Clara HumansRescued 17
+Clara SecurityForcesKilled 0
+Clara ZombiesKilled 5672
+Clara FuelDiverted 28
+Clara HumanRank 3.1
+Clara NumberOfTimesCaptured 17
+Clara TurretsBuilt 42
+Clara ZombieWins 0
+Clara GamesLeft 0
+Clara GamesPlayedAsHuman 12
+Clara GamesPlayedAsZombie 0
+Clara HumansCaptured 0
+Clara K/D Ratio 333,65
+Clara Average Marine Winrate 33%
+Clara Average Fuel Diverts PerGame 2,33
+Clara Average Vespene Harvested PerGame 1908,33
+Clara Average Zombie Winrate NaN%
+Clara Average Security Kills Per Game NaN
+Clara Average Deaths PerGame 1,42
+Clara Average Infestation Class Class 1

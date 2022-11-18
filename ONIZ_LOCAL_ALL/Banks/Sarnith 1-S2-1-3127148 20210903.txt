@@ -1,0 +1,23 @@
+Sarnith HumanWinsNormal 46
+Sarnith ZombieRank 2.5
+Sarnith VespeneHarvested 196500
+Sarnith HumansRescued 36
+Sarnith SecurityForcesKilled 2890
+Sarnith ZombiesKilled 37867
+Sarnith FuelDiverted 90
+Sarnith HumanRank 23.5
+Sarnith NumberOfTimesCaptured 52
+Sarnith TurretsBuilt 532
+Sarnith ZombieWins 1
+Sarnith GamesLeft 2
+Sarnith GamesPlayedAsHuman 74
+Sarnith GamesPlayedAsZombie 6
+Sarnith HumansCaptured 58
+Sarnith K/D Ratio 728,21
+Sarnith Average Marine Winrate 62%
+Sarnith Average Fuel Diverts PerGame 1,22
+Sarnith Average Vespene Harvested PerGame 2655,41
+Sarnith Average Zombie Winrate 17%
+Sarnith Average Security Kills Per Game 482
+Sarnith Average Deaths PerGame 0,7
+Sarnith Average Infestation Class Class 5

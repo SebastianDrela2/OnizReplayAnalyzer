@@ -1,0 +1,23 @@
+LAvergePOILU HumanWinsNormal 0
+LAvergePOILU ZombieRank 0
+LAvergePOILU VespeneHarvested 2700
+LAvergePOILU HumansRescued 0
+LAvergePOILU SecurityForcesKilled 0
+LAvergePOILU ZombiesKilled 749
+LAvergePOILU FuelDiverted 0
+LAvergePOILU HumanRank 0
+LAvergePOILU NumberOfTimesCaptured 10
+LAvergePOILU TurretsBuilt 4
+LAvergePOILU ZombieWins 0
+LAvergePOILU GamesLeft 0
+LAvergePOILU GamesPlayedAsHuman 2
+LAvergePOILU GamesPlayedAsZombie 0
+LAvergePOILU HumansCaptured 0
+LAvergePOILU K/D Ratio 74,9
+LAvergePOILU Average Marine Winrate 0%
+LAvergePOILU Average Fuel Diverts PerGame 0
+LAvergePOILU Average Vespene Harvested PerGame 1350
+LAvergePOILU Average Zombie Winrate NaN%
+LAvergePOILU Average Security Kills Per Game NaN
+LAvergePOILU Average Deaths PerGame 5
+LAvergePOILU Average Infestation Class Class 1

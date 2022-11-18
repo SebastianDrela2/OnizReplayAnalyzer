@@ -1,0 +1,23 @@
+Zerker HumanWinsNormal 0
+Zerker ZombieRank 0
+Zerker VespeneHarvested 0
+Zerker HumansRescued 0
+Zerker SecurityForcesKilled 0
+Zerker ZombiesKilled 0
+Zerker FuelDiverted 0
+Zerker HumanRank 0
+Zerker NumberOfTimesCaptured 0
+Zerker TurretsBuilt 0
+Zerker ZombieWins 0
+Zerker GamesLeft 0
+Zerker GamesPlayedAsHuman 0
+Zerker GamesPlayedAsZombie 0
+Zerker HumansCaptured 0
+Zerker K/D Ratio NaN
+Zerker Average Marine Winrate NaN%
+Zerker Average Fuel Diverts PerGame NaN
+Zerker Average Vespene Harvested PerGame NaN
+Zerker Average Zombie Winrate NaN%
+Zerker Average Security Kills Per Game NaN
+Zerker Average Deaths PerGame NaN
+Zerker Average Infestation Class Class 1

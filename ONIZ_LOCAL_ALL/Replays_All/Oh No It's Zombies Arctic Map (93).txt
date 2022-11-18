@@ -1,0 +1,94 @@
+Analyzed: Oh No It's Zombies Arctic Map (93)
+
+ID : 0 PlayerName: Frosky Race: Zerg
+ID : 0 PlayerName: JJP Race: Terran
+ID : 0 PlayerName: SkyJio Race: Terran
+ID : 0 PlayerName: Leviathan Race: Terran
+ID : 0 PlayerName: spike Race: Terran
+ID : 0 PlayerName: RichPrez Race: Terran
+ID : 0 PlayerName: PanAsh Race: Terran
+ID : 0 PlayerName: Security Race: Infested Terran
+Frosky Zombie Loss
+Public Lobby
+
+Game Length:[10:354]
+Players ammount: 8
+Marine rank avg: 0
+GrandMaster ammount: 0
+PURCHASES: 
+[01:673] Frosky Spawned MassiveCocoon
+[03:113] Frosky Spawned Hunter
+[04:007] Frosky Bought BuildExtractorExcavationZone
+[04:007] Frosky Placed/Upgraded AutomatedExtractor
+[04:570] Frosky Bought CreepSpeed
+[05:638] Frosky Bought UnlockDropPods
+[06:204] Frosky Bought EvolveDropPods
+[06:207] Frosky Bought EvolveDropPods
+[06:557] Frosky Bought EvolveDropPods
+[07:440] Frosky Bought EvolveDropPods
+[07:443] Frosky Bought EvolveDropPods
+[07:446] Frosky Bought EvolveDropPods
+[00:572]  Unlocked AssaultRifle
+[00:667]  Placed/Upgraded MiningDroid
+[00:824]  Unlocked BioMechanicalRepairDrone
+[00:836]  Unlocked CombatAccelerationDrone
+[01:074]  Placed/Upgraded HealingDrone
+[01:502]  Placed/Upgraded HealingDrone
+[01:752]  Placed/Upgraded HealingDrone
+[02:472]  Placed/Upgraded HealingDrone
+[04:405]  Unlocked ArcWelder
+[05:788]  Unlocked Stimpack
+[06:370]  Unlocked AdvancedDroidEngines
+[06:774]  Unlocked MotionSensor
+[07:148]  Placed/Upgraded SensorTower
+[00:572]  Unlocked AssaultRifle
+[01:243]  Placed/Upgraded MiningDroid
+[06:760]  Unlocked CombatSuit
+[06:761]  Unlocked ShieldSuit
+[06:761]  Unlocked AdvancedShieldSuit
+[06:761]  Unlocked CombatSuit
+[06:761]  Unlocked AdvancedCombatSuit
+[06:761]  Unlocked HazmatSuit
+[06:761]  Unlocked AdvancedHazmatSuit
+[06:761]  Unlocked CombatSuit
+[07:868]  Unlocked SpecOpsAssaultRifle
+[00:572]  Unlocked AssaultRifle
+[00:572]  Unlocked AssaultRifle
+[00:694]  Placed/Upgraded MiningDroid
+[00:765]  Unlocked AdvancedDroidEngines
+[00:846]  Unlocked IncendiaryGrenade
+[03:513]  Unlocked Stimpack
+[04:491]  Unlocked SpecOpsAssaultRifle
+[06:358]  Unlocked AutoTargetingSystem
+[06:508]  Unlocked HazmatSuit
+[06:509]  Unlocked ShieldSuit
+[06:509]  Unlocked AdvancedShieldSuit
+[06:509]  Unlocked CombatSuit
+[06:509]  Unlocked AdvancedCombatSuit
+[06:509]  Unlocked HazmatSuit
+[06:509]  Unlocked AdvancedHazmatSuit
+[06:509]  Unlocked HazmatSuit
+[06:540]  Unlocked AdvancedHazmatSuit
+[06:541]  Unlocked HazmatSuit
+[06:541]  Unlocked AdvancedHazmatSuit
+[07:763]  Unlocked BioMechanicalRepairDrone
+[07:779]  Unlocked SpecOpsBioMechanicalRepairDrone
+[07:846]  Placed/Upgraded HealingDrone
+[08:031]  Placed/Upgraded HealingDrone
+[00:572]  Unlocked AssaultRifle
+[01:375]  Unlocked SpecOpsAssaultRifle
+[05:950]  Unlocked AutoTargetingSystem
+[06:892]  Unlocked Shieldsiotunlocked
+[06:893]  Unlocked ShieldSuit
+[06:893]  Unlocked AdvancedShieldSuit
+[06:893]  Unlocked CombatSuit
+[06:893]  Unlocked AdvancedCombatSuit
+[06:893]  Unlocked HazmatSuit
+[06:893]  Unlocked AdvancedHazmatSuit
+[06:893]  Unlocked ShieldSuit
+[07:398]  Unlocked IncendiaryGrenade
+[07:414]  Unlocked SpecOpsIncendiaryGrenade
+Frosky First Alpha Hunter |  Loss
+
+Frosky Placed 0 Greaters.
+--------------------------------

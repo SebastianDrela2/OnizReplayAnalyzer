@@ -1,0 +1,23 @@
+PokieZombie HumanWinsNormal 19
+PokieZombie ZombieRank 0
+PokieZombie VespeneHarvested 76000
+PokieZombie HumansRescued 18
+PokieZombie SecurityForcesKilled 492
+PokieZombie ZombiesKilled 14025
+PokieZombie FuelDiverted 85
+PokieZombie HumanRank 7.7917
+PokieZombie NumberOfTimesCaptured 28
+PokieZombie TurretsBuilt 91
+PokieZombie ZombieWins 1
+PokieZombie GamesLeft 14
+PokieZombie GamesPlayedAsHuman 39
+PokieZombie GamesPlayedAsZombie 2
+PokieZombie HumansCaptured 1
+PokieZombie K/D Ratio 500,89
+PokieZombie Average Marine Winrate 49%
+PokieZombie Average Fuel Diverts PerGame 2,18
+PokieZombie Average Vespene Harvested PerGame 1948,72
+PokieZombie Average Zombie Winrate 50%
+PokieZombie Average Security Kills Per Game 246
+PokieZombie Average Deaths PerGame 0,72
+PokieZombie Average Infestation Class Class 3

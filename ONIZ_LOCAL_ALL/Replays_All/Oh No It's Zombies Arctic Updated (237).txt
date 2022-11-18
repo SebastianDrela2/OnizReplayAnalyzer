@@ -1,0 +1,15 @@
+Analyzed: Oh No It's Zombies Arctic Updated (237)
+
+ID : 0 PlayerName: Frosky Race: Zerg
+ID : 7 PlayerName: Security Race: MechaZerg
+Frosky Zombie Win
+Public Lobby
+
+Game Length:[01:240]
+Players ammount: 2
+Marine rank avg: 2,6666666666666665
+GrandMaster ammount: 1
+PURCHASES: 
+
+Frosky Placed 0 Greaters.
+--------------------------------

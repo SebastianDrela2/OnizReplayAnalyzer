@@ -1,0 +1,23 @@
+Montronizon HumanWinsNormal 22
+Montronizon ZombieRank 10.333
+Montronizon VespeneHarvested 62200
+Montronizon HumansRescued 38
+Montronizon SecurityForcesKilled 4649
+Montronizon ZombiesKilled 25953
+Montronizon FuelDiverted 50
+Montronizon HumanRank 3
+Montronizon NumberOfTimesCaptured 30
+Montronizon TurretsBuilt 223
+Montronizon ZombieWins 9
+Montronizon GamesLeft 20
+Montronizon GamesPlayedAsHuman 51
+Montronizon GamesPlayedAsZombie 12
+Montronizon HumansCaptured 98
+Montronizon K/D Ratio 865,1
+Montronizon Average Marine Winrate 43%
+Montronizon Average Fuel Diverts PerGame 0,98
+Montronizon Average Vespene Harvested PerGame 1219,61
+Montronizon Average Zombie Winrate 75%
+Montronizon Average Security Kills Per Game 387
+Montronizon Average Deaths PerGame 0,59
+Montronizon Average Infestation Class Class 4

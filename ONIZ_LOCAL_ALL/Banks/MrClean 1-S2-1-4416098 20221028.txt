@@ -1,0 +1,23 @@
+MrClean HumanWinsNormal 6
+MrClean ZombieRank 0
+MrClean VespeneHarvested 37760
+MrClean HumansRescued 4
+MrClean SecurityForcesKilled 0
+MrClean ZombiesKilled 6613
+MrClean FuelDiverted 42
+MrClean HumanRank 9
+MrClean NumberOfTimesCaptured 13
+MrClean TurretsBuilt 50
+MrClean ZombieWins 0
+MrClean GamesLeft 0
+MrClean GamesPlayedAsHuman 11
+MrClean GamesPlayedAsZombie 0
+MrClean HumansCaptured 0
+MrClean K/D Ratio 508,69
+MrClean Average Marine Winrate 55,00000000000001%
+MrClean Average Fuel Diverts PerGame 3,82
+MrClean Average Vespene Harvested PerGame 3432,73
+MrClean Average Zombie Winrate NaN%
+MrClean Average Security Kills Per Game NaN
+MrClean Average Deaths PerGame 1,18
+MrClean Average Infestation Class Class 1

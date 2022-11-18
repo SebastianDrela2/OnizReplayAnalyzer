@@ -1,0 +1,25 @@
+FantomGhost HumanWinsNormal 7
+FantomGhost LeftLastGameAsZombie 0
+FantomGhost ZombieRank 0
+FantomGhost VespeneHarvested 45400
+FantomGhost HumansRescued 20
+FantomGhost SecurityForcesKilled 1066
+FantomGhost ZombiesKilled 13157
+FantomGhost FuelDiverted 137
+FantomGhost PlayedRankedMode5.0 1
+FantomGhost HumanRank 0
+FantomGhost NumberOfTimesCaptured 53
+FantomGhost TurretsBuilt 167
+FantomGhost ZombieWins 1
+FantomGhost GamesLeft 2
+FantomGhost GamesPlayedAsHuman 27
+FantomGhost GamesPlayedAsZombie 3
+FantomGhost HumansCaptured 13
+FantomGhost K/D Ratio 248,25
+FantomGhost Average Marine Winrate 26%
+FantomGhost Average Fuel Diverts PerGame 5,07
+FantomGhost Average Vespene Harvested PerGame 1681,48
+FantomGhost Average Zombie Winrate 33%
+FantomGhost Average Security Kills Per Game 355
+FantomGhost Average Deaths PerGame 1,96
+FantomGhost Average Infestation Class Class 4

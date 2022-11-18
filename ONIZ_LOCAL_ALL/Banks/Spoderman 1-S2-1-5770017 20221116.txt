@@ -1,0 +1,23 @@
+Spoderman HumanWinsNormal 0
+Spoderman ZombieRank 0
+Spoderman VespeneHarvested 0
+Spoderman HumansRescued 0
+Spoderman SecurityForcesKilled 0
+Spoderman ZombiesKilled 0
+Spoderman FuelDiverted 0
+Spoderman HumanRank 0
+Spoderman NumberOfTimesCaptured 0
+Spoderman TurretsBuilt 0
+Spoderman ZombieWins 0
+Spoderman GamesLeft 0
+Spoderman GamesPlayedAsHuman 0
+Spoderman GamesPlayedAsZombie 0
+Spoderman HumansCaptured 0
+Spoderman K/D Ratio NaN
+Spoderman Average Marine Winrate NaN%
+Spoderman Average Fuel Diverts PerGame NaN
+Spoderman Average Vespene Harvested PerGame NaN
+Spoderman Average Zombie Winrate NaN%
+Spoderman Average Security Kills Per Game NaN
+Spoderman Average Deaths PerGame NaN
+Spoderman Average Infestation Class Class 1

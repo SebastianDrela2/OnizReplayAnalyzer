@@ -1,0 +1,23 @@
+Descent HumanWinsNormal 75
+Descent ZombieRank 0
+Descent VespeneHarvested 434100
+Descent HumansRescued 63
+Descent SecurityForcesKilled 0
+Descent ZombiesKilled 99947
+Descent FuelDiverted 151
+Descent HumanRank 8
+Descent NumberOfTimesCaptured 200
+Descent TurretsBuilt 1612
+Descent ZombieWins 0
+Descent GamesLeft 5
+Descent GamesPlayedAsHuman 146
+Descent GamesPlayedAsZombie 0
+Descent HumansCaptured 0
+Descent K/D Ratio 499,74
+Descent Average Marine Winrate 51%
+Descent Average Fuel Diverts PerGame 1,03
+Descent Average Vespene Harvested PerGame 2973,29
+Descent Average Zombie Winrate NaN%
+Descent Average Security Kills Per Game NaN
+Descent Average Deaths PerGame 1,37
+Descent Average Infestation Class Class 1

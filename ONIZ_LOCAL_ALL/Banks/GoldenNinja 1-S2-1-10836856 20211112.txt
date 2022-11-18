@@ -1,0 +1,23 @@
+GoldenNinja HumanWinsNormal 4
+GoldenNinja ZombieRank 0
+GoldenNinja VespeneHarvested 22600
+GoldenNinja HumansRescued 6
+GoldenNinja SecurityForcesKilled 0
+GoldenNinja ZombiesKilled 5997
+GoldenNinja FuelDiverted 9
+GoldenNinja HumanRank 0
+GoldenNinja NumberOfTimesCaptured 9
+GoldenNinja TurretsBuilt 39
+GoldenNinja ZombieWins 0
+GoldenNinja GamesLeft 3
+GoldenNinja GamesPlayedAsHuman 11
+GoldenNinja GamesPlayedAsZombie 0
+GoldenNinja HumansCaptured 0
+GoldenNinja K/D Ratio 666,33
+GoldenNinja Average Marine Winrate 36%
+GoldenNinja Average Fuel Diverts PerGame 0,82
+GoldenNinja Average Vespene Harvested PerGame 2054,55
+GoldenNinja Average Zombie Winrate NaN%
+GoldenNinja Average Security Kills Per Game NaN
+GoldenNinja Average Deaths PerGame 0,82
+GoldenNinja Average Infestation Class Class 1

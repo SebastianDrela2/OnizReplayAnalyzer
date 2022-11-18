@@ -1,0 +1,23 @@
+foolsidol HumanWinsNormal 45
+foolsidol ZombieRank 31
+foolsidol VespeneHarvested 313600
+foolsidol HumansRescued 28
+foolsidol SecurityForcesKilled 23612
+foolsidol ZombiesKilled 56614
+foolsidol FuelDiverted 47
+foolsidol HumanRank 26.0834
+foolsidol NumberOfTimesCaptured 105
+foolsidol TurretsBuilt 1538
+foolsidol ZombieWins 43
+foolsidol GamesLeft 2
+foolsidol GamesPlayedAsHuman 70
+foolsidol GamesPlayedAsZombie 56
+foolsidol HumansCaptured 669
+foolsidol K/D Ratio 539,18
+foolsidol Average Marine Winrate 64%
+foolsidol Average Fuel Diverts PerGame 0,67
+foolsidol Average Vespene Harvested PerGame 4480
+foolsidol Average Zombie Winrate 77%
+foolsidol Average Security Kills Per Game 422
+foolsidol Average Deaths PerGame 1,5
+foolsidol Average Infestation Class Class 5

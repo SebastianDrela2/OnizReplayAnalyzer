@@ -1,0 +1,23 @@
+Wally HumanWinsNormal 2
+Wally ZombieRank 0
+Wally VespeneHarvested 19500
+Wally HumansRescued 22
+Wally SecurityForcesKilled 0
+Wally ZombiesKilled 5736
+Wally FuelDiverted 3
+Wally HumanRank 0
+Wally NumberOfTimesCaptured 18
+Wally TurretsBuilt 61
+Wally ZombieWins 0
+Wally GamesLeft 1
+Wally GamesPlayedAsHuman 11
+Wally GamesPlayedAsZombie 0
+Wally HumansCaptured 0
+Wally K/D Ratio 318,67
+Wally Average Marine Winrate 18%
+Wally Average Fuel Diverts PerGame 0,27
+Wally Average Vespene Harvested PerGame 1772,73
+Wally Average Zombie Winrate NaN%
+Wally Average Security Kills Per Game NaN
+Wally Average Deaths PerGame 1,64
+Wally Average Infestation Class Class 1

@@ -1,0 +1,29 @@
+Analyzed: Oh No It's Zombies Arctic Map (271)
+
+ID : 0 PlayerName: Tin Race: Terran
+ID : 1 PlayerName: SkyJio Race: Terran
+ID : 2 PlayerName: Cruel Race: Terran
+ID : 3 PlayerName: BaoJio Race: Terran
+ID : 4 PlayerName: Frosky Race: Zerg
+ID : 5 PlayerName: Asuki Race: Terran
+ID : 7 PlayerName: Security Race: MechaZerg
+Frosky Zombie Win
+Private Lobby
+
+Game Length:[01:163]
+Players ammount: 7
+Marine rank avg: 17,166666666666668
+GrandMaster ammount: 6
+PURCHASES: 
+[00:572] Tin Unlocked AssaultRifle
+[00:694] Tin Placed/Upgraded MiningDroid
+[00:572] SkyJio Unlocked AssaultRifle
+[00:651] SkyJio Placed/Upgraded MiningDroid
+[00:572] Cruel Unlocked AssaultRifle
+[00:572] BaoJio Unlocked AssaultRifle
+[00:922] BaoJio Placed MiningDroid
+[00:568] Frosky Bought PlayerNumber
+[00:572] Asuki Unlocked AssaultRifle
+
+Frosky Placed 0 Greaters.
+--------------------------------

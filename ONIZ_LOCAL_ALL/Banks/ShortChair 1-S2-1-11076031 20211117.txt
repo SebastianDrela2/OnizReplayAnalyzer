@@ -1,0 +1,23 @@
+ShortChair HumanWinsNormal 14
+ShortChair ZombieRank 0
+ShortChair VespeneHarvested 72700
+ShortChair HumansRescued 21
+ShortChair SecurityForcesKilled 1607
+ShortChair ZombiesKilled 16965
+ShortChair FuelDiverted 34
+ShortChair HumanRank 6.625
+ShortChair NumberOfTimesCaptured 61
+ShortChair TurretsBuilt 85
+ShortChair ZombieWins 1
+ShortChair GamesLeft 0
+ShortChair GamesPlayedAsHuman 30
+ShortChair GamesPlayedAsZombie 4
+ShortChair HumansCaptured 29
+ShortChair K/D Ratio 278,11
+ShortChair Average Marine Winrate 47%
+ShortChair Average Fuel Diverts PerGame 1,13
+ShortChair Average Vespene Harvested PerGame 2423,33
+ShortChair Average Zombie Winrate 25%
+ShortChair Average Security Kills Per Game 402
+ShortChair Average Deaths PerGame 2,03
+ShortChair Average Infestation Class Class 4

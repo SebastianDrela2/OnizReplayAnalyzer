@@ -1,0 +1,23 @@
+Evan HumanWinsNormal 4
+Evan ZombieRank 0
+Evan VespeneHarvested 29800
+Evan HumansRescued 14
+Evan SecurityForcesKilled 2507
+Evan ZombiesKilled 7175
+Evan FuelDiverted 85
+Evan HumanRank 0
+Evan NumberOfTimesCaptured 17
+Evan TurretsBuilt 11
+Evan ZombieWins 4
+Evan GamesLeft 0
+Evan GamesPlayedAsHuman 14
+Evan GamesPlayedAsZombie 5
+Evan HumansCaptured 60
+Evan K/D Ratio 422,06
+Evan Average Marine Winrate 28,999999999999996%
+Evan Average Fuel Diverts PerGame 6,07
+Evan Average Vespene Harvested PerGame 2128,57
+Evan Average Zombie Winrate 80%
+Evan Average Security Kills Per Game 501
+Evan Average Deaths PerGame 1,21
+Evan Average Infestation Class Class 5

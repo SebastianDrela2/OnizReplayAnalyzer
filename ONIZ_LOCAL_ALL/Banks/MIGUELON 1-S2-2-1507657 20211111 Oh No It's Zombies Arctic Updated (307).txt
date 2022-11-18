@@ -1,0 +1,23 @@
+MIGUELON HumanWinsNormal 0
+MIGUELON ZombieRank 0
+MIGUELON VespeneHarvested 0
+MIGUELON HumansRescued 0
+MIGUELON SecurityForcesKilled 0
+MIGUELON ZombiesKilled 160
+MIGUELON FuelDiverted 2
+MIGUELON HumanRank 0
+MIGUELON NumberOfTimesCaptured 3
+MIGUELON TurretsBuilt 0
+MIGUELON ZombieWins 0
+MIGUELON GamesLeft 0
+MIGUELON GamesPlayedAsHuman 1
+MIGUELON GamesPlayedAsZombie 0
+MIGUELON HumansCaptured 0
+MIGUELON K/D Ratio 53,33
+MIGUELON Average Marine Winrate 0%
+MIGUELON Average Fuel Diverts PerGame 2
+MIGUELON Average Vespene Harvested PerGame 0
+MIGUELON Average Zombie Winrate NaN%
+MIGUELON Average Security Kills Per Game NaN
+MIGUELON Average Deaths PerGame 3
+MIGUELON Average Infestation Class Class 1

@@ -1,0 +1,23 @@
+PVG HumanWinsNormal 195
+PVG ZombieRank 30.1665
+PVG VespeneHarvested 1218600
+PVG HumansRescued 250
+PVG SecurityForcesKilled 102050
+PVG ZombiesKilled 182001
+PVG FuelDiverted 208
+PVG HumanRank 18.5
+PVG NumberOfTimesCaptured 551
+PVG TurretsBuilt 1796
+PVG ZombieWins 115
+PVG GamesLeft 20
+PVG GamesPlayedAsHuman 397
+PVG GamesPlayedAsZombie 212
+PVG HumansCaptured 1893
+PVG K/D Ratio 330,31
+PVG Average Marine Winrate 49%
+PVG Average Fuel Diverts PerGame 0,52
+PVG Average Vespene Harvested PerGame 3069,52
+PVG Average Zombie Winrate 54%
+PVG Average Security Kills Per Game 481
+PVG Average Deaths PerGame 1,39
+PVG Average Infestation Class Class 5

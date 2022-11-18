@@ -1,0 +1,24 @@
+Mosckvin HumanWinsNormal 19
+Mosckvin LeftLastGameAsZombie 0
+Mosckvin ZombieRank 0
+Mosckvin VespeneHarvested 129300
+Mosckvin HumansRescued 40
+Mosckvin SecurityForcesKilled 1758
+Mosckvin ZombiesKilled 26175
+Mosckvin FuelDiverted 8
+Mosckvin HumanRank 0
+Mosckvin NumberOfTimesCaptured 63
+Mosckvin TurretsBuilt 224
+Mosckvin ZombieWins 0
+Mosckvin GamesLeft 6
+Mosckvin GamesPlayedAsHuman 50
+Mosckvin GamesPlayedAsZombie 4
+Mosckvin HumansCaptured 55
+Mosckvin K/D Ratio 415,48
+Mosckvin Average Marine Winrate 38%
+Mosckvin Average Fuel Diverts PerGame 0,16
+Mosckvin Average Vespene Harvested PerGame 2586
+Mosckvin Average Zombie Winrate 0%
+Mosckvin Average Security Kills Per Game 440
+Mosckvin Average Deaths PerGame 1,26
+Mosckvin Average Infestation Class Class 5

@@ -1,0 +1,23 @@
+Artanis HumanWinsNormal 0
+Artanis ZombieRank 0
+Artanis VespeneHarvested 0
+Artanis HumansRescued 0
+Artanis SecurityForcesKilled 0
+Artanis ZombiesKilled 0
+Artanis FuelDiverted 0
+Artanis HumanRank 0
+Artanis NumberOfTimesCaptured 0
+Artanis TurretsBuilt 0
+Artanis ZombieWins 0
+Artanis GamesLeft 0
+Artanis GamesPlayedAsHuman 1
+Artanis GamesPlayedAsZombie 0
+Artanis HumansCaptured 0
+Artanis K/D Ratio NaN
+Artanis Average Marine Winrate 0%
+Artanis Average Fuel Diverts PerGame 0
+Artanis Average Vespene Harvested PerGame 0
+Artanis Average Zombie Winrate NaN%
+Artanis Average Security Kills Per Game NaN
+Artanis Average Deaths PerGame 0
+Artanis Average Infestation Class Class 1

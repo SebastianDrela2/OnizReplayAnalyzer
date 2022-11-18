@@ -1,0 +1,23 @@
+Dagran HumanWinsNormal 12
+Dagran ZombieRank 0
+Dagran VespeneHarvested 75200
+Dagran HumansRescued 23
+Dagran SecurityForcesKilled 0
+Dagran ZombiesKilled 19291
+Dagran FuelDiverted 81
+Dagran HumanRank 5
+Dagran NumberOfTimesCaptured 68
+Dagran TurretsBuilt 143
+Dagran ZombieWins 0
+Dagran GamesLeft 2
+Dagran GamesPlayedAsHuman 32
+Dagran GamesPlayedAsZombie 0
+Dagran HumansCaptured 0
+Dagran K/D Ratio 283,69
+Dagran Average Marine Winrate 38%
+Dagran Average Fuel Diverts PerGame 2,53
+Dagran Average Vespene Harvested PerGame 2350
+Dagran Average Zombie Winrate NaN%
+Dagran Average Security Kills Per Game NaN
+Dagran Average Deaths PerGame 2,12
+Dagran Average Infestation Class Class 1

@@ -1,0 +1,25 @@
+dropbear HumanWinsNormal 8
+dropbear LeftLastGameAsZombie 0
+dropbear ZombieRank 0
+dropbear VespeneHarvested 44200
+dropbear HumansRescued 11
+dropbear SecurityForcesKilled 1330
+dropbear ZombiesKilled 7738
+dropbear FuelDiverted 32
+dropbear PlayedRankedMode5.0 1
+dropbear HumanRank 14
+dropbear NumberOfTimesCaptured 33
+dropbear TurretsBuilt 78
+dropbear ZombieWins 1
+dropbear GamesLeft 0
+dropbear GamesPlayedAsHuman 14
+dropbear GamesPlayedAsZombie 3
+dropbear HumansCaptured 34
+dropbear K/D Ratio 234,48
+dropbear Average Marine Winrate 56,99999999999999%
+dropbear Average Fuel Diverts PerGame 2,29
+dropbear Average Vespene Harvested PerGame 3157,14
+dropbear Average Zombie Winrate 33%
+dropbear Average Security Kills Per Game 443
+dropbear Average Deaths PerGame 2,36
+dropbear Average Infestation Class Class 5

@@ -1,0 +1,23 @@
+Steiryl HumanWinsNormal 27
+Steiryl ZombieRank 0
+Steiryl VespeneHarvested 228540
+Steiryl HumansRescued 50
+Steiryl SecurityForcesKilled 5983
+Steiryl ZombiesKilled 48191
+Steiryl FuelDiverted 52
+Steiryl HumanRank 2.75
+Steiryl NumberOfTimesCaptured 74
+Steiryl TurretsBuilt 286
+Steiryl ZombieWins 7
+Steiryl GamesLeft 7
+Steiryl GamesPlayedAsHuman 70
+Steiryl GamesPlayedAsZombie 12
+Steiryl HumansCaptured 104
+Steiryl K/D Ratio 651,23
+Steiryl Average Marine Winrate 39%
+Steiryl Average Fuel Diverts PerGame 0,74
+Steiryl Average Vespene Harvested PerGame 3264,86
+Steiryl Average Zombie Winrate 57,99999999999999%
+Steiryl Average Security Kills Per Game 499
+Steiryl Average Deaths PerGame 1,06
+Steiryl Average Infestation Class Class 5

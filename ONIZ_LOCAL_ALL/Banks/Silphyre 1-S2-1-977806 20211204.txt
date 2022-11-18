@@ -1,0 +1,23 @@
+Silphyre HumanWinsNormal 22
+Silphyre ZombieRank 0
+Silphyre VespeneHarvested 108800
+Silphyre HumansRescued 26
+Silphyre SecurityForcesKilled 826
+Silphyre ZombiesKilled 25246
+Silphyre FuelDiverted 72
+Silphyre HumanRank -0.5
+Silphyre NumberOfTimesCaptured 83
+Silphyre TurretsBuilt 217
+Silphyre ZombieWins 0
+Silphyre GamesLeft 5
+Silphyre GamesPlayedAsHuman 53
+Silphyre GamesPlayedAsZombie 2
+Silphyre HumansCaptured 19
+Silphyre K/D Ratio 304,17
+Silphyre Average Marine Winrate 42%
+Silphyre Average Fuel Diverts PerGame 1,36
+Silphyre Average Vespene Harvested PerGame 2052,83
+Silphyre Average Zombie Winrate 0%
+Silphyre Average Security Kills Per Game 413
+Silphyre Average Deaths PerGame 1,57
+Silphyre Average Infestation Class Class 5

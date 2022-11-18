@@ -1,0 +1,25 @@
+forforadi HumanWinsNormal 22
+forforadi LeftLastGameAsZombie 1
+forforadi ZombieRank 0
+forforadi VespeneHarvested 113700
+forforadi HumansRescued 16
+forforadi SecurityForcesKilled 0
+forforadi ZombiesKilled 27360
+forforadi FuelDiverted 35
+forforadi PlayedRankedMode5.0 1
+forforadi HumanRank 6.625
+forforadi NumberOfTimesCaptured 50
+forforadi TurretsBuilt 427
+forforadi ZombieWins 0
+forforadi GamesLeft 15
+forforadi GamesPlayedAsHuman 56
+forforadi GamesPlayedAsZombie 3
+forforadi HumansCaptured 0
+forforadi K/D Ratio 547,2
+forforadi Average Marine Winrate 39%
+forforadi Average Fuel Diverts PerGame 0,62
+forforadi Average Vespene Harvested PerGame 2030,36
+forforadi Average Zombie Winrate 0%
+forforadi Average Security Kills Per Game 0
+forforadi Average Deaths PerGame 0,89
+forforadi Average Infestation Class Class 1

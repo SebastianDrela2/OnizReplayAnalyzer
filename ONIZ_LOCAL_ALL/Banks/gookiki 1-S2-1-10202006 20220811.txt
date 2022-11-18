@@ -1,0 +1,23 @@
+gookiki HumanWinsNormal 2
+gookiki ZombieRank -1
+gookiki VespeneHarvested 11500
+gookiki HumansRescued 3
+gookiki SecurityForcesKilled 0
+gookiki ZombiesKilled 3373
+gookiki FuelDiverted 5
+gookiki HumanRank 0
+gookiki NumberOfTimesCaptured 10
+gookiki TurretsBuilt 24
+gookiki ZombieWins 0
+gookiki GamesLeft 1
+gookiki GamesPlayedAsHuman 5
+gookiki GamesPlayedAsZombie 1
+gookiki HumansCaptured 0
+gookiki K/D Ratio 337,3
+gookiki Average Marine Winrate 40%
+gookiki Average Fuel Diverts PerGame 1
+gookiki Average Vespene Harvested PerGame 2300
+gookiki Average Zombie Winrate 0%
+gookiki Average Security Kills Per Game 0
+gookiki Average Deaths PerGame 2
+gookiki Average Infestation Class Class 1
