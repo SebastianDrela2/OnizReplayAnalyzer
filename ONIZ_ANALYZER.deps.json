@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "ONIZ_LOCAL_APP/1.0.0": {
+      "ONIZ_ANALYZER/1.0.0": {
         "dependencies": {
           "Extended.Wpf.Toolkit": "4.4.0",
           "Extensions.Logging.NSubstitute": "1.0.0",
@@ -15,11 +15,12 @@
           "LiveCharts": "0.9.7",
           "LiveCharts.Wpf": "0.9.7",
           "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.VisualStudio.Shell.Interop.10.0": "17.4.33103.184",
           "coverlet.collector": "3.1.2",
           "s2protocol.NET": "0.6.6"
         },
         "runtime": {
-          "ONIZ_LOCAL_APP.dll": {}
+          "ONIZ_ANALYZER.dll": {}
         }
       },
       "Castle.Core/4.3.1": {
@@ -337,6 +338,25 @@
       },
       "Microsoft.NETCore.Platforms/3.1.0": {},
       "Microsoft.NETCore.Targets/1.1.0": {},
+      "Microsoft.VisualStudio.Interop/17.4.33103.184": {
+        "runtime": {
+          "lib/net6.0/Microsoft.VisualStudio.Interop.dll": {
+            "assemblyVersion": "17.0.0.0",
+            "fileVersion": "17.4.33103.184"
+          }
+        }
+      },
+      "Microsoft.VisualStudio.Shell.Interop.10.0/17.4.33103.184": {
+        "dependencies": {
+          "Microsoft.VisualStudio.Interop": "17.4.33103.184"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.VisualStudio.Shell.Interop.10.0.dll": {
+            "assemblyVersion": "17.0.0.0",
+            "fileVersion": "17.4.33103.184"
+          }
+        }
+      },
       "Microsoft.Win32.Primitives/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "3.1.0",
@@ -1275,7 +1295,7 @@
     }
   },
   "libraries": {
-    "ONIZ_LOCAL_APP/1.0.0": {
+    "ONIZ_ANALYZER/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -1440,6 +1460,20 @@
       "sha512": "sha512-aOZA3BWfz9RXjpzt0sRJJMjAscAUm3Hoa4UWAfceV9UTYxgwZ1lZt5nO2myFf+/jetYQo4uTP7zS8sJY67BBxg==",
       "path": "microsoft.netcore.targets/1.1.0",
       "hashPath": "microsoft.netcore.targets.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.Interop/17.4.33103.184": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RrjwcvYbAZpvHl/JhkmqMElnkLiATJ7z81yYkXeWY36J67AHq41WrF0HjCDLZyPVEpsHhkbiRYRZgd5J1HL2Ag==",
+      "path": "microsoft.visualstudio.interop/17.4.33103.184",
+      "hashPath": "microsoft.visualstudio.interop.17.4.33103.184.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.Shell.Interop.10.0/17.4.33103.184": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KDQrPQeXfepwZD2huq9rhpqS7xIPLUQd1QSgnVEyt8CQwQWoTy1G008qGADqwhaxConMedY7UmG9Fhg6UZvsOg==",
+      "path": "microsoft.visualstudio.shell.interop.10.0/17.4.33103.184",
+      "hashPath": "microsoft.visualstudio.shell.interop.10.0.17.4.33103.184.nupkg.sha512"
     },
     "Microsoft.Win32.Primitives/4.3.0": {
       "type": "package",
