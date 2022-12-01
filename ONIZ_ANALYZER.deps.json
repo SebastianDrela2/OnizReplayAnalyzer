@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "ONIZ_ANALYZER/1.0.0": {
         "dependencies": {
-          "Extended.Wpf.Toolkit": "4.4.0",
+          "Extended.Wpf.Toolkit": "4.5.0",
           "Extensions.Logging.NSubstitute": "1.0.0",
           "IronPython": "2.7.12",
           "IronPython.StdLib": "2.7.12",
@@ -64,27 +64,27 @@
           }
         }
       },
-      "Extended.Wpf.Toolkit/4.4.0": {
+      "Extended.Wpf.Toolkit/4.5.0": {
         "runtime": {
           "lib/net5.0/Xceed.Wpf.AvalonDock.NET5.dll": {
-            "assemblyVersion": "4.4.0.0",
-            "fileVersion": "4.4.0.0"
+            "assemblyVersion": "4.5.0.0",
+            "fileVersion": "4.5.0.0"
           },
           "lib/net5.0/Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll": {
-            "assemblyVersion": "4.4.0.0",
-            "fileVersion": "4.4.0.0"
+            "assemblyVersion": "4.5.0.0",
+            "fileVersion": "4.5.0.0"
           },
           "lib/net5.0/Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll": {
-            "assemblyVersion": "4.4.0.0",
-            "fileVersion": "4.4.0.0"
+            "assemblyVersion": "4.5.0.0",
+            "fileVersion": "4.5.0.0"
           },
           "lib/net5.0/Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll": {
-            "assemblyVersion": "4.4.0.0",
-            "fileVersion": "4.4.0.0"
+            "assemblyVersion": "4.5.0.0",
+            "fileVersion": "4.5.0.0"
           },
           "lib/net5.0/Xceed.Wpf.Toolkit.NET5.dll": {
-            "assemblyVersion": "4.4.0.0",
-            "fileVersion": "4.4.0.0"
+            "assemblyVersion": "4.5.0.0",
+            "fileVersion": "4.5.0.0"
           }
         },
         "resources": {
@@ -1321,12 +1321,12 @@
       "path": "dynamiclanguageruntime/1.3.1",
       "hashPath": "dynamiclanguageruntime.1.3.1.nupkg.sha512"
     },
-    "Extended.Wpf.Toolkit/4.4.0": {
+    "Extended.Wpf.Toolkit/4.5.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-EAG/XbjY+m9x1zHj2OE62C8X/Nm09gHyrhi3wnbT/8L06CTW4jtaz4RwN/nupx3sV5U3xsNmeRDILvRw3WO9Ew==",
-      "path": "extended.wpf.toolkit/4.4.0",
-      "hashPath": "extended.wpf.toolkit.4.4.0.nupkg.sha512"
+      "sha512": "sha512-oQP6Qyuz+3kETAC/s+cBEfb8Vzbju6pB7Q5czW4KdkAOpFJTA/SCox8caH6HLQxQ6Lwq2jCeSQOPJKlnpqpFOg==",
+      "path": "extended.wpf.toolkit/4.5.0",
+      "hashPath": "extended.wpf.toolkit.4.5.0.nupkg.sha512"
     },
     "Extensions.Logging.NSubstitute/1.0.0": {
       "type": "package",
