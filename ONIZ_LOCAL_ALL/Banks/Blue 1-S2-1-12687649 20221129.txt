@@ -1,0 +1,23 @@
+Blue HumanWinsNormal 44
+Blue ZombieRank 13
+Blue VespeneHarvested 318320
+Blue HumansRescued 51
+Blue SecurityForcesKilled 3836
+Blue ZombiesKilled 75445
+Blue FuelDiverted 238
+Blue HumanRank 11.6667
+Blue NumberOfTimesCaptured 129
+Blue TurretsBuilt 825
+Blue ZombieWins 6
+Blue GamesLeft 1
+Blue GamesPlayedAsHuman 89
+Blue GamesPlayedAsZombie 8
+Blue HumansCaptured 72
+Blue K/D Ratio 584,84
+Blue Average Marine Winrate 49%
+Blue Average Fuel Diverts PerGame 2,67
+Blue Average Vespene Harvested PerGame 3576,63
+Blue Average Zombie Winrate 75%
+Blue Average Security Kills Per Game 480
+Blue Average Deaths PerGame 1,45
+Blue Average Infestation Class Class 5

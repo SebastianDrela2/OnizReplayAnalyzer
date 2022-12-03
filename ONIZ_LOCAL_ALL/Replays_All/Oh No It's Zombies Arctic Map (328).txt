@@ -1,0 +1,119 @@
+Analyzed: Oh No It's Zombies Arctic Map (328)
+
+Date: 2022.11.29
+
+ID : 0 PlayerName: Static Race: Terran
+ID : 1 PlayerName: Trogdor Race: Terran
+ID : 2 PlayerName: Toxicpanda Race: Zerg
+ID : 3 PlayerName: Blue Race: Terran
+ID : 4 PlayerName: csiz Race: Terran
+ID : 5 PlayerName: SniperAlpha Race: Terran
+ID : 6 PlayerName: Frosky Race: Zerg
+ID : 7 PlayerName: Security Race: Protoss
+Frosky Zombie Loss
+Public Lobby
+
+Game Length:[11:194]
+Players ammount: 7
+Marine rank avg: 19
+GrandMaster ammount: 3
+
+Toxicpanda First Gun ArcWelder
+Trogdor First Gun SpecOpsAssaultRifle
+csiz First Gun BeamRifle
+Blue First Gun SpecOpsAssaultRifle
+Static First Gun Shotgun
+SniperAlpha First Gun SpecOpsAssaultRifle
+
+PURCHASES: 
+[00:572] Static Unlocked AssaultRifle
+[00:651] Static Placed/Upgraded MiningDroid
+[01:211] Static Unlocked AdvancedDroidEngines
+[03:752] Static Unlocked TurboDroidEngines
+[04:820] Static Unlocked FragGrenade
+[05:655] Static Unlocked SpecOpsFragGrenade
+[06:251] Static Placed/Upgraded MiningDroid
+[07:281] Static Unlocked Stimpack
+[08:702] Static Unlocked Shotgun
+[09:835] Static Unlocked SpecOpsShotgun
+[00:572] Trogdor Unlocked AssaultRifle
+[00:658] Trogdor Placed/Upgraded MiningDroid
+[01:246] Trogdor Unlocked IncendiaryGrenade
+[03:346] Trogdor Unlocked SpecOpsAssaultRifle
+[05:574] Trogdor Unlocked TitaniumBulletCasings
+[07:651] Trogdor Unlocked OverloadWeapon
+[08:601] Trogdor Unlocked BioMechanicalRepairDrone
+[10:691] Trogdor Unlocked SpecOpsBioMechanicalRepairDrone
+[11:128] Trogdor Placed/Upgraded HealingDrone
+[00:572] Toxicpanda Unlocked AssaultRifle
+[00:651] Toxicpanda Placed/Upgraded MiningDroid
+[00:803] Toxicpanda Unlocked ArcWelder
+[01:798] Toxicpanda Unlocked Stimpack
+[03:132] Toxicpanda Unlocked BioMechanicalRepairDrone
+[03:136] Toxicpanda Unlocked CombatAccelerationDrone
+[03:292] Toxicpanda Placed/Upgraded HealingDrone
+[04:134] Toxicpanda Placed/Upgraded HealingDrone
+[04:260] Toxicpanda Placed/Upgraded HealingDrone
+[05:282] Toxicpanda Unlocked AdvancedDroidEngines
+[05:830] Toxicpanda Unlocked TurboDroidEngines
+[06:515] Toxicpanda Unlocked ExplorationDroid
+[06:531] Toxicpanda Placed/Upgraded ExplorationDroid
+[06:535] Toxicpanda Placed/Upgraded ExplorationDroid
+[06:669] Toxicpanda Placed/Upgraded ExplorationDroid
+[07:484] Toxicpanda Unlocked PsiDisrupter
+[07:972] Toxicpanda Placed/Upgraded PsiIndoctrinator
+[08:494] Toxicpanda Placed/Upgraded PsiIndoctrinator
+[08:604] Toxicpanda Unlocked AutoTurret
+[08:633] Toxicpanda Placed/Upgraded AutoTurret
+[08:951] Toxicpanda Placed/Upgraded AutoTurret
+[09:093] Toxicpanda Placed/Upgraded AutoTurret
+[09:730] Toxicpanda Placed/Upgraded AutoTurret
+[10:013] Toxicpanda Unlocked HeavyTurret
+[10:547] Toxicpanda Unlocked AIAssistant
+[10:946] Toxicpanda Placed/Upgraded PsiIndoctrinator
+[00:572] Blue Unlocked AssaultRifle
+[00:651] Blue Placed/Upgraded MiningDroid
+[00:692] Blue Unlocked AdvancedDroidEngines
+[02:928] Blue Unlocked IncendiaryGrenade
+[02:938] Blue Unlocked SpecOpsIncendiaryGrenade
+[05:411] Blue Unlocked TurboDroidEngines
+[07:319] Blue Unlocked SpecOpsAssaultRifle
+[08:079] Blue Unlocked OverloadWeapon
+[10:471] Blue Unlocked TitaniumBulletCasings
+[10:498] Blue Unlocked AutoTurret
+[11:074] Blue Unlocked HeavyTurret
+[00:572] csiz Unlocked AssaultRifle
+[03:223] csiz Placed/Upgraded MiningDroid
+[03:451] csiz Unlocked AdvancedDroidEngines
+[03:464] csiz Unlocked TurboDroidEngines
+[03:741] csiz Unlocked OverloadWeapon
+[05:322] csiz Unlocked BeamRifle
+[09:473] csiz Unlocked SpecOpsPlasmaRifle
+[09:508] csiz Unlocked LongRangeScope
+[09:547] csiz Unlocked CombatSuit
+[09:554] csiz Unlocked AdvancedCombatSuit
+[00:572] SniperAlpha Unlocked AssaultRifle
+[00:738] SniperAlpha Placed/Upgraded MiningDroid
+[00:802] SniperAlpha Unlocked AdvancedDroidEngines
+[03:950] SniperAlpha Unlocked TurboDroidEngines
+[06:859] SniperAlpha Unlocked MiningCharge
+[07:077] SniperAlpha Placed/Upgraded NukePack
+[07:209] SniperAlpha Unlocked Stimpack
+[09:548] SniperAlpha Bought ShieldSuit
+[09:548] SniperAlpha Bought CombatSuit
+[09:548] SniperAlpha Bought HazmatSuit
+[09:548] SniperAlpha Bought CombatSuit
+[09:555] SniperAlpha Bought CombatSuit
+[09:941] SniperAlpha Unlocked SpecOpsAssaultRifle
+[10:051] SniperAlpha Unlocked AutoTargetingSystem
+[00:568] Frosky Bought PlayerNumber
+[00:640] Frosky Spawned MassiveCocoon
+[02:080] Frosky Spawned Hunter
+[05:865] Frosky Spawned MassiveCocoon
+[07:305] Frosky Spawned InfestedAbomination
+[08:562] Frosky Bought UnlockDropPods
+[09:130] Frosky Bought EvolveDropPods
+Frosky First Alpha Hunter |  Loss
+
+Frosky Placed 0 Greaters.
+--------------------------------

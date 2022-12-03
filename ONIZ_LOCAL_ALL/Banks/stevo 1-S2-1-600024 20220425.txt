@@ -1,0 +1,24 @@
+stevo HumanWinsNormal 294
+stevo ZombieRank 31
+stevo VespeneHarvested 2146100
+stevo HumansRescued 436
+stevo SecurityForcesKilled 140563
+stevo ZombiesKilled 301620
+stevo FuelDiverted 2503
+stevo PlayedRankedMode5.0 1
+stevo HumanRank 21.25
+stevo NumberOfTimesCaptured 756
+stevo TurretsBuilt 5110
+stevo ZombieWins 178
+stevo GamesLeft 10
+stevo GamesPlayedAsHuman 535
+stevo GamesPlayedAsZombie 305
+stevo HumansCaptured 3010
+stevo K/D Ratio 398,97
+stevo Average Marine Winrate 55,00000000000001%
+stevo Average Fuel Diverts PerGame 4,68
+stevo Average Vespene Harvested PerGame 4011,4
+stevo Average Zombie Winrate 57,99999999999999%
+stevo Average Security Kills Per Game 461
+stevo Average Deaths PerGame 1,41
+stevo Average Infestation Class Class 5
