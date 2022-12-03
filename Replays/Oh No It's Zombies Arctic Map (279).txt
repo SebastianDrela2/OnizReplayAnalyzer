@@ -1,0 +1,633 @@
+Analyzed: Oh No It's Zombies Arctic Map (279)
+
+Date: 2022.11.10 12:40:59
+
+ID : 0 PlayerName: KERRIGAN Race: Terran
+ID : 1 PlayerName: LazyRivers Race: Terran
+ID : 2 PlayerName: PanzerPyro Race: Terran
+ID : 3 PlayerName: SyrThunder Race: Terran
+ID : 4 PlayerName: Theda Race: Zerg
+ID : 5 PlayerName: Frosky Race: Terran
+ID : 6 PlayerName: Hexus Race: Terran
+ID : 7 PlayerName: Security Race: Protoss
+Theda Zombie Win
+Public Lobby
+
+Game Length:[41:156]
+Players ammount: 8
+Marine rank avg: 0,8333333333333334
+Marine GrandMaster ammount: 1
+
+SyrThunder First Gun Shotgun
+Hexus First Gun BeamRifle
+Frosky First Gun SpecOpsAssaultRifle
+LazyRivers First Gun ArcWelder
+PanzerPyro First Gun SpecOpsAssaultRifle
+KERRIGAN First Gun BeamRifle
+
+PURCHASES: 
+[00:572] KERRIGAN Unlocked AssaultRifle 
+[00:658] KERRIGAN Placed/Upgraded MiningDroid 
+[00:813] KERRIGAN Unlocked AdvancedDroidEngines 
+[04:065] KERRIGAN Unlocked Stimpack 
+[06:216] KERRIGAN Unlocked BeamRifle 
+[07:198] KERRIGAN Unlocked SpecOpsPlasmaRifle 
+[08:976] KERRIGAN Unlocked CorrosivePlasma 
+[10:508] KERRIGAN Unlocked BioMechanicalRepairDrone 
+[10:519] KERRIGAN Unlocked SpecOpsBioMechanicalRepairDrone 
+[10:594] KERRIGAN Unlocked CombatShield 
+[11:409] KERRIGAN Unlocked HazmatSuit 
+[11:933] KERRIGAN Placed/Upgraded HealingDrone 
+[13:198] KERRIGAN Placed/Upgraded HealingDrone 
+[13:619] KERRIGAN Placed/Upgraded HealingDrone 
+[14:055] KERRIGAN Placed/Upgraded HealingDrone 
+[16:178] KERRIGAN Placed/Upgraded MiningDroid 
+[18:272] KERRIGAN Unlocked TurboDroidEngines 
+[20:473] KERRIGAN Unlocked AdvancedHazmatSuit 
+[20:709] KERRIGAN Unlocked EnergyPack 
+[20:968] KERRIGAN Placed/Upgraded HealingDrone 
+[23:402] KERRIGAN Unlocked AutoTurret 
+[23:419] KERRIGAN Unlocked FlameTurret 
+[23:866] KERRIGAN Placed/Upgraded AutoTurret 
+[24:083] KERRIGAN Placed/Upgraded AutoTurret 
+[25:414] KERRIGAN Placed/Upgraded AutoTurret 
+[25:646] KERRIGAN Placed/Upgraded AutoTurret 
+[26:884] KERRIGAN Placed/Upgraded AutoTurret 
+[27:168] KERRIGAN Placed/Upgraded MiningDroid 
+[27:746] KERRIGAN Placed/Upgraded AutoTurret 
+[28:180] KERRIGAN Placed/Upgraded HealingDrone 
+[28:804] KERRIGAN Unlocked HeavyTurret 
+[29:272] KERRIGAN Placed/Upgraded AutoTurret 
+[30:063] KERRIGAN Placed/Upgraded AutoTurret 
+[31:992] KERRIGAN Placed/Upgraded HealingDrone 
+[32:544] KERRIGAN Placed/Upgraded HealingDrone 
+[32:730] KERRIGAN Placed/Upgraded HealingDrone 
+[33:197] KERRIGAN Placed/Upgraded HealingDrone 
+[34:081] KERRIGAN Placed/Upgraded HealingDrone 
+[34:827] KERRIGAN Unlocked MiningCharge 
+[34:856] KERRIGAN Unlocked AdvancedMiningCharge 
+[35:408] KERRIGAN Placed/Upgraded NukePack 
+[36:193] KERRIGAN Placed/Upgraded HealingDrone 
+[37:540] KERRIGAN Placed/Upgraded AutoTurret 
+[38:675] KERRIGAN Placed/Upgraded AutoTurret 
+
+[00:572] LazyRivers Unlocked AssaultRifle 
+[01:039] LazyRivers Placed/Upgraded MiningDroid 
+[02:090] LazyRivers Unlocked AdvancedDroidEngines 
+[04:131] LazyRivers Unlocked ArcWelder 
+[06:500] LazyRivers Unlocked AutoTurret 
+[06:548] LazyRivers Unlocked FlameTurret 
+[07:881] LazyRivers Placed/Upgraded AutoTurret 
+[09:200] LazyRivers Placed/Upgraded AutoTurret 
+[11:390] LazyRivers Placed/Upgraded AutoTurret 
+[11:410] LazyRivers Bought ShieldSuit 
+[12:163] LazyRivers Unlocked SpecOpsArcWelder 
+[12:748] LazyRivers Placed/Upgraded AutoTurret 
+[14:145] LazyRivers Unlocked HeavyTurret 
+[14:601] LazyRivers Placed/Upgraded AutoTurret 
+[16:203] LazyRivers Unlocked ArcWelderMod1 
+[16:848] LazyRivers Placed/Upgraded AutoTurret 
+[17:236] LazyRivers Placed/Upgraded AutoTurret 
+[18:846] LazyRivers Unlocked MotionSensor 
+[19:048] LazyRivers Placed/Upgraded SensorTower 
+[19:192] LazyRivers Placed/Upgraded SensorTower 
+[20:474] LazyRivers Bought HazmatSuit 
+[20:557] LazyRivers Placed/Upgraded AutoTurret 
+[21:651] LazyRivers Placed/Upgraded AutoTurret 
+[22:021] LazyRivers Placed/Upgraded AutoTurret 
+[22:271] LazyRivers Placed/Upgraded AutoTurret 
+[23:614] LazyRivers Placed/Upgraded AutoTurret 
+[24:099] LazyRivers Placed/Upgraded AutoTurret 
+[25:037] LazyRivers Placed/Upgraded AutoTurret 
+[25:635] LazyRivers Unlocked OpticalVisor 
+[25:740] LazyRivers Unlocked QuantumBackpack 
+[25:904] LazyRivers Unlocked ArcWelderMod3 
+[25:963] LazyRivers Unlocked EnergySuit 
+[25:974] LazyRivers Unlocked AdvancedEnergySuit 
+[26:330] LazyRivers Unlocked IncendiaryGrenade 
+[26:341] LazyRivers Unlocked SpecOpsIncendiaryGrenade 
+[30:587] LazyRivers Placed/Upgraded AutoTurret 
+[31:988] LazyRivers Placed/Upgraded AutoTurret 
+[36:657] LazyRivers Placed/Upgraded AutoTurret 
+[37:749] LazyRivers Unlocked SpecOpsTurret 
+[37:870] LazyRivers Placed/Upgraded AutoTurret 
+[38:294] LazyRivers Placed/Upgraded AutoTurret 
+[38:581] LazyRivers Placed/Upgraded AutoTurret 
+[40:048] LazyRivers Placed/Upgraded AutoTurret 
+[40:182] LazyRivers Placed/Upgraded AutoTurret 
+[40:434] LazyRivers Placed/Upgraded AutoTurret 
+
+[00:572] PanzerPyro Unlocked AssaultRifle 
+[01:085] PanzerPyro Placed/Upgraded MiningDroid 
+[04:855] PanzerPyro Unlocked SpecOpsAssaultRifle 
+[06:438] PanzerPyro Unlocked OverloadWeapon 
+[10:752] PanzerPyro Unlocked AutoTargetingSystem 
+[12:327] PanzerPyro Placed/Upgraded MiningDroid 
+[23:075] PanzerPyro Placed/Upgraded MiningDroid 
+[25:964] PanzerPyro Bought ShieldSuit 
+[25:975] PanzerPyro Bought EnergySuit 
+[28:803] PanzerPyro Unlocked MedicShield 
+[36:125] PanzerPyro Unlocked AIAssistant 
+[40:238] PanzerPyro Placed/Upgraded MiningDroid 
+
+[00:572] SyrThunder Unlocked AssaultRifle 
+[00:749] SyrThunder Placed MiningDroid 
+[01:364] SyrThunder Unlocked Shotgun 
+[04:901] SyrThunder Unlocked SpecOpsShotgun 
+[06:697] SyrThunder Unlocked OverloadWeapon 
+[11:858] SyrThunder Unlocked SuperStimpack 
+[13:908] SyrThunder Placed MiningDroid 
+[18:809] SyrThunder Unlocked HighPrecisionBeams 
+[38:374] SyrThunder Unlocked CombatSuit 
+
+[00:568] Theda Bought PlayerNumber 
+[01:355] Theda Spawned MassiveCocoon 
+[02:795] Theda Spawned Anubalisk 
+[04:110] Theda Bought CreepSpeed 
+[06:336] Theda Bought RegenerativeCreep 
+[06:424] Theda Placed/Upgraded NydusCanalCreeper 
+[07:734] Theda Spawned MassiveCocoon 
+[08:613] Theda Bought VirulentCreep 
+[08:613] Theda Bought VirulentCreep 
+[08:814] Theda Spawned Underseer 
+[09:549] Theda Placed/Upgraded NydusCanalCreeper 
+[11:384] Theda Bought UnlockDropPods 
+[11:617] Theda Placed/Upgraded LocustNest 
+[12:027] Theda Bought EvolveDropPods 
+[12:590] Theda Placed/Upgraded LocustNest 
+[12:666] Theda Placed/Upgraded Virophage 
+[12:797] Theda Bought EvolveDropPods 
+[13:182] Theda Bought EvolveDropPods 
+[14:018] Theda Bought EvolveDropPods 
+[14:021] Theda Bought EvolveDropPods 
+[15:336] Theda Bought StrainVolatile 
+[15:810] Theda Placed/Upgraded LocustNest 
+[16:254] Theda Placed/Upgraded NydusCanalCreeper 
+[18:073] Theda Placed/Upgraded NydusCanalCreeper 
+[18:263] Theda Bought BuildExtractorScienceLabs 
+[18:263] Theda Placed/Upgraded AutomatedExtractor 
+[18:312] Theda Bought BuildExtractorProcessingFacilities 
+[18:312] Theda Placed/Upgraded AutomatedExtractor 
+[20:023] Theda Bought SiphonFuel 
+[20:078] Theda Bought PureStrainVolatile 
+[21:429] Theda Placed/Upgraded NydusCanalCreeper 
+[21:669] Theda Placed/Upgraded LocustNest 
+[22:813] Theda Placed/Upgraded NydusCanalCreeper 
+[23:053] Theda Bought SunkenColony 
+[23:053] Theda Placed/Upgraded PrimalSunkenColony 
+[23:240] Theda Bought SiphonFuel 
+[23:294] Theda Bought SunkenColony 
+[23:294] Theda Placed/Upgraded PrimalSunkenColony 
+[23:534] Theda Placed/Upgraded LocustNest 
+[25:178] Theda Bought StrainSpeed 
+[25:189] Theda Bought PureStrainSpeed 
+[26:113] Theda Spawned MassiveCocoon 
+[27:229] Theda Bought SiphonFuel 
+[27:553] Theda Spawned Hunter 
+[27:745] Theda Bought SunkenColony 
+[27:769] Theda Bought SunkenColony 
+[28:601] Theda Bought EvolveDropPods 
+[29:656] Theda Bought AdvancedPowerInfestation 
+[29:682] Theda Bought AdvancedInfestationContainment 
+[30:420] Theda Bought BuildExtractorExcavationZone 
+[30:420] Theda Placed/Upgraded AutomatedExtractor 
+[30:516] Theda Placed/Upgraded NydusCanalCreeper 
+[30:757] Theda Placed/Upgraded NydusCanalCreeper 
+[31:143] Theda Bought SiphonFuel 
+[31:734] Theda Placed/Upgraded PrimalSunkenColony 
+[31:735] Theda Bought SunkenColony 
+[31:998] Theda Placed/Upgraded LocustNest 
+[32:338] Theda Bought SunkenColony 
+[32:642] Theda Bought DropshipsFueled 
+[33:609] Theda Bought CreepSpeed 
+[34:433] Theda Placed/Upgraded NydusCanalCreeper 
+[35:027] Theda Spawned RoyalCocoon 
+[35:027] Theda Bought SpawnHiveQueen 
+[35:027] Theda Bought UltimateInfestationResearched 
+[35:639] Theda Placed/Upgraded ToxicNest 
+[35:658] Theda Placed/Upgraded ToxicNest 
+[35:691] Theda Placed/Upgraded ToxicNest 
+[35:746] Theda Spawned QueenCoop 
+[35:911] Theda Bought HunterlingStrain 
+[35:936] Theda Bought StrainVolatile 
+[35:958] Theda Bought PureStrainVolatile 
+[35:974] Theda Bought StrainDamage 
+[36:760] Theda Placed/Upgraded NydusCanalCreeper 
+[36:813] Theda Bought BuildExtractorManufacturingSector 
+[36:813] Theda Placed/Upgraded AutomatedExtractor 
+[36:891] Theda Bought StrainHealth 
+[38:036] Theda Placed/Upgraded LocustNest 
+[38:117] Theda Placed/Upgraded LocustNest 
+[38:375] Theda Bought ShieldSuit 
+[39:010] Theda Bought PureStrainDamage 
+[39:030] Theda Bought DefilerStrain 
+[39:432] Theda Placed/Upgraded PrimalSunkenColony 
+[39:433] Theda Bought SunkenColony 
+[39:487] Theda Bought SunkenColony 
+[40:845] Theda Placed/Upgraded LocustNest 
+[40:890] Theda Placed/Upgraded PrimalSunkenColony 
+[40:891] Theda Bought SunkenColony 
+
+[00:572] Frosky Unlocked AssaultRifle 
+[00:651] Frosky Placed/Upgraded MiningDroid 
+[00:716] Frosky Unlocked IncendiaryGrenade 
+[03:589] Frosky Unlocked SpecOpsAssaultRifle 
+[06:245] Frosky Unlocked TitaniumBulletCasings 
+[08:566] Frosky Unlocked Stimpack 
+[11:240] Frosky Unlocked AdvancedDroidEngines 
+[12:520] Frosky Unlocked HazmatSuit 
+[14:850] Frosky Unlocked AdvancedHazmatSuit 
+[14:886] Frosky Unlocked BioMechanicalRepairDrone 
+[17:215] Frosky Unlocked ExplorationDroid 
+[17:241] Frosky Placed/Upgraded ExplorationDroid 
+[17:250] Frosky Placed/Upgraded ExplorationDroid 
+[17:414] Frosky Placed/Upgraded ExplorationDroid 
+[19:258] Frosky Unlocked AIAssistant 
+[19:259] Frosky Unlocked CombatShield 
+[21:164] Frosky Placed/Upgraded HealingDrone 
+[21:912] Frosky Placed/Upgraded HealingDrone 
+[23:192] Frosky Placed/Upgraded HealingDrone 
+[24:119] Frosky Unlocked SpecOpsIncendiaryGrenade 
+[24:155] Frosky Placed/Upgraded HealingDrone 
+[24:377] Frosky Placed/Upgraded HealingDrone 
+[26:801] Frosky Placed/Upgraded HealingDrone 
+[27:227] Frosky Placed/Upgraded MiningDroid 
+[28:293] Frosky Placed/Upgraded HealingDrone 
+[30:761] Frosky Placed/Upgraded HealingDrone 
+[32:321] Frosky Unlocked Teleporter 
+[32:966] Frosky Placed/Upgraded HealingDrone 
+[33:752] Frosky Unlocked PsiDisrupter 
+[34:850] Frosky Placed/Upgraded HealingDrone 
+[35:177] Frosky Unlocked AutoTurret 
+[36:153] Frosky Placed/Upgraded AutoTurret 
+[37:535] Frosky Unlocked HeavyTurret 
+[37:677] Frosky Placed/Upgraded AutoTurret 
+[38:905] Frosky Placed/Upgraded HealingDrone 
+[39:869] Frosky Placed/Upgraded HealingDrone 
+
+[00:572] Hexus Unlocked AssaultRifle 
+[03:184] Hexus Unlocked BeamRifle 
+[04:498] Hexus Unlocked SpecOpsPlasmaRifle 
+[07:521] Hexus Unlocked CorrosivePlasma 
+[12:521] Hexus Bought ShieldSuit 
+[14:851] Hexus Bought HazmatSuit 
+[25:413] Hexus Unlocked OverloadWeapon 
+[28:253] Hexus Unlocked AdvancedDroidEngines 
+[32:528] Hexus Unlocked ShieldSuit 
+[32:553] Hexus Unlocked AdvancedShieldSuit 
+[34:889] Hexus Unlocked AutoTurret 
+
+Game Ended
+ 
+STRAIN RATIO: 
+Naked Kills: 749
+T1 Speed Kills:  0 T2 Speed Kills: 88 T3 Speed Kills:  0
+T1 Health Kills: 1 T2 Health Kills: 0 T3 Health Kills: 0
+T1 Damage Kills: 0 T2 Damage Kills: 3 T3 Damage Kills: 0
+T1 Voltaile Kills: 5 T2 Voltaile Kills: 76 T3 Voltaile Kills: 0
+----------------------------------------------------------------------------
+Warpig kills : 2251
+---------------------------------------------------------
+Name: KERRIGAN
+ 
+STRAINS: 
+Naked Kills :  318
+T1_Health Kills : 7
+T2_Health Kills : 0
+T3_Health Kills : 0
+T1_Damage Kills : 9
+T2_Damage Kills : 1
+T3_Damage Kills : 0
+T1_Voltaile Kills : 6
+T2_Voltaile Kills : 41
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+Anubalisk/Anubalight Kills : 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: LazyRivers
+ 
+STRAINS: 
+Naked Kills :  551
+T1_Health Kills : 4
+T2_Health Kills : 0
+T3_Health Kills : 0
+T1_Damage Kills : 12
+T2_Damage Kills : 0
+T3_Damage Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: PanzerPyro
+ 
+STRAINS: 
+Naked Kills :  453
+T1_Health Kills : 23
+T2_Health Kills : 0
+T3_Health Kills : 0
+T1_Damage Kills : 28
+T2_Damage Kills : 2
+T3_Damage Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: SyrThunder
+ 
+STRAINS: 
+Naked Kills :  168
+T1_Health Kills : 4
+T2_Health Kills : 0
+T3_Health Kills : 0
+T1_Damage Kills : 5
+T2_Damage Kills : 0
+T3_Damage Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: Theda
+ 
+STRAINS: 
+Naked Kills :  447
+T1_Voltaile Kills : 101
+T2_Voltaile Kills : 521
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+QueenEgg Kills: 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: Frosky
+ 
+STRAINS: 
+Naked Kills :  503
+T1_Health Kills : 30
+T2_Health Kills : 0
+T3_Health Kills : 0
+T1_Damage Kills : 16
+T2_Damage Kills : 2
+T3_Damage Kills : 0
+T1_Voltaile Kills : 4
+T2_Voltaile Kills : 106
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+Underseer/Saboteur Kills : 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: Hexus
+ 
+STRAINS: 
+Naked Kills :  91
+T1_Health Kills : 16
+T2_Health Kills : 0
+T3_Health Kills : 0
+T1_Damage Kills : 11
+T2_Damage Kills : 1
+T3_Damage Kills : 0
+T1_Voltaile Kills : 1
+T2_Voltaile Kills : 17
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+Royal Queen Kills: 1
+END_SIGNATURE
+
+CHAT MESSAGES: 
+[00:240] PanzerPyro: hey lads
+[00:358] Theda: gl hf (rofl)
+[00:390] Hexus: ello
+[00:435] SyrThunder: Gl hf
+[00:465] SyrThunder: ello
+[00:476] PanzerPyro: glhf sir
+[00:553] PanzerPyro: go easy on us eh?
+[00:555] Frosky: gl
+[00:793] Hexus: mind a cup of tea
+[01:389] PanzerPyro: whoops
+[01:612] LazyRivers: sry was afk
+[04:335] SyrThunder: -pp
+[05:178] Frosky: dang
+[05:227] Hexus: coming
+[05:248] Frosky: i had to put cooler on 0
+[05:659] Frosky: rivers
+[05:771] Hexus: try to divert as much fuel as possibe
+[06:319] SyrThunder: -pp
+[06:678] PanzerPyro: is there a way to clear creep
+[06:755] Frosky: psi
+[08:354] KERRIGAN: ffs
+[08:409] PanzerPyro: omw
+[09:345] Frosky: there shouldnt ever be
+[09:403] Frosky: more than 3 plaeyrs
+[09:433] Frosky: at once place
+[09:509] Frosky: what if he pushes alpha now
+[09:513] PanzerPyro: oh ok
+[09:547] Frosky: orr containment
+[09:940] Frosky: like that
+[10:016] PanzerPyro: I didnt know.
+[10:103] Frosky: its fine
+[10:154] PanzerPyro: this is my second game
+[10:303] Frosky: if you realise to never rotate to place where there are 3 people
+[10:353] PanzerPyro: first time I asked where I should b and nowhone answered
+[10:377] PanzerPyro: kk
+[10:378] Frosky: you are better than 80 % of playes
+[10:971] Frosky: very nice
+[11:009] PanzerPyro: w
+[11:516] SyrThunder: where are we getting attacked
+[11:575] KERRIGAN: oopz
+[11:623] Hexus: divert fuel
+[11:629] Frosky: alpha
+[11:666] Frosky: or contain,nt
+[11:832] Frosky: also lazyrivers
+[11:885] Frosky: battle arc doesnt work
+[12:015] Frosky: as arc you just sit mine and place turrets
+[12:877] KERRIGAN: maybe power
+[13:075] Hexus: i think he has the powe
+[13:150] Hexus: power
+[13:266] PanzerPyro: where is power
+[13:451] Hexus: SHITY
+[13:613] Frosky: power looks like a 
+[13:963] Hexus: deleting viphrophage
+[14:385] Hexus: SHIT
+[14:735] Hexus: HELP
+[14:876] SyrThunder: Damn
+[14:976] Hexus: crap
+[15:094] SyrThunder: I tried to be a big damn hero
+[15:127] SyrThunder: it failed
+[15:253] Hexus: no
+[15:357] Hexus: its my fault
+[15:479] PanzerPyro: lost my mining droid for good
+[15:676] PanzerPyro: it had retarded pathfinding and ran into zombies
+[16:106] Hexus: we failed
+[16:198] Frosky: happens
+[16:242] PanzerPyro: Yeah well y'all died
+[16:312] PanzerPyro: rip
+[16:439] Hexus: just live and defend other doors
+[16:505] Frosky: he has toxic creep
+[16:624] PanzerPyro: yeah its aids
+[16:630] Frosky: need hev suit
+[16:735] Frosky: then its not aids
+[16:765] SyrThunder: where should I run to when i get out
+[16:879] Frosky: containment
+[16:892] Frosky: prob
+[16:919] Frosky: fdc ded
+[16:939] Hexus: down
+[17:049] Hexus: and out
+[17:378] PanzerPyro: what do I do about no more droid
+[17:478] Hexus: towards closest dropship door
+[17:569] Frosky: you need to auto mine
+[17:602] Frosky: for a drorid
+[17:710] Frosky: do u have 100 gas
+[17:728] Frosky: ?
+[17:728] Hexus: GHO
+[17:771] Hexus: GO
+[18:171] Frosky: rivers wtf
+[18:212] Frosky: you have 80 games
+[18:305] Frosky: and u dont know what to do when you lose a droid
+[18:488] LazyRivers: ?
+[18:596] PanzerPyro: I have 1 game
+[18:614] Hexus: KAY MOVE TO EVAC DOORS NOW
+[18:695] PanzerPyro: i was the one asking xd
+[18:866] Frosky: OH
+[18:878] Frosky: mb
+[18:945] Frosky: yeah use a locker
+[19:026] Frosky: and then you should get droid again
+[19:125] PanzerPyro: ty
+[19:137] Frosky: if u dont have gas for droid auto mine
+[19:716] Hexus: str go to evac point a in
+[19:738] Hexus: 3
+[19:798] Hexus: 2
+[19:843] Hexus: 1
+[19:973] Hexus: GO
+[20:226] PanzerPyro: where to for me?
+[20:288] KERRIGAN: anyone got spi?
+[20:506] Frosky: purple stay beetween security
+[20:528] Frosky: and gates
+[20:711] Frosky: actually
+[20:756] Frosky: wen eed someone at power
+[20:798] Frosky: go power purple
+[20:813] Hexus: NICE STR
+[20:921] Hexus: SYR
+[21:076] SyrThunder: what
+[21:203] PanzerPyro: going pow
+[21:282] Hexus: YOU MADE IT TO EVAC POINT NA
+[21:314] PanzerPyro: any mobility shit
+[21:430] PanzerPyro: I should know about
+[21:519] SyrThunder: ye
+[21:703] Frosky: experimentals --> teleport
+[21:756] Frosky: thats newb friendly
+[21:849] PanzerPyro: ty
+[22:291] PanzerPyro: where is it safe to send my droid
+[22:339] Hexus: im auto harvesting
+[22:367] SyrThunder: derp
+[22:666] PanzerPyro: can someone ping a safe droid spot
+[23:790] SyrThunder: the fact containment is still alive is amazing
+[23:871] Frosky: yeah
+[23:918] Frosky: lol
+[24:098] PanzerPyro: taking some heat
+[24:187] Hexus: they dont have the power infected yet
+[24:311] Hexus: thats good
+[24:858] Frosky: run rivers
+[25:599] Frosky: run
+[25:755] Frosky: that place dead as hell
+[25:921] Hexus: crap
+[25:926] Frosky: use the hatch purple
+[26:203] PanzerPyro: where do we get flashlights
+[26:282] Frosky: we dont
+[26:371] PanzerPyro: huh
+[26:447] PanzerPyro: weird
+[26:559] Frosky: power comes in
+[26:649] Frosky: 30 sdeconds
+[26:931] PanzerPyro: scv lost
+[27:376] KERRIGAN: can someone spi
+[27:853] Hexus: danm gates
+[27:873] Frosky: i could but arrc has trouble
+[28:259] PanzerPyro: frosky need help?
+[28:382] Frosky: nope
+[28:571] Frosky: well actually
+[28:593] Frosky: yes
+[28:597] LazyRivers: YOU SHALL NOT PASS
+[29:642] SyrThunder: I think we got this
+[29:656] PanzerPyro: hhmmm
+[29:681] Hexus: crap
+[29:727] Frosky: run
+[29:748] Frosky: surround
+[30:083] Hexus: WHY
+[30:282] SyrThunder: Retreat to hangers?
+[30:463] PanzerPyro: kerrigan I follow u
+[30:480] Hexus: AFFIRMATIVE
+[30:560] Frosky: not yet
+[30:624] KERRIGAN: why lol 
+[30:629] Frosky: defend tank room and vikign room
+[31:065] Hexus: give up on delta
+[31:083] Frosky: good job rivers
+[31:312] Hexus: ALL UNITS FALL BACK TO ALPHA HANGER
+[31:359] Frosky: no
+[31:404] Frosky: defend delta
+[31:443] Frosky: we need to buy time
+[31:680] SyrThunder: heard
+[32:236] PanzerPyro: am I alone up here
+[32:356] Frosky: its fine
+[32:405] Frosky: look at minimap
+[32:446] LazyRivers: no
+[32:570] Frosky: run
+[32:581] Frosky: run
+[32:587] LazyRivers: The zerg are up there with you
+[32:593] Frosky: run
+[32:716] LazyRivers: eh
+[32:977] LazyRivers: well that sucks
+[33:035] SyrThunder: dang frosky knew what was up
+[33:092] PanzerPyro: u guys got caught
+[33:188] PanzerPyro: need help?
+[33:228] Frosky: i hav tp
+[33:296] Frosky: im gonna delay delta
+[33:342] Frosky: fortify alpha
+[33:942] Frosky: nvm
+[33:969] Frosky: run alpha
+[33:996] Hexus: FOCUS ON DEFENDING ALPHA
+[34:509] LazyRivers: I made a mistake
+[34:810] LazyRivers: I thought backpack would allow me to change wep mods on the fly
+[34:839] SyrThunder: hopefully the doors can hold 
+[34:903] LazyRivers: It does not
+[35:362] Frosky: queen on its way
+[35:505] LazyRivers: Why is beta and delta timers not up?
+[35:584] Frosky: delta ded
+[35:682] LazyRivers: bruh
+[35:808] Hexus: they are destroyed
+[35:808] Frosky: gates
+[36:053] Hexus: WHAT THE FUCK
+[36:255] Hexus: oh
+[36:372] Hexus: OH SHITY
+[36:698] KERRIGAN: everyone to alpha
+[36:965] PanzerPyro: how to increase weapon dmg
+[37:176] Frosky: get titanium
+[37:197] Frosky: panzer
+[37:235] Frosky: as modification
+[37:245] KERRIGAN: go to weapon locker and press f
+[37:276] Hexus: UPGRADE IT
+[37:293] Frosky: that does more damage
+[37:448] KERRIGAN: for recharge and upgrade there
+[37:776] PanzerPyro: QUEEN
+[38:080] Hexus: RETREAT
+[38:386] Hexus: OH SHIT
+[38:985] Hexus: KEEP THAT UP
+[39:256] PanzerPyro: QUEEN WAS SO CLOSE TO DED
+[39:297] PanzerPyro: FUCK
+[39:548] KERRIGAN: anyone can spare gass?>
+[39:726] Hexus: NO I HAVE 7
+[40:529] Frosky: gg
+[40:556] Hexus: NOOOOOOO
+[40:581] PanzerPyro: NOOOO
+[40:619] Theda: gg
+[40:654] PanzerPyro: gg
+[40:693] LazyRivers: god damn
+[40:710] SyrThunder: GG
+[40:719] LazyRivers: gg
+[40:747] Theda: fun game (rofl)
+[40:950] Hexus: we lost
+Theda First Alpha Anubalisk |  Win
+
+Theda Placed 0 Greaters.
+--------------------------------

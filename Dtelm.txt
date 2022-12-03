@@ -1,0 +1,26 @@
+Dtelm HumanWinsNormal 66
+Dtelm ZombieRank 5.1662
+Dtelm VespeneHarvested 488660
+Dtelm HumansRescued 107
+Dtelm SecurityForcesKilled 26712
+Dtelm ZombiesKilled 92134
+Dtelm FuelDiverted 616
+Dtelm HumanWinsInsane 0
+Dtelm LeftLastGame 0
+Dtelm 4:3AspectRatioSettings 0
+Dtelm HumanRank 2
+Dtelm IdleRally 1
+Dtelm NumberOfTimesCaptured 202
+Dtelm TurretsBuilt 1042
+Dtelm ZombieWins 17
+Dtelm GamesLeft 6
+Dtelm GamesPlayedAsHuman 160
+Dtelm GamesPlayedAsZombie 54
+Dtelm HumansCaptured 542
+Dtelm HumanWinsHard 0
+Dtelm Difficulty 5
+Dtelm Opt In 0
+Dtelm Color 6
+Dtelm Chosen Zombie 2
+Dtelm Host Chooses Zombie 0
+Dtelm Experimental Mode 1

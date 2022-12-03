@@ -1,0 +1,530 @@
+Analyzed: Oh No It's Zombies Arctic Map (329)
+
+Date: 2022.12.02 05:36:06
+
+ID : 0 PlayerName: DeATH Race: Terran
+ID : 1 PlayerName: Yinsanity Race: Terran
+ID : 2 PlayerName: MarFly Race: Terran
+ID : 3 PlayerName: Ahanax Race: Terran
+ID : 4 PlayerName: ONXY Race: Terran
+ID : 5 PlayerName: Kruger Race: Terran
+ID : 6 PlayerName: Frosky Race: Zerg
+ID : 7 PlayerName: Security Race: Terran
+Frosky Zombie Loss
+Private Lobby
+
+Game Length:[39:546]
+Players ammount: 8
+Marine rank avg: 23,833333333333332
+Marine GrandMaster ammount: 5
+
+ONXY First Gun ArcWelder
+Ahanax First Gun BeamRifle
+Kruger First Gun Flamethrower
+MarFly First Gun BeamRifle
+Yinsanity First Gun SpecOpsAssaultRifle
+DeATH First Gun BeamRifle
+
+PURCHASES: 
+[00:572] DeATH Unlocked AssaultRifle 
+[00:651] DeATH Placed/Upgraded MiningDroid 
+[02:366] DeATH Unlocked FragGrenade 
+[02:375] DeATH Unlocked SpecOpsFragGrenade 
+[04:588] DeATH Unlocked Stimpack 
+[05:497] DeATH Unlocked ExplorationDroid 
+[06:277] DeATH Placed/Upgraded ExplorationDroid 
+[06:346] DeATH Placed/Upgraded ExplorationDroid 
+[06:991] DeATH Placed/Upgraded ExplorationDroid 
+[08:666] DeATH Unlocked BeamRifle 
+[10:417] DeATH Unlocked SpecOpsPlasmaRifle 
+[11:610] DeATH Unlocked CombatSuit 
+[13:088] DeATH Unlocked AdvancedCombatSuit 
+[15:330] DeATH Unlocked LongRangeScope 
+[16:579] DeATH Unlocked CombatShield 
+[16:605] DeATH Unlocked EnergyPack 
+[18:555] DeATH Unlocked AdvancedDroidEngines 
+[19:852] DeATH Unlocked AIAssistant 
+[19:891] DeATH Unlocked BioMechanicalRepairDrone 
+[20:391] DeATH Unlocked OverloadWeapon 
+[22:966] DeATH Unlocked PowerConverter 
+[23:037] DeATH Unlocked SpecOpsPowerConverter 
+[28:316] DeATH Placed/Upgraded HealingDrone 
+[30:153] DeATH Unlocked MotionSensor 
+[30:168] DeATH Unlocked AdvancedMotionSensor 
+[30:254] DeATH Unlocked AutoTurret 
+[30:277] DeATH Unlocked HeavyTurret 
+[30:511] DeATH Placed/Upgraded AutoTurret 
+[31:772] DeATH Placed/Upgraded SensorTower 
+[31:805] DeATH Placed/Upgraded SensorTower 
+[31:940] DeATH Placed/Upgraded AutoTurret 
+[32:285] DeATH Unlocked QuantumBackpack 
+[32:795] DeATH Placed/Upgraded AutoTurret 
+[33:838] DeATH Placed/Upgraded AutoTurret 
+[34:722] DeATH Placed/Upgraded AutoTurret 
+[35:553] DeATH Placed/Upgraded AutoTurret 
+[35:820] DeATH Placed/Upgraded AutoTurret 
+[36:337] DeATH Placed/Upgraded AutoTurret 
+[37:157] DeATH Placed/Upgraded AutoTurret 
+[37:387] DeATH Placed/Upgraded HealingDrone 
+[37:571] DeATH Placed/Upgraded HealingDrone 
+[37:910] DeATH Placed/Upgraded HealingDrone 
+
+[00:572] Yinsanity Unlocked AssaultRifle 
+[00:663] Yinsanity Placed/Upgraded MiningDroid 
+[03:353] Yinsanity Unlocked AdvancedDroidEngines 
+[03:564] Yinsanity Unlocked FragGrenade 
+[06:090] Yinsanity Unlocked SpecOpsAssaultRifle 
+[06:938] Yinsanity Unlocked SpecOpsFragGrenade 
+[08:400] Yinsanity Unlocked Stimpack 
+[10:569] Yinsanity Unlocked TitaniumBulletCasings 
+[11:409] Yinsanity Placed/Upgraded MiningDroid 
+[11:611] Yinsanity Bought ShieldSuit 
+[13:089] Yinsanity Bought CombatSuit 
+[13:523] Yinsanity Unlocked CombatShield 
+[13:539] Yinsanity Unlocked EnergyPack 
+[15:405] Yinsanity Unlocked BioMechanicalRepairDrone 
+[15:467] Yinsanity Placed/Upgraded HealingDrone 
+[16:814] Yinsanity Unlocked SpecOpsBioMechanicalRepairDrone 
+[16:886] Yinsanity Placed/Upgraded HealingDrone 
+[17:473] Yinsanity Unlocked OpticalVisor 
+[19:724] Yinsanity Unlocked MiningCharge 
+[19:749] Yinsanity Unlocked AdvancedMiningCharge 
+[20:521] Yinsanity Placed/Upgraded HealingDrone 
+[22:497] Yinsanity Placed/Upgraded HealingDrone 
+[23:052] Yinsanity Placed/Upgraded HealingDrone 
+[23:831] Yinsanity Placed/Upgraded NukePack 
+[23:951] Yinsanity Placed/Upgraded HealingDrone 
+[24:109] Yinsanity Placed/Upgraded NukePack 
+[24:826] Yinsanity Placed/Upgraded HealingDrone 
+[25:595] Yinsanity Placed/Upgraded HealingDrone 
+[27:087] Yinsanity Placed/Upgraded NukePack 
+[28:177] Yinsanity Placed/Upgraded HealingDrone 
+[28:470] Yinsanity Unlocked HazmatSuit 
+[28:473] Yinsanity Unlocked AdvancedHazmatSuit 
+[28:576] Yinsanity Unlocked PowerConverter 
+[28:590] Yinsanity Unlocked SpecOpsPowerConverter 
+[28:721] Yinsanity Placed/Upgraded HealingDrone 
+[28:980] Yinsanity Placed/Upgraded HealingDrone 
+[29:717] Yinsanity Placed/Upgraded NukePack 
+[30:930] Yinsanity Placed/Upgraded NukePack 
+[32:883] Yinsanity Placed/Upgraded HealingDrone 
+[34:017] Yinsanity Placed/Upgraded HealingDrone 
+[35:893] Yinsanity Placed/Upgraded HealingDrone 
+[36:690] Yinsanity Placed/Upgraded HealingDrone 
+
+[00:572] MarFly Unlocked AssaultRifle 
+[00:744] MarFly Placed/Upgraded MiningDroid 
+[00:824] MarFly Unlocked AdvancedDroidEngines 
+[04:301] MarFly Unlocked BeamRifle 
+[04:401] MarFly Unlocked SuperStimpack 
+[06:192] MarFly Unlocked SpecOpsPlasmaRifle 
+[06:948] MarFly Unlocked ExplorationDroid 
+[07:728] MarFly Placed/Upgraded ExplorationDroid 
+[09:258] MarFly Unlocked Stimpack 
+[09:329] MarFly Placed/Upgraded ExplorationDroid 
+[11:947] MarFly Unlocked LongRangeScope 
+[11:999] MarFly Unlocked BioMechanicalRepairDrone 
+[12:259] MarFly Unlocked FlashBang 
+[12:668] MarFly Placed/Upgraded HealingDrone 
+[15:592] MarFly Unlocked PsiDisrupter 
+[15:619] MarFly Unlocked SpecOpsPsiDisruptor 
+[15:715] MarFly Placed/Upgraded PsiIndoctrinator 
+[17:711] MarFly Placed/Upgraded PsiIndoctrinator 
+[18:776] MarFly Placed/Upgraded ExplorationDroid 
+[20:159] MarFly Placed/Upgraded PsiIndoctrinator 
+[20:821] MarFly Unlocked AutoTurret 
+[20:838] MarFly Unlocked FlameTurret 
+[20:950] MarFly Placed/Upgraded AutoTurret 
+[21:933] MarFly Placed/Upgraded AutoTurret 
+[22:279] MarFly Placed/Upgraded HealingDrone 
+[22:545] MarFly Placed/Upgraded HealingDrone 
+[23:373] MarFly Placed/Upgraded AutoTurret 
+[23:611] MarFly Placed/Upgraded AutoTurret 
+[24:751] MarFly Placed/Upgraded HealingDrone 
+[25:583] MarFly Placed/Upgraded AutoTurret 
+[27:274] MarFly Unlocked MotionSensor 
+[27:332] MarFly Unlocked AdvancedMotionSensor 
+[27:485] MarFly Placed/Upgraded SensorTower 
+[27:604] MarFly Placed/Upgraded SensorTower 
+[28:465] MarFly Placed/Upgraded AutoTurret 
+[28:471] MarFly Bought ShieldSuit 
+[28:474] MarFly Bought HazmatSuit 
+[29:374] MarFly Unlocked MiningCharge 
+[29:518] MarFly Placed/Upgraded HealingDrone 
+[30:802] MarFly Placed/Upgraded HealingDrone 
+[31:150] MarFly Placed/Upgraded AutoTurret 
+[33:467] MarFly Unlocked ShieldSuit 
+[33:491] MarFly Unlocked AdvancedShieldSuit 
+[34:358] MarFly Placed/Upgraded HealingDrone 
+[34:834] MarFly Unlocked EnergySuit 
+[34:841] MarFly Unlocked AdvancedEnergySuit 
+[34:911] MarFly Unlocked EnergyPack 
+[37:521] MarFly Placed/Upgraded AutoTurret 
+[37:726] MarFly Placed/Upgraded AutoTurret 
+[38:224] MarFly Placed/Upgraded SensorTower 
+[38:666] MarFly Placed/Upgraded AutoTurret 
+[38:839] MarFly Placed/Upgraded SensorTower 
+[38:968] MarFly Placed/Upgraded SensorTower 
+
+[00:572] Ahanax Unlocked AssaultRifle 
+[00:651] Ahanax Placed/Upgraded MiningDroid 
+[00:713] Ahanax Unlocked AdvancedDroidEngines 
+[02:732] Ahanax Unlocked BeamRifle 
+[04:623] Ahanax Unlocked SuperStimpack 
+[05:454] Ahanax Unlocked ExplorationDroid 
+[05:488] Ahanax Placed/Upgraded ExplorationDroid 
+[05:497] Ahanax Placed/Upgraded ExplorationDroid 
+[07:269] Ahanax Unlocked SpecOpsPlasmaRifle 
+[08:204] Ahanax Unlocked FragGrenade 
+[08:928] Ahanax Placed/Upgraded ExplorationDroid 
+[09:038] Ahanax Unlocked SpecOpsFragGrenade 
+[11:132] Ahanax Unlocked Stimpack 
+[12:606] Ahanax Unlocked AutoTurret 
+[12:622] Ahanax Unlocked HeavyTurret 
+[12:759] Ahanax Placed/Upgraded AutoTurret 
+[14:548] Ahanax Unlocked CombatShield 
+[14:554] Ahanax Unlocked EnergyPack 
+[15:123] Ahanax Placed/Upgraded AutoTurret 
+[16:026] Ahanax Unlocked FlameTurret 
+[16:454] Ahanax Placed/Upgraded AutoTurret 
+[16:936] Ahanax Placed/Upgraded AutoTurret 
+[17:674] Ahanax Placed/Upgraded AutoTurret 
+[18:000] Ahanax Placed/Upgraded AutoTurret 
+[18:232] Ahanax Placed/Upgraded AutoTurret 
+[22:996] Ahanax Unlocked SpecOpsSuperStimpack 
+[24:169] Ahanax Placed/Upgraded AutoTurret 
+[24:715] Ahanax Unlocked EnergySuit 
+[25:368] Ahanax Placed/Upgraded AutoTurret 
+[26:444] Ahanax Unlocked LongRangeScope 
+[27:521] Ahanax Placed/Upgraded AutoTurret 
+[29:897] Ahanax Unlocked AdvancedEnergySuit 
+[30:684] Ahanax Placed/Upgraded AutoTurret 
+[31:755] Ahanax Placed/Upgraded AutoTurret 
+[31:988] Ahanax Placed/Upgraded ExplorationDroid 
+[32:413] Ahanax Placed/Upgraded AutoTurret 
+[33:450] Ahanax Placed/Upgraded AutoTurret 
+[33:468] Ahanax Bought ShieldSuit 
+[33:492] Ahanax Bought ShieldSuit 
+[34:249] Ahanax Placed/Upgraded AutoTurret 
+[34:835] Ahanax Bought ShieldSuit 
+[34:842] Ahanax Bought EnergySuit 
+[35:830] Ahanax Placed/Upgraded AutoTurret 
+[37:411] Ahanax Placed/Upgraded AutoTurret 
+[37:759] Ahanax Placed/Upgraded AutoTurret 
+[38:047] Ahanax Placed/Upgraded AutoTurret 
+[38:335] Ahanax Unlocked BioMechanicalRepairDrone 
+[38:389] Ahanax Placed/Upgraded HealingDrone 
+[38:568] Ahanax Placed/Upgraded HealingDrone 
+[38:754] Ahanax Placed/Upgraded HealingDrone 
+
+[00:572] ONXY Unlocked AssaultRifle 
+[00:651] ONXY Placed/Upgraded MiningDroid 
+[00:844] ONXY Unlocked ArcWelder 
+[01:579] ONXY Unlocked BioMechanicalRepairDrone 
+[01:590] ONXY Unlocked CombatAccelerationDrone 
+[02:577] ONXY Placed/Upgraded HealingDrone 
+[02:881] ONXY Placed/Upgraded HealingDrone 
+[03:922] ONXY Placed/Upgraded HealingDrone 
+[05:323] ONXY Unlocked AdvancedDroidEngines 
+[06:132] ONXY Unlocked Stimpack 
+[06:910] ONXY Unlocked TurboDroidEngines 
+[07:601] ONXY Unlocked PsiDisrupter 
+[08:131] ONXY Placed/Upgraded PsiIndoctrinator 
+[09:312] ONXY Placed/Upgraded HealingDrone 
+[10:182] ONXY Placed/Upgraded PsiIndoctrinator 
+[10:280] ONXY Unlocked SpecOpsPsiDisruptor 
+[11:540] ONXY Unlocked AutoTurret 
+[11:551] ONXY Unlocked HeavyTurret 
+[11:788] ONXY Placed/Upgraded AutoTurret 
+[12:862] ONXY Placed/Upgraded AutoTurret 
+[13:330] ONXY Placed/Upgraded PsiIndoctrinator 
+[15:426] ONXY Unlocked QuantumBackpack 
+[15:505] ONXY Unlocked MotionSensor 
+[15:560] ONXY Placed/Upgraded SensorTower 
+[15:610] ONXY Placed/Upgraded SensorTower 
+[15:774] ONXY Placed/Upgraded SensorTower 
+[15:824] ONXY Placed/Upgraded SensorTower 
+[16:854] ONXY Unlocked AdvancedMotionSensor 
+[18:258] ONXY Placed/Upgraded PsiIndoctrinator 
+[18:321] ONXY Unlocked PsiDepressor 
+[18:337] ONXY Unlocked SpecOpsBioMechanicalRepairDrone 
+[20:219] ONXY Unlocked FlameTurret 
+[20:686] ONXY Placed/Upgraded AutoTurret 
+[22:258] ONXY Placed/Upgraded SensorTower 
+[22:451] ONXY Placed/Upgraded SensorTower 
+[23:871] ONXY Placed/Upgraded AutoTurret 
+[24:001] ONXY Placed/Upgraded AutoTurret 
+[24:107] ONXY Unlocked EnergySuit 
+[24:170] ONXY Placed/Upgraded HealingDrone 
+[24:716] ONXY Bought ShieldSuit 
+[25:209] ONXY Placed/Upgraded AutoTurret 
+[25:616] ONXY Placed/Upgraded HealingDrone 
+[26:946] ONXY Unlocked FlashBang 
+[26:950] ONXY Unlocked SpecOpsFlashbang 
+[28:279] ONXY Placed/Upgraded SensorTower 
+[28:931] ONXY Placed/Upgraded AutoTurret 
+[29:898] ONXY Bought EnergySuit 
+[30:091] ONXY Unlocked AdvancedEnergySuit 
+[30:159] ONXY Unlocked MiningCharge 
+[30:231] ONXY Placed/Upgraded NukePack 
+[30:391] ONXY Placed/Upgraded PsiIndoctrinator 
+[31:472] ONXY Placed/Upgraded NukePack 
+[34:163] ONXY Unlocked AdvancedMiningCharge 
+[34:845] ONXY Placed/Upgraded AutoTurret 
+[35:026] ONXY Placed/Upgraded AutoTurret 
+[35:274] ONXY Placed/Upgraded AutoTurret 
+[35:412] ONXY Placed/Upgraded SensorTower 
+[35:434] ONXY Placed/Upgraded SensorTower 
+[35:446] ONXY Placed/Upgraded SensorTower 
+[35:458] ONXY Placed/Upgraded SensorTower 
+[36:027] ONXY Placed/Upgraded NukePack 
+[36:087] ONXY Placed/Upgraded NukePack 
+[36:178] ONXY Placed/Upgraded AutoTurret 
+[36:377] ONXY Unlocked SpecOpsArcWelder 
+[36:500] ONXY Unlocked ArcWelderMod3 
+
+[00:572] Kruger Unlocked AssaultRifle 
+[00:773] Kruger Placed/Upgraded MiningDroid 
+[00:880] Kruger Unlocked AdvancedDroidEngines 
+[03:423] Kruger Unlocked Flamethrower 
+[04:630] Kruger Unlocked BeamRifle 
+[05:836] Kruger Unlocked SpecOpsFlamethrower 
+[07:437] Kruger Unlocked Stimpack 
+[09:264] Kruger Unlocked BioMechanicalRepairDrone 
+[09:294] Kruger Unlocked CombatShield 
+[10:381] Kruger Unlocked CryoFreeze 
+[11:711] Kruger Placed/Upgraded HealingDrone 
+[12:799] Kruger Placed/Upgraded HealingDrone 
+[12:982] Kruger Placed/Upgraded HealingDrone 
+[13:473] Kruger Unlocked FragGrenade 
+[13:574] Kruger Unlocked MiningCharge 
+[13:743] Kruger Placed/Upgraded NukePack 
+[14:132] Kruger Placed/Upgraded NukePack 
+[15:452] Kruger Unlocked HazmatSuit 
+[15:515] Kruger Unlocked AIAssistant 
+[17:106] Kruger Unlocked AdvancedHazmatSuit 
+[17:612] Kruger Placed/Upgraded HealingDrone 
+[17:866] Kruger Placed/Upgraded HealingDrone 
+[18:106] Kruger Placed/Upgraded HealingDrone 
+[18:717] Kruger Placed/Upgraded HealingDrone 
+[19:426] Kruger Placed/Upgraded HealingDrone 
+[19:968] Kruger Unlocked FlashBang 
+[19:978] Kruger Unlocked SpecOpsFlashbang 
+[20:982] Kruger Unlocked PowerConverter 
+[21:021] Kruger Unlocked QuantumBackpack 
+[21:964] Kruger Unlocked MotionSensor 
+[22:040] Kruger Placed/Upgraded SensorTower 
+[22:477] Kruger Placed/Upgraded HealingDrone 
+[23:058] Kruger Placed/Upgraded HealingDrone 
+[23:869] Kruger Unlocked OverloadWeapon 
+[24:057] Kruger Placed/Upgraded HealingDrone 
+[24:108] Kruger Bought ShieldSuit 
+[24:841] Kruger Unlocked SpecOpsPowerConverter 
+[24:841] Kruger Unlocked SpecOpsPowerConverter 
+[25:314] Kruger Unlocked AdvancedMiningCharge 
+[27:715] Kruger Placed/Upgraded HealingDrone 
+[28:003] Kruger Placed/Upgraded HealingDrone 
+[29:648] Kruger Unlocked AutoTurret 
+[29:668] Kruger Unlocked HeavyTurret 
+[30:092] Kruger Bought EnergySuit 
+[30:149] Kruger Placed/Upgraded NukePack 
+[30:382] Kruger Placed/Upgraded NukePack 
+[30:861] Kruger Unlocked SpecOpsBioMechanicalRepairDrone 
+[31:658] Kruger Placed/Upgraded AutoTurret 
+[31:856] Kruger Placed/Upgraded AutoTurret 
+[32:043] Kruger Placed/Upgraded AutoTurret 
+[35:696] Kruger Placed/Upgraded HealingDrone 
+[36:333] Kruger Placed/Upgraded HealingDrone 
+[36:608] Kruger Placed/Upgraded HealingDrone 
+[36:926] Kruger Placed/Upgraded HealingDrone 
+
+[00:568] Frosky Bought PlayerNumber 
+[00:623] Frosky Spawned MassiveCocoon 
+[02:063] Frosky Spawned Hunter 
+[05:600] Frosky Spawned MassiveCocoon 
+[07:040] Frosky Spawned InfestedAbomination 
+[08:284] Frosky Spawned MassiveCocoon 
+[09:364] Frosky Spawned Underseer 
+[09:764] Frosky Spawned MassiveCocoon 
+[10:395] Frosky Bought SunkenColony 
+[10:523] Frosky Bought SunkenColony 
+[10:525] Frosky Spawned MassiveCocoon 
+[11:605] Frosky Spawned Underseer 
+[11:719] Frosky Bought CreepSpeed 
+[12:956] Frosky Bought SunkenColony 
+[14:886] Frosky Bought AdvancedInfestationContainment 
+[15:365] Frosky Bought BuildExtractorExcavationZone 
+[15:453] Frosky Bought ShieldSuit 
+[16:302] Frosky Bought UnlockDropPods 
+[16:308] Frosky Bought EvolveDropPods 
+[16:746] Frosky Bought EvolveDropPods 
+[17:107] Frosky Bought HazmatSuit 
+[18:279] Frosky Bought StrainSpeed 
+[18:764] Frosky Bought PureStrainSpeed 
+[19:482] Frosky Bought StrainSpeed 
+[19:734] Frosky Bought PureStrainSpeed 
+[19:933] Frosky Bought EvolveDropPods 
+[20:412] Frosky Bought SunkenColony 
+[20:467] Frosky Bought HunterlingStrain 
+[21:284] Frosky Bought SunkenColony 
+[21:423] Frosky Bought SunkenColony 
+[21:453] Frosky Bought SunkenColony 
+[22:685] Frosky Bought SpawnNydusWorm 
+[23:212] Frosky Bought SunkenColony 
+[23:490] Frosky Spawned MassiveCocoon 
+[23:627] Frosky Spawned MassiveCocoon 
+[23:766] Frosky Bought EvolveDropPods 
+[23:948] Frosky Spawned MassiveCocoon 
+[24:254] Frosky Bought GreaterNydus 
+[24:663] Frosky Bought StrainVolatile 
+[25:087] Frosky Spawned MassiveCocoon 
+[25:590] Frosky Bought HunterlingStrain 
+[26:167] Frosky Spawned Underseer 
+[27:092] Frosky Bought StrainSpeed 
+[28:683] Frosky Bought EvolveDropPods 
+[28:686] Frosky Bought EvolveDropPods 
+[28:902] Frosky Bought SiphonFuel 
+[29:567] Frosky Bought DropshipsFueled 
+[29:640] Frosky Spawned RoyalCocoon 
+[29:640] Frosky Bought SpawnHiveQueen 
+[29:640] Frosky Bought UltimateInfestationResearched 
+[30:359] Frosky Spawned QueenCoop 
+[32:207] Frosky Bought GreaterNydus 
+[32:583] Frosky Bought GreaterNydus 
+[33:697] Frosky Bought PureStrainSpeed 
+[33:707] Frosky Bought HunterlingStrain 
+[34:294] Frosky Bought StrainVolatile 
+[35:990] Frosky Bought VirulentCreep 
+[35:990] Frosky Bought VirulentCreep 
+
+Game Ended
+ 
+STRAIN RATIO: 
+Naked Kills: 218
+T1 Speed Kills:  3 T2 Speed Kills: 1352 T3 Speed Kills:  189
+T1 Health Kills: 0 T2 Health Kills: 0 T3 Health Kills: 0
+T1 Damage Kills: 0 T2 Damage Kills: 0 T3 Damage Kills: 0
+T1 Voltaile Kills: 131 T2 Voltaile Kills: 0 T3 Voltaile Kills: 0
+----------------------------------------------------------------------------
+Warpig kills : 4078
+---------------------------------------------------------
+Name: DeATH
+ 
+STRAINS: 
+Naked Kills :  379
+T1_speed Kills : 60
+T2_Speed Kills : 166
+T3_Speed Kills : 5
+T1_Voltaile Kills : 52
+T2_Voltaile Kills : 0
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+Aberation/Abomination Kills : 1
+Underseer/Saboteur Kills : 1
+Royal Queen Kills: 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: Yinsanity
+ 
+STRAINS: 
+Naked Kills :  660
+T1_speed Kills : 92
+T2_Speed Kills : 332
+T3_Speed Kills : 0
+T1_Voltaile Kills : 155
+T2_Voltaile Kills : 0
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+Egg Kills : 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: MarFly
+ 
+STRAINS: 
+Naked Kills :  204
+T1_speed Kills : 64
+T2_Speed Kills : 288
+T3_Speed Kills : 1
+T1_Voltaile Kills : 23
+T2_Voltaile Kills : 0
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+Egg Kills : 1
+Hunter/Predator Kills : 1
+Legion/Legionnaire Kills : 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: Ahanax
+ 
+STRAINS: 
+Naked Kills :  581
+T1_speed Kills : 100
+T2_Speed Kills : 431
+T3_Speed Kills : 16
+T1_Voltaile Kills : 117
+T2_Voltaile Kills : 0
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+Underseer/Saboteur Kills : 2
+END_SIGNATURE
+---------------------------------------------------------
+Name: ONXY
+ 
+STRAINS: 
+Naked Kills :  177
+T1_speed Kills : 56
+T2_Speed Kills : 244
+T3_Speed Kills : 25
+T1_Voltaile Kills : 45
+T2_Voltaile Kills : 0
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: Kruger
+ 
+STRAINS: 
+Naked Kills :  723
+T1_speed Kills : 29
+T2_Speed Kills : 517
+T3_Speed Kills : 0
+T1_Voltaile Kills : 74
+T2_Voltaile Kills : 0
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: Frosky
+ 
+STRAINS: 
+Naked Kills :  0
+T1_Voltaile Kills : 213
+T2_Voltaile Kills : 0
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+QueenEgg Kills: 1
+END_SIGNATURE
+
+CHAT MESSAGES: 
+[00:119] Yinsanity: gl hf
+[00:244] DeATH: stacked
+[00:317] Kruger: yeet
+[26:946] DeATH: ?????????
+[36:773] Kruger: bro....
+[36:836] Yinsanity: ...
+[38:357] Kruger: gg
+[38:686] Ahanax: gg
+[38:962] ONXY: gg
+[39:014] Frosky: gg
+[39:191] DeATH: if only you go power...
+Frosky First Alpha Hunter |  Loss
+
+Frosky Placed 0 Greaters.
+--------------------------------

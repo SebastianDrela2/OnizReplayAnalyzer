@@ -1,0 +1,509 @@
+Analyzed: Oh No It's Zombies Arctic Map (312)
+
+Date: 2022.11.25
+
+ID : 0 PlayerName: sam Race: Terran
+ID : 1 PlayerName: Frosky Race: Terran
+ID : 2 PlayerName: Static Race: Terran
+ID : 3 PlayerName: UnBornDELTA Race: Zerg
+ID : 4 PlayerName: Nevic Race: Terran
+ID : 5 PlayerName: Alex Race: Terran
+ID : 6 PlayerName: kelsoo Race: Zerg
+ID : 7 PlayerName: Security Race: Terran
+UnBornDELTA Zombie Loss
+Private Lobby
+
+Game Length:[37:712]
+Players ammount: 8
+Marine rank avg: 93,33333333333333
+Marine GrandMaster ammount: 16
+
+Frosky First Gun Flamethrower
+Nevic First Gun SpecOpsAssaultRifle
+sam First Gun SpecOpsAssaultRifle
+Alex First Gun BeamRifle
+Static First Gun Shotgun
+kelsoo First Gun Flamethrower
+
+PURCHASES: 
+[00:572] sam Unlocked AssaultRifle 
+[00:669] sam Placed/Upgraded MiningDroid 
+[02:329] sam Unlocked AdvancedDroidEngines 
+[04:758] sam Unlocked TurboDroidEngines 
+[05:777] sam Unlocked MotionSensor 
+[06:011] sam Placed/Upgraded SensorTower 
+[06:811] sam Placed/Upgraded SensorTower 
+[08:612] sam Unlocked SpecOpsAssaultRifle 
+[09:297] sam Unlocked OverloadWeapon 
+[09:553] sam Placed/Upgraded SensorTower 
+[11:059] sam Unlocked AutoTargetingSystem 
+[12:053] sam Placed/Upgraded SensorTower 
+[14:015] sam Unlocked EnergySuit 
+[14:018] sam Unlocked AdvancedEnergySuit 
+[14:056] sam Unlocked ForceFieldGrenade 
+[15:389] sam Unlocked SpecOpsForcefieldGrenade 
+[16:626] sam Placed/Upgraded SensorTower 
+[16:925] sam Unlocked MedicShield 
+[17:037] sam Unlocked EnergyPack 
+[17:073] sam Unlocked OpticalVisor 
+[18:099] sam Unlocked AdvancedMotionSensor 
+[22:285] sam Unlocked PsiDisrupter 
+[22:330] sam Unlocked SpecOpsPsiDisruptor 
+[22:377] sam Unlocked PsiDepressor 
+[24:930] sam Placed/Upgraded PsiIndoctrinator 
+[25:564] sam Unlocked ExplorationDroid 
+[25:569] sam Unlocked AdvancedExplorationDroid 
+[25:630] sam Placed/Upgraded ExplorationDroid 
+[25:652] sam Placed/Upgraded ExplorationDroid 
+[25:678] sam Placed/Upgraded ExplorationDroid 
+[27:443] sam Unlocked MiningCharge 
+[27:447] sam Unlocked AdvancedMiningCharge 
+[27:682] sam Placed/Upgraded NukePack 
+[29:689] sam Placed/Upgraded NukePack 
+[29:770] sam Unlocked Teleporter 
+[29:942] sam Placed/Upgraded NukePack 
+[31:272] sam Placed/Upgraded NukePack 
+[31:624] sam Placed/Upgraded PsiIndoctrinator 
+[32:408] sam Placed/Upgraded NukePack 
+[35:043] sam Placed/Upgraded NukePack 
+[35:241] sam Placed/Upgraded NukePack 
+[35:444] sam Placed/Upgraded NukePack 
+[35:540] sam Unlocked AutoTurret 
+[35:574] sam Unlocked FlameTurret 
+[35:593] sam Unlocked BioMechanicalRepairDrone 
+[35:607] sam Unlocked SpecOpsBioMechanicalRepairDrone 
+[35:672] sam Placed/Upgraded AutoTurret 
+[37:409] sam Unlocked Stimpack 
+[37:564] sam Placed/Upgraded MiningDroid 
+[37:604] sam Placed/Upgraded HealingDrone 
+
+[00:572] Frosky Unlocked AssaultRifle 
+[00:651] Frosky Placed/Upgraded MiningDroid 
+[00:718] Frosky Unlocked IncendiaryGrenade 
+[03:574] Frosky Unlocked Flamethrower 
+[04:861] Frosky Unlocked SpecOpsFlamethrower 
+[07:334] Frosky Unlocked CryoFreeze 
+[09:601] Frosky Unlocked AdvancedDroidEngines 
+[11:049] Frosky Unlocked BioMechanicalRepairDrone 
+[12:760] Frosky Unlocked AutoTurret 
+[12:983] Frosky Placed/Upgraded AutoTurret 
+[13:815] Frosky Placed/Upgraded HealingDrone 
+[13:907] Frosky Unlocked CombatShield 
+[14:016] Frosky Bought ShieldSuit 
+[14:019] Frosky Bought EnergySuit 
+[15:203] Frosky Unlocked HazmatSuit 
+[16:804] Frosky Unlocked Stimpack 
+[16:892] Frosky Placed/Upgraded HealingDrone 
+[17:857] Frosky Unlocked AdvancedHazmatSuit 
+[18:975] Frosky Placed/Upgraded HealingDrone 
+[19:158] Frosky Placed/Upgraded HealingDrone 
+[22:081] Frosky Unlocked PsiDisrupter 
+[22:185] Frosky Placed/Upgraded PsiIndoctrinator 
+[22:646] Frosky Placed/Upgraded PsiIndoctrinator 
+[23:417] Frosky Placed/Upgraded PsiIndoctrinator 
+[24:205] Frosky Unlocked FlameTurret 
+[24:477] Frosky Placed/Upgraded AutoTurret 
+[24:763] Frosky Placed/Upgraded AutoTurret 
+[25:108] Frosky Placed/Upgraded AutoTurret 
+[25:455] Frosky Unlocked QuantumBackpack 
+[25:823] Frosky Placed/Upgraded AutoTurret 
+[26:291] Frosky Placed/Upgraded AutoTurret 
+[26:553] Frosky Placed/Upgraded AutoTurret 
+[26:785] Frosky Placed/Upgraded HealingDrone 
+[26:989] Frosky Placed/Upgraded HealingDrone 
+[27:948] Frosky Placed/Upgraded HealingDrone 
+[28:770] Frosky Unlocked FlashBang 
+[29:084] Frosky Unlocked ArcWelder 
+[30:028] Frosky Placed/Upgraded AutoTurret 
+[30:227] Frosky Placed/Upgraded AutoTurret 
+[30:320] Frosky Unlocked SpecOpsBioMechanicalRepairDrone 
+[30:363] Frosky Placed/Upgraded HealingDrone 
+[30:798] Frosky Placed/Upgraded HealingDrone 
+[31:859] Frosky Placed/Upgraded AutoTurret 
+[32:289] Frosky Placed/Upgraded HealingDrone 
+[32:688] Frosky Placed/Upgraded AutoTurret 
+[32:990] Frosky Placed/Upgraded HealingDrone 
+[33:186] Frosky Placed/Upgraded HealingDrone 
+[33:621] Frosky Placed/Upgraded AutoTurret 
+[33:919] Frosky Placed/Upgraded HealingDrone 
+[34:261] Frosky Placed/Upgraded HealingDrone 
+[34:729] Frosky Placed/Upgraded HealingDrone 
+
+[00:572] Static Unlocked AssaultRifle 
+[00:665] Static Placed MiningDroid 
+[03:277] Static Unlocked AdvancedDroidEngines 
+[05:625] Static Unlocked TurboDroidEngines 
+[06:281] Static Unlocked BioMechanicalRepairDrone 
+[06:381] Static Placed HealingDrone 
+[06:988] Static Placed HealingDrone 
+[08:642] Static Unlocked Stimpack 
+[09:310] Static Placed HealingDrone 
+[10:240] Static Unlocked Shotgun 
+[11:193] Static Placed HealingDrone 
+[11:744] Static Unlocked SpecOpsShotgun 
+[13:075] Static Unlocked Shieldsiotunlocked 
+[13:385] Static Unlocked HighPrecisionBeams 
+[14:904] Static Unlocked CloakingDevice 
+[15:204] Static Bought ShieldSuit 
+[15:816] Static Placed HealingDrone 
+[16:047] Static Placed HealingDrone 
+[17:139] Static Placed HealingDrone 
+[17:858] Static Bought HazmatSuit 
+[20:974] Static Unlocked AdvancedShieldSuit 
+[21:001] Static Unlocked CombatShield 
+[21:010] Static Unlocked EnergyPack 
+[21:049] Static Unlocked FragGrenade 
+[23:546] Static Unlocked SpecOpsFragGrenade 
+[23:807] Static Unlocked SpecOpsBioMechanicalRepairDrone 
+[23:863] Static Placed HealingDrone 
+[24:592] Static Placed HealingDrone 
+[24:891] Static Unlocked SpecOpsCloakingDevice 
+[25:440] Static Placed HealingDrone 
+[26:046] Static Placed HealingDrone 
+[28:992] Static Placed HealingDrone 
+[29:631] Static Unlocked PsiDisrupter 
+[29:778] Static Placed PsiIndoctrinator 
+[30:070] Static Placed PsiIndoctrinator 
+[30:378] Static Unlocked PsiDepressor 
+[30:730] Static Placed PsiIndoctrinator 
+[31:511] Static Unlocked ExplorationDroid 
+[31:529] Static Placed ExplorationDroid 
+[33:050] Static Placed HealingDrone 
+[33:221] Static Placed HealingDrone 
+[33:617] Static Placed ExplorationDroid 
+[33:951] Static Placed HealingDrone 
+[34:685] Static Placed ExplorationDroid 
+[35:338] Static Placed HealingDrone 
+[35:551] Static Placed HealingDrone 
+[36:770] Static Placed HealingDrone 
+[36:957] Static Unlocked CombatSuit 
+[36:965] Static Unlocked AdvancedCombatSuit 
+
+[00:568] UnBornDELTA Bought PlayerNumber 
+[01:329] UnBornDELTA Bought StrainHealth 
+[01:348] UnBornDELTA Bought PureStrainHealth 
+[02:647] UnBornDELTA Placed/Upgraded LocustNest 
+[02:888] UnBornDELTA Placed/Upgraded LocustNest 
+[04:210] UnBornDELTA Placed/Upgraded LocustNest 
+[05:479] UnBornDELTA Bought TankStrain 
+[07:140] UnBornDELTA Bought CreepSpeed 
+[09:320] UnBornDELTA Bought VirulentCreep 
+[09:320] UnBornDELTA Bought VirulentCreep 
+[10:759] UnBornDELTA Bought BuildExtractorScienceLabs 
+[10:759] UnBornDELTA Placed/Upgraded AutomatedExtractor 
+[10:795] UnBornDELTA Placed/Upgraded Virophage 
+[12:292] UnBornDELTA Placed/Upgraded LocustNest 
+[12:532] UnBornDELTA Placed/Upgraded LocustNest 
+[13:076] UnBornDELTA Bought ShieldSuit 
+[14:135] UnBornDELTA Placed/Upgraded LesserNydusWorm 
+[14:136] UnBornDELTA Bought GreaterNydus 
+[14:861] UnBornDELTA Bought StrainVolatile 
+[15:850] UnBornDELTA Spawned MassiveCocoon 
+[17:290] UnBornDELTA Spawned InfestedAbomination 
+[17:306] UnBornDELTA Bought StrainDamage 
+[19:524] UnBornDELTA Bought StrainHealth 
+[19:947] UnBornDELTA Placed/Upgraded PrimalSunkenColony 
+[19:948] UnBornDELTA Bought SunkenColony 
+[20:215] UnBornDELTA Placed/Upgraded NydusCanalCreeper 
+[20:361] UnBornDELTA Bought SunkenColony 
+[20:975] UnBornDELTA Bought ShieldSuit 
+[21:965] UnBornDELTA Bought RegenerativeCreep 
+[22:465] UnBornDELTA Bought PureStrainVolatile 
+[23:238] UnBornDELTA Bought AdvancedPowerInfestation 
+[24:692] UnBornDELTA Spawned MassiveCocoon 
+[25:566] UnBornDELTA Placed/Upgraded NydusCanalCreeper 
+[26:132] UnBornDELTA Spawned Anubalisk 
+[27:497] UnBornDELTA Bought CreepSpeed 
+[27:766] UnBornDELTA Bought UnlockDropPods 
+[27:774] UnBornDELTA Bought DropshipsFueled 
+[29:149] UnBornDELTA Bought EvolveDropPods 
+[29:155] UnBornDELTA Bought EvolveDropPods 
+[29:161] UnBornDELTA Bought EvolveDropPods 
+[29:165] UnBornDELTA Bought EvolveDropPods 
+[29:168] UnBornDELTA Bought EvolveDropPods 
+[29:172] UnBornDELTA Bought EvolveDropPods 
+[29:829] UnBornDELTA Bought SweepingInfestation 
+[29:829] UnBornDELTA Bought UltimateInfestationResearched 
+[30:628] UnBornDELTA Bought ConstructiveCreep 
+[30:841] UnBornDELTA Bought AdvancedInfestationGateControl 
+[31:618] UnBornDELTA Bought GreaterNydus 
+[32:198] UnBornDELTA Bought SpawnNydusWorm 
+[33:067] UnBornDELTA Spawned MassiveCocoon 
+[34:507] UnBornDELTA Spawned InfestedAbomination 
+[36:958] UnBornDELTA Bought ShieldSuit 
+[36:966] UnBornDELTA Bought CombatSuit 
+
+[00:572] Nevic Unlocked AssaultRifle 
+[01:422] Nevic Placed/Upgraded MiningDroid 
+[01:540] Nevic Unlocked SuperStimpack 
+[04:207] Nevic Unlocked SpecOpsAssaultRifle 
+[07:037] Nevic Unlocked TitaniumBulletCasings 
+[09:673] Nevic Unlocked Stimpack 
+[10:867] Nevic Unlocked SpecOpsSuperStimpack 
+[12:429] Nevic Unlocked EnergySuit 
+[14:755] Nevic Unlocked AdvancedDroidEngines 
+[16:844] Nevic Unlocked TurboDroidEngines 
+[17:937] Nevic Unlocked AutoTurret 
+[19:101] Nevic Unlocked FlameTurret 
+[20:791] Nevic Placed/Upgraded AutoTurret 
+[20:978] Nevic Placed/Upgraded AutoTurret 
+[21:152] Nevic Unlocked HeavyTurret 
+[22:396] Nevic Placed/Upgraded AutoTurret 
+[22:815] Nevic Placed/Upgraded AutoTurret 
+[23:896] Nevic Placed/Upgraded AutoTurret 
+[24:417] Nevic Placed/Upgraded AutoTurret 
+[24:594] Nevic Placed/Upgraded AutoTurret 
+[25:337] Nevic Unlocked BioMechanicalRepairDrone 
+[26:187] Nevic Unlocked SpecOpsBioMechanicalRepairDrone 
+[26:884] Nevic Placed/Upgraded HealingDrone 
+[27:253] Nevic Placed/Upgraded HealingDrone 
+[27:885] Nevic Unlocked RechargeDrone 
+[28:133] Nevic Placed/Upgraded HealingDrone 
+[28:362] Nevic Placed/Upgraded HealingDrone 
+[28:702] Nevic Placed/Upgraded HealingDrone 
+[29:062] Nevic Unlocked ExplorationDroid 
+[29:269] Nevic Placed/Upgraded ExplorationDroid 
+[29:654] Nevic Placed/Upgraded HealingDrone 
+[30:497] Nevic Unlocked MiningCharge 
+[30:514] Nevic Unlocked AdvancedMiningCharge 
+[30:719] Nevic Placed/Upgraded NukePack 
+[31:142] Nevic Placed/Upgraded HealingDrone 
+[31:397] Nevic Unlocked AdvancedEnergySuit 
+[32:275] Nevic Placed/Upgraded HealingDrone 
+[32:734] Nevic Placed/Upgraded HealingDrone 
+[33:737] Nevic Placed/Upgraded NukePack 
+[33:873] Nevic Placed/Upgraded HealingDrone 
+[34:692] Nevic Unlocked CombatShield 
+[34:696] Nevic Unlocked EnergyPack 
+[34:703] Nevic Unlocked AIAssistant 
+[34:826] Nevic Unlocked FlashBang 
+[34:836] Nevic Unlocked SpecOpsFlashbang 
+[35:112] Nevic Placed/Upgraded NukePack 
+[35:553] Nevic Placed/Upgraded MiningDroid 
+
+[00:572] Alex Unlocked AssaultRifle 
+[00:748] Alex Placed/Upgraded MiningDroid 
+[01:291] Alex Unlocked FragGrenade 
+[03:785] Alex Unlocked AdvancedDroidEngines 
+[05:880] Alex Unlocked TurboDroidEngines 
+[08:501] Alex Unlocked SpecOpsFragGrenade 
+[08:665] Alex Unlocked BeamRifle 
+[10:840] Alex Unlocked SpecOpsPlasmaRifle 
+[12:007] Alex Unlocked EnergySuit 
+[12:015] Alex Unlocked AdvancedEnergySuit 
+[12:430] Alex Bought ShieldSuit 
+[14:031] Alex Unlocked EnergyPack 
+[14:064] Alex Unlocked MedicShield 
+[15:274] Alex Unlocked Stimpack 
+[18:414] Alex Unlocked OpticalVisor 
+[18:521] Alex Unlocked MiningCharge 
+[18:528] Alex Unlocked AdvancedMiningCharge 
+[19:595] Alex Placed/Upgraded NukePack 
+[22:662] Alex Unlocked PlasmaRifleMod3 
+[22:838] Alex Unlocked Teleporter 
+[22:845] Alex Unlocked SpecOpsTeleporter 
+[25:119] Alex Placed/Upgraded NukePack 
+[26:344] Alex Unlocked LongRangeScope 
+[29:153] Alex Placed/Upgraded NukePack 
+[29:911] Alex Placed/Upgraded NukePack 
+[30:699] Alex Placed/Upgraded NukePack 
+[31:398] Alex Bought EnergySuit 
+[35:661] Alex Placed/Upgraded NukePack 
+[36:474] Alex Placed/Upgraded NukePack 
+
+[00:572] kelsoo Unlocked AssaultRifle 
+[01:639] kelsoo Unlocked IncendiaryGrenade 
+[03:313] kelsoo Unlocked AdvancedDroidEngines 
+[05:471] kelsoo Unlocked BioMechanicalRepairDrone 
+[06:664] kelsoo Unlocked Stimpack 
+[11:229] kelsoo Unlocked Flamethrower 
+[11:249] kelsoo Unlocked SpecOpsFlamethrower 
+[12:008] kelsoo Bought ShieldSuit 
+[12:016] kelsoo Bought EnergySuit 
+[12:115] kelsoo Unlocked ThermiteFilaments 
+[15:392] kelsoo Unlocked ShieldSuit 
+[15:474] kelsoo Unlocked CombatShield 
+[15:589] kelsoo Unlocked MiningCharge 
+[21:162] kelsoo Unlocked EnergyPack 
+[21:368] kelsoo Unlocked BeamRifle 
+[23:900] kelsoo Unlocked PsiDisrupter 
+[24:994] kelsoo Unlocked ForceFieldGrenade 
+
+Game Ended
+ 
+STRAIN RATIO: 
+Naked Kills: 945
+T1 Speed Kills:  0 T2 Speed Kills: 0 T3 Speed Kills:  0
+T1 Health Kills: 68 T2 Health Kills: 87 T3 Health Kills: 15
+T1 Damage Kills: 106 T2 Damage Kills: 0 T3 Damage Kills: 0
+T1 Voltaile Kills: 60 T2 Voltaile Kills: 295 T3 Voltaile Kills: 0
+----------------------------------------------------------------------------
+Warpig kills : 3870
+---------------------------------------------------------
+Name: sam
+ 
+STRAINS: 
+Naked Kills :  358
+T1_Health Kills : 125
+T2_Health Kills : 92
+T3_Health Kills : 4
+T1_Damage Kills : 113
+T2_Damage Kills : 0
+T3_Damage Kills : 0
+T1_Voltaile Kills : 30
+T2_Voltaile Kills : 74
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: Frosky
+ 
+STRAINS: 
+Naked Kills :  457
+T1_Health Kills : 149
+T2_Health Kills : 109
+T3_Health Kills : 7
+T1_Damage Kills : 171
+T2_Damage Kills : 0
+T3_Damage Kills : 0
+T1_Voltaile Kills : 27
+T2_Voltaile Kills : 87
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: Static
+ 
+STRAINS: 
+Naked Kills :  287
+T1_Health Kills : 71
+T2_Health Kills : 58
+T3_Health Kills : 4
+T1_Damage Kills : 83
+T2_Damage Kills : 0
+T3_Damage Kills : 0
+T1_Voltaile Kills : 14
+T2_Voltaile Kills : 58
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+Anubalisk/Anubalight Kills : 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: UnBornDELTA
+ 
+STRAINS: 
+Naked Kills :  733
+T1_Health Kills : 79
+T2_Health Kills : 138
+T3_Health Kills : 12
+T1_Damage Kills : 145
+T2_Damage Kills : 0
+T3_Damage Kills : 0
+T1_Voltaile Kills : 280
+T2_Voltaile Kills : 79
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: Nevic
+ 
+STRAINS: 
+Naked Kills :  420
+T1_Health Kills : 126
+T2_Health Kills : 114
+T3_Health Kills : 12
+T1_Damage Kills : 133
+T2_Damage Kills : 0
+T3_Damage Kills : 0
+T1_Voltaile Kills : 5
+T2_Voltaile Kills : 69
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: Alex
+ 
+STRAINS: 
+Naked Kills :  403
+T1_Health Kills : 176
+T2_Health Kills : 140
+T3_Health Kills : 12
+T1_Damage Kills : 171
+T2_Damage Kills : 0
+T3_Damage Kills : 0
+T1_Voltaile Kills : 47
+T2_Voltaile Kills : 84
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: kelsoo
+ 
+STRAINS: 
+Naked Kills :  301
+T1_Health Kills : 74
+T2_Health Kills : 76
+T3_Health Kills : 8
+T1_Damage Kills : 83
+T2_Damage Kills : 0
+T3_Damage Kills : 0
+T1_Voltaile Kills : 22
+T2_Voltaile Kills : 411
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+
+CHAT MESSAGES: 
+[00:207] Alex: glhf
+[00:354] UnBornDELTA: glhf
+[02:678] Frosky: omw
+[02:870] Frosky: power
+[03:529] Alex: imma stay here for if he decides to push again
+[03:623] Frosky: ya
+[03:662] Frosky: thats good
+[04:366] kelsoo: alley
+[06:810] kelsoo: east
+[07:234] kelsoo: 2 stay north west
+[07:484] Frosky: -pp
+[07:609] Frosky: stop clumping up
+[07:641] Frosky: in one palce
+[07:659] Frosky: lol
+[09:849] Frosky: -pp
+[11:873] kelsoo: power
+[14:832] kelsoo: mouse ran out of battery lol
+[15:047] Alex: rip hate when that happens
+[15:697] Frosky: someone stay east
+[15:708] Frosky: plz
+[15:823] kelsoo: ill be east
+[17:723] kelsoo: terrible spot to coon in
+[18:388] Static: man i always forget to upgrade my shield
+[18:552] kelsoo: power
+[20:004] Alex: imma nuke em
+[20:072] Frosky: alex
+[20:085] Frosky: alex
+[20:775] Static: fdc
+[27:254] Frosky: Lol
+[27:522] Alex: welp
+[27:623] Frosky: gg
+[28:522] Frosky: alpha
+[28:556] kelsoo: hmmm no ulti lol
+[28:674] Frosky: lol
+[30:899] Nevic:  ke
+[32:794] Alex: who needs gas?
+[32:945] Alex: i have it but out of stock
+[33:154] Frosky: nule
+[33:165] Frosky: nuke
+[37:372] kelsoo: bugged?
+[37:652] Alex: it happens every now and then
+[37:652] Frosky: yeah we can leave tho
+UnBornDELTA First Alpha InfestedAbomination |  Loss
+
+UnBornDELTA Placed 0 Greaters.
+--------------------------------

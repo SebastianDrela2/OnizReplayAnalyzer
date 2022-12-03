@@ -1,0 +1,572 @@
+Analyzed: Oh No It's Zombies Arctic Updated (324)
+
+Date: 2021.11.13
+
+ID : 0 PlayerName: Salem Race: Terran
+ID : 1 PlayerName: Tin Race: Terran
+ID : 2 PlayerName: Wooky Race: Terran
+ID : 3 PlayerName: MarFly Race: Terran
+ID : 4 PlayerName: Frosky Race: Terran
+ID : 5 PlayerName: MacNCheese Race: Zerg
+ID : 6 PlayerName: Grazx Race: Terran
+ID : 7 PlayerName: Security Race: Terran Mengsk
+MacNCheese Zombie Win
+Private Lobby
+
+Game Length:[35:758]
+Players ammount: 8
+Marine rank avg: 16,5
+GrandMaster ammount: 4
+
+Frosky First Gun Shotgun
+MarFly First Gun ArcWelder
+Wooky First Gun SpecOpsAssaultRifle
+Tin First Gun Shotgun
+Grazx First Gun BeamRifle
+Salem First Gun HellfireRocketLauncher
+
+PURCHASES: 
+[00:588] Salem Unlocked AssaultRifle 
+[00:882] Salem Placed/Upgraded MiningDroid 
+[01:188] Salem Unlocked OverloadWeapon 
+[04:381] Salem Unlocked AdvancedDroidEngines 
+[07:860] Salem Unlocked TurboDroidEngines 
+[08:865] Salem Unlocked HellfireRocketLauncher 
+[10:258] Salem Unlocked SpecOpsHellfireRocketLauncher 
+[11:705] Salem Unlocked SuperStimpack 
+[12:934] Salem Unlocked ShockwaveMissiles 
+[15:618] Salem Unlocked MiningCharge 
+[15:626] Salem Unlocked AdvancedMiningCharge 
+[16:047] Salem Placed/Upgraded NukePack 
+[17:171] Salem Placed/Upgraded NukePack 
+[18:383] Salem Unlocked CombatSuit 
+[18:389] Salem Unlocked AdvancedCombatSuit 
+[22:178] Salem Placed/Upgraded NukePack 
+[22:592] Salem Placed/Upgraded NukePack 
+[25:416] Salem Placed/Upgraded NukePack 
+[25:554] Salem Unlocked BioMechanicalRepairDrone 
+[29:173] Salem Placed/Upgraded NukePack 
+[29:309] Salem Placed/Upgraded NukePack 
+[29:469] Salem Placed/Upgraded NukePack 
+[30:915] Salem Placed/Upgraded HealingDrone 
+[31:226] Salem Placed/Upgraded HealingDrone 
+[33:048] Salem Placed/Upgraded NukePack 
+[33:753] Salem Placed/Upgraded HealingDrone 
+[34:189] Salem Placed/Upgraded HealingDrone 
+[34:796] Salem Placed/Upgraded HealingDrone 
+
+[00:588] Tin Unlocked AssaultRifle 
+[00:754] Tin Placed/Upgraded MiningDroid 
+[02:842] Tin Unlocked AdvancedDroidEngines 
+[04:214] Tin Unlocked Shotgun 
+[05:746] Tin Unlocked SpecOpsShotgun 
+[07:807] Tin Unlocked SuperStimpack 
+[11:321] Tin Unlocked MedicShield 
+[11:397] Tin Unlocked BioMechanicalRepairDrone 
+[11:439] Tin Unlocked EnergyPack 
+[12:167] Tin Unlocked HazmatSuit 
+[13:097] Tin Unlocked Stimpack 
+[13:987] Tin Placed/Upgraded HealingDrone 
+[15:477] Tin Unlocked HighPrecisionBeams 
+[15:848] Tin Unlocked AdvancedHazmatSuit 
+[16:827] Tin Placed/Upgraded HealingDrone 
+[17:733] Tin Placed/Upgraded HealingDrone 
+[18:226] Tin Unlocked MiningCharge 
+[18:258] Tin Placed/Upgraded NukePack 
+[18:384] Tin Bought ShieldSuit 
+[18:390] Tin Bought CombatSuit 
+[18:505] Tin Unlocked OpticalVisor 
+[18:734] Tin Placed/Upgraded HealingDrone 
+[19:113] Tin Placed/Upgraded HealingDrone 
+[19:617] Tin Placed/Upgraded HealingDrone 
+[23:265] Tin Placed/Upgraded HealingDrone 
+[23:740] Tin Placed/Upgraded NukePack 
+[24:575] Tin Placed/Upgraded HealingDrone 
+[24:808] Tin Placed/Upgraded HealingDrone 
+[30:355] Tin Placed/Upgraded HealingDrone 
+[32:584] Tin Placed/Upgraded HealingDrone 
+[32:800] Tin Unlocked SpecOpsSuperStimpack 
+[34:261] Tin Placed/Upgraded HealingDrone 
+[34:896] Tin Placed/Upgraded HealingDrone 
+[35:180] Tin Placed/Upgraded HealingDrone 
+[35:668] Tin Placed/Upgraded HealingDrone 
+
+[00:588] Wooky Unlocked AssaultRifle 
+[00:928] Wooky Placed/Upgraded MiningDroid 
+[02:277] Wooky Unlocked AdvancedDroidEngines 
+[04:196] Wooky Unlocked SpecOpsAssaultRifle 
+[06:188] Wooky Unlocked AutoTargetingSystem 
+[11:350] Wooky Unlocked Stimpack 
+[12:168] Wooky Bought ShieldSuit 
+[12:819] Wooky Placed/Upgraded MiningDroid 
+[14:060] Wooky Unlocked ShieldSuit 
+[15:849] Wooky Bought HazmatSuit 
+[16:389] Wooky Unlocked MiningCharge 
+[16:490] Wooky Placed/Upgraded NukePack 
+[16:712] Wooky Placed/Upgraded NukePack 
+[32:065] Wooky Unlocked Teleporter 
+[33:378] Wooky Placed/Upgraded NukePack 
+
+[00:588] MarFly Unlocked AssaultRifle 
+[00:696] MarFly Placed/Upgraded MiningDroid 
+[03:692] MarFly Unlocked ArcWelder 
+[05:233] MarFly Unlocked Stimpack 
+[06:496] MarFly Unlocked BioMechanicalRepairDrone 
+[06:526] MarFly Unlocked CombatAccelerationDrone 
+[06:799] MarFly Placed/Upgraded HealingDrone 
+[07:019] MarFly Placed/Upgraded HealingDrone 
+[07:747] MarFly Placed/Upgraded HealingDrone 
+[09:118] MarFly Unlocked AutoTurret 
+[10:189] MarFly Placed/Upgraded AutoTurret 
+[11:052] MarFly Placed/Upgraded AutoTurret 
+[14:061] MarFly Bought ShieldSuit 
+[14:845] MarFly Placed/Upgraded AutoTurret 
+[15:525] MarFly Placed/Upgraded HealingDrone 
+[15:678] MarFly Placed/Upgraded HealingDrone 
+[15:887] MarFly Placed/Upgraded HealingDrone 
+[17:266] MarFly Placed/Upgraded HealingDrone 
+[18:724] MarFly Placed/Upgraded HealingDrone 
+[19:160] MarFly Placed/Upgraded AutoTurret 
+[19:602] MarFly Placed/Upgraded AutoTurret 
+[20:088] MarFly Placed/Upgraded AutoTurret 
+[23:556] MarFly Unlocked HeavyTurret 
+[24:010] MarFly Placed/Upgraded AutoTurret 
+[24:382] MarFly Placed/Upgraded AutoTurret 
+[24:554] MarFly Placed/Upgraded AutoTurret 
+[32:241] MarFly Placed/Upgraded AutoTurret 
+[33:393] MarFly Placed/Upgraded AutoTurret 
+
+[00:588] Frosky Unlocked AssaultRifle 
+[00:675] Frosky Placed MiningDroid 
+[01:957] Frosky Unlocked Shotgun 
+[03:241] Frosky Unlocked AdvancedDroidEngines 
+[05:664] Frosky Unlocked SpecOpsShotgun 
+[07:862] Frosky Unlocked CombatSuit 
+[08:825] Frosky Placed MiningDroid 
+[10:725] Frosky Unlocked TurboDroidEngines 
+[12:708] Frosky Unlocked SuperStimpack 
+[13:784] Frosky Unlocked AdvancedCombatSuit 
+[13:859] Frosky Unlocked CombatShield 
+[15:894] Frosky Unlocked BioMechanicalRepairDrone 
+[15:907] Frosky Unlocked SpecOpsBioMechanicalRepairDrone 
+[16:151] Frosky Placed HealingDrone 
+[16:923] Frosky Placed MiningDroid 
+[17:673] Frosky Placed HealingDrone 
+[19:056] Frosky Unlocked AutoTurret 
+[19:069] Frosky Unlocked HeavyTurret 
+[19:221] Frosky Placed AutoTurret 
+[19:760] Frosky Placed AutoTurret 
+[20:192] Frosky Placed AutoTurret 
+[22:441] Frosky Placed HealingDrone 
+[22:622] Frosky Placed HealingDrone 
+[22:832] Frosky Placed AutoTurret 
+[23:015] Frosky Placed AutoTurret 
+[30:247] Frosky Placed AutoTurret 
+[30:419] Frosky Placed AutoTurret 
+[30:763] Frosky Placed AutoTurret 
+[31:071] Frosky Placed HealingDrone 
+[31:252] Frosky Placed HealingDrone 
+[33:436] Frosky Placed HealingDrone 
+[33:758] Frosky Placed HealingDrone 
+[34:317] Frosky Placed HealingDrone 
+
+[00:552] MacNCheese Bought PlayerNumber 
+[00:759] MacNCheese Spawned MassiveCocoon 
+[00:823] MacNCheese Placed/Upgraded LesserNydusWorm 
+[00:824] MacNCheese Bought GreaterNydus 
+[01:662] MacNCheese Placed/Upgraded PrimalSunkenColony 
+[01:663] MacNCheese Bought SunkenColony 
+[02:199] MacNCheese Spawned Lurker 
+[03:131] MacNCheese Spawned MassiveCocoon 
+[03:281] MacNCheese Placed/Upgraded PrimalSunkenColony 
+[03:282] MacNCheese Bought SunkenColony 
+[03:863] MacNCheese Bought SunkenColony 
+[04:030] MacNCheese Placed/Upgraded LesserNydusWorm 
+[04:031] MacNCheese Bought GreaterNydus 
+[04:571] MacNCheese Spawned Hunter 
+[04:849] MacNCheese Placed/Upgraded PrimalSunkenColony 
+[04:850] MacNCheese Bought SunkenColony 
+[05:359] MacNCheese Placed/Upgraded ToxicNest 
+[05:381] MacNCheese Placed/Upgraded ToxicNest 
+[05:421] MacNCheese Placed/Upgraded ToxicNest 
+[06:098] MacNCheese Bought AdvancedInfestationContainment 
+[06:974] MacNCheese Bought SunkenColony 
+[07:380] MacNCheese Bought GreaterNydus 
+[07:467] MacNCheese Bought CreepSpeed 
+[07:634] MacNCheese Bought SunkenColony 
+[07:634] MacNCheese Placed/Upgraded PrimalSunkenColony 
+[07:863] MacNCheese Bought ShieldSuit 
+[08:546] MacNCheese Placed/Upgraded PrimalSunkenColony 
+[08:547] MacNCheese Bought SunkenColony 
+[09:152] MacNCheese Placed/Upgraded LesserNydusWorm 
+[09:153] MacNCheese Bought GreaterNydus 
+[10:244] MacNCheese Bought GreaterNydus 
+[10:718] MacNCheese Placed/Upgraded PrimalSunkenColony 
+[10:719] MacNCheese Bought SunkenColony 
+[10:898] MacNCheese Bought SunkenColony 
+[10:998] MacNCheese Bought CreepSpeed 
+[11:693] MacNCheese Bought StrainSpeed 
+[13:050] MacNCheese Spawned MassiveCocoon 
+[13:704] MacNCheese Spawned MassiveCocoon 
+[13:756] MacNCheese Bought SunkenColony 
+[13:785] MacNCheese Bought CombatSuit 
+[14:490] MacNCheese Spawned PrimalTownHallUprooted 
+[15:144] MacNCheese Spawned PrimalTownHallUprooted 
+[15:506] MacNCheese Bought VirulentCreep 
+[15:506] MacNCheese Bought VirulentCreep 
+[16:474] MacNCheese Placed/Upgraded PrimalSunkenColony 
+[16:475] MacNCheese Bought SunkenColony 
+[17:769] MacNCheese Bought SpawnNydusWorm 
+[18:039] MacNCheese Placed/Upgraded GreaterNydusWorm 
+[18:945] MacNCheese Bought StrainHealth 
+[19:694] MacNCheese Bought PureStrainHealth 
+[20:379] MacNCheese Bought BuildExtractorScienceLabs 
+[20:379] MacNCheese Placed/Upgraded AutomatedExtractor 
+[20:415] MacNCheese Bought BuildExtractorManufacturingSector 
+[20:415] MacNCheese Placed/Upgraded AutomatedExtractor 
+[21:449] MacNCheese Spawned MassiveCocoon 
+[22:889] MacNCheese Spawned InfestedAbomination 
+[23:507] MacNCheese Bought ConstructiveCreep 
+[23:965] MacNCheese Placed/Upgraded PrimalSunkenColony 
+[23:966] MacNCheese Bought SunkenColony 
+[24:126] MacNCheese Bought SunkenColony 
+[24:126] MacNCheese Placed/Upgraded PrimalSunkenColony 
+[24:984] MacNCheese Bought BuildExtractorProcessingFacilities 
+[24:984] MacNCheese Placed/Upgraded AutomatedExtractor 
+[25:012] MacNCheese Bought SunkenColony 
+[25:210] MacNCheese Placed/Upgraded GreaterNydusWorm 
+[25:364] MacNCheese Placed/Upgraded NydusCanalCreeper 
+[25:453] MacNCheese Bought SunkenColony 
+[26:235] MacNCheese Placed/Upgraded LesserNydusWorm 
+[26:236] MacNCheese Bought GreaterNydus 
+[27:002] MacNCheese Bought TankStrain 
+[27:033] MacNCheese Bought StrainDamage 
+[27:442] MacNCheese Bought AdvancedPowerInfestation 
+[28:588] MacNCheese Bought DropshipsFueled 
+[28:679] MacNCheese Bought PureStrainDamage 
+[28:712] MacNCheese Spawned RoyalCocoon 
+[28:712] MacNCheese Bought SpawnHiveQueen 
+[28:712] MacNCheese Bought UltimateInfestationResearched 
+[29:431] MacNCheese Spawned QueenCoop 
+[29:619] MacNCheese Placed/Upgraded PrimalSunkenColony 
+[29:620] MacNCheese Bought SunkenColony 
+[29:787] MacNCheese Bought AdvancedInfestationSecurity 
+[30:219] MacNCheese Bought ExtractorCostReductionProcessingFacilities 
+[30:219] MacNCheese Bought BuildExtractorProcessingFacilities 
+[30:287] MacNCheese Placed/Upgraded LesserNydusWorm 
+[30:288] MacNCheese Bought GreaterNydus 
+[30:864] MacNCheese Bought UnlockDropPods 
+[31:434] MacNCheese Bought DefilerStrain 
+[32:092] MacNCheese Bought EvolveDropPods 
+[32:096] MacNCheese Bought EvolveDropPods 
+[32:099] MacNCheese Bought EvolveDropPods 
+[32:533] MacNCheese Placed/Upgraded PrimalSunkenColony 
+[32:534] MacNCheese Bought SunkenColony 
+[33:349] MacNCheese Placed/Upgraded NydusCanalCreeper 
+[33:524] MacNCheese Placed/Upgraded GreaterNydusWorm 
+[34:008] MacNCheese Bought GreaterNydus 
+[34:062] MacNCheese Bought PureStrainSpeed 
+[34:136] MacNCheese Bought EvolveDropPods 
+[34:139] MacNCheese Bought EvolveDropPods 
+[34:143] MacNCheese Bought EvolveDropPods 
+
+[00:588] Grazx Unlocked AssaultRifle 
+[02:042] Grazx Unlocked AdvancedDroidEngines 
+[05:210] Grazx Unlocked TurboDroidEngines 
+[06:566] Grazx Unlocked BeamRifle 
+[07:990] Grazx Unlocked SpecOpsPlasmaRifle 
+[08:574] Grazx Unlocked CombatSuit 
+[11:468] Grazx Unlocked AdvancedCombatSuit 
+[11:532] Grazx Unlocked OverloadWeapon 
+[11:639] Grazx Unlocked PlasmaRifleMod3 
+[14:208] Grazx Unlocked SuperStimpack 
+[14:305] Grazx Unlocked ExplorationDroid 
+[17:748] Grazx Unlocked AutoTurret 
+[17:759] Grazx Unlocked HeavyTurret 
+[23:018] Grazx Unlocked OpticalVisor 
+[23:156] Grazx Unlocked SpecOpsSuperStimpack 
+
+Game Ended
+ 
+STRAIN RATIO: 
+Naked Kills: 301
+T1 Speed Kills:  34 T2 Speed Kills: 254 T3 Speed Kills:  0
+T1 Health Kills: 2 T2 Health Kills: 11 T3 Health Kills: 6
+T1 Damage Kills: 20 T2 Damage Kills: 16 T3 Damage Kills: 1
+T1 Voltaile Kills: 34 T2 Voltaile Kills: 9 T3 Voltaile Kills: 0
+----------------------------------------------------------------------------
+Warpig kills : 2814
+---------------------------------------------------------
+Name: Salem
+ 
+STRAINS: 
+Naked Kills :  327
+T1_speed Kills : 116
+T2_Speed Kills : 16
+T3_Speed Kills : 0
+T1_Health Kills : 11
+T2_Health Kills : 35
+T3_Health Kills : 6
+T1_Damage Kills : 16
+T2_Damage Kills : 57
+T3_Damage Kills : 6
+T1_Voltaile Kills : 5
+T2_Voltaile Kills : 4
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+Royal Queen Kills: 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: Tin
+ 
+STRAINS: 
+Naked Kills :  585
+T1_speed Kills : 202
+T2_Speed Kills : 44
+T3_Speed Kills : 0
+T1_Health Kills : 6
+T2_Health Kills : 54
+T3_Health Kills : 0
+T1_Damage Kills : 14
+T2_Damage Kills : 29
+T3_Damage Kills : 2
+T1_Voltaile Kills : 13
+T2_Voltaile Kills : 0
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+Hunter/Predator Kills : 1
+Geneweaver/GeneSplicer Kills : 1
+Legion/Legionnaire Kills : 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: Wooky
+ 
+STRAINS: 
+Naked Kills :  307
+T1_speed Kills : 131
+T2_Speed Kills : 33
+T3_Speed Kills : 0
+T1_Damage Kills : 23
+T2_Damage Kills : 72
+T3_Damage Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: MarFly
+ 
+STRAINS: 
+Naked Kills :  211
+T1_speed Kills : 49
+T2_Speed Kills : 4
+T3_Speed Kills : 0
+T1_Health Kills : 8
+T2_Health Kills : 56
+T3_Health Kills : 0
+T1_Damage Kills : 9
+T2_Damage Kills : 4
+T3_Damage Kills : 0
+T1_Voltaile Kills : 2
+T2_Voltaile Kills : 0
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: Frosky
+ 
+STRAINS: 
+Naked Kills :  406
+T1_speed Kills : 150
+T2_Speed Kills : 15
+T3_Speed Kills : 0
+T1_Health Kills : 33
+T2_Health Kills : 54
+T3_Health Kills : 3
+T1_Damage Kills : 31
+T2_Damage Kills : 15
+T3_Damage Kills : 0
+T1_Voltaile Kills : 31
+T2_Voltaile Kills : 0
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: MacNCheese
+ 
+STRAINS: 
+Naked Kills :  0
+T1_Voltaile Kills : 31
+T2_Voltaile Kills : 8
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+QueenEgg Kills: 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: Grazx
+ 
+STRAINS: 
+Naked Kills :  291
+T1_speed Kills : 95
+T2_Speed Kills : 20
+T3_Speed Kills : 0
+T1_Health Kills : 54
+T2_Health Kills : 34
+T3_Health Kills : 2
+T1_Damage Kills : 7
+T2_Damage Kills : 29
+T3_Damage Kills : 2
+T1_Voltaile Kills : 1
+T2_Voltaile Kills : 3
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+Legion/Legionnaire Kills : 1
+END_SIGNATURE
+
+CHAT MESSAGES: 
+[00:156] MacNCheese: ew
+[00:170] MacNCheese: red
+[00:357] Grazx: GL HF
+[00:368] MacNCheese: 302 pog
+[00:431] Salem: mac n cheese should be orange 
+[00:469] Salem: glhf
+[00:601] MacNCheese: Ikr
+[00:993] Tin: frosky
+[01:386] Salem: trying smth
+[01:591] MacNCheese: xd
+[01:629] Salem: wtf
+[01:672] Salem: lmao
+[01:699] MacNCheese: this guy
+[01:712] MacNCheese: XD
+[01:792] Tin: pls salem
+[01:870] Salem: im so sorry
+[01:997] Tin: 1 guy arc pls
+[02:049] Salem: fingers were a key off
+[02:051] Tin: really useful
+[02:104] Salem: couldn't move
+[02:184] Salem: pls tin
+[02:205] Tin: mar
+[02:219] MacNCheese: these dudes
+[02:229] Tin: quick
+[02:307] Salem: we are prooooos
+[02:325] Tin: quick
+[02:534] Salem: jesus fucking shrist
+[02:593] Salem: 2 deaths
+[02:882] MacNCheese: wheres the cocoons
+[03:200] MacNCheese: wtf XD
+[03:244] Salem: christ
+[03:244] Tin: some guy go arc pls
+[03:403] Tin: urgh
+[03:586] Salem: #pro gamers
+[04:057] Salem: gg already, lol
+[04:080] MarFly: im arc but i rareply play it
+[04:238] Frosky: -pp
+[04:354] Tin: hw alpha
+[05:064] Salem: christ
+[05:104] Salem: me and tin
+[05:158] Salem: the dream team
+[05:376] Salem: beta team might be fucked guys
+[06:040] Salem: do we wanna just rm, or...?
+[06:123] Tin: nope
+[06:207] Salem: ok lol
+[06:245] Tin: can win
+[06:285] Salem: frosky
+[06:362] Salem: frosky no
+[06:679] Tin: wooky
+[06:703] Tin: why
+[06:739] Salem: ok, guys
+[06:921] Wooky: im soryr i was watching frosky
+[06:945] Tin: no
+[07:894] Grazx: thats two you owe me
+[07:977] Salem: lel
+[08:025] Frosky: -pp
+[08:203] Grazx: you owe me a wookie life debt
+[08:370] Tin: shit
+[08:394] Salem: ...
+[08:551] Tin: salvage hw
+[08:660] Tin: thats the problem dude
+[08:799] Tin: 1 guys go arc early game
+[08:964] Tin: make hw
+[09:063] Tin: and we protect the hw
+[09:076] Frosky: -pp
+[09:397] Salem: problem is we have 7 deaths before 10 mins
+[09:511] Grazx: lol
+[09:591] Grazx: i have zero
+[09:627] Tin: get the dude
+[09:755] Frosky: -pp
+[10:241] Tin: divert mar
+[10:772] MarFly: im tra^p
+[10:858] Salem: yeah
+[10:883] Salem: divert
+[10:889] Tin: just divert all ur gas
+[11:098] Tin: ty
+[11:114] Salem: mar, divert ur gas
+[11:161] Grazx: np
+[12:335] MarFly: it not good to be arc 5 minute already game start and need to protect room
+[12:432] MarFly: no time for double mining
+[12:441] Grazx: i can't bealive that thing lived it killed me with disbelief
+[12:482] MarFly: to late
+[12:872] Tin: they all ded
+[12:902] MacNCheese: the throw
+[13:612] MacNCheese: i'm gonna blame it on people IRL talking to me
+[13:802] Grazx: ty tin
+[14:109] Tin: np
+[14:262] Tin: mar go nw
+[14:364] Tin: do ur thing
+[15:024] Salem: south
+[15:923] Wooky: ty
+[16:467] Tin: def there wooky
+[17:012] Salem: legion dead
+[17:942] Salem: gene at center
+[18:132] Tin: get n
+[18:926] Salem: fuck
+[18:942] Salem: me
+[19:287] Tin: bad nyduis
+[19:507] Salem: nw
+[19:598] Salem: nw
+[19:745] Salem: frosky
+[20:110] Salem: tin...
+[20:385] Tin: get me lol
+[20:467] Salem: frosky save me
+[20:558] Frosky: cant
+[20:594] Salem: bro
+[20:662] Salem: yes you fucking can
+[20:768] Salem: bruh...
+[20:904] Salem: I was right there for 2 mins
+[20:946] Tin: too late now
+[20:961] Frosky: wtf
+[22:354] Grazx: ty
+[24:582] Salem: fdc guys, mine gas
+[26:136] Grazx: divertin everytime i can
+[26:157] Salem: sorry guys
+[26:379] Tin: gassss
+[26:692] Tin: arc the ares
+[27:338] MacNCheese: i gotta quit hard throwing my leads
+[27:357] MacNCheese: XD
+[27:467] Salem: lol
+[28:397] Salem: yeah
+[28:616] Tin: mar, we go
+[28:782] MarFly: k
+[28:907] Salem: salvage fdc units
+[29:690] Tin: good call
+[30:103] Tin: wooky
+[30:131] Tin: why
+[30:518] Salem: mar u better have gas...
+[30:781] MarFly: how ?
+[31:085] Tin: wooky
+[31:583] MarFly: all the game make me def a place where i cant double mining XD
+[33:848] Salem: nj guys
+[33:953] Salem: anyone need gas?
+[34:074] Salem: i have 400 and no charges
+[34:078] Grazx: me
+[35:088] MacNCheese: gg
+[35:469] Grazx: gg
+MacNCheese First Alpha Lurker |  Win
+
+MacNCheese Placed 3 Greaters.
+--------------------------------

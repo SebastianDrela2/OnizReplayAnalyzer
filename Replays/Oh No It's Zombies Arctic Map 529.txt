@@ -1,0 +1,803 @@
+Analyzed: Oh No It's Zombies Arctic Map 529
+
+Date: 2022.12.01
+
+ID : 0 PlayerName: WildMutant Race: Zerg
+ID : 1 PlayerName: Hurtmemore Race: Terran
+ID : 2 PlayerName: Toxicpanda Race: Terran
+ID : 3 PlayerName: Ascherit Race: Terran
+ID : 4 PlayerName: DeATH Race: Terran
+ID : 5 PlayerName: Frosky Race: Terran
+ID : 6 PlayerName: ReturnOffer Race: Terran
+ID : 7 PlayerName: Security Race: Terran
+WildMutant Zombie Loss
+Private Lobby
+
+Game Length:[42:314]
+Players ammount: 8
+Marine rank avg: 19,666666666666668
+Marine GrandMaster ammount: 5
+
+Toxicpanda First Gun ArcWelder
+Frosky First Gun BeamRifle
+ReturnOffer First Gun HellfireRocketLauncher
+Ascherit First Gun Shotgun
+Hurtmemore First Gun HellfireRocketLauncher
+DeATH First Gun BeamRifle
+
+PURCHASES: 
+[00:728] WildMutant Spawned MassiveCocoon 
+[02:168] WildMutant Spawned Hunter 
+[02:785] WildMutant Spawned MassiveCocoon 
+[04:225] WildMutant Spawned InfestedAbomination 
+[05:164] WildMutant Placed/Upgraded LesserNydusWorm 
+[05:165] WildMutant Bought GreaterNydus 
+[07:136] WildMutant Placed/Upgraded LocustNest 
+[08:305] WildMutant Placed/Upgraded NydusCanalCreeper 
+[09:154] WildMutant Placed/Upgraded LesserNydusWorm 
+[09:155] WildMutant Bought GreaterNydus 
+[09:732] WildMutant Placed/Upgraded ToxicNest 
+[09:744] WildMutant Placed/Upgraded ToxicNest 
+[09:754] WildMutant Placed/Upgraded ToxicNest 
+[10:077] WildMutant Bought GreaterNydus 
+[10:246] WildMutant Bought GreaterNydus 
+[10:520] WildMutant Placed/Upgraded NydusCanalCreeper 
+[10:862] WildMutant Spawned MassiveCocoon 
+[11:942] WildMutant Spawned Underseer 
+[12:702] WildMutant Spawned MassiveCocoon 
+[12:715] WildMutant Spawned MassiveCocoon 
+[12:812] WildMutant Placed/Upgraded Virophage 
+[14:142] WildMutant Spawned InfestedAbomination 
+[14:155] WildMutant Spawned InfestedAbomination 
+[15:237] WildMutant Spawned MassiveCocoon 
+[15:819] WildMutant Bought UnlockDropPods 
+[15:830] WildMutant Bought EvolveDropPods 
+[16:263] WildMutant Bought BuildExtractorScienceLabs 
+[16:263] WildMutant Placed/Upgraded AutomatedExtractor 
+[16:677] WildMutant Spawned Hunter 
+[18:268] WildMutant Spawned MassiveCocoon 
+[18:359] WildMutant Bought BuildExtractorProcessingFacilities 
+[18:359] WildMutant Placed/Upgraded AutomatedExtractor 
+[18:394] WildMutant Bought BuildExtractorExcavationZone 
+[18:394] WildMutant Placed/Upgraded AutomatedExtractor 
+[19:424] WildMutant Placed/Upgraded Virophage 
+[19:707] WildMutant Bought AdvancedPowerInfestation 
+[19:708] WildMutant Spawned Hunter 
+[20:840] WildMutant Bought BuildExtractorExcavationZone 
+[21:210] WildMutant Placed/Upgraded PrimalSunkenColony 
+[21:211] WildMutant Bought SunkenColony 
+[23:297] WildMutant Bought EvolveDropPods 
+[23:301] WildMutant Bought EvolveDropPods 
+[23:304] WildMutant Bought EvolveDropPods 
+[23:307] WildMutant Bought EvolveDropPods 
+[23:311] WildMutant Bought EvolveDropPods 
+[24:377] WildMutant Bought BuildExtractorScienceLabs 
+[27:803] WildMutant Bought SunkenColony 
+[29:490] WildMutant Bought ExtractorCostReductionProcessingFacilities 
+[29:490] WildMutant Bought BuildExtractorProcessingFacilities 
+[31:517] WildMutant Bought DropshipsFueled 
+
+[00:572] Hurtmemore Unlocked AssaultRifle 
+[00:848] Hurtmemore Placed/Upgraded MiningDroid 
+[02:382] Hurtmemore Unlocked AdvancedDroidEngines 
+[05:082] Hurtmemore Unlocked TurboDroidEngines 
+[06:101] Hurtmemore Unlocked BioMechanicalRepairDrone 
+[06:425] Hurtmemore Unlocked CombatAccelerationDrone 
+[06:645] Hurtmemore Placed/Upgraded HealingDrone 
+[08:682] Hurtmemore Placed/Upgraded HealingDrone 
+[08:921] Hurtmemore Placed/Upgraded HealingDrone 
+[09:368] Hurtmemore Placed/Upgraded HealingDrone 
+[10:497] Hurtmemore Unlocked HellfireRocketLauncher 
+[11:895] Hurtmemore Placed/Upgraded MiningDroid 
+[16:536] Hurtmemore Placed/Upgraded MiningDroid 
+[17:132] Hurtmemore Unlocked OpticalVisor 
+[17:175] Hurtmemore Unlocked CombatShield 
+[19:252] Hurtmemore Unlocked CombatSuit 
+[19:291] Hurtmemore Unlocked AdvancedCombatSuit 
+[21:544] Hurtmemore Unlocked SpecOpsHellfireRocketLauncher 
+[21:764] Hurtmemore Placed/Upgraded HealingDrone 
+[27:044] Hurtmemore Unlocked Teleporter 
+[27:162] Hurtmemore Unlocked OverloadWeapon 
+[29:272] Hurtmemore Unlocked RocketLauncherLockOnUpgrade 
+[29:272] Hurtmemore Unlocked RocketLauncherLockOnUpgradeRemove 
+[29:272] Hurtmemore Unlocked RocketLauncherLockOnUpgradeRemove 
+[29:652] Hurtmemore Unlocked PsiDisrupter 
+[29:727] Hurtmemore Unlocked SpecOpsPsiDisruptor 
+[30:111] Hurtmemore Placed/Upgraded PsiIndoctrinator 
+[30:310] Hurtmemore Unlocked RocketLauncherLockOnUpgrade 
+[30:310] Hurtmemore Unlocked RocketLauncherLockOnUpgradeRemove 
+[30:310] Hurtmemore Unlocked RocketLauncherLockOnUpgradeRemove 
+[30:417] Hurtmemore Unlocked RocketLauncherLockOnUpgrade 
+[30:417] Hurtmemore Unlocked RocketLauncherLockOnUpgradeRemove 
+[30:417] Hurtmemore Unlocked RocketLauncherLockOnUpgradeRemove 
+[30:506] Hurtmemore Unlocked RocketLauncherLockOnUpgrade 
+[30:506] Hurtmemore Unlocked RocketLauncherLockOnUpgradeRemove 
+[30:506] Hurtmemore Unlocked RocketLauncherLockOnUpgradeRemove 
+[30:685] Hurtmemore Unlocked RocketLauncherLockOnUpgrade 
+[30:685] Hurtmemore Unlocked RocketLauncherLockOnUpgradeRemove 
+[30:685] Hurtmemore Unlocked RocketLauncherLockOnUpgradeRemove 
+[30:814] Hurtmemore Unlocked RocketLauncherLockOnUpgrade 
+[30:814] Hurtmemore Unlocked RocketLauncherLockOnUpgradeRemove 
+[30:814] Hurtmemore Unlocked RocketLauncherLockOnUpgradeRemove 
+[30:856] Hurtmemore Unlocked RocketLauncherLockOnUpgrade 
+[30:856] Hurtmemore Unlocked RocketLauncherLockOnUpgradeRemove 
+[30:856] Hurtmemore Unlocked RocketLauncherLockOnUpgradeRemove 
+[30:993] Hurtmemore Unlocked RocketLauncherLockOnUpgrade 
+[30:993] Hurtmemore Unlocked RocketLauncherLockOnUpgradeRemove 
+[30:993] Hurtmemore Unlocked RocketLauncherLockOnUpgradeRemove 
+[31:142] Hurtmemore Unlocked RocketLauncherLockOnUpgrade 
+[31:142] Hurtmemore Unlocked RocketLauncherLockOnUpgradeRemove 
+[31:142] Hurtmemore Unlocked RocketLauncherLockOnUpgradeRemove 
+
+[00:572] Toxicpanda Unlocked AssaultRifle 
+[01:319] Toxicpanda Unlocked ArcWelder 
+[01:789] Toxicpanda Placed/Upgraded MiningDroid 
+[02:510] Toxicpanda Unlocked Stimpack 
+[03:883] Toxicpanda Unlocked BioMechanicalRepairDrone 
+[03:887] Toxicpanda Unlocked CombatAccelerationDrone 
+[04:030] Toxicpanda Placed/Upgraded HealingDrone 
+[04:786] Toxicpanda Placed/Upgraded HealingDrone 
+[05:186] Toxicpanda Placed/Upgraded HealingDrone 
+[05:521] Toxicpanda Unlocked AdvancedDroidEngines 
+[06:846] Toxicpanda Unlocked TurboDroidEngines 
+[08:700] Toxicpanda Unlocked PsiDisrupter 
+[08:808] Toxicpanda Placed/Upgraded PsiIndoctrinator 
+[09:314] Toxicpanda Placed/Upgraded PsiIndoctrinator 
+[10:018] Toxicpanda Placed/Upgraded PsiIndoctrinator 
+[10:198] Toxicpanda Unlocked ExplorationDroid 
+[10:211] Toxicpanda Placed/Upgraded ExplorationDroid 
+[10:214] Toxicpanda Placed/Upgraded ExplorationDroid 
+[10:292] Toxicpanda Placed/Upgraded ExplorationDroid 
+[10:941] Toxicpanda Unlocked SpecOpsPsiDisruptor 
+[10:980] Toxicpanda Unlocked PsiDepressor 
+[12:085] Toxicpanda Unlocked AutoTurret 
+[12:835] Toxicpanda Placed/Upgraded AutoTurret 
+[13:704] Toxicpanda Placed/Upgraded AutoTurret 
+[13:885] Toxicpanda Placed/Upgraded AutoTurret 
+[14:015] Toxicpanda Placed/Upgraded AutoTurret 
+[15:867] Toxicpanda Unlocked SpecOpsArcWelder 
+[15:930] Toxicpanda Unlocked FlameTurret 
+[16:606] Toxicpanda Unlocked FlashBang 
+[16:824] Toxicpanda Placed/Upgraded AutoTurret 
+[17:464] Toxicpanda Unlocked SpecOpsBioMechanicalRepairDrone 
+[17:470] Toxicpanda Unlocked RechargeDrone 
+[17:748] Toxicpanda Placed/Upgraded HealingDrone 
+[18:435] Toxicpanda Unlocked QuantumBackpack 
+[18:504] Toxicpanda Unlocked MedicShield 
+[18:576] Toxicpanda Unlocked AIAssistant 
+[19:137] Toxicpanda Unlocked EnergySuit 
+[19:253] Toxicpanda Bought ShieldSuit 
+[19:292] Toxicpanda Bought CombatSuit 
+[20:433] Toxicpanda Placed/Upgraded ExplorationDroid 
+[21:036] Toxicpanda Unlocked MotionSensor 
+[21:043] Toxicpanda Unlocked AdvancedMotionSensor 
+[21:185] Toxicpanda Placed/Upgraded SensorTower 
+[21:311] Toxicpanda Placed/Upgraded SensorTower 
+[21:345] Toxicpanda Placed/Upgraded SensorTower 
+[21:503] Toxicpanda Placed/Upgraded SensorTower 
+[21:539] Toxicpanda Placed/Upgraded SensorTower 
+[22:313] Toxicpanda Placed/Upgraded PsiIndoctrinator 
+[23:003] Toxicpanda Placed/Upgraded AutoTurret 
+[24:159] Toxicpanda Placed/Upgraded AutoTurret 
+[24:384] Toxicpanda Placed/Upgraded AutoTurret 
+[24:518] Toxicpanda Placed/Upgraded HealingDrone 
+[30:083] Toxicpanda Placed/Upgraded SensorTower 
+[30:163] Toxicpanda Placed/Upgraded SensorTower 
+[30:265] Toxicpanda Placed/Upgraded SensorTower 
+[32:583] Toxicpanda Unlocked AdvancedEnergySuit 
+[33:028] Toxicpanda Placed/Upgraded HealingDrone 
+[33:075] Toxicpanda Unlocked SpecOpsTurret 
+[33:127] Toxicpanda Placed/Upgraded AutoTurret 
+[33:239] Toxicpanda Placed/Upgraded AutoTurret 
+[33:336] Toxicpanda Placed/Upgraded AutoTurret 
+[33:781] Toxicpanda Placed/Upgraded PsiIndoctrinator 
+[34:456] Toxicpanda Unlocked MiningCharge 
+[34:460] Toxicpanda Unlocked AdvancedMiningCharge 
+[34:521] Toxicpanda Placed/Upgraded NukePack 
+[34:525] Toxicpanda Placed/Upgraded NukePack 
+[34:977] Toxicpanda Placed/Upgraded SensorTower 
+[35:049] Toxicpanda Placed/Upgraded SensorTower 
+[35:281] Toxicpanda Placed/Upgraded SensorTower 
+[36:009] Toxicpanda Placed/Upgraded SensorTower 
+[36:140] Toxicpanda Placed/Upgraded SensorTower 
+[36:151] Toxicpanda Placed/Upgraded SensorTower 
+[36:433] Toxicpanda Placed/Upgraded PsiIndoctrinator 
+[36:921] Toxicpanda Placed/Upgraded SensorTower 
+[36:921] Toxicpanda Placed/Upgraded SensorTower 
+[37:125] Toxicpanda Placed/Upgraded SensorTower 
+[37:136] Toxicpanda Placed/Upgraded SensorTower 
+[37:143] Toxicpanda Placed/Upgraded SensorTower 
+[38:109] Toxicpanda Placed/Upgraded HealingDrone 
+[38:203] Toxicpanda Placed/Upgraded HealingDrone 
+[39:232] Toxicpanda Unlocked ForceFieldGrenade 
+[39:239] Toxicpanda Unlocked SpecOpsForcefieldGrenade 
+[39:899] Toxicpanda Placed/Upgraded NukePack 
+[39:915] Toxicpanda Placed/Upgraded NukePack 
+[40:638] Toxicpanda Unlocked Shotgun 
+[40:645] Toxicpanda Unlocked SpecOpsShotgun 
+
+[00:572] Ascherit Unlocked AssaultRifle 
+[00:652] Ascherit Placed/Upgraded MiningDroid 
+[01:577] Ascherit Unlocked AdvancedDroidEngines 
+[02:926] Ascherit Unlocked IncendiaryGrenade 
+[06:356] Ascherit Unlocked ExplorationDroid 
+[06:366] Ascherit Placed/Upgraded ExplorationDroid 
+[06:371] Ascherit Placed/Upgraded ExplorationDroid 
+[06:514] Ascherit Placed/Upgraded ExplorationDroid 
+[09:257] Ascherit Placed/Upgraded MiningDroid 
+[09:383] Ascherit Unlocked Shotgun 
+[09:409] Ascherit Unlocked SpecOpsShotgun 
+[11:812] Ascherit Unlocked BioMechanicalRepairDrone 
+[12:494] Ascherit Unlocked Stimpack 
+[14:024] Ascherit Placed/Upgraded MiningDroid 
+[16:195] Ascherit Unlocked ConcussiveShot 
+[16:267] Ascherit Unlocked EnergyPack 
+[17:988] Ascherit Unlocked TurboDroidEngines 
+[19:138] Ascherit Bought ShieldSuit 
+[19:351] Ascherit Placed/Upgraded HealingDrone 
+[20:657] Ascherit Unlocked SuperStimpack 
+[20:715] Ascherit Unlocked HazmatSuit 
+[22:197] Ascherit Unlocked AdvancedHazmatSuit 
+[22:496] Ascherit Placed/Upgraded HealingDrone 
+[22:844] Ascherit Placed/Upgraded HealingDrone 
+[23:070] Ascherit Unlocked AIAssistant 
+[23:075] Ascherit Unlocked MedicShield 
+[24:071] Ascherit Unlocked AdvancedExplorationDroid 
+[24:333] Ascherit Placed/Upgraded ExplorationDroid 
+[26:952] Ascherit Unlocked AutoTurret 
+[27:155] Ascherit Placed/Upgraded AutoTurret 
+[27:381] Ascherit Placed/Upgraded AutoTurret 
+[27:621] Ascherit Placed/Upgraded AutoTurret 
+[27:846] Ascherit Unlocked RechargeDrone 
+[27:869] Ascherit Unlocked SpecOpsTurret 
+[28:007] Ascherit Placed/Upgraded HealingDrone 
+[28:583] Ascherit Placed/Upgraded HealingDrone 
+[28:892] Ascherit Placed/Upgraded HealingDrone 
+[29:470] Ascherit Placed/Upgraded AutoTurret 
+[29:699] Ascherit Placed/Upgraded AutoTurret 
+[29:909] Ascherit Placed/Upgraded AutoTurret 
+[32:584] Ascherit Bought EnergySuit 
+[33:324] Ascherit Placed/Upgraded HealingDrone 
+[34:335] Ascherit Unlocked Flamethrower 
+[34:343] Ascherit Unlocked SpecOpsFlamethrower 
+[34:407] Ascherit Unlocked ThermiteFilaments 
+[34:443] Ascherit Unlocked CombatShield 
+[36:311] Ascherit Placed/Upgraded HealingDrone 
+[39:288] Ascherit Unlocked ForceFieldGrenade 
+[39:301] Ascherit Unlocked SpecOpsForcefieldGrenade 
+[39:351] Ascherit Unlocked EnergySuit 
+[39:363] Ascherit Unlocked AdvancedEnergySuit 
+[39:616] Ascherit Unlocked HighPrecisionBeams 
+[40:015] Ascherit Placed/Upgraded HealingDrone 
+
+[00:572] DeATH Unlocked AssaultRifle 
+[00:651] DeATH Placed/Upgraded MiningDroid 
+[01:735] DeATH Unlocked FragGrenade 
+[02:428] DeATH Unlocked SpecOpsFragGrenade 
+[04:476] DeATH Unlocked ExplorationDroid 
+[04:499] DeATH Placed/Upgraded ExplorationDroid 
+[04:509] DeATH Placed/Upgraded ExplorationDroid 
+[05:806] DeATH Placed/Upgraded ExplorationDroid 
+[06:900] DeATH Unlocked AdvancedDroidEngines 
+[09:136] DeATH Unlocked Stimpack 
+[10:813] DeATH Unlocked BeamRifle 
+[15:238] DeATH Unlocked TurboDroidEngines 
+[16:222] DeATH Unlocked CombatSuit 
+[17:365] DeATH Unlocked SpecOpsPlasmaRifle 
+[18:319] DeATH Unlocked LongRangeScope 
+[18:858] DeATH Unlocked AdvancedCombatSuit 
+[19:543] DeATH Placed/Upgraded ExplorationDroid 
+[20:716] DeATH Bought ShieldSuit 
+[20:736] DeATH Unlocked MotionSensor 
+[20:746] DeATH Unlocked AdvancedMotionSensor 
+[21:147] DeATH Placed/Upgraded SensorTower 
+[22:200] DeATH Bought HazmatSuit 
+[22:517] DeATH Unlocked HazmatSuit 
+[23:404] DeATH Placed/Upgraded SensorTower 
+[23:555] DeATH Unlocked OverloadWeapon 
+[24:518] DeATH Unlocked AdvancedHazmatSuit 
+[25:672] DeATH Unlocked PowerConverter 
+[26:100] DeATH Placed/Upgraded SensorTower 
+[27:273] DeATH Unlocked SpecOpsPowerConverter 
+[27:415] DeATH Unlocked BioMechanicalRepairDrone 
+[29:495] DeATH Unlocked CombatShield 
+[29:526] DeATH Unlocked EnergyPack 
+[29:577] DeATH Unlocked OpticalVisor 
+[30:709] DeATH Unlocked SpecOpsBioMechanicalRepairDrone 
+[31:341] DeATH Unlocked PsiDisrupter 
+[31:548] DeATH Placed/Upgraded PsiIndoctrinator 
+[31:817] DeATH Unlocked PsiDepressor 
+[32:276] DeATH Placed/Upgraded PsiIndoctrinator 
+[32:503] DeATH Placed/Upgraded SensorTower 
+[32:515] DeATH Placed/Upgraded SensorTower 
+[34:389] DeATH Unlocked CombatAccelerationDrone 
+[34:490] DeATH Unlocked RechargeDrone 
+[34:603] DeATH Placed/Upgraded HealingDrone 
+[35:434] DeATH Placed/Upgraded HealingDrone 
+[35:947] DeATH Placed/Upgraded SensorTower 
+[35:960] DeATH Placed/Upgraded SensorTower 
+[36:241] DeATH Placed/Upgraded HealingDrone 
+[36:453] DeATH Placed/Upgraded HealingDrone 
+[37:271] DeATH Placed/Upgraded HealingDrone 
+[37:454] DeATH Placed/Upgraded SensorTower 
+[37:680] DeATH Placed/Upgraded SensorTower 
+[37:832] DeATH Placed/Upgraded HealingDrone 
+[39:352] DeATH Bought ShieldSuit 
+[39:364] DeATH Bought EnergySuit 
+[39:448] DeATH Unlocked ForceFieldGrenade 
+[39:459] DeATH Unlocked SpecOpsForcefieldGrenade 
+
+[00:572] Frosky Unlocked AssaultRifle 
+[00:651] Frosky Placed/Upgraded MiningDroid 
+[00:712] Frosky Unlocked IncendiaryGrenade 
+[03:366] Frosky Unlocked BeamRifle 
+[04:968] Frosky Unlocked AdvancedDroidEngines 
+[06:579] Frosky Unlocked Stimpack 
+[08:142] Frosky Unlocked SpecOpsPlasmaRifle 
+[08:770] Frosky Unlocked LongRangeScope 
+[10:215] Frosky Unlocked SuperStimpack 
+[10:983] Frosky Unlocked OpticalVisor 
+[12:909] Frosky Unlocked CombatSuit 
+[15:288] Frosky Unlocked TurboDroidEngines 
+[16:223] Frosky Bought ShieldSuit 
+[16:439] Frosky Unlocked FlashBang 
+[16:716] Frosky Unlocked SpecOpsFlashbang 
+[17:728] Frosky Unlocked HazmatSuit 
+[18:381] Frosky Unlocked AdvancedHazmatSuit 
+[18:859] Frosky Bought CombatSuit 
+[21:239] Frosky Unlocked BioMechanicalRepairDrone 
+[21:302] Frosky Placed/Upgraded HealingDrone 
+[21:541] Frosky Unlocked SpecOpsBioMechanicalRepairDrone 
+[22:518] Frosky Bought ShieldSuit 
+[23:215] Frosky Unlocked PsiDisrupter 
+[23:282] Frosky Placed/Upgraded PsiIndoctrinator 
+[23:586] Frosky Bought ShieldSuit 
+[24:948] Frosky Unlocked SpecOpsPsiDisruptor 
+[25:675] Frosky Unlocked AutoTurret 
+[25:799] Frosky Placed/Upgraded AutoTurret 
+[26:808] Frosky Unlocked HeavyTurret 
+[26:855] Frosky Placed/Upgraded AutoTurret 
+[28:361] Frosky Unlocked FlameTurret 
+[28:660] Frosky Placed/Upgraded AutoTurret 
+[28:851] Frosky Placed/Upgraded HealingDrone 
+[29:371] Frosky Placed/Upgraded PsiIndoctrinator 
+[29:566] Frosky Placed/Upgraded AutoTurret 
+[30:349] Frosky Placed/Upgraded AutoTurret 
+[30:781] Frosky Placed/Upgraded AutoTurret 
+[32:413] Frosky Placed/Upgraded PsiIndoctrinator 
+[33:457] Frosky Placed/Upgraded PsiIndoctrinator 
+[33:760] Frosky Placed/Upgraded HealingDrone 
+[39:546] Frosky Unlocked AdvancedCombatSuit 
+[39:590] Frosky Unlocked ForceFieldGrenade 
+[39:600] Frosky Unlocked SpecOpsForcefieldGrenade 
+
+[00:572] ReturnOffer Unlocked AssaultRifle 
+[01:273] ReturnOffer Unlocked Stimpack 
+[04:544] ReturnOffer Unlocked HellfireRocketLauncher 
+[04:552] ReturnOffer Unlocked SpecOpsHellfireRocketLauncher 
+[05:408] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[05:408] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[05:408] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[06:893] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[06:893] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[06:893] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[06:999] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[06:999] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[06:999] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[07:250] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[07:250] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[07:250] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[07:423] ReturnOffer Unlocked RocketLauncherMod1 
+[07:439] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[07:526] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[07:526] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[07:526] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[07:659] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[07:688] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[07:688] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[07:688] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[08:864] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[08:961] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[08:961] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[08:961] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[09:620] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[09:672] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[09:672] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[09:672] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[10:121] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[10:161] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[10:161] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[10:161] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[10:230] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[10:269] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[10:269] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[10:269] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[10:699] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[10:699] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[10:699] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[10:699] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[10:866] ReturnOffer Unlocked CombatSuit 
+[10:870] ReturnOffer Unlocked AdvancedCombatSuit 
+[12:254] ReturnOffer Unlocked CloakingDevice 
+[12:910] ReturnOffer Bought ShieldSuit 
+[13:396] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[13:396] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[13:396] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[13:396] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[13:418] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[13:418] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[13:418] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[13:418] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[13:484] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[13:484] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[13:484] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[13:484] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[13:538] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[13:628] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[13:628] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[13:628] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[13:672] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[13:893] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[13:893] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[13:893] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[13:940] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[13:956] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[13:956] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[13:956] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[14:635] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[14:785] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[14:785] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[14:785] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[15:261] ReturnOffer Unlocked SpecOpsCloakingDevice 
+[15:706] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[15:706] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[15:706] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[15:706] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[15:727] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[15:727] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[15:727] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[15:727] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[16:482] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[16:488] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[16:488] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[16:488] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[16:517] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[16:679] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[16:679] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[16:679] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[16:705] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[16:847] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[16:847] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[16:847] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[17:182] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[17:182] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[17:182] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[17:182] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[17:326] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[17:349] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[17:349] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[17:349] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[17:375] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[17:415] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[17:415] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[17:415] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[17:458] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[17:479] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[17:479] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[17:479] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[17:729] ReturnOffer Bought ShieldSuit 
+[18:382] ReturnOffer Bought HazmatSuit 
+[18:616] ReturnOffer Unlocked MedicShield 
+[19:867] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[19:867] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[19:867] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[19:867] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[19:957] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[20:288] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[20:288] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[20:288] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[20:393] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[20:842] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[20:842] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[20:842] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[21:260] ReturnOffer Unlocked BioMechanicalRepairDrone 
+[21:584] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[21:585] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[21:585] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[21:585] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[21:873] ReturnOffer Unlocked HazmatSuit 
+[21:876] ReturnOffer Unlocked AdvancedHazmatSuit 
+[22:255] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[22:255] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[22:255] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[22:255] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[22:478] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[22:478] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[22:478] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[22:478] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[22:867] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[22:867] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[22:867] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[22:867] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[22:912] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[22:912] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[22:912] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[22:912] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[23:692] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[23:896] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[23:896] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[23:896] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[23:967] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[24:068] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[24:068] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[24:068] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[24:181] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[24:257] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[24:257] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[24:257] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[25:015] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[25:024] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[25:024] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[25:024] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[27:785] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[27:815] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[27:815] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[27:815] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[27:958] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[27:963] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[27:963] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[27:963] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[27:996] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[28:002] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[28:002] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[28:002] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[28:034] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[28:040] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[28:040] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[28:040] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[28:072] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[28:083] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[28:083] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[28:083] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[28:118] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[28:121] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[28:121] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[28:121] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[28:145] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[28:168] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[28:168] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[28:168] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[28:202] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[28:210] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[28:210] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[28:210] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[28:247] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[28:257] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[28:257] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[28:257] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[28:292] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[28:512] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[28:512] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[28:512] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[28:580] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[28:692] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[28:692] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[28:692] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[28:832] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[28:832] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[28:832] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[28:832] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[28:856] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[29:114] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[29:114] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[29:114] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[29:404] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[29:492] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[29:492] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[29:492] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[30:084] ReturnOffer Unlocked EnergyPack 
+[30:093] ReturnOffer Unlocked OpticalVisor 
+[30:224] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[30:224] ReturnOffer Unlocked RocketLauncherLockOnUpgrade 
+[30:224] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[30:224] ReturnOffer Unlocked RocketLauncherLockOnUpgradeRemove 
+[30:313] ReturnOffer Unlocked AdvancedDroidEngines 
+[30:317] ReturnOffer Unlocked TurboDroidEngines 
+[32:517] ReturnOffer Unlocked AutoTurret 
+[32:546] ReturnOffer Unlocked HeavyTurret 
+[33:295] ReturnOffer Unlocked ForceFieldGrenade 
+[33:300] ReturnOffer Unlocked SpecOpsForcefieldGrenade 
+[33:825] ReturnOffer Unlocked MiningCharge 
+[33:834] ReturnOffer Unlocked AdvancedMiningCharge 
+[36:897] ReturnOffer Unlocked ExplorationDroid 
+[37:588] ReturnOffer Unlocked EnergySuit 
+[39:141] ReturnOffer Unlocked AdvancedEnergySuit 
+
+Game Ended
+ 
+STRAIN RATIO: 
+Naked Kills: 336
+T1 Speed Kills:  0 T2 Speed Kills: 0 T3 Speed Kills:  0
+T1 Health Kills: 0 T2 Health Kills: 0 T3 Health Kills: 0
+T1 Damage Kills: 0 T2 Damage Kills: 0 T3 Damage Kills: 0
+T1 Voltaile Kills: 0 T2 Voltaile Kills: 0 T3 Voltaile Kills: 0
+----------------------------------------------------------------------------
+Warpig kills : 2518
+---------------------------------------------------------
+Name: WildMutant
+ 
+STRAINS: 
+Naked Kills :  88
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: Hurtmemore
+ 
+STRAINS: 
+Naked Kills :  114
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: Toxicpanda
+ 
+STRAINS: 
+Naked Kills :  370
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: Ascherit
+ 
+STRAINS: 
+Naked Kills :  1880
+ 
+ALPHAS: 
+Aberation/Abomination Kills : 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: DeATH
+ 
+STRAINS: 
+Naked Kills :  631
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: Frosky
+ 
+STRAINS: 
+Naked Kills :  814
+ 
+ALPHAS: 
+Aberation/Abomination Kills : 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: ReturnOffer
+ 
+STRAINS: 
+Naked Kills :  297
+ 
+ALPHAS: 
+Hunter/Predator Kills : 3
+END_SIGNATURE
+
+CHAT MESSAGES: 
+[00:089] WildMutant: hf gl
+[00:159] DeATH: hmm
+[00:160] WildMutant: I am ready to cry
+[00:592] ReturnOffer: cloak rockets time
+[00:666] Toxicpanda: i don't give a shit about what anybody does
+[00:678] Toxicpanda: death
+[00:710] Toxicpanda: you're going plasma
+[00:712] ReturnOffer: wild
+[00:758] ReturnOffer: wild
+[00:808] Toxicpanda: and i'm going to rely on you to carry
+[00:823] WildMutant: yes?
+[00:826] ReturnOffer: Z ADV 
+[00:889] ReturnOffer: (sad)
+[00:908] Toxicpanda: death ur plas
+[01:135] ReturnOffer: cloak rockets are UwU
+[01:201] Ascherit: what do i do
+[01:317] WildMutant: I am going to lose
+[01:353] DeATH: i nub lol
+[01:377] ReturnOffer: nah
+[01:425] ReturnOffer: ez win
+[01:576] WildMutant: I am the king of chokes
+[01:599] Frosky: red
+[01:654] Toxicpanda: u have advantage
+[01:691] Toxicpanda: i believe in u
+[01:951] ReturnOffer: red
+[01:969] ReturnOffer: go
+[01:995] ReturnOffer: north
+[02:013] ReturnOffer: (happy)
+[02:019] WildMutant: but I am choke king
+[02:055] Toxicpanda: -pp
+[02:191] ReturnOffer: choke me harder
+[02:295] Toxicpanda: u have z adv and we have a rank 1 player
+[02:387] Toxicpanda: this is best chance u will ever have 
+[02:616] WildMutant: I lose to pubs with this adv
+[02:711] ReturnOffer: damn
+[02:783] Toxicpanda: that's sad tbh
+[02:834] Toxicpanda: i believe in u
+[03:448] Frosky: wentp lasma
+[03:927] ReturnOffer: wild
+[04:008] ReturnOffer: if u dont push NW
+[04:079] ReturnOffer: and let me afk mine
+[04:220] ReturnOffer: i will ff nade panda and ascherit off the ship
+[04:322] ReturnOffer: deal?
+[04:370] Toxicpanda: no
+[04:388] Toxicpanda: bad
+[04:467] Toxicpanda: go play trackpad instead
+[04:675] WildMutant: I will accept sacrifices
+[05:372] Frosky: red
+[05:391] Frosky: rotate
+[05:411] Frosky: to power
+[05:423] Frosky: plz
+[05:462] Frosky: this is all you
+[05:602] Frosky: go here
+[05:623] Frosky: plzzz
+[05:846] Ascherit: abom
+[05:990] Frosky: abom
+[06:012] Frosky: burrowing
+[07:387] DeATH: save the rauder
+[07:434] DeATH: frosky
+[09:883] DeATH: i go sg?
+[10:691] DeATH: omw
+[11:596] DeATH: rip
+[11:728] DeATH: no vision behing
+[12:180] DeATH: small horde
+[12:853] DeATH: kill
+[17:400] DeATH: lol
+[18:898] Toxicpanda: hurtmemore
+[18:949] Toxicpanda: get assault rifle
+[19:037] DeATH: sabo
+[19:611] Hurtmemore: a;ready got rocklet
+[19:671] DeATH: he got sabo
+[19:713] DeATH: care
+[19:742] DeATH: guys
+[19:894] DeATH: ye
+[21:738] DeATH: abom
+[22:580] WildMutant: gg
+[25:484] DeATH: 2 sabo i think lol
+[25:877] ReturnOffer: are u afk
+[26:071] WildMutant: yes
+[26:153] Toxicpanda: can u do smth pls
+[26:249] Frosky: is it official over?
+[26:290] WildMutant: what
+[26:379] WildMutant: it is officially over
+[26:440] Toxicpanda: no it isn
+[26:471] Toxicpanda: do smth
+[26:477] WildMutant: you can't break alpha fortress
+[26:603] WildMutant: I give up
+[26:604] Toxicpanda: u have t2 anub in contain
+[26:856] WildMutant: t2 anub isn't enough
+[27:115] Toxicpanda: it was enough if u didn't afk earlier
+[27:203] Toxicpanda: t2 anub with 2 aboms
+[27:266] Toxicpanda: is enough to break security
+[27:300] WildMutant: not enough
+[27:317] Toxicpanda: with poewr cut
+[27:377] Toxicpanda: ya it is
+[27:456] WildMutant: nope
+[27:597] Toxicpanda: vs frosky plas yes it is
+[27:706] Frosky: wrong
+[27:770] WildMutant: you guys will rotate
+[27:793] Frosky: i am a very fluffy plasma
+[27:916] WildMutant: you have a short distance
+[27:982] Toxicpanda: ya but you should've at least tried 
+[28:142] WildMutant: I screwed up by the 10 minute mark
+[28:170] Toxicpanda: instead of immediately giving up and suiciding aboms
+[28:390] WildMutant: that wasn't an intentional suicide
+[28:967] WildMutant: I am simply not that good
+[29:083] DeATH: wtf
+[31:959] DeATH: i psi
+[33:331] DeATH: always
+[33:376] DeATH: lol
+[36:599] DeATH: lol
+[41:978] DeATH: i nub
+[41:998] DeATH: lol
+WildMutant First Alpha Hunter |  Loss
+
+WildMutant Placed 0 Greaters.
+--------------------------------

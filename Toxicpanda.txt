@@ -1,0 +1,27 @@
+Toxicpanda HumanWinsNormal 117
+Toxicpanda ZombieRank 22.9997
+Toxicpanda VespeneHarvested 741310
+Toxicpanda HumansRescued 61
+Toxicpanda SecurityForcesKilled 85860
+Toxicpanda ZombiesKilled 161359
+Toxicpanda FuelDiverted 702
+Toxicpanda HumanWinsInsane 0
+Toxicpanda LeftLastGame 0
+Toxicpanda 4:3AspectRatioSettings 0
+Toxicpanda HumanRank 0
+Toxicpanda IdleRally 1
+Toxicpanda NumberOfTimesCaptured 569
+Toxicpanda TurretsBuilt 1022
+Toxicpanda ZombieWins 110
+Toxicpanda GamesLeft 19
+Toxicpanda Host Chooses Zombie 0
+Toxicpanda GamesPlayedAsHuman 272
+Toxicpanda GamesPlayedAsZombie 203
+Toxicpanda HumansCaptured 1411
+Toxicpanda HumanWinsHard 0
+Toxicpanda Difficulty 5
+Toxicpanda Opt In 0
+Toxicpanda Color 5
+Toxicpanda Chosen Zombie 2
+Toxicpanda Host Chooses Zombie 0
+Toxicpanda Experimental Mode 1

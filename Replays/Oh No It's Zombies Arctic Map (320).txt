@@ -1,0 +1,623 @@
+Analyzed: Oh No It's Zombies Arctic Map (320)
+
+Date: 2022.11.27 02:17:30
+
+ID : 0 PlayerName: Toxicpanda Race: Terran
+ID : 1 PlayerName: ReturnOffer Race: Terran
+ID : 2 PlayerName: Wooky Race: Terran
+ID : 3 PlayerName: treename Race: Terran
+ID : 4 PlayerName: csiz Race: Terran
+ID : 5 PlayerName: Frosky Race: Terran
+ID : 6 PlayerName: Roxadar Race: Zerg
+ID : 7 PlayerName: Security Race: Infested Terran
+Roxadar Zombie Loss
+Private Lobby
+
+Game Length:[45:947]
+Players ammount: 8
+Marine rank avg: 23
+Marine GrandMaster ammount: 5
+
+Toxicpanda First Gun ArcWelder
+ReturnOffer First Gun SpecOpsAssaultRifle
+Frosky First Gun BeamRifle
+csiz First Gun Shotgun
+Wooky First Gun SpecOpsAssaultRifle
+treename First Gun Shotgun
+
+PURCHASES: 
+[00:572] Toxicpanda Unlocked AssaultRifle 
+[01:099] Toxicpanda Unlocked ArcWelder 
+[01:570] Toxicpanda Placed/Upgraded MiningDroid 
+[02:313] Toxicpanda Unlocked Stimpack 
+[05:986] Toxicpanda Unlocked BioMechanicalRepairDrone 
+[05:991] Toxicpanda Unlocked CombatAccelerationDrone 
+[06:035] Toxicpanda Placed/Upgraded HealingDrone 
+[06:812] Toxicpanda Placed/Upgraded HealingDrone 
+[07:025] Toxicpanda Placed/Upgraded HealingDrone 
+[08:322] Toxicpanda Unlocked AutoTurret 
+[08:380] Toxicpanda Placed/Upgraded AutoTurret 
+[08:571] Toxicpanda Placed/Upgraded AutoTurret 
+[08:709] Toxicpanda Placed/Upgraded AutoTurret 
+[09:102] Toxicpanda Placed/Upgraded HealingDrone 
+[10:523] Toxicpanda Placed/Upgraded AutoTurret 
+[10:658] Toxicpanda Placed/Upgraded AutoTurret 
+[11:308] Toxicpanda Unlocked PsiDisrupter 
+[11:474] Toxicpanda Placed/Upgraded PsiIndoctrinator 
+[11:650] Toxicpanda Placed/Upgraded HealingDrone 
+[12:222] Toxicpanda Placed/Upgraded AutoTurret 
+[12:365] Toxicpanda Placed/Upgraded AutoTurret 
+[12:534] Toxicpanda Placed/Upgraded AutoTurret 
+[13:060] Toxicpanda Placed/Upgraded AutoTurret 
+[13:611] Toxicpanda Unlocked SpecOpsTurret 
+[13:777] Toxicpanda Placed/Upgraded AutoTurret 
+[13:913] Toxicpanda Placed/Upgraded AutoTurret 
+[14:416] Toxicpanda Placed/Upgraded MiningDroid 
+[14:482] Toxicpanda Unlocked FlameTurret 
+[14:551] Toxicpanda Placed/Upgraded AutoTurret 
+[14:728] Toxicpanda Placed/Upgraded AutoTurret 
+[15:964] Toxicpanda Unlocked AdvancedDroidEngines 
+[17:591] Toxicpanda Unlocked SpecOpsBioMechanicalRepairDrone 
+[17:597] Toxicpanda Unlocked RechargeDrone 
+[17:669] Toxicpanda Placed/Upgraded HealingDrone 
+[17:798] Toxicpanda Placed/Upgraded HealingDrone 
+[18:585] Toxicpanda Placed/Upgraded HealingDrone 
+[18:989] Toxicpanda Unlocked HeavyTurret 
+[19:020] Toxicpanda Unlocked QuantumBackpack 
+[19:098] Toxicpanda Placed/Upgraded AutoTurret 
+[19:243] Toxicpanda Placed/Upgraded AutoTurret 
+[20:506] Toxicpanda Placed/Upgraded HealingDrone 
+[20:684] Toxicpanda Placed/Upgraded HealingDrone 
+[20:822] Toxicpanda Placed/Upgraded HealingDrone 
+[20:925] Toxicpanda Unlocked SpecOpsArcWelder 
+[21:114] Toxicpanda Placed/Upgraded AutoTurret 
+[21:206] Toxicpanda Placed/Upgraded AutoTurret 
+[21:319] Toxicpanda Placed/Upgraded AutoTurret 
+[21:440] Toxicpanda Placed/Upgraded HealingDrone 
+[22:369] Toxicpanda Placed/Upgraded PsiIndoctrinator 
+[22:903] Toxicpanda Unlocked EnergySuit 
+[22:980] Toxicpanda Unlocked FlashBang 
+[23:200] Toxicpanda Placed/Upgraded AutoTurret 
+[23:326] Toxicpanda Placed/Upgraded AutoTurret 
+[23:491] Toxicpanda Placed/Upgraded AutoTurret 
+[23:589] Toxicpanda Placed/Upgraded HealingDrone 
+[23:720] Toxicpanda Placed/Upgraded AutoTurret 
+[23:896] Toxicpanda Placed/Upgraded AutoTurret 
+[24:050] Toxicpanda Placed/Upgraded AutoTurret 
+[24:505] Toxicpanda Placed/Upgraded AutoTurret 
+[24:866] Toxicpanda Placed/Upgraded AutoTurret 
+[25:246] Toxicpanda Placed/Upgraded AutoTurret 
+[25:540] Toxicpanda Placed/Upgraded AutoTurret 
+[26:464] Toxicpanda Unlocked AdvancedEnergySuit 
+[26:709] Toxicpanda Placed/Upgraded AutoTurret 
+[28:589] Toxicpanda Placed/Upgraded PsiIndoctrinator 
+[28:744] Toxicpanda Placed/Upgraded AutoTurret 
+[28:859] Toxicpanda Placed/Upgraded AutoTurret 
+[29:495] Toxicpanda Placed/Upgraded HealingDrone 
+[29:612] Toxicpanda Placed/Upgraded HealingDrone 
+[31:023] Toxicpanda Unlocked MedicShield 
+[31:213] Toxicpanda Placed/Upgraded AutoTurret 
+[31:343] Toxicpanda Placed/Upgraded AutoTurret 
+[31:409] Toxicpanda Placed/Upgraded AutoTurret 
+[31:475] Toxicpanda Placed/Upgraded AutoTurret 
+[31:516] Toxicpanda Unlocked PsiDepressor 
+[31:607] Toxicpanda Placed/Upgraded AutoTurret 
+[31:742] Toxicpanda Placed/Upgraded AutoTurret 
+[32:575] Toxicpanda Placed/Upgraded AutoTurret 
+[32:641] Toxicpanda Placed/Upgraded AutoTurret 
+[32:750] Toxicpanda Placed/Upgraded AutoTurret 
+[32:844] Toxicpanda Placed/Upgraded AutoTurret 
+[32:976] Toxicpanda Placed/Upgraded AutoTurret 
+[33:063] Toxicpanda Placed/Upgraded AutoTurret 
+[33:250] Toxicpanda Placed/Upgraded AutoTurret 
+[33:321] Toxicpanda Placed/Upgraded AutoTurret 
+[33:755] Toxicpanda Placed/Upgraded PsiIndoctrinator 
+[33:945] Toxicpanda Unlocked MiningCharge 
+[33:986] Toxicpanda Placed/Upgraded NukePack 
+[34:062] Toxicpanda Placed/Upgraded NukePack 
+[34:388] Toxicpanda Placed/Upgraded HealingDrone 
+[35:557] Toxicpanda Placed/Upgraded HealingDrone 
+[36:228] Toxicpanda Placed/Upgraded HealingDrone 
+[36:432] Toxicpanda Placed/Upgraded AutoTurret 
+[37:196] Toxicpanda Placed/Upgraded NukePack 
+[37:467] Toxicpanda Placed/Upgraded HealingDrone 
+[38:761] Toxicpanda Placed/Upgraded HealingDrone 
+[40:877] Toxicpanda Placed/Upgraded HealingDrone 
+
+[00:572] ReturnOffer Unlocked AssaultRifle 
+[00:656] ReturnOffer Placed/Upgraded MiningDroid 
+[02:783] ReturnOffer Unlocked SpecOpsAssaultRifle 
+[04:348] ReturnOffer Unlocked OverloadWeapon 
+[06:817] ReturnOffer Placed/Upgraded MiningDroid 
+[07:223] ReturnOffer Unlocked AutoTargetingSystem 
+[09:435] ReturnOffer Placed/Upgraded MiningDroid 
+[09:880] ReturnOffer Unlocked ShieldSuit 
+[11:648] ReturnOffer Unlocked AdvancedShieldSuit 
+[11:707] ReturnOffer Unlocked AIAssistant 
+[13:689] ReturnOffer Unlocked Bayonette 
+[14:512] ReturnOffer Unlocked CombatShield 
+[14:623] ReturnOffer Unlocked PowerConverter 
+[16:215] ReturnOffer Unlocked FlashBang 
+[16:218] ReturnOffer Unlocked SpecOpsFlashbang 
+[16:402] ReturnOffer Unlocked BioMechanicalRepairDrone 
+[21:136] ReturnOffer Placed/Upgraded HealingDrone 
+[21:256] ReturnOffer Unlocked PsiDisrupter 
+[21:375] ReturnOffer Placed/Upgraded PsiIndoctrinator 
+[22:904] ReturnOffer Bought ShieldSuit 
+[23:644] ReturnOffer Placed/Upgraded HealingDrone 
+[23:876] ReturnOffer Placed/Upgraded PsiIndoctrinator 
+[24:082] ReturnOffer Placed/Upgraded PsiIndoctrinator 
+[25:993] ReturnOffer Unlocked FragGrenade 
+[25:997] ReturnOffer Unlocked SpecOpsFragGrenade 
+[26:465] ReturnOffer Bought EnergySuit 
+[30:530] ReturnOffer Placed/Upgraded HealingDrone 
+[31:277] ReturnOffer Placed/Upgraded PsiIndoctrinator 
+[32:999] ReturnOffer Placed/Upgraded PsiIndoctrinator 
+[34:631] ReturnOffer Unlocked AutoTurret 
+[35:950] ReturnOffer Placed/Upgraded AutoTurret 
+[36:135] ReturnOffer Placed/Upgraded AutoTurret 
+[36:537] ReturnOffer Placed/Upgraded AutoTurret 
+[37:276] ReturnOffer Placed/Upgraded AutoTurret 
+[37:751] ReturnOffer Placed/Upgraded AutoTurret 
+[38:178] ReturnOffer Placed/Upgraded AutoTurret 
+[39:139] ReturnOffer Placed/Upgraded AutoTurret 
+[42:971] ReturnOffer Placed/Upgraded AutoTurret 
+[43:098] ReturnOffer Placed/Upgraded MiningDroid 
+[43:318] ReturnOffer Placed/Upgraded AutoTurret 
+
+[00:572] Wooky Unlocked AssaultRifle 
+[01:298] Wooky Placed/Upgraded MiningDroid 
+[01:557] Wooky Unlocked AdvancedDroidEngines 
+[04:590] Wooky Unlocked TurboDroidEngines 
+[09:044] Wooky Unlocked SpecOpsAssaultRifle 
+[09:062] Wooky Unlocked AutoTargetingSystem 
+[09:881] Wooky Bought ShieldSuit 
+[10:903] Wooky Unlocked ShieldSuit 
+[10:938] Wooky Unlocked Stimpack 
+[11:476] Wooky Unlocked FragGrenade 
+[11:649] Wooky Bought ShieldSuit 
+[11:794] Wooky Unlocked SpecOpsFragGrenade 
+[13:206] Wooky Unlocked PowerConverter 
+[13:271] Wooky Unlocked EnergyPack 
+[13:353] Wooky Unlocked OpticalVisor 
+[14:581] Wooky Placed/Upgraded MiningDroid 
+[15:632] Wooky Unlocked SpecOpsPowerConverter 
+[16:693] Wooky Unlocked MiningCharge 
+[16:850] Wooky Placed/Upgraded NukePack 
+[17:179] Wooky Unlocked CombatShield 
+[17:873] Wooky Placed/Upgraded NukePack 
+[17:934] Wooky Unlocked AutoTurret 
+[18:058] Wooky Placed/Upgraded AutoTurret 
+[18:534] Wooky Placed/Upgraded AutoTurret 
+[18:980] Wooky Placed/Upgraded AutoTurret 
+[19:209] Wooky Unlocked AdvancedShieldSuit 
+[20:916] Wooky Unlocked FlameTurret 
+[21:486] Wooky Placed/Upgraded AutoTurret 
+[21:681] Wooky Placed/Upgraded AutoTurret 
+[21:879] Wooky Placed/Upgraded AutoTurret 
+[22:676] Wooky Placed/Upgraded AutoTurret 
+[22:861] Wooky Placed/Upgraded AutoTurret 
+[25:911] Wooky Placed/Upgraded NukePack 
+[26:304] Wooky Placed/Upgraded AutoTurret 
+[26:908] Wooky Placed/Upgraded AutoTurret 
+[26:994] Wooky Unlocked AdvancedMiningCharge 
+[27:254] Wooky Placed/Upgraded AutoTurret 
+[28:351] Wooky Placed/Upgraded AutoTurret 
+[28:653] Wooky Placed/Upgraded AutoTurret 
+[29:380] Wooky Placed/Upgraded AutoTurret 
+[29:685] Wooky Placed/Upgraded AutoTurret 
+[30:573] Wooky Placed/Upgraded AutoTurret 
+[30:931] Wooky Placed/Upgraded NukePack 
+[31:289] Wooky Placed/Upgraded NukePack 
+[31:532] Wooky Placed/Upgraded NukePack 
+[31:649] Wooky Unlocked HeavyTurret 
+[32:743] Wooky Placed/Upgraded AutoTurret 
+[32:949] Wooky Placed/Upgraded AutoTurret 
+[33:243] Wooky Placed/Upgraded AutoTurret 
+[33:653] Wooky Placed/Upgraded AutoTurret 
+[34:378] Wooky Unlocked BioMechanicalRepairDrone 
+[34:412] Wooky Placed/Upgraded HealingDrone 
+[36:418] Wooky Placed/Upgraded HealingDrone 
+[36:484] Wooky Placed/Upgraded NukePack 
+[36:757] Wooky Placed/Upgraded NukePack 
+[36:903] Wooky Placed/Upgraded HealingDrone 
+[37:608] Wooky Placed/Upgraded HealingDrone 
+[38:814] Wooky Placed/Upgraded NukePack 
+[39:171] Wooky Placed/Upgraded HealingDrone 
+[39:613] Wooky Placed/Upgraded HealingDrone 
+[40:006] Wooky Placed/Upgraded HealingDrone 
+[43:146] Wooky Placed/Upgraded HealingDrone 
+[43:900] Wooky Placed/Upgraded HealingDrone 
+
+[00:572] treename Unlocked AssaultRifle 
+[00:677] treename Placed/Upgraded MiningDroid 
+[02:753] treename Unlocked AdvancedDroidEngines 
+[04:420] treename Unlocked Stimpack 
+[05:697] treename Unlocked MotionSensor 
+[05:887] treename Placed/Upgraded SensorTower 
+[06:265] treename Unlocked IncendiaryGrenade 
+[08:446] treename Placed/Upgraded SensorTower 
+[09:009] treename Placed/Upgraded MiningDroid 
+[09:315] treename Placed/Upgraded SensorTower 
+[10:904] treename Bought ShieldSuit 
+[13:072] treename Placed/Upgraded SensorTower 
+[13:610] treename Unlocked Shotgun 
+[13:630] treename Unlocked SpecOpsShotgun 
+[13:709] treename Unlocked DoubleBarrel 
+[17:374] treename Unlocked SuperStimpack 
+[17:713] treename Unlocked HazmatSuit 
+[17:721] treename Unlocked AdvancedHazmatSuit 
+[17:829] treename Unlocked BioMechanicalRepairDrone 
+[18:790] treename Unlocked MiningCharge 
+[18:993] treename Placed/Upgraded NukePack 
+[19:210] treename Bought ShieldSuit 
+[20:549] treename Placed/Upgraded HealingDrone 
+[21:714] treename Placed/Upgraded HealingDrone 
+[22:474] treename Placed/Upgraded HealingDrone 
+[25:196] treename Placed/Upgraded NukePack 
+[25:255] treename Placed/Upgraded HealingDrone 
+[27:875] treename Placed/Upgraded HealingDrone 
+[30:209] treename Placed/Upgraded HealingDrone 
+[31:287] treename Placed/Upgraded NukePack 
+[31:537] treename Placed/Upgraded SensorTower 
+[31:654] treename Placed/Upgraded NukePack 
+[31:860] treename Placed/Upgraded HealingDrone 
+[32:070] treename Placed/Upgraded HealingDrone 
+[33:192] treename Placed/Upgraded HealingDrone 
+[33:596] treename Placed/Upgraded HealingDrone 
+[33:804] treename Placed/Upgraded HealingDrone 
+[34:934] treename Placed/Upgraded HealingDrone 
+[42:753] treename Placed/Upgraded SensorTower 
+
+[00:572] csiz Unlocked AssaultRifle 
+[01:214] csiz Placed/Upgraded MiningDroid 
+[01:229] csiz Unlocked AdvancedDroidEngines 
+[03:669] csiz Unlocked OverloadWeapon 
+[05:000] csiz Unlocked Shotgun 
+[06:252] csiz Unlocked SpecOpsShotgun 
+[08:579] csiz Unlocked TurboDroidEngines 
+[12:272] csiz Unlocked BioMechanicalRepairDrone 
+[12:294] csiz Unlocked PowerConverter 
+[12:341] csiz Placed/Upgraded HealingDrone 
+[12:428] csiz Unlocked DoubleBarrel 
+[13:146] csiz Unlocked CombatShield 
+[13:713] csiz Unlocked FlashBang 
+[15:063] csiz Placed/Upgraded HealingDrone 
+[15:233] csiz Placed/Upgraded HealingDrone 
+[15:474] csiz Placed/Upgraded HealingDrone 
+[16:594] csiz Placed/Upgraded MiningDroid 
+[17:689] csiz Unlocked QuantumBackpack 
+[17:714] csiz Bought ShieldSuit 
+[17:722] csiz Bought HazmatSuit 
+[17:783] csiz Placed/Upgraded HealingDrone 
+[17:985] csiz Placed/Upgraded HealingDrone 
+[18:750] csiz Unlocked AutoTurret 
+[18:888] csiz Placed/Upgraded HealingDrone 
+[19:385] csiz Placed/Upgraded HealingDrone 
+[19:909] csiz Placed/Upgraded HealingDrone 
+[20:061] csiz Unlocked EnergySuit 
+[21:016] csiz Placed/Upgraded MiningDroid 
+[21:509] csiz Unlocked HeavyTurret 
+[21:611] csiz Placed/Upgraded AutoTurret 
+[22:502] csiz Unlocked AIAssistant 
+[23:257] csiz Placed/Upgraded HealingDrone 
+[23:714] csiz Unlocked AdvancedEnergySuit 
+[24:181] csiz Placed/Upgraded AutoTurret 
+[24:434] csiz Placed/Upgraded AutoTurret 
+[24:613] csiz Placed/Upgraded HealingDrone 
+[25:668] csiz Placed/Upgraded HealingDrone 
+[26:959] csiz Placed/Upgraded AutoTurret 
+[27:653] csiz Unlocked SpecOpsFlashbang 
+[27:900] csiz Placed/Upgraded HealingDrone 
+[28:072] csiz Placed/Upgraded HealingDrone 
+[28:822] csiz Unlocked SpecOpsPowerConverter 
+[28:927] csiz Placed/Upgraded HealingDrone 
+[29:182] csiz Placed/Upgraded HealingDrone 
+[29:864] csiz Placed/Upgraded HealingDrone 
+[30:834] csiz Placed/Upgraded HealingDrone 
+[31:083] csiz Placed/Upgraded AutoTurret 
+[33:558] csiz Placed/Upgraded HealingDrone 
+[33:782] csiz Placed/Upgraded HealingDrone 
+[34:581] csiz Unlocked RechargeDrone 
+[34:977] csiz Placed/Upgraded HealingDrone 
+[35:295] csiz Placed/Upgraded HealingDrone 
+[37:175] csiz Placed/Upgraded HealingDrone 
+[37:843] csiz Placed/Upgraded AutoTurret 
+[39:489] csiz Placed/Upgraded HealingDrone 
+[39:708] csiz Placed/Upgraded HealingDrone 
+[40:259] csiz Placed/Upgraded HealingDrone 
+[41:034] csiz Placed/Upgraded HealingDrone 
+[41:356] csiz Placed/Upgraded HealingDrone 
+[41:893] csiz Placed/Upgraded HealingDrone 
+[42:631] csiz Placed/Upgraded HealingDrone 
+[43:590] csiz Placed/Upgraded AutoTurret 
+[43:891] csiz Placed/Upgraded AutoTurret 
+[44:242] csiz Placed/Upgraded AutoTurret 
+
+[00:572] Frosky Unlocked AssaultRifle 
+[00:734] Frosky Placed/Upgraded MiningDroid 
+[00:783] Frosky Unlocked IncendiaryGrenade 
+[03:431] Frosky Unlocked BeamRifle 
+[06:627] Frosky Unlocked AdvancedDroidEngines 
+[07:830] Frosky Unlocked SpecOpsPlasmaRifle 
+[11:232] Frosky Unlocked Stimpack 
+[12:934] Frosky Unlocked SuperStimpack 
+[16:075] Frosky Unlocked HazmatSuit 
+[17:359] Frosky Unlocked AdvancedHazmatSuit 
+[18:186] Frosky Unlocked AIAssistant 
+[20:062] Frosky Bought ShieldSuit 
+[21:365] Frosky Unlocked SpecOpsSuperStimpack 
+[23:715] Frosky Bought EnergySuit 
+[27:179] Frosky Unlocked LongRangeScope 
+[27:212] Frosky Unlocked BioMechanicalRepairDrone 
+[28:050] Frosky Placed/Upgraded HealingDrone 
+[28:504] Frosky Unlocked AutoTurret 
+[28:573] Frosky Placed/Upgraded AutoTurret 
+[30:493] Frosky Placed/Upgraded HealingDrone 
+[31:259] Frosky Unlocked OpticalVisor 
+[32:718] Frosky Unlocked QuantumBackpack 
+[33:365] Frosky Placed/Upgraded HealingDrone 
+[35:547] Frosky Placed/Upgraded HealingDrone 
+[37:140] Frosky Placed/Upgraded HealingDrone 
+[38:192] Frosky Placed/Upgraded HealingDrone 
+[42:854] Frosky Placed/Upgraded HealingDrone 
+
+[00:568] Roxadar Bought PlayerNumber 
+[00:677] Roxadar Spawned MassiveCocoon 
+[02:117] Roxadar Spawned InfestedAbomination 
+[03:925] Roxadar Bought SunkenColony 
+[04:166] Roxadar Bought SunkenColony 
+[04:380] Roxadar Bought SunkenColony 
+[04:382] Roxadar Spawned MassiveCocoon 
+[04:492] Roxadar Bought SunkenColony 
+[05:822] Roxadar Spawned Hunter 
+[06:229] Roxadar Bought StrainHealth 
+[07:474] Roxadar Bought StrainHealth 
+[08:238] Roxadar Bought StrainHealth 
+[09:178] Roxadar Bought StrainHealth 
+[10:095] Roxadar Bought StrainHealth 
+[11:574] Roxadar Bought CreepSpeed 
+[12:315] Roxadar Bought UnlockDropPods 
+[12:676] Roxadar Bought EvolveDropPods 
+[12:679] Roxadar Bought EvolveDropPods 
+[12:682] Roxadar Bought EvolveDropPods 
+[12:922] Roxadar Bought EvolveDropPods 
+[13:262] Roxadar Bought GreaterNydus 
+[13:904] Roxadar Bought EvolveDropPods 
+[14:468] Roxadar Bought EvolveDropPods 
+[15:143] Roxadar Bought GreaterNydus 
+[15:826] Roxadar Bought SunkenColony 
+[16:066] Roxadar Bought SunkenColony 
+[16:076] Roxadar Bought ShieldSuit 
+[16:731] Roxadar Bought SunkenColony 
+[16:737] Roxadar Bought SunkenColony 
+[17:360] Roxadar Bought HazmatSuit 
+[17:755] Roxadar Bought CreepSpeed 
+[20:190] Roxadar Bought BuildExtractorScienceLabs 
+[21:045] Roxadar Bought AdvancedInfestationContainment 
+[21:228] Roxadar Spawned MassiveCocoon 
+[22:308] Roxadar Spawned Underseer 
+[23:265] Roxadar Bought BuildExtractorScienceLabs 
+[23:645] Roxadar Spawned MassiveCocoon 
+[23:970] Roxadar Spawned MassiveCocoon 
+[24:061] Roxadar Bought SiphonFuel 
+[24:088] Roxadar Bought BuildExtractorProcessingFacilities 
+[24:150] Roxadar Bought BuildExtractorExcavationZone 
+[25:426] Roxadar Bought GreaterNydus 
+[25:908] Roxadar Bought AdvancedPowerInfestation 
+[26:960] Roxadar Bought ConstructiveCreep 
+[26:982] Roxadar Bought GreaterNydus 
+[27:524] Roxadar Bought SiphonFuel 
+[28:569] Roxadar Spawned MassiveCocoon 
+[29:112] Roxadar Bought SunkenColony 
+[29:473] Roxadar Bought VirulentCreep 
+[29:473] Roxadar Bought VirulentCreep 
+[29:951] Roxadar Bought RegenerativeCreep 
+[30:009] Roxadar Spawned Anubalisk 
+[30:081] Roxadar Bought BuildExtractorScienceLabs 
+[30:214] Roxadar Bought SunkenColony 
+[30:356] Roxadar Bought GreaterNydus 
+[30:482] Roxadar Bought SiphonFuel 
+[31:625] Roxadar Bought BuildExtractorManufacturingSector 
+[31:804] Roxadar Bought GreaterNydus 
+[32:079] Roxadar Bought GreaterNydus 
+[32:943] Roxadar Spawned MassiveCocoon 
+[33:063] Roxadar Spawned MassiveCocoon 
+[33:448] Roxadar Bought SiphonFuel 
+[34:023] Roxadar Spawned Underseer 
+[34:143] Roxadar Spawned Underseer 
+[36:039] Roxadar Bought PureStrainHealth 
+[36:049] Roxadar Bought TankStrain 
+[36:078] Roxadar Bought PureStrainHealth 
+[36:086] Roxadar Bought TankStrain 
+[36:466] Roxadar Bought DropshipsFueled 
+[36:531] Roxadar Bought SweepingInfestation 
+[36:531] Roxadar Bought UltimateInfestationResearched 
+[37:136] Roxadar Bought PureStrainHealth 
+[37:566] Roxadar Bought TankStrain 
+[38:516] Roxadar Bought PureStrainHealth 
+[39:144] Roxadar Bought TankStrain 
+[39:787] Roxadar Bought PureStrainHealth 
+[40:596] Roxadar Bought TankStrain 
+[44:108] Roxadar Bought GreaterNydus 
+[44:267] Roxadar Bought GreaterNydus 
+
+Game Ended
+ 
+STRAIN RATIO: 
+Naked Kills: 122
+T1 Speed Kills:  0 T2 Speed Kills: 0 T3 Speed Kills:  0
+T1 Health Kills: 82 T2 Health Kills: 190 T3 Health Kills: 27
+T1 Damage Kills: 0 T2 Damage Kills: 0 T3 Damage Kills: 0
+T1 Voltaile Kills: 0 T2 Voltaile Kills: 0 T3 Voltaile Kills: 0
+----------------------------------------------------------------------------
+Warpig kills : 4581
+---------------------------------------------------------
+Name: Toxicpanda
+ 
+STRAINS: 
+Naked Kills :  22
+T1_Health Kills : 714
+T2_Health Kills : 362
+T3_Health Kills : 42
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: ReturnOffer
+ 
+STRAINS: 
+Naked Kills :  102
+T1_Health Kills : 930
+T2_Health Kills : 323
+T3_Health Kills : 11
+ 
+ALPHAS: 
+Underseer/Saboteur Kills : 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: Wooky
+ 
+STRAINS: 
+Naked Kills :  52
+T1_Health Kills : 1304
+T2_Health Kills : 245
+T3_Health Kills : 15
+ 
+ALPHAS: 
+Underseer/Saboteur Kills : 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: treename
+ 
+STRAINS: 
+Naked Kills :  106
+T1_Health Kills : 477
+T2_Health Kills : 149
+T3_Health Kills : 11
+ 
+ALPHAS: 
+Aberation/Abomination Kills : 1
+Anubalisk/Anubalight Kills : 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: csiz
+ 
+STRAINS: 
+Naked Kills :  96
+T1_Health Kills : 692
+T2_Health Kills : 272
+T3_Health Kills : 12
+ 
+ALPHAS: 
+Egg Kills : 2
+Hunter/Predator Kills : 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: Frosky
+ 
+STRAINS: 
+Naked Kills :  59
+T1_Health Kills : 461
+T2_Health Kills : 122
+T3_Health Kills : 3
+ 
+ALPHAS: 
+Anubalisk/Anubalight Kills : 1
+Underseer/Saboteur Kills : 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: Roxadar
+ 
+STRAINS: 
+Naked Kills :  0
+ 
+ALPHAS: 
+END_SIGNATURE
+
+CHAT MESSAGES: 
+[00:289] ReturnOffer: 6 ar
+[00:334] ReturnOffer: do it
+[00:342] csiz: can't believe you guys survived last game
+[00:566] Toxicpanda: glgl
+[00:863] Wooky: bro this game gon suck
+[00:953] ReturnOffer: y
+[02:950] Toxicpanda: wooky pls
+[03:089] Wooky: im bad. teach me the ways
+[03:248] Wooky: i got stuck between turrets
+[07:153] Toxicpanda: its ok
+[07:212] Toxicpanda: the thor denies the cheese
+[08:705] treename: oh
+[08:769] treename: nvm
+[10:743] csiz: saved my droid though
+[10:870] csiz: ty
+[11:053] treename: 'wow
+[11:086] treename: free abb
+[11:919] csiz: ehm
+[11:978] Toxicpanda: -pp
+[12:063] csiz: ty
+[18:348] ReturnOffer: csiz
+[18:373] ReturnOffer: cloak
+[18:424] ReturnOffer: and save me
+[18:545] csiz: nah
+[18:678] csiz: energy converter already
+[18:902] ReturnOffer: USHELESH
+[19:278] Toxicpanda: -pp
+[19:530] Toxicpanda: hw in labs
+[25:480] treename: oh
+[25:629] treename: i cant see
+[27:749] treename: ty
+[28:665] treename: lel fk
+[28:985] csiz: need
+[29:042] csiz: to get to viro
+[29:055] Wooky: go sec toxic
+[31:010] csiz: \haha
+[31:033] csiz: made it
+[32:323] Wooky: toxic do u need money
+[32:375] Toxicpanda: no
+[32:419] Toxicpanda: im good on money
+[32:698] ReturnOffer: tree
+[32:756] ReturnOffer: 100 gas
+[32:782] ReturnOffer: pls
+[33:094] ReturnOffer: psi gates
+[33:137] ReturnOffer: no pod ult
+[33:875] Frosky: sci
+[33:891] Frosky: leave
+[34:764] Frosky: guys
+[34:913] Toxicpanda: tree
+[34:925] Wooky: nuyikje
+[34:926] Toxicpanda: tree
+[34:943] Toxicpanda: ur nuke
+[34:947] ReturnOffer: nuke
+[34:969] Toxicpanda: ur nuke
+[35:163] Toxicpanda: run in alpha
+[35:169] Toxicpanda: rn
+[35:183] Toxicpanda: run
+[40:678] Roxadar: hm
+[41:198] csiz: so many pods (rofl)
+[41:273] ReturnOffer: i have 500 gas
+[41:360] ReturnOffer: if anyone needs
+[42:218] Roxadar: I give up tbh
+[42:438] Wooky: i mean u did opt in
+[42:539] Roxadar: I did
+[42:766] Roxadar: most likely needed queen
+[43:075] Roxadar: pods with tanks aint that good vs these many structures
+[43:815] Toxicpanda: pls just dont die
+[44:454] csiz: no more places to place turrets
+[44:472] csiz: (rofl)
+[44:604] Toxicpanda: get in ship
+[45:064] Toxicpanda: gg
+[45:127] ReturnOffer: gg
+[45:133] Frosky: gg
+[45:168] csiz: gg
+[45:216] Wooky: GG
+[45:376] Toxicpanda: i think queen ult could've won u that
+[45:477] Roxadar: same
+[45:563] Toxicpanda: pod only works if the turret nest isn't that big
+[45:595] Roxadar: with 2nd anub
+[45:817] Frosky: abom instead of anub
+[45:845] Frosky: and all in
+Roxadar First Alpha InfestedAbomination |  Loss
+
+Roxadar Placed 0 Greaters.
+--------------------------------

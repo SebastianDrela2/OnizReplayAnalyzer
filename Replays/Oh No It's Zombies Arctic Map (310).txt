@@ -1,0 +1,668 @@
+Analyzed: Oh No It's Zombies Arctic Map (310)
+
+Date: 2022.11.25
+
+ID : 0 PlayerName: Toxicpanda Race: Terran
+ID : 1 PlayerName: Frosky Race: Terran
+ID : 2 PlayerName: lalaOH Race: Terran
+ID : 3 PlayerName: dreamssink Race: Zerg
+ID : 4 PlayerName: SniperDevil Race: Terran
+ID : 5 PlayerName: LazyRivers Race: Terran
+ID : 6 PlayerName: Westy Race: Terran
+ID : 7 PlayerName: Security Race: Infested Terran
+dreamssink  Loss
+Private Lobby
+
+Game Length:[45:541]
+Players ammount: 8
+Marine rank avg: 65,5
+Marine GrandMaster ammount: 11
+
+Toxicpanda First Gun ArcWelder
+lalaOH First Gun BeamRifle
+Frosky First Gun BeamRifle
+LazyRivers First Gun SpecOpsAssaultRifle
+Westy First Gun Shotgun
+
+PURCHASES: 
+[00:572] Toxicpanda Unlocked AssaultRifle 
+[01:105] Toxicpanda Unlocked ArcWelder 
+[01:579] Toxicpanda Placed/Upgraded MiningDroid 
+[02:494] Toxicpanda Unlocked Stimpack 
+[04:029] Toxicpanda Unlocked BioMechanicalRepairDrone 
+[04:041] Toxicpanda Unlocked CombatAccelerationDrone 
+[04:128] Toxicpanda Placed/Upgraded HealingDrone 
+[05:220] Toxicpanda Placed/Upgraded HealingDrone 
+[05:385] Toxicpanda Placed/Upgraded HealingDrone 
+[06:229] Toxicpanda Unlocked AdvancedDroidEngines 
+[07:038] Toxicpanda Unlocked AutoTurret 
+[07:293] Toxicpanda Placed/Upgraded AutoTurret 
+[07:440] Toxicpanda Placed/Upgraded AutoTurret 
+[07:577] Toxicpanda Placed/Upgraded AutoTurret 
+[08:439] Toxicpanda Unlocked TurboDroidEngines 
+[09:713] Toxicpanda Unlocked PsiDisrupter 
+[09:815] Toxicpanda Placed/Upgraded PsiIndoctrinator 
+[10:078] Toxicpanda Placed/Upgraded PsiIndoctrinator 
+[10:182] Toxicpanda Unlocked SpecOpsPsiDisruptor 
+[10:244] Toxicpanda Unlocked ExplorationDroid 
+[10:250] Toxicpanda Placed/Upgraded ExplorationDroid 
+[10:850] Toxicpanda Placed/Upgraded ExplorationDroid 
+[10:852] Toxicpanda Placed/Upgraded ExplorationDroid 
+[11:308] Toxicpanda Unlocked HeavyTurret 
+[11:511] Toxicpanda Placed/Upgraded AutoTurret 
+[11:702] Toxicpanda Placed/Upgraded AutoTurret 
+[11:833] Toxicpanda Placed/Upgraded AutoTurret 
+[11:976] Toxicpanda Placed/Upgraded AutoTurret 
+[13:094] Toxicpanda Placed/Upgraded AutoTurret 
+[13:232] Toxicpanda Placed/Upgraded PsiIndoctrinator 
+[13:264] Toxicpanda Unlocked QuantumBackpack 
+[13:378] Toxicpanda Placed/Upgraded HealingDrone 
+[15:510] Toxicpanda Placed/Upgraded PsiIndoctrinator 
+[15:773] Toxicpanda Placed/Upgraded PsiIndoctrinator 
+[16:323] Toxicpanda Unlocked SpecOpsArcWelder 
+[17:323] Toxicpanda Unlocked FlameTurret 
+[17:361] Toxicpanda Placed/Upgraded AutoTurret 
+[17:483] Toxicpanda Placed/Upgraded AutoTurret 
+[17:616] Toxicpanda Placed/Upgraded AutoTurret 
+[17:771] Toxicpanda Placed/Upgraded AutoTurret 
+[18:029] Toxicpanda Unlocked ForceFieldGrenade 
+[18:163] Toxicpanda Placed/Upgraded AutoTurret 
+[18:268] Toxicpanda Placed/Upgraded AutoTurret 
+[18:377] Toxicpanda Placed/Upgraded AutoTurret 
+[18:988] Toxicpanda Placed/Upgraded HealingDrone 
+[19:327] Toxicpanda Unlocked PsiDepressor 
+[22:421] Toxicpanda Placed/Upgraded HealingDrone 
+[22:511] Toxicpanda Placed/Upgraded AutoTurret 
+[23:417] Toxicpanda Unlocked FlashBang 
+[23:447] Toxicpanda Unlocked EnergySuit 
+[23:453] Toxicpanda Unlocked AdvancedEnergySuit 
+[23:467] Toxicpanda Unlocked SpecOpsFlashbang 
+[23:550] Toxicpanda Unlocked SpecOpsBioMechanicalRepairDrone 
+[23:552] Toxicpanda Unlocked RechargeDrone 
+[24:088] Toxicpanda Placed/Upgraded HealingDrone 
+[24:430] Toxicpanda Placed/Upgraded AutoTurret 
+[25:042] Toxicpanda Placed/Upgraded AutoTurret 
+[25:236] Toxicpanda Placed/Upgraded AutoTurret 
+[25:665] Toxicpanda Placed/Upgraded AutoTurret 
+[25:751] Toxicpanda Placed/Upgraded AutoTurret 
+[25:892] Toxicpanda Placed/Upgraded AutoTurret 
+[26:173] Toxicpanda Placed/Upgraded HealingDrone 
+[27:797] Toxicpanda Placed/Upgraded AutoTurret 
+[27:869] Toxicpanda Placed/Upgraded AutoTurret 
+[27:959] Toxicpanda Placed/Upgraded AutoTurret 
+[28:048] Toxicpanda Placed/Upgraded AutoTurret 
+[28:256] Toxicpanda Placed/Upgraded AutoTurret 
+[28:367] Toxicpanda Placed/Upgraded HealingDrone 
+[28:724] Toxicpanda Placed/Upgraded HealingDrone 
+[29:082] Toxicpanda Placed/Upgraded AutoTurret 
+[29:955] Toxicpanda Unlocked SpecOpsTurret 
+[30:064] Toxicpanda Placed/Upgraded AutoTurret 
+[30:206] Toxicpanda Placed/Upgraded AutoTurret 
+[30:390] Toxicpanda Placed/Upgraded AutoTurret 
+[30:485] Toxicpanda Placed/Upgraded AutoTurret 
+[30:900] Toxicpanda Placed/Upgraded HealingDrone 
+[31:168] Toxicpanda Placed/Upgraded MiningDroid 
+[31:310] Toxicpanda Placed/Upgraded HealingDrone 
+[33:948] Toxicpanda Placed/Upgraded AutoTurret 
+[34:132] Toxicpanda Placed/Upgraded AutoTurret 
+[34:273] Toxicpanda Placed/Upgraded AutoTurret 
+[34:411] Toxicpanda Placed/Upgraded AutoTurret 
+[34:589] Toxicpanda Placed/Upgraded HealingDrone 
+[35:259] Toxicpanda Placed/Upgraded HealingDrone 
+[35:709] Toxicpanda Placed/Upgraded AutoTurret 
+[35:777] Toxicpanda Placed/Upgraded AutoTurret 
+[35:895] Toxicpanda Placed/Upgraded AutoTurret 
+[36:242] Toxicpanda Unlocked MiningCharge 
+[36:248] Toxicpanda Unlocked AdvancedMiningCharge 
+[37:287] Toxicpanda Placed/Upgraded NukePack 
+[37:384] Toxicpanda Placed/Upgraded NukePack 
+[37:473] Toxicpanda Placed/Upgraded AutoTurret 
+[37:540] Toxicpanda Placed/Upgraded AutoTurret 
+[37:656] Toxicpanda Placed/Upgraded AutoTurret 
+[37:728] Toxicpanda Placed/Upgraded AutoTurret 
+[37:810] Toxicpanda Placed/Upgraded AutoTurret 
+[38:038] Toxicpanda Placed/Upgraded AutoTurret 
+[38:419] Toxicpanda Placed/Upgraded PsiIndoctrinator 
+[38:559] Toxicpanda Placed/Upgraded NukePack 
+[39:058] Toxicpanda Placed/Upgraded HealingDrone 
+[39:177] Toxicpanda Placed/Upgraded HealingDrone 
+[40:022] Toxicpanda Placed/Upgraded HealingDrone 
+[40:161] Toxicpanda Placed/Upgraded HealingDrone 
+[42:340] Toxicpanda Placed/Upgraded HealingDrone 
+[43:182] Toxicpanda Placed/Upgraded NukePack 
+[44:149] Toxicpanda Placed/Upgraded AutoTurret 
+[44:225] Toxicpanda Placed/Upgraded AutoTurret 
+[44:633] Toxicpanda Placed/Upgraded HealingDrone 
+
+[00:572] Frosky Unlocked AssaultRifle 
+[00:662] Frosky Placed/Upgraded MiningDroid 
+[00:892] Frosky Unlocked IncendiaryGrenade 
+[03:032] Frosky Unlocked BeamRifle 
+[05:782] Frosky Unlocked SuperStimpack 
+[07:132] Frosky Unlocked Stimpack 
+[08:964] Frosky Placed/Upgraded MiningDroid 
+[10:008] Frosky Unlocked AdvancedDroidEngines 
+[12:206] Frosky Unlocked SpecOpsPlasmaRifle 
+[13:430] Frosky Unlocked HazmatSuit 
+[13:967] Frosky Unlocked AdvancedHazmatSuit 
+[15:344] Frosky Unlocked AIAssistant 
+[16:710] Frosky Unlocked PsiDisrupter 
+[17:397] Frosky Placed/Upgraded PsiIndoctrinator 
+[19:788] Frosky Unlocked MedicShield 
+[21:427] Frosky Unlocked LongRangeScope 
+[21:449] Frosky Unlocked BioMechanicalRepairDrone 
+[23:263] Frosky Unlocked AutoTurret 
+[23:350] Frosky Placed/Upgraded AutoTurret 
+[23:448] Frosky Bought ShieldSuit 
+[23:454] Frosky Bought EnergySuit 
+[24:742] Frosky Unlocked SpecOpsPsiDisruptor 
+[25:630] Frosky Placed/Upgraded PsiIndoctrinator 
+[25:858] Frosky Placed/Upgraded HealingDrone 
+[27:065] Frosky Placed/Upgraded HealingDrone 
+[28:465] Frosky Placed/Upgraded HealingDrone 
+[30:579] Frosky Placed/Upgraded HealingDrone 
+[31:111] Frosky Placed/Upgraded HealingDrone 
+[32:495] Frosky Placed/Upgraded HealingDrone 
+[37:658] Frosky Placed/Upgraded HealingDrone 
+[40:315] Frosky Placed/Upgraded AutoTurret 
+[40:503] Frosky Placed/Upgraded AutoTurret 
+[40:759] Frosky Placed/Upgraded AutoTurret 
+[41:303] Frosky Unlocked HeavyTurret 
+
+[00:572] lalaOH Unlocked AssaultRifle 
+[00:651] lalaOH Placed MiningDroid 
+[02:341] lalaOH Unlocked BeamRifle 
+[04:535] lalaOH Unlocked AdvancedDroidEngines 
+[06:717] lalaOH Unlocked SpecOpsPlasmaRifle 
+[08:717] lalaOH Unlocked Stimpack 
+[10:133] lalaOH Unlocked LongRangeScope 
+[11:029] lalaOH Unlocked MedicShield 
+[12:759] lalaOH Unlocked SuperStimpack 
+[13:431] lalaOH Bought ShieldSuit 
+[13:946] lalaOH Unlocked EnergyPack 
+[13:968] lalaOH Bought HazmatSuit 
+[15:743] lalaOH Unlocked HazmatSuit 
+[16:412] lalaOH Unlocked AdvancedHazmatSuit 
+[18:413] lalaOH Unlocked FragGrenade 
+[19:035] lalaOH Unlocked ExplorationDroid 
+[19:072] lalaOH Placed ExplorationDroid 
+[20:271] lalaOH Placed ExplorationDroid 
+[22:086] lalaOH Unlocked MiningCharge 
+[22:257] lalaOH Placed NukePack 
+[23:987] lalaOH Placed NukePack 
+[24:470] lalaOH Unlocked SpecOpsSuperStimpack 
+[25:412] lalaOH Placed NukePack 
+[28:800] lalaOH Placed NukePack 
+[30:854] lalaOH Unlocked SpecOpsFragGrenade 
+[35:826] lalaOH Unlocked EnergySuit 
+[35:835] lalaOH Unlocked AdvancedEnergySuit 
+[36:854] lalaOH Placed NukePack 
+[37:040] lalaOH Placed NukePack 
+[37:163] lalaOH Placed NukePack 
+[41:113] lalaOH Unlocked AutoTurret 
+[41:200] lalaOH Placed AutoTurret 
+[41:696] lalaOH Placed NukePack 
+[41:730] lalaOH Placed AutoTurret 
+[42:121] lalaOH Placed AutoTurret 
+[42:454] lalaOH Placed AutoTurret 
+[42:932] lalaOH Placed AutoTurret 
+
+[00:568] dreamssink Bought PlayerNumber 
+[00:631] dreamssink Spawned MassiveCocoon 
+[01:355] dreamssink Bought StrainVolatile 
+[02:071] dreamssink Spawned InfestedAbomination 
+[04:270] dreamssink Bought CreepSpeed 
+[08:892] dreamssink Bought PureStrainVolatile 
+[10:052] dreamssink Bought StrainHealth 
+[11:313] dreamssink Bought KaboomerStrain 
+[12:931] dreamssink Bought VirulentCreep 
+[12:931] dreamssink Bought VirulentCreep 
+[14:217] dreamssink Bought BuildExtractorScienceLabs 
+[14:217] dreamssink Placed/Upgraded AutomatedExtractor 
+[14:263] dreamssink Placed/Upgraded Virophage 
+[15:012] dreamssink Spawned MassiveCocoon 
+[15:659] dreamssink Placed/Upgraded NydusCanalCreeper 
+[15:744] dreamssink Bought ShieldSuit 
+[16:092] dreamssink Spawned Underseer 
+[16:415] dreamssink Bought HazmatSuit 
+[16:821] dreamssink Bought SpawnNydusWorm 
+[17:143] dreamssink Placed/Upgraded GreaterNydusWorm 
+[17:306] dreamssink Bought PureStrainHealth 
+[18:197] dreamssink Placed/Upgraded LesserNydusWorm 
+[18:198] dreamssink Bought GreaterNydus 
+[18:443] dreamssink Bought AdvancedPowerInfestation 
+[18:732] dreamssink Bought GreaterNydus 
+[19:306] dreamssink Bought BuildExtractorProcessingFacilities 
+[19:306] dreamssink Placed/Upgraded AutomatedExtractor 
+[19:447] dreamssink Spawned MassiveCocoon 
+[20:527] dreamssink Spawned Underseer 
+[20:674] dreamssink Bought UnlockDropPods 
+[20:701] dreamssink Bought EvolveDropPods 
+[21:255] dreamssink Bought EvolveDropPods 
+[21:779] dreamssink Bought EvolveDropPods 
+[21:782] dreamssink Bought EvolveDropPods 
+[21:785] dreamssink Bought EvolveDropPods 
+[22:070] dreamssink Bought EvolveDropPods 
+[22:460] dreamssink Spawned MassiveCocoon 
+[22:975] dreamssink Placed/Upgraded NydusCanalCreeper 
+[23:272] dreamssink Spawned MassiveCocoon 
+[24:013] dreamssink Bought SiphonFuel 
+[24:175] dreamssink Placed/Upgraded LocustNest 
+[24:352] dreamssink Spawned Underseer 
+[26:172] dreamssink Placed/Upgraded LesserNydusWorm 
+[26:173] dreamssink Bought GreaterNydus 
+[27:055] dreamssink Bought GreaterNydus 
+[27:515] dreamssink Placed/Upgraded GreaterNydusWorm 
+[27:696] dreamssink Bought SiphonFuel 
+[27:757] dreamssink Bought CreepSpeed 
+[27:830] dreamssink Placed/Upgraded NydusCanalCreeper 
+[28:670] dreamssink Bought RegenerativeCreep 
+[29:159] dreamssink Spawned MassiveCocoon 
+[29:495] dreamssink Placed/Upgraded NydusCanalCreeper 
+[30:049] dreamssink Spawned MassiveCocoon 
+[30:239] dreamssink Spawned Underseer 
+[30:775] dreamssink Bought SiphonFuel 
+[31:489] dreamssink Spawned InfestedAbomination 
+[31:950] dreamssink Placed/Upgraded NydusCanalCreeper 
+[32:191] dreamssink Placed/Upgraded NydusCanalCreeper 
+[33:017] dreamssink Bought ConstructiveCreep 
+[33:062] dreamssink Placed/Upgraded NydusCanalCreeper 
+[33:245] dreamssink Placed/Upgraded LesserNydusWorm 
+[33:246] dreamssink Bought GreaterNydus 
+[33:598] dreamssink Spawned MassiveCocoon 
+[33:698] dreamssink Spawned MassiveCocoon 
+[33:772] dreamssink Bought SiphonFuel 
+[34:134] dreamssink Spawned MassiveCocoon 
+[34:151] dreamssink Spawned MassiveCocoon 
+[34:410] dreamssink Placed/Upgraded GreaterNydusWorm 
+[34:599] dreamssink Spawned MassiveCocoon 
+[34:684] dreamssink Spawned MassiveCocoon 
+[34:778] dreamssink Spawned Underseer 
+[34:924] dreamssink Spawned MassiveCocoon 
+[35:679] dreamssink Spawned Underseer 
+[35:827] dreamssink Bought ShieldSuit 
+[35:836] dreamssink Bought EnergySuit 
+[36:004] dreamssink Spawned Underseer 
+[36:166] dreamssink Spawned MassiveCocoon 
+[36:299] dreamssink Spawned MassiveCocoon 
+[36:802] dreamssink Bought DropshipsFueled 
+[36:993] dreamssink Bought UltimateInfestationResearched 
+[37:246] dreamssink Spawned Underseer 
+[37:409] dreamssink Placed/Upgraded LocustNest 
+[37:490] dreamssink Bought BuildExtractorExcavationZone 
+[37:490] dreamssink Placed/Upgraded AutomatedExtractor 
+[37:570] dreamssink Spawned MassiveCocoon 
+[37:753] dreamssink Spawned MassiveCocoon 
+[37:927] dreamssink Spawned MassiveCocoon 
+[38:090] dreamssink Placed/Upgraded NydusCanalCreeper 
+[38:251] dreamssink Bought SunkenColony 
+[38:251] dreamssink Placed/Upgraded PrimalSunkenColony 
+[38:412] dreamssink Placed/Upgraded LocustNest 
+[38:572] dreamssink Placed/Upgraded LocustNest 
+[38:733] dreamssink Bought SunkenColony 
+[38:733] dreamssink Placed/Upgraded PrimalSunkenColony 
+[38:965] dreamssink Placed/Upgraded LesserNydusWorm 
+[38:966] dreamssink Bought GreaterNydus 
+[39:010] dreamssink Spawned InfestedAbomination 
+[39:193] dreamssink Spawned Anubalisk 
+[39:367] dreamssink Spawned Lurker 
+[39:601] dreamssink Spawned MassiveCocoon 
+[39:744] dreamssink Spawned MassiveCocoon 
+[40:416] dreamssink Placed/Upgraded NydusCanalCreeper 
+[40:466] dreamssink Bought SunkenColony 
+[40:546] dreamssink Bought SunkenColony 
+[41:192] dreamssink Placed/Upgraded GreaterNydusWorm 
+[41:430] dreamssink Spawned MassiveCocoon 
+[41:449] dreamssink Spawned MassiveCocoon 
+[41:465] dreamssink Spawned MassiveCocoon 
+[41:492] dreamssink Spawned MassiveCocoon 
+[41:523] dreamssink Spawned MassiveCocoon 
+[41:666] dreamssink Placed/Upgraded NydusCanalCreeper 
+[41:939] dreamssink Spawned MassiveCocoon 
+[42:116] dreamssink Spawned MassiveCocoon 
+[42:166] dreamssink Spawned MassiveCocoon 
+[42:416] dreamssink Spawned MassiveCocoon 
+[42:567] dreamssink Spawned Underseer 
+[42:667] dreamssink Spawned MassiveCocoon 
+[42:687] dreamssink Spawned MassiveCocoon 
+[42:832] dreamssink Spawned MassiveCocoon 
+[43:211] dreamssink Spawned MassiveCocoon 
+[43:275] dreamssink Placed/Upgraded NydusCanalCreeper 
+[43:375] dreamssink Spawned MassiveCocoon 
+[43:590] dreamssink Spawned MassiveCocoon 
+[43:676] dreamssink Spawned MassiveCocoon 
+[43:829] dreamssink Bought TankStrain 
+[43:890] dreamssink Spawned MassiveCocoon 
+[44:406] dreamssink Spawned MassiveCocoon 
+[44:423] dreamssink Spawned MassiveCocoon 
+[44:445] dreamssink Spawned MassiveCocoon 
+[44:468] dreamssink Spawned MassiveCocoon 
+[44:488] dreamssink Spawned MassiveCocoon 
+[45:486] dreamssink Spawned Underseer 
+[45:503] dreamssink Spawned Underseer 
+[45:525] dreamssink Spawned Underseer 
+
+[00:572] SniperDevil Unlocked AssaultRifle 
+[00:676] SniperDevil Placed/Upgraded MiningDroid 
+[02:330] SniperDevil Unlocked AdvancedDroidEngines 
+[03:631] SniperDevil Unlocked MotionSensor 
+[03:895] SniperDevil Placed/Upgraded SensorTower 
+[06:067] SniperDevil Unlocked Ares 
+[06:833] SniperDevil Placed/Upgraded PrototypeAresTankMode 
+[08:882] SniperDevil Unlocked AresMod4 
+[10:044] SniperDevil Unlocked ExplorationDroid 
+[10:090] SniperDevil Placed/Upgraded ExplorationDroid 
+[12:436] SniperDevil Unlocked AresMod2 
+[17:045] SniperDevil Placed/Upgraded PrototypeAresTankMode 
+[17:518] SniperDevil Unlocked SpecOpsAres 
+[19:628] SniperDevil Placed/Upgraded SensorTower 
+[19:890] SniperDevil Placed/Upgraded SensorTower 
+[20:569] SniperDevil Placed/Upgraded SensorTower 
+[21:207] SniperDevil Unlocked AresMod5 
+[22:743] SniperDevil Placed/Upgraded MiningDroid 
+[24:712] SniperDevil Unlocked AresMod3 
+[29:841] SniperDevil Unlocked AresMod1 
+[29:842] SniperDevil Unlocked AresMod9HostileEnvironmentTreads 
+[29:997] SniperDevil Placed/Upgraded MiningDroid 
+[30:061] SniperDevil Unlocked AdvancedExplorationDroid 
+[30:121] SniperDevil Placed/Upgraded ExplorationDroid 
+[32:144] SniperDevil Placed/Upgraded ExplorationDroid 
+[35:316] SniperDevil Placed/Upgraded ExplorationDroid 
+[37:620] SniperDevil Unlocked BioMechanicalRepairDrone 
+[37:634] SniperDevil Unlocked SpecOpsBioMechanicalRepairDrone 
+[38:006] SniperDevil Placed/Upgraded HealingDrone 
+[38:195] SniperDevil Placed/Upgraded HealingDrone 
+[38:379] SniperDevil Placed/Upgraded HealingDrone 
+[38:611] SniperDevil Unlocked RechargeDrone 
+[38:826] SniperDevil Placed/Upgraded HealingDrone 
+[39:011] SniperDevil Placed/Upgraded HealingDrone 
+[39:206] SniperDevil Placed/Upgraded HealingDrone 
+[39:521] SniperDevil Placed/Upgraded ExplorationDroid 
+[41:128] SniperDevil Placed/Upgraded ExplorationDroid 
+
+[00:572] LazyRivers Unlocked AssaultRifle 
+[00:652] LazyRivers Placed/Upgraded MiningDroid 
+[05:539] LazyRivers Unlocked SpecOpsAssaultRifle 
+[05:901] LazyRivers Unlocked OverloadWeapon 
+[07:934] LazyRivers Unlocked TitaniumBulletCasings 
+[10:084] LazyRivers Unlocked AutoTurret 
+[13:890] LazyRivers Unlocked ArcWelder 
+[14:228] LazyRivers Unlocked SpecOpsTurret 
+[14:246] LazyRivers Unlocked HeavyTurret 
+[15:584] LazyRivers Placed/Upgraded AutoTurret 
+[15:763] LazyRivers Placed/Upgraded AutoTurret 
+[19:059] LazyRivers Placed/Upgraded AutoTurret 
+[19:335] LazyRivers Placed/Upgraded AutoTurret 
+[20:210] LazyRivers Placed/Upgraded AutoTurret 
+[20:406] LazyRivers Placed/Upgraded AutoTurret 
+[22:698] LazyRivers Unlocked MotionSensor 
+[22:893] LazyRivers Placed/Upgraded SensorTower 
+[24:113] LazyRivers Unlocked BioMechanicalRepairDrone 
+[24:188] LazyRivers Unlocked SpecOpsBioMechanicalRepairDrone 
+[25:346] LazyRivers Placed/Upgraded HealingDrone 
+[25:738] LazyRivers Placed/Upgraded HealingDrone 
+[26:973] LazyRivers Placed/Upgraded HealingDrone 
+[30:889] LazyRivers Unlocked RechargeDrone 
+[31:104] LazyRivers Placed/Upgraded HealingDrone 
+[31:346] LazyRivers Placed/Upgraded HealingDrone 
+[37:982] LazyRivers Unlocked Stimpack 
+
+[00:572] Westy Unlocked AssaultRifle 
+[00:770] Westy Unlocked FragGrenade 
+[04:236] Westy Unlocked AdvancedDroidEngines 
+[05:603] Westy Unlocked Shotgun 
+[06:281] Westy Unlocked SpecOpsShotgun 
+[07:005] Westy Unlocked ExplorationDroid 
+[08:403] Westy Unlocked AdvancedExplorationDroid 
+[09:749] Westy Unlocked Stimpack 
+[11:745] Westy Unlocked ConcussiveShot 
+[12:881] Westy Unlocked ShieldSuit 
+[12:939] Westy Unlocked MedicShield 
+[13:656] Westy Unlocked HazmatSuit 
+[16:107] Westy Unlocked TurboDroidEngines 
+[16:725] Westy Unlocked AdvancedHazmatSuit 
+[17:839] Westy Unlocked HighPrecisionBeams 
+[19:459] Westy Unlocked ForceFieldGrenade 
+[20:827] Westy Unlocked SpecOpsForcefieldGrenade 
+[23:674] Westy Unlocked PowerConverter 
+[24:112] Westy Unlocked SpecOpsPowerConverter 
+[27:267] Westy Unlocked AIAssistant 
+[35:564] Westy Unlocked MiningCharge 
+[35:570] Westy Unlocked AdvancedMiningCharge 
+
+Game Ended
+ 
+STRAIN RATIO: 
+Naked Kills: 364
+T1 Speed Kills:  0 T2 Speed Kills: 0 T3 Speed Kills:  0
+T1 Health Kills: 0 T2 Health Kills: 28 T3 Health Kills: 0
+T1 Damage Kills: 0 T2 Damage Kills: 0 T3 Damage Kills: 0
+T1 Voltaile Kills: 0 T2 Voltaile Kills: 384 T3 Voltaile Kills: 6
+----------------------------------------------------------------------------
+Warpig kills : 2613
+---------------------------------------------------------
+Name: Toxicpanda
+ 
+STRAINS: 
+Naked Kills :  257
+ 
+ALPHAS: 
+Egg Kills : 5
+Aberation/Abomination Kills : 1
+Underseer/Saboteur Kills : 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: Frosky
+ 
+STRAINS: 
+Naked Kills :  515
+T1_Health Kills : 9
+T2_Health Kills : 121
+T3_Health Kills : 0
+T1_Voltaile Kills : 15
+T2_Voltaile Kills : 88
+T3_Voltaile Kills : 3
+ 
+ALPHAS: 
+Egg Kills : 1
+Anubalisk/Anubalight Kills : 1
+Legion/Legionnaire Kills : 1
+Underseer/Saboteur Kills : 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: lalaOH
+ 
+STRAINS: 
+Naked Kills :  557
+T1_Health Kills : 19
+T2_Health Kills : 121
+T3_Health Kills : 0
+T1_Voltaile Kills : 11
+T2_Voltaile Kills : 145
+T3_Voltaile Kills : 4
+ 
+ALPHAS: 
+Egg Kills : 10
+Underseer/Saboteur Kills : 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: dreamssink
+ 
+STRAINS: 
+Naked Kills :  17
+T1_Voltaile Kills : 52
+T2_Voltaile Kills : 691
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: SniperDevil
+ 
+STRAINS: 
+Naked Kills :  530
+T1_Health Kills : 34
+T2_Health Kills : 78
+T3_Health Kills : 0
+T1_Voltaile Kills : 10
+T2_Voltaile Kills : 108
+T3_Voltaile Kills : 2
+ 
+ALPHAS: 
+Egg Kills : 2
+END_SIGNATURE
+---------------------------------------------------------
+Name: LazyRivers
+ 
+STRAINS: 
+Naked Kills :  398
+T1_Health Kills : 15
+T2_Health Kills : 50
+T3_Health Kills : 0
+T1_Voltaile Kills : 21
+T2_Voltaile Kills : 53
+T3_Voltaile Kills : 1
+ 
+ALPHAS: 
+Egg Kills : 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: Westy
+ 
+STRAINS: 
+Naked Kills :  448
+T1_Health Kills : 32
+T2_Health Kills : 19
+T3_Health Kills : 0
+T1_Voltaile Kills : 21
+T2_Voltaile Kills : 41
+T3_Voltaile Kills : 1
+ 
+ALPHAS: 
+Egg Kills : 3
+Aberation/Abomination Kills : 1
+Underseer/Saboteur Kills : 3
+END_SIGNATURE
+
+CHAT MESSAGES: 
+[00:156] dreamssink: me!
+[00:235] dreamssink: awa
+[00:272] Westy: Him!
+[00:345] dreamssink: good!
+[00:357] SniperDevil: youuuu got err
+[00:406] dreamssink: me!
+[00:449] Toxicpanda: glgl
+[00:495] Westy: glhf!
+[01:916] SniperDevil: north
+[02:370] Westy: North
+[02:550] Westy: Abb burtrowed, I think
+[08:000] Westy: lols
+[08:205] SniperDevil: rotating
+[08:871] LazyRivers: oh fuck
+[08:919] LazyRivers: away!
+[09:017] SniperDevil: crap
+[09:174] Toxicpanda: -pp
+[10:194] Frosky: -pp
+[12:774] Toxicpanda: gj
+[12:980] LazyRivers: can I have arc and spec both>
+[13:021] LazyRivers: ?
+[13:261] LazyRivers: like switch between them?
+[14:469] SniperDevil: hes makin move at power
+[14:562] Toxicpanda: westy
+[14:581] Toxicpanda: sniper
+[14:633] Toxicpanda: don't die at power
+[14:708] Toxicpanda: escape at the sublevel
+[14:744] Toxicpanda: if u can't defend
+[14:817] Westy: Yes
+[15:741] Westy: Toxic, you are the power generator now!
+[15:793] Frosky: fdcx
+[15:846] Toxicpanda: lolol
+[17:379] SniperDevil: arc boost combo
+[19:187] Toxicpanda: gjgjgj
+[20:680] lalaOH: seer
+[22:414] SniperDevil: FUCk
+[22:508] SniperDevil: he got my droid
+[22:844] Frosky: cont
+[24:773] Toxicpanda: can you fucking stop pls
+[24:922] Toxicpanda: ur already locking ur rank so you get advantage
+[24:995] Toxicpanda: u rlly need to cheese mining too
+[25:312] dreamssink: QAQ
+[25:981] SniperDevil: i think i can reach his
+[26:045] SniperDevil: creep tower from here
+[26:071] Frosky: hes going
+[26:097] Frosky: containment
+[26:396] Toxicpanda: lala
+[26:445] Toxicpanda: move the drone there
+[26:747] SniperDevil: i can finish it
+[26:952] Toxicpanda: u kill both
+[26:953] SniperDevil: i can
+[27:250] Toxicpanda: k
+[27:661] SniperDevil: gross
+[27:712] SniperDevil: big worm
+[28:092] Toxicpanda: stop your mining droids
+[28:107] Toxicpanda: please
+[28:169] SniperDevil: crap
+[29:099] Frosky: split
+[29:115] Frosky: pis
+[29:866] Frosky: help
+[30:447] Westy: U\nder
+[30:756] Toxicpanda: sniuper
+[30:785] Toxicpanda: you stay here
+[30:928] SniperDevil: yea
+[31:107] SniperDevil: i need vis
+[31:461] SniperDevil: got it
+[32:371] SniperDevil: so annoying
+[32:381] SniperDevil: lol
+[32:719] Toxicpanda: sniper
+[32:764] SniperDevil: what
+[32:765] Toxicpanda: ur on anti cheese duty
+[32:788] Toxicpanda: from now on
+[32:813] SniperDevil: lol
+[32:874] SniperDevil: ay ay
+[32:974] SniperDevil: crap
+[32:986] SniperDevil: another
+[33:394] SniperDevil: ok
+[33:436] SniperDevil: give me 30s
+[33:643] Toxicpanda: sniper stay here
+[33:701] SniperDevil: yea
+[34:017] SniperDevil: coocons
+[36:168] LazyRivers: I hate being stuck in one place =/
+[36:470] Toxicpanda: salvaging everything
+[36:504] Toxicpanda: going to setup alpha
+[36:945] Toxicpanda: kil ser
+[38:094] Toxicpanda: anybody that has turrets
+[38:141] Toxicpanda: put your turrets down
+[39:772] Westy: Watch for the greater nydus at the A entrance
+[40:422] LazyRivers: God how tf was I even supposed to get there>
+[40:549] Toxicpanda: everybodty
+[40:573] Toxicpanda: do not die
+[40:590] Toxicpanda: PELASE
+[40:618] Toxicpanda: play safe
+[40:661] Toxicpanda: the game is won
+[40:726] Toxicpanda: just play safe and do not die
+[40:913] Toxicpanda: if you have spare money
+[41:005] Toxicpanda: buy heavy turrets and put them in alpha 
+[41:205] LazyRivers: will do in 2
+[41:528] LazyRivers: god, I lost so much gas on this
+[41:756] Frosky: underseer block no longer works dumbass
+[41:781] LazyRivers: I should have started to alpha sooner
+[42:298] SniperDevil: need arc
+[42:367] Toxicpanda: i have
+[42:386] Toxicpanda: 600 gas
+[42:397] SniperDevil: im low on E
+[42:453] Toxicpanda: who needs gas
+[42:918] SniperDevil: that damnc reep tower
+[43:324] SniperDevil: i almost had it
+[44:185] SniperDevil: it is not this guys 5th game lol
+[44:268] Frosky: it isnt
+[44:404] SniperDevil: we got cheesed lol
+[44:737] LazyRivers: dirty
+[44:882] dreamssink: gg
+[44:905] Westy: gg! wp all!
+[45:031] LazyRivers: not really gg
+[45:091] SniperDevil: that advantage cheesed us
+[45:152] SniperDevil: this aint ur 5th game lol
+dreamssink First Alpha InfestedAbomination |  Loss
+
+dreamssink Placed 4 Greaters.
+--------------------------------

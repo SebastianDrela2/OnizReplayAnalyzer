@@ -1,0 +1,414 @@
+Analyzed: Oh No It's Zombies Arctic Map (144)
+
+Date: 2022.08.26
+
+ID : 0 PlayerName: Frosky Race: Terran
+ID : 1 PlayerName: Ascherit Race: Terran
+ID : 2 PlayerName: Pandameme Race: Terran
+ID : 3 PlayerName: Kira Race: Terran
+ID : 4 PlayerName: csiz Race: Zerg
+ID : 5 PlayerName: SpicyWolf Race: Terran
+ID : 6 PlayerName: IIIIIIIIIIII Race: Terran
+ID : 7 PlayerName: Security Race: MechaZerg
+csiz  Loss
+Private Lobby
+
+Game Length:[32:499]
+Players ammount: 8
+Marine rank avg: 33,166666666666664
+Marine GrandMaster ammount: 8
+
+Pandameme First Gun BeamRifle
+Kira First Gun SpecOpsAssaultRifle
+IIIIIIIIIIII First Gun SpecOpsAssaultRifle
+SpicyWolf First Gun SpecOpsAssaultRifle
+
+PURCHASES: 
+[00:572] Frosky Unlocked AssaultRifle 
+[00:651] Frosky Placed/Upgraded MiningDroid 
+[00:712] Frosky Unlocked AutoTurret 
+[00:737] Frosky Unlocked FlameTurret 
+[02:844] Frosky Placed/Upgraded AutoTurret 
+[04:915] Frosky Placed/Upgraded AutoTurret 
+[06:881] Frosky Placed/Upgraded AutoTurret 
+[07:825] Frosky Placed/Upgraded AutoTurret 
+[14:121] Frosky Placed/Upgraded AutoTurret 
+[21:753] Frosky Placed/Upgraded AutoTurret 
+[21:932] Frosky Placed/Upgraded AutoTurret 
+[22:164] Frosky Placed/Upgraded AutoTurret 
+[23:032] Frosky Placed/Upgraded MiningDroid 
+[24:190] Frosky Unlocked AdvancedDroidEngines 
+[24:957] Frosky Placed/Upgraded AutoTurret 
+[25:242] Frosky Placed/Upgraded AutoTurret 
+[26:280] Frosky Placed/Upgraded AutoTurret 
+[27:670] Frosky Placed/Upgraded AutoTurret 
+[28:096] Frosky Placed/Upgraded AutoTurret 
+[28:678] Frosky Placed/Upgraded AutoTurret 
+[29:232] Frosky Placed/Upgraded AutoTurret 
+[29:789] Frosky Placed/Upgraded AutoTurret 
+
+[00:572] Ascherit Unlocked AssaultRifle 
+[00:831] Ascherit Placed/Upgraded MiningDroid 
+[01:057] Ascherit Unlocked AdvancedDroidEngines 
+[02:562] Ascherit Unlocked IncendiaryGrenade 
+[04:371] Ascherit Unlocked ExplorationDroid 
+[04:396] Ascherit Placed/Upgraded ExplorationDroid 
+[04:403] Ascherit Placed/Upgraded ExplorationDroid 
+[04:745] Ascherit Placed/Upgraded ExplorationDroid 
+[06:640] Ascherit Unlocked Ares 
+[06:695] Ascherit Placed/Upgraded PrototypeAresTankMode 
+[12:662] Ascherit Placed/Upgraded ExplorationDroid 
+[13:002] Ascherit Unlocked SpecOpsAres 
+[13:335] Ascherit Unlocked AresMod2 
+[13:582] Ascherit Placed/Upgraded PrototypeAresTankMode 
+[15:028] Ascherit Placed/Upgraded PrototypeAresTankMode 
+[15:491] Ascherit Unlocked AresMod3 
+[16:893] Ascherit Unlocked AresMod6 
+[19:041] Ascherit Unlocked AresMod1 
+[19:042] Ascherit Unlocked AresMod9HostileEnvironmentTreads 
+[20:510] Ascherit Unlocked AresMod4 
+[24:702] Ascherit Unlocked MiningCharge 
+[24:712] Ascherit Unlocked AdvancedMiningCharge 
+[24:963] Ascherit Placed/Upgraded NukePack 
+[26:422] Ascherit Placed/Upgraded MiningDroid 
+[27:267] Ascherit Placed/Upgraded NukePack 
+[27:384] Ascherit Placed/Upgraded NukePack 
+[27:572] Ascherit Unlocked BioMechanicalRepairDrone 
+[28:818] Ascherit Placed/Upgraded NukePack 
+[28:832] Ascherit Placed/Upgraded HealingDrone 
+[29:933] Ascherit Placed/Upgraded HealingDrone 
+[30:168] Ascherit Placed/Upgraded HealingDrone 
+[30:209] Ascherit Placed/Upgraded PrototypeAresTankMode 
+
+[00:572] Pandameme Unlocked AssaultRifle 
+[00:651] Pandameme Placed/Upgraded MiningDroid 
+[01:439] Pandameme Unlocked IncendiaryGrenade 
+[02:431] Pandameme Unlocked BeamRifle 
+[05:117] Pandameme Unlocked SuperStimpack 
+[08:790] Pandameme Unlocked AdvancedDroidEngines 
+[08:899] Pandameme Placed/Upgraded MiningDroid 
+[11:375] Pandameme Unlocked Stimpack 
+[13:120] Pandameme Unlocked SpecOpsPlasmaRifle 
+[15:648] Pandameme Placed/Upgraded MiningDroid 
+[15:960] Pandameme Unlocked TurboDroidEngines 
+[16:254] Pandameme Unlocked PsiDisrupter 
+[17:037] Pandameme Placed/Upgraded PsiIndoctrinator 
+[19:197] Pandameme Unlocked OpticalVisor 
+[19:235] Pandameme Unlocked EnergyPack 
+[19:267] Pandameme Unlocked MiningCharge 
+[19:626] Pandameme Placed/Upgraded NukePack 
+[20:607] Pandameme Placed/Upgraded PsiIndoctrinator 
+[21:200] Pandameme Placed/Upgraded PsiIndoctrinator 
+[21:822] Pandameme Unlocked AutoTurret 
+[22:032] Pandameme Placed/Upgraded AutoTurret 
+[22:862] Pandameme Placed/Upgraded PsiIndoctrinator 
+[23:284] Pandameme Placed/Upgraded PsiIndoctrinator 
+[24:011] Pandameme Placed/Upgraded NukePack 
+[25:259] Pandameme Unlocked PsiDepressor 
+[26:457] Pandameme Placed/Upgraded NukePack 
+[26:786] Pandameme Placed/Upgraded AutoTurret 
+[27:935] Pandameme Placed/Upgraded PsiIndoctrinator 
+[29:464] Pandameme Placed/Upgraded AutoTurret 
+[30:566] Pandameme Placed/Upgraded NukePack 
+
+[00:572] Kira Unlocked AssaultRifle 
+[00:653] Kira Placed MiningDroid 
+[02:460] Kira Unlocked SpecOpsAssaultRifle 
+[05:115] Kira Unlocked AdvancedDroidEngines 
+[05:612] Kira Unlocked SuperStimpack 
+[08:780] Kira Unlocked TurboDroidEngines 
+[12:490] Kira Unlocked Shieldsiotunlocked 
+[12:517] Kira Unlocked SpecOpsSuperStimpack 
+[13:709] Kira Unlocked AIAssistant 
+[13:715] Kira Unlocked EnergyPack 
+[15:013] Kira Unlocked TitaniumBulletCasings 
+[15:081] Kira Unlocked CombatShield 
+[16:419] Kira Unlocked MiningCharge 
+[16:497] Kira Placed NukePack 
+[17:491] Kira Placed NukePack 
+[17:924] Kira Unlocked ExplorationDroid 
+[17:941] Kira Placed ExplorationDroid 
+[17:949] Kira Placed ExplorationDroid 
+[19:625] Kira Placed ExplorationDroid 
+[19:930] Kira Unlocked AutoTurret 
+[21:231] Kira Unlocked HeavyTurret 
+[21:299] Kira Placed AutoTurret 
+[22:251] Kira Placed AutoTurret 
+[22:464] Kira Placed AutoTurret 
+[25:200] Kira Placed AutoTurret 
+[27:591] Kira Placed AutoTurret 
+[28:299] Kira Placed AutoTurret 
+[28:578] Kira Placed AutoTurret 
+
+[00:568] csiz Bought PlayerNumber 
+[00:841] csiz Spawned MassiveCocoon 
+[02:087] csiz Placed/Upgraded NydusCanalCreeper 
+[02:281] csiz Spawned Hunter 
+[03:908] csiz Placed/Upgraded PrimalSunkenColony 
+[03:909] csiz Bought SunkenColony 
+[04:284] csiz Placed/Upgraded ToxicNest 
+[04:293] csiz Placed/Upgraded ToxicNest 
+[04:339] csiz Placed/Upgraded ToxicNest 
+[04:797] csiz Bought StrainSpeed 
+[05:336] csiz Bought SunkenColony 
+[05:641] csiz Placed/Upgraded PrimalSunkenColony 
+[05:642] csiz Bought SunkenColony 
+[06:401] csiz Placed/Upgraded ToxicNest 
+[06:576] csiz Bought PureStrainSpeed 
+[07:260] csiz Bought HunterlingStrain 
+[07:467] csiz Bought SunkenColony 
+[07:752] csiz Placed/Upgraded NydusCanalCreeper 
+[08:579] csiz Placed/Upgraded LocustNest 
+[09:433] csiz Spawned MassiveCocoon 
+[09:786] csiz Bought CreepSpeed 
+[10:366] csiz Placed/Upgraded Virophage 
+[10:513] csiz Spawned Underseer 
+[10:976] csiz Bought AdvancedInfestationContainment 
+[11:890] csiz Bought BuildExtractorExcavationZone 
+[11:890] csiz Placed/Upgraded AutomatedExtractor 
+[12:491] csiz Bought ShieldSuit 
+[12:553] csiz Placed/Upgraded NydusCanalCreeper 
+[12:794] csiz Bought SunkenColony 
+[12:794] csiz Placed/Upgraded PrimalSunkenColony 
+[13:547] csiz Bought BuildExtractorExcavationZone 
+[14:566] csiz Bought StrainSpeed 
+[14:572] csiz Bought PureStrainSpeed 
+[15:128] csiz Placed/Upgraded LesserNydusWorm 
+[15:129] csiz Bought GreaterNydus 
+[15:688] csiz Placed/Upgraded NydusCanalCreeper 
+[15:814] csiz Bought HunterlingStrain 
+[16:123] csiz Bought SunkenColony 
+[16:123] csiz Placed/Upgraded PrimalSunkenColony 
+[17:104] csiz Placed/Upgraded Virophage 
+[17:159] csiz Bought SunkenColony 
+[17:241] csiz Placed/Upgraded LocustNest 
+[17:865] csiz Spawned MassiveCocoon 
+[18:381] csiz Bought UnlockDropPods 
+[18:430] csiz Bought EvolveDropPods 
+[19:080] csiz Spawned MassiveCocoon 
+[19:268] csiz Placed/Upgraded LesserNydusWorm 
+[19:269] csiz Bought GreaterNydus 
+[19:412] csiz Bought SunkenColony 
+[19:502] csiz Bought AdvancedPowerInfestation 
+[19:631] csiz Bought GreaterNydus 
+[20:160] csiz Spawned Underseer 
+[20:911] csiz Bought SpawnNydusWorm 
+[20:967] csiz Placed/Upgraded GreaterNydusWorm 
+[21:470] csiz Bought EvolveDropPods 
+[22:082] csiz Bought EvolveDropPods 
+[22:887] csiz Placed/Upgraded LesserNydusWorm 
+[22:888] csiz Bought GreaterNydus 
+[23:447] csiz Placed/Upgraded PrimalSunkenColony 
+[23:448] csiz Bought SunkenColony 
+[23:551] csiz Bought GreaterNydus 
+[23:777] csiz Bought SunkenColony 
+[24:070] csiz Bought AdvancedInfestationGateControl 
+[24:926] csiz Bought ConstructiveCreep 
+[25:000] csiz Placed/Upgraded LesserNydusWorm 
+[25:001] csiz Bought GreaterNydus 
+[26:303] csiz Bought DropshipsFueled 
+[26:403] csiz Bought SweepingInfestation 
+[26:403] csiz Bought UltimateInfestationResearched 
+[26:737] csiz Placed/Upgraded NydusCanalCreeper 
+[27:138] csiz Placed/Upgraded PrimalSunkenColony 
+[27:139] csiz Bought SunkenColony 
+[27:535] csiz Placed/Upgraded LesserNydusWorm 
+[27:536] csiz Bought GreaterNydus 
+[27:877] csiz Placed/Upgraded GreaterNydusWorm 
+[29:115] csiz Placed/Upgraded NydusCanalCreeper 
+[29:794] csiz Bought EvolveDropPods 
+[29:797] csiz Bought EvolveDropPods 
+[29:801] csiz Bought EvolveDropPods 
+[31:024] csiz Placed/Upgraded LesserNydusWorm 
+[31:025] csiz Bought GreaterNydus 
+[31:185] csiz Bought SunkenColony 
+[31:185] csiz Placed/Upgraded PrimalSunkenColony 
+[31:534] csiz Placed/Upgraded LocustNest 
+
+[00:572] SpicyWolf Unlocked AssaultRifle 
+[00:716] SpicyWolf Placed/Upgraded MiningDroid 
+[01:358] SpicyWolf Unlocked AdvancedDroidEngines 
+[09:203] SpicyWolf Placed/Upgraded MiningDroid 
+[09:293] SpicyWolf Unlocked TurboDroidEngines 
+[11:455] SpicyWolf Unlocked CloakingDevice 
+[13:792] SpicyWolf Unlocked SpecOpsAssaultRifle 
+[13:946] SpicyWolf Unlocked TitaniumBulletCasings 
+[15:006] SpicyWolf Unlocked OverloadWeapon 
+[16:333] SpicyWolf Unlocked SpecOpsCloakingDevice 
+[21:488] SpicyWolf Unlocked BioMechanicalRepairDrone 
+[21:545] SpicyWolf Unlocked SpecOpsBioMechanicalRepairDrone 
+[21:874] SpicyWolf Placed/Upgraded HealingDrone 
+[22:246] SpicyWolf Placed/Upgraded HealingDrone 
+[23:590] SpicyWolf Placed/Upgraded MiningDroid 
+[24:275] SpicyWolf Placed/Upgraded MiningDroid 
+[25:132] SpicyWolf Unlocked AutoTurret 
+[25:187] SpicyWolf Placed/Upgraded AutoTurret 
+[25:386] SpicyWolf Placed/Upgraded AutoTurret 
+[25:707] SpicyWolf Placed/Upgraded AutoTurret 
+[25:818] SpicyWolf Unlocked SpecOpsTurret 
+[26:487] SpicyWolf Placed/Upgraded HealingDrone 
+[27:604] SpicyWolf Unlocked EnergySuit 
+[28:194] SpicyWolf Unlocked HazmatSuit 
+[29:141] SpicyWolf Placed/Upgraded HealingDrone 
+
+[00:572] IIIIIIIIIIII Unlocked AssaultRifle 
+[02:046] IIIIIIIIIIII Unlocked AdvancedDroidEngines 
+[02:140] IIIIIIIIIIII Unlocked TurboDroidEngines 
+[06:047] IIIIIIIIIIII Unlocked Stimpack 
+[06:100] IIIIIIIIIIII Unlocked MedicShield 
+[06:179] IIIIIIIIIIII Unlocked AIAssistant 
+[10:260] IIIIIIIIIIII Unlocked HazmatSuit 
+[10:269] IIIIIIIIIIII Unlocked AdvancedHazmatSuit 
+[13:163] IIIIIIIIIIII Unlocked SpecOpsAssaultRifle 
+[27:605] IIIIIIIIIIII Bought ShieldSuit 
+[28:195] IIIIIIIIIIII Bought ShieldSuit 
+
+Game Ended
+ 
+STRAIN RATIO: 
+Naked Kills: 339
+T1 Speed Kills:  0 T2 Speed Kills: 2954 T3 Speed Kills:  241
+T1 Health Kills: 0 T2 Health Kills: 14 T3 Health Kills: 0
+T1 Damage Kills: 0 T2 Damage Kills: 36 T3 Damage Kills: 0
+T1 Voltaile Kills: 0 T2 Voltaile Kills: 96 T3 Voltaile Kills: 0
+----------------------------------------------------------------------------
+Warpig kills : 1511
+---------------------------------------------------------
+Name: Frosky
+ 
+STRAINS: 
+Naked Kills :  411
+T1_speed Kills : 11
+T2_Speed Kills : 267
+T3_Speed Kills : 9
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: Ascherit
+ 
+STRAINS: 
+Naked Kills :  409
+T1_speed Kills : 10
+T2_Speed Kills : 309
+T3_Speed Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: Pandameme
+ 
+STRAINS: 
+Naked Kills :  257
+ 
+ALPHAS: 
+Hunter/Predator Kills : 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: Kira
+ 
+STRAINS: 
+Naked Kills :  286
+T1_speed Kills : 10
+T2_Speed Kills : 134
+T3_Speed Kills : 9
+ 
+ALPHAS: 
+Egg Kills : 1
+Underseer/Saboteur Kills : 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: csiz
+ 
+STRAINS: 
+Naked Kills :  84
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: SpicyWolf
+ 
+STRAINS: 
+Naked Kills :  182
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: IIIIIIIIIIII
+ 
+STRAINS: 
+Naked Kills :  130
+T1_speed Kills : 11
+T2_Speed Kills : 23
+T3_Speed Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+
+CHAT MESSAGES: 
+[03:087] Frosky: pandameme
+[03:109] Frosky: huntard
+[03:123] Frosky: ah
+[03:916] SpicyWolf: blargh
+[05:998] Pandameme: lol
+[06:057] SpicyWolf: fuck
+[06:062] Pandameme: ye mb
+[06:119] csiz: wut?
+[06:255] Pandameme: tried to break
+[06:383] Pandameme: spent 30s on it
+[06:447] Pandameme: then got stubborn
+[06:584] Pandameme: as p1 flame nade xD
+[06:864] Ascherit: -p
+[06:902] Ascherit: -pp
+[08:554] Pandameme: bruh
+[08:599] SpicyWolf: lol
+[10:228] Frosky: xD
+[10:435] Pandameme: u get 1 csiz
+[13:376] Frosky: guys
+[13:394] Frosky: why
+[13:414] Frosky: attack
+[13:440] Frosky: extractor
+[13:492] Frosky: therer is viro there
+[13:504] Frosky: bruh
+[14:052] Pandameme: BUULLLLSHITTT
+[15:148] Frosky: i am in my cocoon
+[15:215] Frosky: nothing can hurt me here
+[15:254] csiz: comfy (happy)
+[15:314] Frosky: giga chad mindset
+[15:325] Pandameme: lol
+[16:868] SpicyWolf: welp
+[16:966] SpicyWolf: fuck
+[18:838] Pandameme: ur a ho
+[19:319] SpicyWolf: so we're screwed eh
+[19:457] Pandameme: 100
+[19:466] Frosky: naw
+[19:487] Frosky: winnable
+[19:540] Pandameme: xD
+[19:626] Frosky: still have mining
+[19:664] Frosky: WINNABLE
+[19:791] Pandameme: shhh
+[19:845] SpicyWolf: -pp
+[19:845] Pandameme: :3
+[20:342] SpicyWolf: -pp
+[21:133] Pandameme: TT
+[21:264] Ascherit: psi the room
+[21:281] Ascherit: first
+[21:788] Ascherit: dont think the psi is in the room
+[22:793] Ascherit: psi room
+[24:468] Ascherit: psi everyroom
+[24:543] Ascherit: in north
+[24:655] Frosky: top
+[24:666] Frosky: top
+[24:678] Frosky: top
+[24:706] Pandameme: u want slow
+[24:756] Pandameme: or spec
+[24:882] Ascherit: either
+[26:036] Pandameme: ned to see psi
+[27:102] Ascherit: psi hangar
+[27:114] Ascherit: now
+[27:447] Ascherit: psi hangar pls
+[27:643] Pandameme: no moolah for upg
+csiz First Alpha Hunter |  Loss
+
+csiz Placed 2 Greaters.
+--------------------------------

@@ -1,0 +1,513 @@
+Analyzed: Oh No It's Zombies Arctic Map (307)
+
+Date: 2022.11.24
+
+ID : 0 PlayerName: Gxz Race: Terran
+ID : 1 PlayerName: Toxicpanda Race: Terran
+ID : 2 PlayerName: Keronor Race: Terran
+ID : 3 PlayerName: DeATH Race: Terran
+ID : 4 PlayerName: Frosky Race: Zerg
+ID : 5 PlayerName: LiquidIce Race: Terran
+ID : 6 PlayerName: Blue Race: Terran
+ID : 7 PlayerName: Security Race: Infested Terran
+Frosky Zombie Loss
+Public Lobby
+
+Game Length:[42:458]
+Players ammount: 8
+Marine rank avg: 14,166666666666666
+Marine GrandMaster ammount: 2
+
+Toxicpanda First Gun ArcWelder
+LiquidIce First Gun Flamethrower
+DeATH First Gun BeamRifle
+Gxz First Gun Shotgun
+Blue First Gun SpecOpsAssaultRifle
+
+PURCHASES: 
+[00:572] Gxz Unlocked AssaultRifle 
+[01:000] Gxz Placed/Upgraded MiningDroid 
+[01:073] Gxz Unlocked AdvancedDroidEngines 
+[02:982] Gxz Unlocked IncendiaryGrenade 
+[04:296] Gxz Unlocked Shotgun 
+[05:687] Gxz Unlocked SpecOpsShotgun 
+[08:180] Gxz Unlocked HighPrecisionBeams 
+[09:514] Gxz Unlocked ShieldSuit 
+[10:908] Gxz Placed/Upgraded MiningDroid 
+[17:418] Gxz Unlocked BioMechanicalRepairDrone 
+[17:428] Gxz Unlocked SpecOpsBioMechanicalRepairDrone 
+[17:497] Gxz Placed/Upgraded HealingDrone 
+[17:700] Gxz Placed/Upgraded HealingDrone 
+[18:584] Gxz Unlocked ExplorationDroid 
+[18:626] Gxz Placed/Upgraded ExplorationDroid 
+[18:694] Gxz Placed/Upgraded ExplorationDroid 
+[21:436] Gxz Unlocked EnergySuit 
+[21:440] Gxz Unlocked AdvancedEnergySuit 
+[21:809] Gxz Placed/Upgraded HealingDrone 
+[22:350] Gxz Unlocked OverloadWeapon 
+[27:879] Gxz Unlocked AdvancedShieldSuit 
+[28:822] Gxz Placed/Upgraded HealingDrone 
+[29:218] Gxz Placed/Upgraded HealingDrone 
+[30:812] Gxz Unlocked EnergyPack 
+[30:821] Gxz Unlocked AIAssistant 
+[31:391] Gxz Placed/Upgraded HealingDrone 
+[31:861] Gxz Placed/Upgraded HealingDrone 
+[32:777] Gxz Placed/Upgraded MiningDroid 
+[35:033] Gxz Unlocked CloakingDevice 
+
+[00:572] Toxicpanda Unlocked AssaultRifle 
+[00:734] Toxicpanda Placed/Upgraded MiningDroid 
+[00:829] Toxicpanda Unlocked ArcWelder 
+[01:626] Toxicpanda Unlocked Stimpack 
+[03:041] Toxicpanda Unlocked AdvancedDroidEngines 
+[04:063] Toxicpanda Unlocked BioMechanicalRepairDrone 
+[04:080] Toxicpanda Unlocked CombatAccelerationDrone 
+[04:170] Toxicpanda Placed/Upgraded HealingDrone 
+[04:950] Toxicpanda Placed/Upgraded HealingDrone 
+[05:114] Toxicpanda Placed/Upgraded HealingDrone 
+[05:593] Toxicpanda Unlocked AutoTurret 
+[05:855] Toxicpanda Placed/Upgraded AutoTurret 
+[06:139] Toxicpanda Placed/Upgraded AutoTurret 
+[07:811] Toxicpanda Unlocked PsiDisrupter 
+[08:022] Toxicpanda Placed/Upgraded PsiIndoctrinator 
+[08:349] Toxicpanda Placed/Upgraded PsiIndoctrinator 
+[09:515] Toxicpanda Bought ShieldSuit 
+[09:946] Toxicpanda Unlocked ExplorationDroid 
+[09:956] Toxicpanda Placed/Upgraded ExplorationDroid 
+[09:978] Toxicpanda Placed/Upgraded ExplorationDroid 
+[10:095] Toxicpanda Placed/Upgraded ExplorationDroid 
+[10:168] Toxicpanda Unlocked TurboDroidEngines 
+[11:386] Toxicpanda Unlocked SpecOpsPsiDisruptor 
+[12:675] Toxicpanda Unlocked FlashBang 
+[12:739] Toxicpanda Unlocked SpecOpsArcWelder 
+[13:932] Toxicpanda Unlocked FlameTurret 
+[13:932] Toxicpanda Unlocked HeavyTurret 
+[13:949] Toxicpanda Unlocked SpecOpsBioMechanicalRepairDrone 
+[14:551] Toxicpanda Unlocked MotionSensor 
+[14:839] Toxicpanda Placed/Upgraded SensorTower 
+[14:961] Toxicpanda Placed/Upgraded SensorTower 
+[15:510] Toxicpanda Placed/Upgraded SensorTower 
+[15:922] Toxicpanda Placed/Upgraded SensorTower 
+[15:976] Toxicpanda Placed/Upgraded SensorTower 
+[16:173] Toxicpanda Placed/Upgraded SensorTower 
+[16:194] Toxicpanda Placed/Upgraded SensorTower 
+[16:581] Toxicpanda Placed/Upgraded AutoTurret 
+[16:690] Toxicpanda Placed/Upgraded AutoTurret 
+[17:797] Toxicpanda Placed/Upgraded AutoTurret 
+[17:934] Toxicpanda Placed/Upgraded AutoTurret 
+[18:568] Toxicpanda Placed/Upgraded AutoTurret 
+[19:281] Toxicpanda Placed/Upgraded AutoTurret 
+[19:755] Toxicpanda Unlocked QuantumBackpack 
+[20:306] Toxicpanda Unlocked MedicShield 
+[21:112] Toxicpanda Placed/Upgraded PsiIndoctrinator 
+[21:437] Toxicpanda Bought ShieldSuit 
+[21:441] Toxicpanda Bought EnergySuit 
+[21:584] Toxicpanda Placed/Upgraded HealingDrone 
+[23:281] Toxicpanda Placed/Upgraded MiningDroid 
+[23:972] Toxicpanda Placed/Upgraded HealingDrone 
+[24:704] Toxicpanda Placed/Upgraded HealingDrone 
+[25:441] Toxicpanda Placed/Upgraded AutoTurret 
+[25:925] Toxicpanda Placed/Upgraded SensorTower 
+[26:202] Toxicpanda Placed/Upgraded SensorTower 
+[27:420] Toxicpanda Placed/Upgraded PsiIndoctrinator 
+[28:483] Toxicpanda Placed/Upgraded AutoTurret 
+[28:616] Toxicpanda Placed/Upgraded AutoTurret 
+[28:727] Toxicpanda Placed/Upgraded AutoTurret 
+[29:222] Toxicpanda Placed/Upgraded HealingDrone 
+[29:803] Toxicpanda Unlocked SpecOpsFlashbang 
+[29:924] Toxicpanda Placed/Upgraded AutoTurret 
+[30:146] Toxicpanda Unlocked EnergySuit 
+[30:153] Toxicpanda Unlocked AdvancedEnergySuit 
+[30:391] Toxicpanda Placed/Upgraded AutoTurret 
+[30:498] Toxicpanda Placed/Upgraded AutoTurret 
+[30:668] Toxicpanda Placed/Upgraded AutoTurret 
+[31:221] Toxicpanda Placed/Upgraded PsiIndoctrinator 
+[31:333] Toxicpanda Placed/Upgraded HealingDrone 
+[31:438] Toxicpanda Placed/Upgraded AutoTurret 
+[31:804] Toxicpanda Placed/Upgraded AutoTurret 
+[32:095] Toxicpanda Placed/Upgraded AutoTurret 
+[32:205] Toxicpanda Placed/Upgraded AutoTurret 
+[32:452] Toxicpanda Placed/Upgraded MiningDroid 
+[33:067] Toxicpanda Placed/Upgraded HealingDrone 
+[33:255] Toxicpanda Placed/Upgraded AutoTurret 
+[35:154] Toxicpanda Placed/Upgraded AutoTurret 
+[35:273] Toxicpanda Placed/Upgraded AutoTurret 
+[35:401] Toxicpanda Placed/Upgraded AutoTurret 
+[35:515] Toxicpanda Placed/Upgraded AutoTurret 
+[35:616] Toxicpanda Placed/Upgraded AutoTurret 
+[35:843] Toxicpanda Unlocked ArcWelderMod3 
+[36:124] Toxicpanda Placed/Upgraded AutoTurret 
+[36:282] Toxicpanda Unlocked MiningCharge 
+[36:307] Toxicpanda Unlocked AdvancedMiningCharge 
+[36:361] Toxicpanda Placed/Upgraded NukePack 
+[36:387] Toxicpanda Placed/Upgraded NukePack 
+[36:523] Toxicpanda Unlocked RechargeDrone 
+[36:731] Toxicpanda Placed/Upgraded HealingDrone 
+[37:563] Toxicpanda Placed/Upgraded HealingDrone 
+[39:179] Toxicpanda Placed/Upgraded HealingDrone 
+[39:325] Toxicpanda Placed/Upgraded HealingDrone 
+[39:678] Toxicpanda Placed/Upgraded NukePack 
+[39:832] Toxicpanda Placed/Upgraded AutoTurret 
+[40:550] Toxicpanda Placed/Upgraded NukePack 
+
+[00:572] Keronor Unlocked AssaultRifle 
+[00:703] Keronor Placed/Upgraded MiningDroid 
+[00:819] Keronor Unlocked AdvancedDroidEngines 
+[03:123] Keronor Unlocked Ares 
+[04:344] Keronor Placed/Upgraded PrototypeAresTankMode 
+[06:345] Keronor Unlocked TurboDroidEngines 
+[08:787] Keronor Unlocked SpecOpsAres 
+[10:646] Keronor Unlocked AresMod4 
+[12:068] Keronor Unlocked AresMod5 
+[13:071] Keronor Unlocked AresMod1 
+[13:072] Keronor Unlocked AresMod9HostileEnvironmentTreads 
+[15:455] Keronor Placed/Upgraded PrototypeAresTankMode 
+[15:528] Keronor Unlocked MedicShield 
+[15:638] Keronor Unlocked HazmatSuit 
+[15:651] Keronor Unlocked AdvancedHazmatSuit 
+[16:661] Keronor Unlocked AresMod8 
+[17:757] Keronor Unlocked AresMod10 
+[30:147] Keronor Bought ShieldSuit 
+[30:154] Keronor Bought EnergySuit 
+[30:696] Keronor Unlocked PsiDisrupter 
+[30:719] Keronor Unlocked PsiDepressor 
+[30:778] Keronor Unlocked MiningCharge 
+[30:785] Keronor Unlocked AdvancedMiningCharge 
+[33:864] Keronor Placed/Upgraded NukePack 
+[34:413] Keronor Placed/Upgraded PsiIndoctrinator 
+[34:912] Keronor Placed/Upgraded NukePack 
+[35:260] Keronor Placed/Upgraded NukePack 
+
+[00:572] DeATH Unlocked AssaultRifle 
+[00:651] DeATH Placed MiningDroid 
+[01:501] DeATH Unlocked FragGrenade 
+[01:512] DeATH Unlocked SpecOpsFragGrenade 
+[03:463] DeATH Unlocked BeamRifle 
+[04:637] DeATH Unlocked ExplorationDroid 
+[04:665] DeATH Placed ExplorationDroid 
+[04:682] DeATH Placed ExplorationDroid 
+[04:768] DeATH Placed ExplorationDroid 
+[06:861] DeATH Unlocked SpecOpsPlasmaRifle 
+[07:820] DeATH Unlocked CombatSuit 
+[09:832] DeATH Unlocked AdvancedDroidEngines 
+[11:511] DeATH Unlocked Stimpack 
+[13:047] DeATH Unlocked LongRangeScope 
+[14:303] DeATH Unlocked AdvancedCombatSuit 
+[15:340] DeATH Unlocked BioMechanicalRepairDrone 
+[15:639] DeATH Bought ShieldSuit 
+[15:652] DeATH Bought HazmatSuit 
+[15:962] DeATH Unlocked CombatShield 
+[16:316] DeATH Placed HealingDrone 
+[17:445] DeATH Placed ExplorationDroid 
+[18:505] DeATH Placed HealingDrone 
+[19:259] DeATH Placed HealingDrone 
+[19:900] DeATH Unlocked OverloadWeapon 
+[19:985] DeATH Unlocked PowerConverter 
+[21:010] DeATH Unlocked SpecOpsPowerConverter 
+[21:384] DeATH Placed HealingDrone 
+[21:852] DeATH Unlocked EnergyPack 
+[22:022] DeATH Unlocked AIAssistant 
+[23:501] DeATH Unlocked HazmatSuit 
+[23:897] DeATH Placed HealingDrone 
+[24:567] DeATH Placed HealingDrone 
+[25:191] DeATH Placed ExplorationDroid 
+[25:289] DeATH Placed HealingDrone 
+[25:802] DeATH Unlocked MotionSensor 
+[25:815] DeATH Unlocked AdvancedMotionSensor 
+[27:437] DeATH Placed SensorTower 
+[27:629] DeATH Placed SensorTower 
+[27:748] DeATH Placed HealingDrone 
+[27:922] DeATH Unlocked AdvancedHazmatSuit 
+[29:826] DeATH Placed HealingDrone 
+[30:297] DeATH Placed HealingDrone 
+[30:477] DeATH Placed SensorTower 
+[31:955] DeATH Placed HealingDrone 
+[32:933] DeATH Placed HealingDrone 
+[34:911] DeATH Unlocked SpecOpsBioMechanicalRepairDrone 
+[35:299] DeATH Placed SensorTower 
+[35:311] DeATH Placed SensorTower 
+[35:800] DeATH Placed HealingDrone 
+[35:938] DeATH Placed SensorTower 
+[35:953] DeATH Placed SensorTower 
+[37:552] DeATH Placed HealingDrone 
+[39:262] DeATH Placed HealingDrone 
+[39:936] DeATH Placed HealingDrone 
+[41:349] DeATH Placed HealingDrone 
+[42:292] DeATH Placed SensorTower 
+[42:322] DeATH Placed SensorTower 
+
+[00:568] Frosky Bought PlayerNumber 
+[00:834] Frosky Spawned MassiveCocoon 
+[02:104] Frosky Placed/Upgraded NydusCanalCreeper 
+[02:274] Frosky Spawned Hunter 
+[05:885] Frosky Spawned MassiveCocoon 
+[07:325] Frosky Spawned InfestedAbomination 
+[07:821] Frosky Bought ShieldSuit 
+[08:394] Frosky Bought UnlockDropPods 
+[08:839] Frosky Bought EvolveDropPods 
+[10:965] Frosky Bought EvolveDropPods 
+[10:969] Frosky Bought EvolveDropPods 
+[10:972] Frosky Bought EvolveDropPods 
+[10:975] Frosky Bought EvolveDropPods 
+[12:125] Frosky Bought AdvancedInfestationContainment 
+[14:304] Frosky Bought CombatSuit 
+[14:361] Frosky Spawned MassiveCocoon 
+[14:426] Frosky Placed/Upgraded PrimalSunkenColony 
+[14:427] Frosky Bought SunkenColony 
+[15:441] Frosky Spawned Underseer 
+[15:532] Frosky Spawned MassiveCocoon 
+[16:557] Frosky Spawned MassiveCocoon 
+[16:971] Frosky Spawned InfestedAbomination 
+[17:087] Frosky Placed/Upgraded PrimalSunkenColony 
+[17:088] Frosky Bought SunkenColony 
+[17:169] Frosky Bought SunkenColony 
+[17:797] Frosky Placed/Upgraded NydusCanalCreeper 
+[17:997] Frosky Spawned Anubalisk 
+[18:843] Frosky Bought SunkenColony 
+[19:763] Frosky Placed/Upgraded NydusCanalCreeper 
+[20:205] Frosky Placed/Upgraded PrimalSunkenColony 
+[20:206] Frosky Bought SunkenColony 
+[20:823] Frosky Bought SunkenColony 
+[20:861] Frosky Bought BuildExtractorExcavationZone 
+[20:861] Frosky Placed/Upgraded AutomatedExtractor 
+[20:881] Frosky Bought BuildExtractorScienceLabs 
+[20:881] Frosky Placed/Upgraded AutomatedExtractor 
+[22:318] Frosky Placed/Upgraded PrimalSunkenColony 
+[22:319] Frosky Bought SunkenColony 
+[22:914] Frosky Bought SpawnNydusWorm 
+[23:105] Frosky Bought BuildExtractorProcessingFacilities 
+[23:105] Frosky Placed/Upgraded AutomatedExtractor 
+[23:502] Frosky Bought ShieldSuit 
+[23:575] Frosky Placed/Upgraded NydusCanalCreeper 
+[23:815] Frosky Bought SunkenColony 
+[23:815] Frosky Placed/Upgraded PrimalSunkenColony 
+[24:582] Frosky Bought StrainVolatile 
+[24:781] Frosky Bought StrainVolatile 
+[26:416] Frosky Bought ShieldSuit 
+[26:513] Frosky Placed/Upgraded PrimalSunkenColony 
+[26:514] Frosky Bought SunkenColony 
+[26:997] Frosky Bought SunkenColony 
+[27:510] Frosky Bought StrainHealth 
+[27:563] Frosky Bought StrainHealth 
+[27:644] Frosky Placed/Upgraded GreaterNydusWorm 
+[27:945] Frosky Bought ShieldSuit 
+[28:351] Frosky Placed/Upgraded LesserNydusWorm 
+[28:352] Frosky Bought GreaterNydus 
+[28:639] Frosky Bought SunkenColony 
+[28:639] Frosky Placed/Upgraded PrimalSunkenColony 
+[28:758] Frosky Bought SunkenColony 
+[28:779] Frosky Bought SunkenColony 
+[29:040] Frosky Placed/Upgraded NydusCanalCreeper 
+[29:839] Frosky Bought SiphonFuel 
+[29:996] Frosky Bought VirulentCreep 
+[29:996] Frosky Bought VirulentCreep 
+[30:003] Frosky Bought ShieldSuit 
+[30:401] Frosky Placed/Upgraded PrimalSunkenColony 
+[30:402] Frosky Bought SunkenColony 
+[31:184] Frosky Bought SunkenColony 
+[31:319] Frosky Bought ShieldSuit 
+[31:438] Frosky Spawned MassiveCocoon 
+[31:931] Frosky Spawned MassiveCocoon 
+[32:200] Frosky Placed/Upgraded LesserNydusWorm 
+[32:201] Frosky Bought GreaterNydus 
+[32:878] Frosky Spawned Anubalisk 
+[32:960] Frosky Placed/Upgraded NydusCanalCreeper 
+[33:279] Frosky Bought DropshipsFueled 
+[33:371] Frosky Spawned Anubalisk 
+[33:429] Frosky Bought PureStrainHealth 
+[33:681] Frosky Spawned RoyalCocoon 
+[33:681] Frosky Bought SpawnHiveQueen 
+[33:681] Frosky Bought UltimateInfestationResearched 
+[34:251] Frosky Placed/Upgraded NydusCanalCreeper 
+[34:400] Frosky Spawned QueenCoop 
+[34:942] Frosky Bought ShieldSuit 
+[36:118] Frosky Bought PureStrainHealth 
+[36:135] Frosky Bought StrainVolatile 
+[36:325] Frosky Bought ShieldSuit 
+[36:446] Frosky Placed/Upgraded NydusCanalCreeper 
+[37:218] Frosky Bought AdvancedPowerInfestation 
+[37:235] Frosky Placed/Upgraded GreaterNydusWorm 
+[38:454] Frosky Placed/Upgraded NydusCanalCreeper 
+[39:331] Frosky Bought TankStrain 
+[39:339] Frosky Bought TankStrain 
+[39:665] Frosky Bought CreepSpeed 
+[40:029] Frosky Bought VirulentCreep 
+[40:029] Frosky Bought VirulentCreep 
+
+[00:572] LiquidIce Unlocked AssaultRifle 
+[01:193] LiquidIce Unlocked Flamethrower 
+[06:001] LiquidIce Unlocked BioMechanicalRepairDrone 
+[06:241] LiquidIce Placed/Upgraded HealingDrone 
+[13:915] LiquidIce Placed/Upgraded MiningDroid 
+[16:704] LiquidIce Unlocked SpecOpsFlamethrower 
+[18:167] LiquidIce Unlocked LongRangeIncinerators 
+[20:634] LiquidIce Unlocked ShieldSuit 
+[20:725] LiquidIce Unlocked AdvancedShieldSuit 
+[24:606] LiquidIce Unlocked OpticalVisor 
+[25:116] LiquidIce Placed/Upgraded HealingDrone 
+[26:847] LiquidIce Placed/Upgraded HealingDrone 
+[28:533] LiquidIce Placed/Upgraded HealingDrone 
+[40:198] LiquidIce Placed/Upgraded HealingDrone 
+[40:704] LiquidIce Placed/Upgraded HealingDrone 
+
+[00:572] Blue Unlocked AssaultRifle 
+[01:992] Blue Unlocked AdvancedDroidEngines 
+[05:026] Blue Unlocked TurboDroidEngines 
+[06:529] Blue Unlocked FragGrenade 
+[06:537] Blue Unlocked SpecOpsFragGrenade 
+[07:819] Blue Unlocked SpecOpsAssaultRifle 
+[09:157] Blue Unlocked TitaniumBulletCasings 
+[10:094] Blue Unlocked AutoTurret 
+[10:117] Blue Unlocked HeavyTurret 
+[11:118] Blue Unlocked OverloadWeapon 
+[12:176] Blue Unlocked ExplorationDroid 
+[14:142] Blue Unlocked PowerConverter 
+[14:151] Blue Unlocked SpecOpsPowerConverter 
+[16:796] Blue Unlocked EnergySuit 
+[16:805] Blue Unlocked AdvancedEnergySuit 
+[20:635] Blue Bought ShieldSuit 
+[20:726] Blue Bought ShieldSuit 
+[30:707] Blue Unlocked CombatShield 
+[30:713] Blue Unlocked QuantumBackpack 
+[30:719] Blue Unlocked AIAssistant 
+[30:823] Blue Unlocked MiningCharge 
+[30:831] Blue Unlocked AdvancedMiningCharge 
+
+Game Ended
+ 
+STRAIN RATIO: 
+Naked Kills: 268
+T1 Speed Kills:  0 T2 Speed Kills: 0 T3 Speed Kills:  0
+T1 Health Kills: 25 T2 Health Kills: 5 T3 Health Kills: 0
+T1 Damage Kills: 0 T2 Damage Kills: 0 T3 Damage Kills: 0
+T1 Voltaile Kills: 299 T2 Voltaile Kills: 0 T3 Voltaile Kills: 0
+----------------------------------------------------------------------------
+Warpig kills : 2293
+---------------------------------------------------------
+Name: Gxz
+ 
+STRAINS: 
+Naked Kills :  386
+T1_Health Kills : 110
+T2_Health Kills : 9
+T3_Health Kills : 0
+T1_Voltaile Kills : 189
+T2_Voltaile Kills : 0
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: Toxicpanda
+ 
+STRAINS: 
+Naked Kills :  181
+T1_Health Kills : 161
+T2_Health Kills : 131
+T3_Health Kills : 8
+T1_Voltaile Kills : 239
+T2_Voltaile Kills : 0
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+Hunter/Predator Kills : 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: Keronor
+ 
+STRAINS: 
+Naked Kills :  361
+T1_Health Kills : 58
+T2_Health Kills : 38
+T3_Health Kills : 0
+T1_Voltaile Kills : 170
+T2_Voltaile Kills : 0
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: DeATH
+ 
+STRAINS: 
+Naked Kills :  474
+T1_Health Kills : 128
+T2_Health Kills : 33
+T3_Health Kills : 1
+T1_Voltaile Kills : 151
+T2_Voltaile Kills : 0
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+Aberation/Abomination Kills : 1
+Anubalisk/Anubalight Kills : 3
+END_SIGNATURE
+---------------------------------------------------------
+Name: Frosky
+ 
+STRAINS: 
+Naked Kills :  0
+T1_Voltaile Kills : 334
+T2_Voltaile Kills : 0
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+QueenEgg Kills: 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: LiquidIce
+ 
+STRAINS: 
+Naked Kills :  128
+T1_Health Kills : 44
+T2_Health Kills : 5
+T3_Health Kills : 0
+T1_Voltaile Kills : 100
+T2_Voltaile Kills : 0
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: Blue
+ 
+STRAINS: 
+Naked Kills :  325
+T1_Health Kills : 40
+T2_Health Kills : 6
+T3_Health Kills : 0
+T1_Voltaile Kills : 112
+T2_Voltaile Kills : 0
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+Aberation/Abomination Kills : 1
+Geneweaver/GeneSplicer Kills : 1
+END_SIGNATURE
+
+CHAT MESSAGES: 
+[00:176] DeATH: hmm
+[00:246] DeATH: should i?
+[00:291] DeATH: xD
+[00:378] DeATH: bruh
+[00:378] Toxicpanda: gl gg
+[00:433] DeATH: forsky
+[00:450] Frosky: gl
+[00:462] Toxicpanda: death
+[00:487] Toxicpanda: i need u
+[00:492] Frosky: owo
+[00:521] Toxicpanda: to sweat
+[34:522] DeATH: aw
+[41:066] Frosky: gg
+[41:123] Gxz: gg
+[41:195] DeATH: let me killll
+[41:263] Gxz: nice
+[41:291] Frosky: no
+[41:376] Toxicpanda: gg
+[41:814] DeATH: sensor op
+[42:015] DeATH: overload op
+[42:064] Toxicpanda: 'gg
+Frosky First Alpha Hunter |  Loss
+
+Frosky Placed 2 Greaters.
+--------------------------------

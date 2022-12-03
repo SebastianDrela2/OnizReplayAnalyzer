@@ -1,0 +1,283 @@
+Analyzed: Oh No It's Zombies Arctic Updated (18)
+
+Date: 2021.08.19
+
+ID : 0 PlayerName: Frosky Race: Terran
+ID : 1 PlayerName: Twinmaner Race: Terran
+ID : 2 PlayerName: Smithereen Race: Terran
+ID : 3 PlayerName: BearBear Race: Terran
+ID : 4 PlayerName: Andderson Race: Terran
+ID : 5 PlayerName: Annalise Race: Terran
+ID : 6 PlayerName: Radovid Race: Zerg
+ID : 7 PlayerName: Security Race: Terran
+Radovid  Win
+Public Lobby
+
+Game Length:[35:118]
+Players ammount: 8
+Marine rank avg: 7,833333333333333
+Marine GrandMaster ammount: 2
+
+BearBear First Gun HellfireRocketLauncher
+Andderson First Gun BeamRifle
+Smithereen First Gun Flamethrower
+Frosky First Gun SpecOpsAssaultRifle
+Twinmaner First Gun SpecOpsAssaultRifle
+
+PURCHASES: 
+[00:588] Frosky Unlocked AssaultRifle 
+[00:682] Frosky Placed/Upgraded MiningDroid 
+[00:973] Frosky Unlocked AdvancedDroidEngines 
+[06:844] Frosky Unlocked TurboDroidEngines 
+[11:072] Frosky Unlocked SpecOpsAssaultRifle 
+[11:496] Frosky Unlocked AutoTargetingSystem 
+[14:288] Frosky Unlocked Stimpack 
+[14:372] Frosky Unlocked CombatShield 
+[15:774] Frosky Unlocked CombatSuit 
+[19:294] Frosky Unlocked AdvancedCombatSuit 
+[24:000] Frosky Unlocked Teleporter 
+
+[00:588] Twinmaner Unlocked AssaultRifle 
+[00:716] Twinmaner Unlocked AdvancedDroidEngines 
+[00:765] Twinmaner Placed/Upgraded MiningDroid 
+[01:951] Twinmaner Unlocked AutoTurret 
+[03:555] Twinmaner Placed/Upgraded AutoTurret 
+[04:079] Twinmaner Unlocked SpecOpsTurret 
+[04:587] Twinmaner Placed/Upgraded AutoTurret 
+[05:204] Twinmaner Placed/Upgraded AutoTurret 
+[06:804] Twinmaner Placed/Upgraded AutoTurret 
+[07:030] Twinmaner Placed/Upgraded AutoTurret 
+[07:713] Twinmaner Placed/Upgraded AutoTurret 
+[11:340] Twinmaner Unlocked PsiDisrupter 
+[11:734] Twinmaner Placed/Upgraded PsiIndoctrinator 
+[14:191] Twinmaner Placed/Upgraded MiningDroid 
+[15:775] Twinmaner Bought ShieldSuit 
+[16:047] Twinmaner Placed/Upgraded AutoTurret 
+[16:939] Twinmaner Placed/Upgraded AutoTurret 
+[18:622] Twinmaner Unlocked TurboDroidEngines 
+[18:993] Twinmaner Placed/Upgraded AutoTurret 
+[19:295] Twinmaner Bought CombatSuit 
+[20:483] Twinmaner Unlocked SpecOpsAssaultRifle 
+[20:745] Twinmaner Placed/Upgraded AutoTurret 
+[21:394] Twinmaner Placed/Upgraded AutoTurret 
+[22:645] Twinmaner Placed/Upgraded AutoTurret 
+[25:705] Twinmaner Unlocked Bayonette 
+[25:988] Twinmaner Placed/Upgraded AutoTurret 
+[29:058] Twinmaner Unlocked MiningCharge 
+[29:112] Twinmaner Unlocked AdvancedMiningCharge 
+[29:355] Twinmaner Placed/Upgraded NukePack 
+[34:106] Twinmaner Placed/Upgraded NukePack 
+
+[00:588] Smithereen Unlocked AssaultRifle 
+[00:726] Smithereen Placed/Upgraded MiningDroid 
+[00:880] Smithereen Unlocked AdvancedDroidEngines 
+[07:004] Smithereen Unlocked TurboDroidEngines 
+[08:985] Smithereen Unlocked Flamethrower 
+[09:209] Smithereen Unlocked CombatShield 
+[11:315] Smithereen Unlocked PsiDisrupter 
+[15:615] Smithereen Placed/Upgraded PsiIndoctrinator 
+[17:323] Smithereen Unlocked HazmatSuit 
+[21:851] Smithereen Placed/Upgraded MiningDroid 
+[33:758] Smithereen Unlocked SpecOpsFlamethrower 
+
+[00:588] BearBear Unlocked AssaultRifle 
+[01:003] BearBear Unlocked HellfireRocketLauncher 
+[01:191] BearBear Unlocked AutoTurret 
+[09:491] BearBear Placed/Upgraded AutoTurret 
+[17:324] BearBear Bought ShieldSuit 
+[20:918] BearBear Placed/Upgraded AutoTurret 
+[22:952] BearBear Placed/Upgraded AutoTurret 
+[25:669] BearBear Placed/Upgraded AutoTurret 
+[29:205] BearBear Unlocked FlameTurret 
+[33:876] BearBear Placed/Upgraded AutoTurret 
+
+[00:588] Andderson Unlocked AssaultRifle 
+[00:720] Andderson Placed/Upgraded MiningDroid 
+[02:333] Andderson Unlocked BeamRifle 
+[03:038] Andderson Unlocked SpecOpsPlasmaRifle 
+[05:769] Andderson Unlocked MotionSensor 
+[06:268] Andderson Placed/Upgraded SensorTower 
+[07:513] Andderson Unlocked AdvancedMotionSensor 
+[09:690] Andderson Unlocked BioMechanicalRepairDrone 
+[09:791] Andderson Placed/Upgraded HealingDrone 
+[10:297] Andderson Placed/Upgraded HealingDrone 
+[11:105] Andderson Unlocked MedicShield 
+[11:725] Andderson Placed/Upgraded HealingDrone 
+[12:026] Andderson Unlocked FlashBang 
+[13:003] Andderson Placed/Upgraded HealingDrone 
+[14:246] Andderson Placed/Upgraded HealingDrone 
+[15:119] Andderson Placed/Upgraded MiningDroid 
+[17:879] Andderson Placed/Upgraded HealingDrone 
+[18:079] Andderson Unlocked CorrosivePlasma 
+[19:374] Andderson Placed/Upgraded HealingDrone 
+[22:092] Andderson Placed/Upgraded HealingDrone 
+[23:546] Andderson Placed/Upgraded HealingDrone 
+[25:448] Andderson Unlocked Stimpack 
+[26:949] Andderson Placed/Upgraded HealingDrone 
+[28:387] Andderson Unlocked SpecOpsBioMechanicalRepairDrone 
+[29:106] Andderson Placed/Upgraded HealingDrone 
+[31:121] Andderson Placed/Upgraded HealingDrone 
+[33:104] Andderson Placed/Upgraded HealingDrone 
+
+[00:588] Annalise Unlocked AssaultRifle 
+[01:417] Annalise Placed/Upgraded MiningDroid 
+[01:520] Annalise Unlocked AutoTurret 
+[01:584] Annalise Unlocked SpecOpsTurret 
+[01:603] Annalise Unlocked FlameTurret 
+[02:939] Annalise Placed/Upgraded AutoTurret 
+[05:048] Annalise Placed/Upgraded AutoTurret 
+[08:200] Annalise Placed/Upgraded AutoTurret 
+[08:639] Annalise Placed/Upgraded AutoTurret 
+[10:616] Annalise Placed/Upgraded AutoTurret 
+[10:892] Annalise Placed/Upgraded AutoTurret 
+[14:064] Annalise Placed/Upgraded MiningDroid 
+[16:131] Annalise Unlocked ForceFieldGrenade 
+[17:823] Annalise Unlocked SpecOpsForcefieldGrenade 
+[19:466] Annalise Placed/Upgraded AutoTurret 
+[20:360] Annalise Placed/Upgraded AutoTurret 
+[20:663] Annalise Unlocked HeavyTurret 
+[21:105] Annalise Placed/Upgraded AutoTurret 
+[22:526] Annalise Placed/Upgraded AutoTurret 
+[24:581] Annalise Placed/Upgraded AutoTurret 
+[26:181] Annalise Placed/Upgraded AutoTurret 
+[29:269] Annalise Placed/Upgraded AutoTurret 
+[30:152] Annalise Placed/Upgraded AutoTurret 
+[31:791] Annalise Placed/Upgraded AutoTurret 
+[34:493] Annalise Placed/Upgraded AutoTurret 
+
+[00:552] Radovid Bought PlayerNumber 
+[02:024] Radovid Spawned MassiveCocoon 
+[02:730] Radovid Bought SunkenColony 
+[03:271] Radovid Bought SunkenColony 
+[03:464] Radovid Spawned InfestedAbomination 
+[06:082] Radovid Bought SunkenColony 
+[06:095] Radovid Bought SunkenColony 
+[06:442] Radovid Bought CreepSpeed 
+[06:662] Radovid Spawned MassiveCocoon 
+[07:906] Radovid Bought SunkenColony 
+[08:102] Radovid Spawned InfestedAbomination 
+[08:161] Radovid Bought SunkenColony 
+[08:240] Radovid Bought SunkenColony 
+[09:715] Radovid Bought SunkenColony 
+[09:941] Radovid Bought AdvancedInfestationContainment 
+[10:312] Radovid Bought SunkenColony 
+[10:827] Radovid Bought SunkenColony 
+[12:517] Radovid Bought VirulentCreep 
+[12:517] Radovid Bought VirulentCreep 
+[13:647] Radovid Bought BuildExtractorExcavationZone 
+[14:063] Radovid Bought SunkenColony 
+[15:073] Radovid Bought SunkenColony 
+[15:552] Radovid Bought BuildExtractorProcessingFacilities 
+[16:151] Radovid Spawned MassiveCocoon 
+[16:803] Radovid Bought CreepSpeed 
+[19:619] Radovid Bought BuildExtractorScienceLabs 
+[20:633] Radovid Spawned MassiveCocoon 
+[21:462] Radovid Spawned MassiveCocoon 
+[22:073] Radovid Spawned InfestedAbomination 
+[22:902] Radovid Spawned InfestedAbomination 
+[25:535] Radovid Bought BuildExtractorManufacturingSector 
+[26:307] Radovid Bought GreaterNydus 
+[26:486] Radovid Bought SiphonFuel 
+[27:760] Radovid Bought ConstructiveCreep 
+[27:946] Radovid Bought GreaterNydus 
+[28:877] Radovid Bought RegenerativeCreep 
+[29:407] Radovid Bought GreaterNydus 
+[30:031] Radovid Spawned MassiveCocoon 
+[30:507] Radovid Bought UnlockDropPods 
+[30:812] Radovid Bought EvolveDropPods 
+[31:471] Radovid Spawned InfestedAbomination 
+[32:168] Radovid Bought SunkenColony 
+[32:650] Radovid Bought GreaterNydus 
+[32:975] Radovid Bought EvolveDropPods 
+[33:005] Radovid Bought DropshipsFueled 
+[33:266] Radovid Bought UltimateInfestationResearched 
+[33:508] Radovid Bought SpawnNydusWorm 
+
+Game Ended
+ 
+STRAIN RATIO: 
+Naked Kills: 252
+T1 Speed Kills:  0 T2 Speed Kills: 0 T3 Speed Kills:  0
+T1 Health Kills: 0 T2 Health Kills: 0 T3 Health Kills: 0
+T1 Damage Kills: 0 T2 Damage Kills: 0 T3 Damage Kills: 0
+T1 Voltaile Kills: 0 T2 Voltaile Kills: 0 T3 Voltaile Kills: 0
+----------------------------------------------------------------------------
+Warpig kills : 1962
+---------------------------------------------------------
+Name: Frosky
+ 
+STRAINS: 
+Naked Kills :  739
+ 
+ALPHAS: 
+Aberation/Abomination Kills : 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: Twinmaner
+ 
+STRAINS: 
+Naked Kills :  1741
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: Smithereen
+ 
+STRAINS: 
+Naked Kills :  238
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: BearBear
+ 
+STRAINS: 
+Naked Kills :  470
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: Andderson
+ 
+STRAINS: 
+Naked Kills :  371
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: Annalise
+ 
+STRAINS: 
+Naked Kills :  864
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: Radovid
+ 
+STRAINS: 
+Naked Kills :  5
+ 
+ALPHAS: 
+END_SIGNATURE
+
+CHAT MESSAGES: 
+[00:179] Radovid: glhf
+[06:163] Frosky: he is going up
+[06:282] Frosky: nv,
+[11:344] Frosky: power
+[13:027] Smithereen: easy rescue
+[13:213] Andderson: power
+[13:270] Frosky: y
+[21:865] Andderson: gg
+[23:947] Andderson: how do you remove this
+[27:765] Twinmaner: divert all the fuel you can
+[31:780] Twinmaner: we will need satchel charges for the alpha
+[32:864] Twinmaner: prepare to fall back to alpha dropship
+[32:995] Frosky: it still is like
+[33:023] Frosky: 8 minutes
+[33:690] Radovid: hello (rofl)
+Radovid First Alpha InfestedAbomination |  Win
+
+Radovid Placed 0 Greaters.
+--------------------------------

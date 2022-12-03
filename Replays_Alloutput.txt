@@ -1,0 +1,1011 @@
+Analyzed: Oh No It's Zombies Arctic Map (17)
+
+ID : 0 PlayerName: ReturnOffer Race: Terran
+ID : 1 PlayerName: Ascherit Race: Terran
+ID : 2 PlayerName: Pandameme Race: Terran
+ID : 3 PlayerName: Ling Race: Zerg
+ID : 4 PlayerName: DeATH Race: Terran
+ID : 5 PlayerName: Ahanax Race: Terran
+ID : 6 PlayerName: Semicedevine Race: Terran
+ID : 7 PlayerName: Security Race: MechaZerg
+PURCHASES: 
+[00:572] ReturnOffer Unlocked AssaultRifle
+[00:656] ReturnOffer Placed/Upgraded MiningDroid
+[00:895] ReturnOffer Unlocked AdvancedDroidEngines
+[02:966] ReturnOffer Unlocked Shotgun
+[04:586] ReturnOffer Unlocked SuperStimpack
+[06:535] ReturnOffer Unlocked SpecOpsShotgun
+[08:544] ReturnOffer Unlocked Stimpack
+[11:268] ReturnOffer Unlocked HighPrecisionBeams
+[11:842] ReturnOffer Unlocked BioMechanicalRepairDrone
+[11:992] ReturnOffer Unlocked MedicShield
+[12:674] ReturnOffer Placed/Upgraded HealingDrone
+[13:561] ReturnOffer Unlocked HazmatSuit
+[16:103] ReturnOffer Unlocked AdvancedHazmatSuit
+[16:323] ReturnOffer Unlocked EnergyPack
+[16:332] ReturnOffer Unlocked OpticalVisor
+[16:834] ReturnOffer Placed/Upgraded HealingDrone
+[17:532] ReturnOffer Unlocked SpecOpsSuperStimpack
+[19:235] ReturnOffer Unlocked MiningCharge
+[19:239] ReturnOffer Unlocked AdvancedMiningCharge
+[20:258] ReturnOffer Placed/Upgraded NukePack
+[20:786] ReturnOffer Placed/Upgraded NukePack
+[23:788] ReturnOffer Placed/Upgraded NukePack
+[26:065] ReturnOffer Placed/Upgraded HealingDrone
+[31:066] ReturnOffer Placed/Upgraded HealingDrone
+[32:462] ReturnOffer Unlocked MotionSensor
+[32:511] ReturnOffer Placed/Upgraded SensorTower
+[32:532] ReturnOffer Placed/Upgraded SensorTower
+[32:659] ReturnOffer Placed/Upgraded SensorTower
+[32:664] ReturnOffer Placed/Upgraded SensorTower
+[32:824] ReturnOffer Placed/Upgraded SensorTower
+[32:839] ReturnOffer Placed/Upgraded SensorTower
+[32:943] ReturnOffer Placed/Upgraded SensorTower
+[32:965] ReturnOffer Placed/Upgraded SensorTower
+[33:165] ReturnOffer Placed/Upgraded SensorTower
+[33:274] ReturnOffer Placed/Upgraded SensorTower
+[33:286] ReturnOffer Placed/Upgraded SensorTower
+[33:399] ReturnOffer Placed/Upgraded SensorTower
+[33:467] ReturnOffer Placed/Upgraded SensorTower
+[33:708] ReturnOffer Placed/Upgraded SensorTower
+[33:747] ReturnOffer Placed/Upgraded HealingDrone
+[33:784] ReturnOffer Placed/Upgraded SensorTower
+
+[00:572] Ascherit Unlocked AssaultRifle
+[00:651] Ascherit Placed/Upgraded MiningDroid
+[00:706] Ascherit Unlocked AdvancedDroidEngines
+[01:895] Ascherit Unlocked IncendiaryGrenade
+[05:714] Ascherit Unlocked BeamRifle
+[05:752] Ascherit Unlocked SuperStimpack
+[07:561] Ascherit Placed/Upgraded MiningDroid
+[07:761] Ascherit Unlocked SpecOpsPlasmaRifle
+[09:460] Ascherit Unlocked BioMechanicalRepairDrone
+[10:264] Ascherit Unlocked HazmatSuit
+[11:469] Ascherit Unlocked Stimpack
+[12:758] Ascherit Placed/Upgraded HealingDrone
+[13:562] Ascherit Bought ShieldSuit
+[13:562] Ascherit Bought CombatSuit
+[13:562] Ascherit Bought HazmatSuit
+[13:562] Ascherit Bought HazmatSuit
+[14:452] Ascherit Unlocked LongRangeScope
+[14:483] Ascherit Unlocked EnergyPack
+[15:721] Ascherit Unlocked MedicShield
+[16:104] Ascherit Bought HazmatSuit
+[16:519] Ascherit Unlocked AdvancedHazmatSuit
+[16:591] Ascherit Unlocked ForceFieldGrenade
+[17:218] Ascherit Placed/Upgraded HealingDrone
+[17:569] Ascherit Placed/Upgraded HealingDrone
+[18:632] Ascherit Unlocked MiningCharge
+[19:369] Ascherit Unlocked AdvancedMiningCharge
+[23:537] Ascherit Placed/Upgraded NukePack
+[23:686] Ascherit Placed/Upgraded NukePack
+[23:937] Ascherit Placed/Upgraded NukePack
+[26:313] Ascherit Unlocked PsiDisrupter
+[26:414] Ascherit Placed/Upgraded PsiIndoctrinator
+[27:156] Ascherit Placed/Upgraded PsiIndoctrinator
+[28:873] Ascherit Unlocked SpecOpsPsiDisruptor
+[30:811] Ascherit Placed/Upgraded HealingDrone
+[31:198] Ascherit Unlocked EnergySuit
+[31:199] Ascherit Unlocked EnergySuit
+[31:381] Ascherit Unlocked AdvancedEnergySuit
+[31:382] Ascherit Unlocked EnergySuit
+[31:382] Ascherit Unlocked AdvancedEnergySuit
+[33:034] Ascherit Unlocked CombatSuit
+[33:035] Ascherit Unlocked AdvancedEnergySuit
+[33:038] Ascherit Unlocked AdvancedCombatSuit
+[34:407] Ascherit Placed/Upgraded PsiIndoctrinator
+
+[00:572] Pandameme Unlocked AssaultRifle
+[00:651] Pandameme Placed MiningDroid
+[00:718] Pandameme Unlocked AdvancedDroidEngines
+[02:284] Pandameme Unlocked Shotgun
+[04:672] Pandameme Unlocked SpecOpsShotgun
+[06:687] Pandameme Unlocked Stimpack
+[07:813] Pandameme Unlocked HazmatSuit
+[09:838] Pandameme Unlocked HighPrecisionBeams
+[10:265] Pandameme Bought ShieldSuit
+[10:265] Pandameme Bought CombatSuit
+[10:265] Pandameme Bought HazmatSuit
+[10:265] Pandameme Bought HazmatSuit
+[10:738] Pandameme Unlocked SuperStimpack
+[11:750] Pandameme Unlocked BioMechanicalRepairDrone
+[13:622] Pandameme Placed HealingDrone
+[15:076] Pandameme Placed MiningDroid
+[15:497] Pandameme Placed HealingDrone
+[15:694] Pandameme Placed HealingDrone
+[15:921] Pandameme Placed HealingDrone
+[16:520] Pandameme Bought HazmatSuit
+[17:050] Pandameme Unlocked TurboDroidEngines
+[18:128] Pandameme Placed HealingDrone
+[18:751] Pandameme Unlocked SpecOpsSuperStimpack
+[18:835] Pandameme Unlocked CombatShield
+[19:907] Pandameme Placed HealingDrone
+[20:165] Pandameme Unlocked QuantumBackpack
+[20:204] Pandameme Unlocked AutoTurret
+[20:576] Pandameme Unlocked FlameTurret
+[21:143] Pandameme Placed AutoTurret
+[21:381] Pandameme Placed HealingDrone
+[21:844] Pandameme Placed AutoTurret
+[22:176] Pandameme Placed HealingDrone
+[22:461] Pandameme Placed HealingDrone
+[22:922] Pandameme Placed AutoTurret
+[23:131] Pandameme Placed AutoTurret
+[23:358] Pandameme Placed HealingDrone
+[23:668] Pandameme Unlocked HeavyTurret
+[23:920] Pandameme Placed AutoTurret
+[25:261] Pandameme Placed HealingDrone
+[25:399] Pandameme Unlocked MiningCharge
+[26:359] Pandameme Unlocked ExplorationDroid
+[26:372] Pandameme Placed ExplorationDroid
+[26:668] Pandameme Placed HealingDrone
+[26:903] Pandameme Placed AutoTurret
+[27:461] Pandameme Unlocked AdvancedMiningCharge
+[27:976] Pandameme Placed NukePack
+[28:207] Pandameme Placed ExplorationDroid
+[28:799] Pandameme Placed AutoTurret
+[31:199] Pandameme Bought ShieldSuit
+[31:199] Pandameme Bought CombatSuit
+[31:199] Pandameme Bought HazmatSuit
+[32:474] Pandameme Unlocked AdvancedExplorationDroid
+[32:736] Pandameme Placed NukePack
+[32:876] Pandameme Placed NukePack
+[33:035] Pandameme Bought ShieldSuit
+[33:035] Pandameme Bought CombatSuit
+[33:035] Pandameme Bought HazmatSuit
+[33:035] Pandameme Bought CombatSuit
+[33:039] Pandameme Bought CombatSuit
+[33:188] Pandameme Placed NukePack
+
+[00:000] Ling Spawned Abomination
+[00:568] Ling Bought PlayerNumber
+[00:681] Ling Spawned MassiveCocoon
+[01:011] Ling Placed/Upgraded NydusCanalCreeper
+[02:121] Ling Spawned Hunter
+[06:184] Ling Bought CreepSpeed
+[07:814] Ling Bought ShieldSuit
+[07:814] Ling Bought CombatSuit
+[07:814] Ling Bought HazmatSuit
+[07:814] Ling Bought HazmatSuit
+[08:271] Ling Placed/Upgraded ToxicNest
+[08:276] Ling Placed/Upgraded ToxicNest
+[09:445] Ling Bought CreepSpeed
+[11:090] Ling Spawned MassiveCocoon
+[12:268] Ling Placed/Upgraded PrimalSunkenColony
+[12:269] Ling Bought SunkenColony
+[12:530] Ling Spawned PrimalTownHallUprooted
+[14:163] Ling Bought BuildExtractorExcavationZone
+[14:163] Ling Placed/Upgraded AutomatedExtractor
+[14:443] Ling Placed/Upgraded LocustNest
+[16:239] Ling Bought SunkenColony
+[16:914] Ling Bought UnlockDropPods
+[17:391] Ling Bought EvolveDropPods
+[17:393] Ling Bought EvolveDropPods
+[17:396] Ling Bought EvolveDropPods
+[18:119] Ling Bought EvolveDropPods
+[18:292] Ling Bought EvolveDropPods
+[18:865] Ling Placed/Upgraded PrimalSunkenColony
+[18:866] Ling Bought SunkenColony
+[20:677] Ling Bought EvolveDropPods
+[21:018] Ling Bought StrainHealth
+[21:022] Ling Bought StrainDamage
+[21:676] Ling Bought PureStrainHealth
+[21:716] Ling Placed/Upgraded ToxicNest
+[21:717] Ling Placed/Upgraded ToxicNest
+[22:625] Ling Placed/Upgraded NydusCanalCreeper
+[22:953] Ling Placed/Upgraded PrimalSunkenColony
+[22:954] Ling Bought SunkenColony
+[23:247] Ling Bought SunkenColony
+[24:193] Ling Bought PureStrainDamage
+[24:211] Ling Bought DefilerStrain
+[25:202] Ling Bought DropshipsFueled
+[25:562] Ling Bought UltimateInfestationResearched
+[25:612] Ling Spawned MassiveCocoon
+[25:631] Ling Spawned MassiveCocoon
+[25:642] Ling Spawned MassiveCocoon
+[26:439] Ling Placed/Upgraded NydusCanalCreeper
+[26:543] Ling Bought TankStrain
+[26:561] Ling Bought StrainDamage
+[26:567] Ling Bought PureStrainDamage
+[26:580] Ling Bought StrainHealth
+[26:794] Ling Placed/Upgraded ToxicNest
+[26:803] Ling Placed/Upgraded ToxicNest
+[26:822] Ling Placed/Upgraded ToxicNest
+[27:052] Ling Spawned Anubalisk
+[27:071] Ling Spawned Lurker
+[27:082] Ling Spawned Anubalisk
+[27:083] Ling Bought BuildExtractorExcavationZone
+[28:580] Ling Placed/Upgraded NydusCanalCreeper
+[28:822] Ling Spawned MassiveCocoon
+[29:902] Ling Spawned Underseer
+[30:088] Ling Placed/Upgraded NydusCanalCreeper
+[30:342] Ling Placed/Upgraded NydusCanalCreeper
+[30:893] Ling Bought SpawnNydusWorm
+[31:524] Ling Placed/Upgraded GreaterNydusWorm
+[32:028] Ling Bought DefilerStrain
+[32:041] Ling Bought PureStrainHealth
+
+[00:572] DeATH Unlocked AssaultRifle
+[00:651] DeATH Placed/Upgraded MiningDroid
+[02:126] DeATH Unlocked AdvancedDroidEngines
+[03:474] DeATH Unlocked Shotgun
+[04:921] DeATH Unlocked ExplorationDroid
+[04:956] DeATH Placed/Upgraded ExplorationDroid
+[04:975] DeATH Placed/Upgraded ExplorationDroid
+[05:117] DeATH Placed/Upgraded ExplorationDroid
+[06:942] DeATH Unlocked Flamethrower
+[07:287] DeATH Unlocked SpecOpsFlamethrower
+[11:406] DeATH Unlocked Teleporter
+[11:496] DeATH Unlocked ThermiteFilaments
+[11:843] DeATH Unlocked CombatShield
+[12:763] DeATH Unlocked Stimpack
+[13:958] DeATH Unlocked BioMechanicalRepairDrone
+[14:673] DeATH Placed/Upgraded HealingDrone
+[15:675] DeATH Placed/Upgraded HealingDrone
+[17:123] DeATH Placed/Upgraded HealingDrone
+[17:557] DeATH Unlocked TurboDroidEngines
+[17:612] DeATH Placed/Upgraded HealingDrone
+[17:663] DeATH Unlocked HazmatSuit
+[18:149] DeATH Placed/Upgraded HealingDrone
+[18:679] DeATH Placed/Upgraded HealingDrone
+[19:513] DeATH Unlocked SpecOpsTeleporter
+[19:988] DeATH Placed/Upgraded HealingDrone
+[20:564] DeATH Placed/Upgraded HealingDrone
+[20:901] DeATH Placed/Upgraded HealingDrone
+[21:908] DeATH Unlocked AutoTurret
+[21:932] DeATH Unlocked FlameTurret
+[21:982] DeATH Placed/Upgraded AutoTurret
+[22:786] DeATH Placed/Upgraded HealingDrone
+[23:111] DeATH Unlocked QuantumBackpack
+[23:130] DeATH Unlocked OpticalVisor
+[23:643] DeATH Unlocked MiningCharge
+[24:280] DeATH Placed/Upgraded AutoTurret
+[24:522] DeATH Placed/Upgraded HealingDrone
+[24:852] DeATH Placed/Upgraded NukePack
+[25:337] DeATH Unlocked AdvancedMiningCharge
+[25:525] DeATH Placed/Upgraded NukePack
+[26:485] DeATH Placed/Upgraded NukePack
+[27:769] DeATH Placed/Upgraded HealingDrone
+[28:321] DeATH Placed/Upgraded HealingDrone
+[29:674] DeATH Placed/Upgraded NukePack
+[29:842] DeATH Placed/Upgraded AutoTurret
+[30:351] DeATH Placed/Upgraded AutoTurret
+[30:579] DeATH Placed/Upgraded HealingDrone
+[31:205] DeATH Placed/Upgraded AutoTurret
+[31:313] DeATH Placed/Upgraded NukePack
+[31:550] DeATH Placed/Upgraded AutoTurret
+[31:734] DeATH Unlocked PsiDisrupter
+[31:751] DeATH Unlocked PsiDepressor
+[32:087] DeATH Placed/Upgraded PsiIndoctrinator
+
+[00:572] Ahanax Unlocked AssaultRifle
+[00:651] Ahanax Placed/Upgraded MiningDroid
+[00:844] Ahanax Unlocked ArcWelder
+[01:577] Ahanax Unlocked BioMechanicalRepairDrone
+[01:597] Ahanax Unlocked CombatAccelerationDrone
+[02:865] Ahanax Placed/Upgraded HealingDrone
+[03:211] Ahanax Placed/Upgraded HealingDrone
+[03:486] Ahanax Placed/Upgraded HealingDrone
+[04:517] Ahanax Unlocked Stimpack
+[05:076] Ahanax Unlocked AdvancedDroidEngines
+[05:904] Ahanax Placed/Upgraded HealingDrone
+[07:112] Ahanax Unlocked TurboDroidEngines
+[07:806] Ahanax Unlocked AutoTurret
+[07:911] Ahanax Unlocked FlameTurret
+[08:717] Ahanax Placed/Upgraded AutoTurret
+[09:932] Ahanax Unlocked HeavyTurret
+[10:217] Ahanax Placed/Upgraded AutoTurret
+[10:396] Ahanax Placed/Upgraded AutoTurret
+[10:680] Ahanax Unlocked CombatSuit
+[11:099] Ahanax Placed/Upgraded AutoTurret
+[11:540] Ahanax Unlocked ExplorationDroid
+[11:580] Ahanax Placed/Upgraded ExplorationDroid
+[11:904] Ahanax Placed/Upgraded ExplorationDroid
+[12:636] Ahanax Placed/Upgraded AutoTurret
+[12:966] Ahanax Placed/Upgraded AutoTurret
+[13:122] Ahanax Placed/Upgraded AutoTurret
+[13:342] Ahanax Placed/Upgraded AutoTurret
+[13:477] Ahanax Placed/Upgraded AutoTurret
+[13:604] Ahanax Unlocked AdvancedCombatSuit
+[13:700] Ahanax Placed/Upgraded ExplorationDroid
+[14:313] Ahanax Unlocked PsiDisrupter
+[14:542] Ahanax Placed/Upgraded PsiIndoctrinator
+[15:595] Ahanax Placed/Upgraded PsiIndoctrinator
+[16:159] Ahanax Placed/Upgraded PsiIndoctrinator
+[17:395] Ahanax Unlocked PsiDepressor
+[17:565] Ahanax Placed/Upgraded AutoTurret
+[17:664] Ahanax Bought ShieldSuit
+[17:664] Ahanax Bought CombatSuit
+[17:664] Ahanax Bought HazmatSuit
+[17:664] Ahanax Bought HazmatSuit
+[17:997] Ahanax Placed/Upgraded AutoTurret
+[18:607] Ahanax Unlocked MiningCharge
+[20:047] Ahanax Unlocked AdvancedMiningCharge
+[20:611] Ahanax Placed/Upgraded NukePack
+[22:181] Ahanax Unlocked AdvancedExplorationDroid
+[23:035] Ahanax Placed/Upgraded NukePack
+[23:136] Ahanax Placed/Upgraded NukePack
+[27:789] Ahanax Placed/Upgraded PsiIndoctrinator
+[28:073] Ahanax Placed/Upgraded NukePack
+[28:283] Ahanax Placed/Upgraded NukePack
+[28:476] Ahanax Unlocked MotionSensor
+[28:485] Ahanax Unlocked AdvancedMotionSensor
+[28:701] Ahanax Placed/Upgraded SensorTower
+[28:909] Ahanax Placed/Upgraded SensorTower
+[29:437] Ahanax Placed/Upgraded SensorTower
+[30:244] Ahanax Placed/Upgraded AutoTurret
+[30:419] Ahanax Placed/Upgraded AutoTurret
+[30:622] Ahanax Placed/Upgraded AutoTurret
+[30:918] Ahanax Unlocked SpecOpsArcWelder
+[30:948] Ahanax Unlocked ArcWelderMod3
+[31:060] Ahanax Placed/Upgraded AutoTurret
+[31:249] Ahanax Placed/Upgraded AutoTurret
+[31:729] Ahanax Placed/Upgraded AutoTurret
+[32:242] Ahanax Placed/Upgraded NukePack
+[33:500] Ahanax Placed/Upgraded AutoTurret
+
+[00:572] Semicedevine Unlocked AssaultRifle
+[01:248] Semicedevine Unlocked OverloadWeapon
+[05:353] Semicedevine Unlocked SpecOpsAssaultRifle
+[07:017] Semicedevine Unlocked ExplorationDroid
+[09:450] Semicedevine Unlocked AdvancedDroidEngines
+[10:681] Semicedevine Bought ShieldSuit
+[10:681] Semicedevine Bought CombatSuit
+[10:681] Semicedevine Bought HazmatSuit
+[10:681] Semicedevine Bought CombatSuit
+[11:086] Semicedevine Unlocked TurboDroidEngines
+[13:605] Semicedevine Bought CombatSuit
+[13:647] Semicedevine Unlocked CombatSuit
+[13:650] Semicedevine Unlocked AdvancedCombatSuit
+[14:653] Semicedevine Unlocked BioMechanicalRepairDrone
+[21:377] Semicedevine Unlocked AIAssistant
+[25:854] Semicedevine Unlocked QuantumBackpack
+[25:920] Semicedevine Unlocked SpecOpsBioMechanicalRepairDrone
+[28:213] Semicedevine Unlocked AutoTurret
+[28:249] Semicedevine Unlocked HeavyTurret
+[32:390] Semicedevine Unlocked RechargeDrone
+
+[13:648] Security Bought ShieldSuit
+[13:648] Security Bought CombatSuit
+[13:648] Security Bought HazmatSuit
+[13:648] Security Bought CombatSuit
+[13:651] Security Bought CombatSuit
+
+Game Ended
+ 
+STRAIN RATIO: 
+Naked Kills: 299
+T1 Speed Kills:  0 T2 Speed Kills: 29 T3 Speed Kills:  0
+T1 Health Kills: 3 T2 Health Kills: 18 T3 Health Kills: 5
+T1 Damage Kills: 3 T2 Damage Kills: 37 T3 Damage Kills: 2
+T1 Voltaile Kills: 0 T2 Voltaile Kills: 3 T3 Voltaile Kills: 0
+----------------------------------------------------------------------------
+Warpig kills : 2672
+---------------------------------------------------------
+Name: ReturnOffer
+ 
+STRAINS: 
+Naked Kills :  558
+T1_Health Kills : 4
+T2_Health Kills : 33
+T3_Health Kills : 1
+T1_Damage Kills : 43
+T2_Damage Kills : 10
+T3_Damage Kills : 1
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: Ascherit
+ 
+STRAINS: 
+Naked Kills :  225
+T1_Health Kills : 28
+T2_Health Kills : 19
+T3_Health Kills : 0
+T1_Damage Kills : 3
+T2_Damage Kills : 66
+T3_Damage Kills : 1
+ 
+ALPHAS: 
+Hunter/Predator Kills : 1
+Geneweaver/GeneSplicer Kills : 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: Pandameme
+ 
+STRAINS: 
+Naked Kills :  514
+T1_Health Kills : 13
+T2_Health Kills : 8
+T3_Health Kills : 0
+T1_Damage Kills : 1
+T2_Damage Kills : 15
+T3_Damage Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: Ling
+ 
+STRAINS: 
+Naked Kills :  22
+T1_Health Kills : 10
+T2_Health Kills : 7
+T3_Health Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: DeATH
+ 
+STRAINS: 
+Naked Kills :  677
+T1_Health Kills : 61
+T2_Health Kills : 34
+T3_Health Kills : 3
+T1_Damage Kills : 37
+T2_Damage Kills : 76
+T3_Damage Kills : 5
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: Ahanax
+ 
+STRAINS: 
+Naked Kills :  159
+T1_Health Kills : 34
+T2_Health Kills : 95
+T3_Health Kills : 4
+T1_Damage Kills : 5
+T2_Damage Kills : 20
+T3_Damage Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: Semicedevine
+ 
+STRAINS: 
+Naked Kills :  376
+T1_Damage Kills : 2
+T2_Damage Kills : 8
+T3_Damage Kills : 1
+ 
+ALPHAS: 
+END_SIGNATURE
+
+CHAT MESSAGES: 
+[00:134] ReturnOffer: (glhf)
+[00:241] ReturnOffer: ahanax carry us
+[00:453] Ahanax: uh
+[06:261] Ling: loool
+[06:337] ReturnOffer: xD
+[21:901] ReturnOffer: frosky stream sniping (thinking)
+[21:989] Ling: wat
+[22:110] Ling: oh
+[25:310] Ling: dang
+[25:401] Ascherit: calculated
+[25:424] ReturnOffer: LMAO
+[25:505] Semicedevine: it was exactly
+[25:572] Semicedevine: on time
+[25:616] Ascherit: just math difference
+[26:347] DeATH: lol
+[29:017] Pandameme: wtf
+[33:126] Ling: gg
+[33:254] Pandameme: gg
+[34:170] Ling: ascherit didint made it?
+[34:182] Ling: xd
+[34:219] Ling: xD
+[34:386] Ascherit: pred>
+Analyzed: Oh No It's Zombies Arctic Map (18)
+
+ID : 0 PlayerName: Tin Race: Terran
+ID : 1 PlayerName: Ahanax Race: Terran
+ID : 2 PlayerName: ReturnOffer Race: Terran
+ID : 3 PlayerName: Wooky Race: Terran
+ID : 4 PlayerName: MarFly Race: Terran
+ID : 5 PlayerName: Ascherit Race: Terran
+ID : 6 PlayerName: Ling Race: Zerg
+ID : 7 PlayerName: Security Race: Terran Mengsk
+PURCHASES: 
+[00:572] Tin Unlocked AssaultRifle
+[00:651] Tin Placed/Upgraded MiningDroid
+[00:725] Tin Unlocked Shotgun
+[03:332] Tin Unlocked SuperStimpack
+[05:646] Tin Unlocked SpecOpsShotgun
+[06:893] Tin Unlocked ExplorationDroid
+[06:916] Tin Placed/Upgraded ExplorationDroid
+[07:004] Tin Placed/Upgraded ExplorationDroid
+[07:361] Tin Placed/Upgraded ExplorationDroid
+[08:567] Tin Unlocked HighPrecisionBeams
+[10:109] Tin Unlocked MedicShield
+[12:540] Tin Unlocked BioMechanicalRepairDrone
+[12:678] Tin Placed/Upgraded ExplorationDroid
+[14:203] Tin Unlocked Stimpack
+[15:177] Tin Unlocked HazmatSuit
+[16:233] Tin Placed/Upgraded HealingDrone
+[17:405] Tin Unlocked SpecOpsSuperStimpack
+[17:940] Tin Placed/Upgraded HealingDrone
+[18:743] Tin Placed/Upgraded HealingDrone
+[19:805] Tin Placed/Upgraded HealingDrone
+[20:725] Tin Unlocked EnergyPack
+[20:732] Tin Unlocked OpticalVisor
+[21:758] Tin Unlocked MiningCharge
+[21:824] Tin Placed/Upgraded NukePack
+[22:109] Tin Placed/Upgraded HealingDrone
+[23:242] Tin Placed/Upgraded NukePack
+[26:683] Tin Placed/Upgraded HealingDrone
+[30:662] Tin Placed/Upgraded HealingDrone
+[31:339] Tin Placed/Upgraded HealingDrone
+
+[00:572] Ahanax Unlocked AssaultRifle
+[00:651] Ahanax Placed/Upgraded MiningDroid
+[00:886] Ahanax Unlocked IncendiaryGrenade
+[02:812] Ahanax Unlocked AdvancedDroidEngines
+[03:699] Ahanax Unlocked FragGrenade
+[06:555] Ahanax Unlocked TurboDroidEngines
+[08:265] Ahanax Unlocked SpecOpsAssaultRifle
+[10:400] Ahanax Unlocked TitaniumBulletCasings
+[11:714] Ahanax Placed/Upgraded MiningDroid
+[12:750] Ahanax Unlocked Stimpack
+[13:658] Ahanax Unlocked ExplorationDroid
+[13:687] Ahanax Placed/Upgraded ExplorationDroid
+[13:694] Ahanax Placed/Upgraded ExplorationDroid
+[14:332] Ahanax Placed/Upgraded ExplorationDroid
+[15:178] Ahanax Bought ShieldSuit
+[15:178] Ahanax Bought CombatSuit
+[15:178] Ahanax Bought HazmatSuit
+[15:178] Ahanax Bought HazmatSuit
+[15:466] Ahanax Unlocked SpecOpsIncendiaryGrenade
+[16:339] Ahanax Placed/Upgraded MiningDroid
+[19:002] Ahanax Unlocked BioMechanicalRepairDrone
+[19:327] Ahanax Unlocked PsiDisrupter
+[19:375] Ahanax Placed/Upgraded PsiIndoctrinator
+[21:273] Ahanax Placed/Upgraded PsiIndoctrinator
+[21:442] Ahanax Unlocked EnergySuit
+[21:443] Ahanax Unlocked EnergySuit
+[23:885] Ahanax Placed/Upgraded PsiIndoctrinator
+[25:370] Ahanax Placed/Upgraded HealingDrone
+[26:171] Ahanax Placed/Upgraded PsiIndoctrinator
+[26:555] Ahanax Unlocked SpecOpsBioMechanicalRepairDrone
+[30:588] Ahanax Unlocked PsiDepressor
+[31:132] Ahanax Placed/Upgraded PsiIndoctrinator
+[31:329] Ahanax Unlocked AdvancedEnergySuit
+[31:330] Ahanax Unlocked EnergySuit
+[31:330] Ahanax Unlocked AdvancedEnergySuit
+[33:028] Ahanax Placed/Upgraded HealingDrone
+[33:293] Ahanax Placed/Upgraded HealingDrone
+[33:608] Ahanax Placed/Upgraded HealingDrone
+[34:084] Ahanax Placed/Upgraded HealingDrone
+[34:292] Ahanax Placed/Upgraded HealingDrone
+[34:423] Ahanax Placed/Upgraded ExplorationDroid
+[34:480] Ahanax Placed/Upgraded HealingDrone
+
+[00:572] ReturnOffer Unlocked AssaultRifle
+[00:651] ReturnOffer Placed/Upgraded MiningDroid
+[00:692] ReturnOffer Unlocked BeamRifle
+[03:649] ReturnOffer Unlocked Stimpack
+[06:214] ReturnOffer Unlocked SuperStimpack
+[08:272] ReturnOffer Unlocked SpecOpsPlasmaRifle
+[09:828] ReturnOffer Unlocked MedicShield
+[09:887] ReturnOffer Unlocked LongRangeScope
+[16:231] ReturnOffer Unlocked BioMechanicalRepairDrone
+[16:277] ReturnOffer Unlocked ForceFieldGrenade
+[16:280] ReturnOffer Unlocked SpecOpsForcefieldGrenade
+[16:356] ReturnOffer Unlocked MiningCharge
+[16:360] ReturnOffer Unlocked AdvancedMiningCharge
+[16:534] ReturnOffer Unlocked EnergyPack
+[16:553] ReturnOffer Unlocked OpticalVisor
+[17:345] ReturnOffer Placed/Upgraded HealingDrone
+[18:124] ReturnOffer Placed/Upgraded HealingDrone
+[18:643] ReturnOffer Placed/Upgraded HealingDrone
+[21:443] ReturnOffer Bought ShieldSuit
+[21:443] ReturnOffer Bought CombatSuit
+[21:443] ReturnOffer Bought HazmatSuit
+[21:508] ReturnOffer Placed/Upgraded HealingDrone
+[32:563] ReturnOffer Unlocked HazmatSuit
+[32:566] ReturnOffer Unlocked AdvancedHazmatSuit
+[32:605] ReturnOffer Unlocked AIAssistant
+[35:730] ReturnOffer Placed/Upgraded HealingDrone
+
+[00:572] Wooky Unlocked AssaultRifle
+[00:667] Wooky Placed/Upgraded MiningDroid
+[00:810] Wooky Unlocked MiningCharge
+[02:000] Wooky Unlocked AdvancedDroidEngines
+[07:112] Wooky Unlocked SpecOpsAssaultRifle
+[07:135] Wooky Unlocked AutoTargetingSystem
+[10:096] Wooky Unlocked Shieldsiotunlocked
+[10:138] Wooky Unlocked FragGrenade
+[10:222] Wooky Unlocked SpecOpsFragGrenade
+[11:234] Wooky Unlocked Stimpack
+[12:955] Wooky Unlocked AdvancedShieldSuit
+[12:999] Wooky Unlocked CombatShield
+[15:202] Wooky Unlocked PowerConverter
+[15:215] Wooky Unlocked SpecOpsPowerConverter
+[16:743] Wooky Unlocked OpticalVisor
+[16:750] Wooky Unlocked EnergyPack
+[16:877] Wooky Placed/Upgraded NukePack
+[18:958] Wooky Placed/Upgraded NukePack
+[19:038] Wooky Unlocked AdvancedMiningCharge
+[19:677] Wooky Unlocked BioMechanicalRepairDrone
+[19:713] Wooky Placed/Upgraded HealingDrone
+[20:515] Wooky Placed/Upgraded HealingDrone
+[20:712] Wooky Placed/Upgraded HealingDrone
+[21:432] Wooky Placed/Upgraded NukePack
+[22:351] Wooky Placed/Upgraded NukePack
+[23:848] Wooky Placed/Upgraded HealingDrone
+[23:870] Wooky Placed/Upgraded NukePack
+[23:930] Wooky Unlocked SpecOpsBioMechanicalRepairDrone
+[24:021] Wooky Placed/Upgraded HealingDrone
+[25:373] Wooky Placed/Upgraded HealingDrone
+[25:635] Wooky Placed/Upgraded HealingDrone
+[26:287] Wooky Placed/Upgraded NukePack
+[26:399] Wooky Placed/Upgraded HealingDrone
+[26:668] Wooky Placed/Upgraded NukePack
+[27:687] Wooky Placed/Upgraded HealingDrone
+[27:741] Wooky Placed/Upgraded NukePack
+[28:134] Wooky Placed/Upgraded HealingDrone
+[29:160] Wooky Placed/Upgraded HealingDrone
+[29:917] Wooky Placed/Upgraded HealingDrone
+[29:950] Wooky Placed/Upgraded NukePack
+[30:707] Wooky Placed/Upgraded HealingDrone
+[31:254] Wooky Placed/Upgraded HealingDrone
+[31:436] Wooky Placed/Upgraded NukePack
+[32:564] Wooky Bought ShieldSuit
+[32:564] Wooky Bought CombatSuit
+[32:564] Wooky Bought HazmatSuit
+[32:564] Wooky Bought HazmatSuit
+[32:567] Wooky Bought HazmatSuit
+
+[00:572] MarFly Unlocked AssaultRifle
+[00:730] MarFly Placed/Upgraded MiningDroid
+[00:810] MarFly Unlocked AdvancedDroidEngines
+[04:142] MarFly Unlocked Flamethrower
+[05:159] MarFly Unlocked SpecOpsFlamethrower
+[06:127] MarFly Unlocked BioMechanicalRepairDrone
+[06:692] MarFly Placed/Upgraded HealingDrone
+[07:931] MarFly Unlocked Stimpack
+[08:881] MarFly Unlocked ExplorationDroid
+[08:930] MarFly Placed/Upgraded ExplorationDroid
+[08:977] MarFly Placed/Upgraded ExplorationDroid
+[10:097] MarFly Bought ShieldSuit
+[10:097] MarFly Bought CombatSuit
+[10:097] MarFly Bought HazmatSuit
+[10:097] MarFly Bought ShieldSuit
+[10:378] MarFly Placed/Upgraded HealingDrone
+[10:718] MarFly Unlocked CryoFreeze
+[12:370] MarFly Placed/Upgraded HealingDrone
+[12:670] MarFly Placed/Upgraded HealingDrone
+[12:818] MarFly Placed/Upgraded ExplorationDroid
+[12:956] MarFly Bought ShieldSuit
+[15:599] MarFly Unlocked ForceFieldGrenade
+[15:618] MarFly Unlocked SpecOpsForcefieldGrenade
+[15:704] MarFly Unlocked MedicShield
+[15:740] MarFly Unlocked CombatShield
+[15:751] MarFly Unlocked AIAssistant
+[16:851] MarFly Unlocked Teleporter
+[18:321] MarFly Placed/Upgraded HealingDrone
+[19:677] MarFly Placed/Upgraded HealingDrone
+[20:857] MarFly Unlocked EnergySuit
+[20:858] MarFly Unlocked EnergySuit
+[21:378] MarFly Unlocked MiningCharge
+[21:852] MarFly Placed/Upgraded NukePack
+[29:871] MarFly Placed/Upgraded HealingDrone
+[31:954] MarFly Unlocked MotionSensor
+[31:990] MarFly Unlocked AdvancedMotionSensor
+[32:049] MarFly Placed/Upgraded SensorTower
+[32:251] MarFly Placed/Upgraded SensorTower
+[32:499] MarFly Placed/Upgraded HealingDrone
+[32:537] MarFly Placed/Upgraded SensorTower
+[32:834] MarFly Placed/Upgraded SensorTower
+[32:960] MarFly Placed/Upgraded SensorTower
+[34:219] MarFly Placed/Upgraded SensorTower
+
+[00:572] Ascherit Unlocked AssaultRifle
+[00:651] Ascherit Placed/Upgraded MiningDroid
+[00:820] Ascherit Unlocked ArcWelder
+[02:468] Ascherit Unlocked Stimpack
+[03:172] Ascherit Unlocked AdvancedDroidEngines
+[04:172] Ascherit Unlocked BioMechanicalRepairDrone
+[04:207] Ascherit Unlocked CombatAccelerationDrone
+[04:285] Ascherit Placed/Upgraded HealingDrone
+[04:766] Ascherit Placed/Upgraded HealingDrone
+[04:907] Ascherit Placed/Upgraded HealingDrone
+[05:967] Ascherit Unlocked TurboDroidEngines
+[06:597] Ascherit Unlocked AutoTurret
+[06:810] Ascherit Placed/Upgraded AutoTurret
+[07:169] Ascherit Unlocked HeavyTurret
+[07:811] Ascherit Unlocked RechargeDrone
+[07:883] Ascherit Placed/Upgraded HealingDrone
+[08:274] Ascherit Placed/Upgraded HealingDrone
+[08:424] Ascherit Placed/Upgraded HealingDrone
+[09:805] Ascherit Unlocked PsiDisrupter
+[10:120] Ascherit Unlocked QuantumBackpack
+[10:240] Ascherit Placed/Upgraded PsiIndoctrinator
+[11:385] Ascherit Placed/Upgraded PsiIndoctrinator
+[12:193] Ascherit Placed/Upgraded PsiIndoctrinator
+[12:610] Ascherit Placed/Upgraded AutoTurret
+[12:946] Ascherit Unlocked IncendiaryGrenade
+[13:346] Ascherit Placed/Upgraded AutoTurret
+[13:668] Ascherit Placed/Upgraded AutoTurret
+[14:027] Ascherit Placed/Upgraded AutoTurret
+[15:180] Ascherit Unlocked PsiDepressor
+[15:190] Ascherit Unlocked FlameTurret
+[15:473] Ascherit Placed/Upgraded AutoTurret
+[15:638] Ascherit Placed/Upgraded AutoTurret
+[16:111] Ascherit Placed/Upgraded HealingDrone
+[16:262] Ascherit Placed/Upgraded AutoTurret
+[17:122] Ascherit Unlocked ExplorationDroid
+[17:148] Ascherit Placed/Upgraded ExplorationDroid
+[17:153] Ascherit Placed/Upgraded ExplorationDroid
+[17:223] Ascherit Placed/Upgraded ExplorationDroid
+[18:518] Ascherit Unlocked ForceFieldGrenade
+[18:633] Ascherit Unlocked EnergySuit
+[18:634] Ascherit Unlocked EnergySuit
+[19:549] Ascherit Placed/Upgraded AutoTurret
+[19:608] Ascherit Unlocked MiningCharge
+[19:612] Ascherit Unlocked AdvancedMiningCharge
+[20:087] Ascherit Placed/Upgraded PsiIndoctrinator
+[20:381] Ascherit Placed/Upgraded AutoTurret
+[20:516] Ascherit Placed/Upgraded NukePack
+[20:858] Ascherit Bought ShieldSuit
+[20:858] Ascherit Bought CombatSuit
+[20:858] Ascherit Bought HazmatSuit
+[20:900] Ascherit Placed/Upgraded NukePack
+[21:560] Ascherit Placed/Upgraded NukePack
+[21:613] Ascherit Placed/Upgraded AutoTurret
+[21:926] Ascherit Placed/Upgraded PsiIndoctrinator
+[22:843] Ascherit Placed/Upgraded PsiIndoctrinator
+[23:268] Ascherit Unlocked SpecOpsPsiDisruptor
+[23:692] Ascherit Placed/Upgraded AutoTurret
+[23:866] Ascherit Placed/Upgraded NukePack
+[24:200] Ascherit Placed/Upgraded AutoTurret
+[24:906] Ascherit Placed/Upgraded MiningDroid
+[27:270] Ascherit Placed/Upgraded HealingDrone
+[27:672] Ascherit Unlocked MotionSensor
+[27:676] Ascherit Unlocked AdvancedMotionSensor
+[27:724] Ascherit Placed/Upgraded SensorTower
+[27:765] Ascherit Unlocked AdvancedEnergySuit
+[27:766] Ascherit Unlocked EnergySuit
+[27:766] Ascherit Unlocked AdvancedEnergySuit
+[27:795] Ascherit Unlocked MedicShield
+[27:849] Ascherit Placed/Upgraded SensorTower
+[27:860] Ascherit Placed/Upgraded SensorTower
+[27:994] Ascherit Placed/Upgraded SensorTower
+[28:078] Ascherit Placed/Upgraded SensorTower
+[28:206] Ascherit Placed/Upgraded SensorTower
+[28:249] Ascherit Placed/Upgraded SensorTower
+[28:518] Ascherit Placed/Upgraded SensorTower
+[28:865] Ascherit Unlocked AIAssistant
+[30:599] Ascherit Placed/Upgraded PsiIndoctrinator
+[31:141] Ascherit Placed/Upgraded NukePack
+[31:379] Ascherit Placed/Upgraded NukePack
+[32:749] Ascherit Placed/Upgraded AutoTurret
+[32:889] Ascherit Placed/Upgraded AutoTurret
+[33:149] Ascherit Unlocked SpecOpsBioMechanicalRepairDrone
+[33:385] Ascherit Placed/Upgraded HealingDrone
+
+[00:568] Ling Bought PlayerNumber
+[00:643] Ling Spawned MassiveCocoon
+[02:083] Ling Spawned Hunter
+[03:418] Ling Bought CreepSpeed
+[06:161] Ling Spawned MassiveCocoon
+[07:601] Ling Spawned PrimalTownHallUprooted
+[09:587] Ling Bought CreepSpeed
+[10:780] Ling Bought SunkenColony
+[12:656] Ling Bought SunkenColony
+[12:976] Ling Bought SunkenColony
+[14:257] Ling Spawned MassiveCocoon
+[15:336] Ling Spawned Underseer
+[15:662] Ling Bought SunkenColony
+[16:403] Ling Bought SunkenColony
+[16:812] Ling Bought UnlockDropPods
+[17:488] Ling Bought SunkenColony
+[18:047] Ling Bought EvolveDropPods
+[18:051] Ling Bought EvolveDropPods
+[18:054] Ling Bought EvolveDropPods
+[18:282] Ling Bought SunkenColony
+[18:634] Ling Bought ShieldSuit
+[18:634] Ling Bought CombatSuit
+[18:634] Ling Bought HazmatSuit
+[18:708] Ling Bought SunkenColony
+[18:948] Ling Bought BuildExtractorExcavationZone
+[20:363] Ling Bought EvolveDropPods
+[21:034] Ling Bought SpawnNydusWorm
+[22:069] Ling Bought AdvancedInfestationContainment
+[22:937] Ling Bought VirulentCreep
+[22:937] Ling Bought VirulentCreep
+[24:880] Ling Bought StrainHealth
+[25:534] Ling Bought DropshipsFueled
+[25:548] Ling Bought PureStrainHealth
+[25:561] Ling Bought TankStrain
+[25:624] Ling Bought SunkenColony
+[26:152] Ling Spawned RoyalCocoon
+[26:152] Ling Bought SpawnHiveQueen
+[26:152] Ling Bought UltimateInfestationResearched
+[27:235] Ling Spawned MassiveCocoon
+[27:390] Ling Spawned MassiveCocoon
+[27:881] Ling Spawned MassiveCocoon
+[28:470] Ling Spawned Underseer
+[28:675] Ling Spawned Anubalisk
+[29:113] Ling Bought SunkenColony
+[29:321] Ling Spawned Anubalisk
+[30:350] Ling Bought StrainVolatile
+[30:363] Ling Bought StrainHealth
+[31:579] Ling Spawned MassiveCocoon
+[31:593] Ling Spawned MassiveCocoon
+[32:709] Ling Bought PureStrainHealth
+[32:719] Ling Bought TankStrain
+[33:019] Ling Spawned Anubalisk
+[33:033] Ling Spawned Anubalisk
+[33:582] Ling Bought StrainHealth
+[33:593] Ling Bought PureStrainHealth
+
+
+Game Ended
+ 
+STRAIN RATIO: 
+Naked Kills: 395
+T1 Speed Kills:  3 T2 Speed Kills: 150 T3 Speed Kills:  0
+T1 Health Kills: 1 T2 Health Kills: 17 T3 Health Kills: 4
+T1 Damage Kills: 2 T2 Damage Kills: 7 T3 Damage Kills: 0
+T1 Voltaile Kills: 48 T2 Voltaile Kills: 16 T3 Voltaile Kills: 0
+----------------------------------------------------------------------------
+Warpig kills : 3537
+---------------------------------------------------------
+Name: Tin
+ 
+STRAINS: 
+Naked Kills :  568
+T1_speed Kills : 6
+T2_Speed Kills : 37
+T3_Speed Kills : 0
+T1_Health Kills : 28
+T2_Health Kills : 19
+T3_Health Kills : 2
+T1_Damage Kills : 3
+T2_Damage Kills : 16
+T3_Damage Kills : 0
+T1_Voltaile Kills : 6
+T2_Voltaile Kills : 14
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+Geneweaver/GeneSplicer Kills : 1
+QueenEgg Kills: 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: Ahanax
+ 
+STRAINS: 
+Naked Kills :  334
+T1_Health Kills : 10
+T2_Health Kills : 4
+T3_Health Kills : 1
+T1_Voltaile Kills : 4
+T2_Voltaile Kills : 0
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: ReturnOffer
+ 
+STRAINS: 
+Naked Kills :  358
+T1_speed Kills : 12
+T2_Speed Kills : 8
+T3_Speed Kills : 0
+T1_Health Kills : 9
+T2_Health Kills : 36
+T3_Health Kills : 3
+T1_Damage Kills : 6
+T2_Damage Kills : 3
+T3_Damage Kills : 0
+T1_Voltaile Kills : 8
+T2_Voltaile Kills : 2
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+Geneweaver/GeneSplicer Kills : 1
+Anubalisk/Anubalight Kills : 2
+Underseer/Saboteur Kills : 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: Wooky
+ 
+STRAINS: 
+Naked Kills :  1154
+T1_speed Kills : 45
+T2_Speed Kills : 7
+T3_Speed Kills : 0
+T1_Health Kills : 52
+T2_Health Kills : 70
+T3_Health Kills : 5
+T1_Damage Kills : 23
+T2_Damage Kills : 7
+T3_Damage Kills : 0
+T1_Voltaile Kills : 33
+T2_Voltaile Kills : 3
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+Hunter/Predator Kills : 1
+Underseer/Saboteur Kills : 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: MarFly
+ 
+STRAINS: 
+Naked Kills :  817
+T1_speed Kills : 5
+T2_Speed Kills : 0
+T3_Speed Kills : 0
+T1_Health Kills : 23
+T2_Health Kills : 24
+T3_Health Kills : 2
+T1_Damage Kills : 3
+T2_Damage Kills : 0
+T3_Damage Kills : 0
+T1_Voltaile Kills : 19
+T2_Voltaile Kills : 1
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: Ascherit
+ 
+STRAINS: 
+Naked Kills :  550
+T1_speed Kills : 1
+T2_Speed Kills : 3
+T3_Speed Kills : 0
+T1_Health Kills : 49
+T2_Health Kills : 57
+T3_Health Kills : 2
+T1_Damage Kills : 1
+T2_Damage Kills : 1
+T3_Damage Kills : 0
+T1_Voltaile Kills : 19
+T2_Voltaile Kills : 2
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: Ling
+ 
+STRAINS: 
+Naked Kills :  100
+T1_Voltaile Kills : 119
+T2_Voltaile Kills : 15
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+
+CHAT MESSAGES: 
+[00:118] ReturnOffer: what gun u want me
+[08:592] Wooky: nice try
+[12:649] ReturnOffer: frosky no micro?
+[12:718] ReturnOffer: frosky bad?
+[12:840] Ling: frosky bad
+[22:320] Ling: oh wtf its not creeped
+[23:050] Tin: i killed the tower
+[23:270] Ling: rip
+[26:887] Ascherit: lol
+[26:941] Ling: god damn it
+[27:164] Tin: worth it
+[32:666] Ling: GG
+[34:979] MarFly: XD
+[35:128] Ling: wat
+[35:163] Ling: lool
+[35:174] Wooky: ggggggggggggggggggg
+[35:199] Ling: WOOO
+[35:242] Ling: HALF WIPE OUT
+[35:539] Tin: it was for fun bruh...
+[35:541] ReturnOffer: asch trolled me
+[35:568] ReturnOffer: lolol
+[35:597] Wooky: you're fortunate im still groggy from dinner

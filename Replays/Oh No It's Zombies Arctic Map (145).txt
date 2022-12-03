@@ -1,0 +1,579 @@
+Analyzed: Oh No It's Zombies Arctic Map (145)
+
+Date: 2022.08.26
+
+ID : 0 PlayerName: Frosky Race: Terran
+ID : 1 PlayerName: Pandameme Race: Terran
+ID : 2 PlayerName: Ascherit Race: Terran
+ID : 3 PlayerName: csiz Race: Zerg
+ID : 4 PlayerName: SkyJio Race: Terran
+ID : 5 PlayerName: ReturnOffer Race: Terran
+ID : 6 PlayerName: Happyfeet Race: Terran
+ID : 7 PlayerName: Security Race: Infested Terran
+csiz  Loss
+Private Lobby
+
+Game Length:[40:590]
+Players ammount: 8
+Marine rank avg: 44,833333333333336
+Marine GrandMaster ammount: 11
+
+ReturnOffer First Gun BeamRifle
+Frosky First Gun Flamethrower
+Pandameme First Gun Flamethrower
+Happyfeet First Gun SpecOpsAssaultRifle
+Ascherit First Gun SpecOpsAssaultRifle
+SkyJio First Gun BeamRifle
+
+PURCHASES: 
+[00:572] Frosky Unlocked AssaultRifle 
+[00:663] Frosky Placed/Upgraded MiningDroid 
+[01:183] Frosky Unlocked Flamethrower 
+[03:007] Frosky Unlocked SpecOpsFlamethrower 
+[04:303] Frosky Unlocked BioMechanicalRepairDrone 
+[05:726] Frosky Placed/Upgraded HealingDrone 
+[06:797] Frosky Unlocked CombatShield 
+[08:615] Frosky Unlocked Stimpack 
+[11:338] Frosky Unlocked CryoFreeze 
+[11:423] Frosky Placed/Upgraded HealingDrone 
+[13:526] Frosky Unlocked HazmatSuit 
+[13:840] Frosky Unlocked AdvancedDroidEngines 
+[16:418] Frosky Unlocked AdvancedHazmatSuit 
+[16:465] Frosky Placed/Upgraded HealingDrone 
+[16:831] Frosky Placed/Upgraded HealingDrone 
+[18:190] Frosky Placed/Upgraded MiningDroid 
+[19:019] Frosky Placed/Upgraded HealingDrone 
+[19:809] Frosky Unlocked AIAssistant 
+[21:331] Frosky Unlocked AutoTurret 
+[21:352] Frosky Unlocked FlameTurret 
+[21:482] Frosky Placed/Upgraded AutoTurret 
+[22:918] Frosky Unlocked Teleporter 
+[28:852] Frosky Placed/Upgraded HealingDrone 
+[29:185] Frosky Placed/Upgraded HealingDrone 
+[29:318] Frosky Unlocked FlashBang 
+[29:689] Frosky Placed/Upgraded HealingDrone 
+[30:346] Frosky Placed/Upgraded AutoTurret 
+[30:601] Frosky Placed/Upgraded AutoTurret 
+[31:110] Frosky Placed/Upgraded HealingDrone 
+[31:900] Frosky Placed/Upgraded AutoTurret 
+[32:081] Frosky Placed/Upgraded AutoTurret 
+[38:669] Frosky Placed/Upgraded HealingDrone 
+[39:097] Frosky Placed/Upgraded HealingDrone 
+[39:624] Frosky Placed/Upgraded HealingDrone 
+
+[00:572] Pandameme Unlocked AssaultRifle 
+[00:651] Pandameme Placed/Upgraded MiningDroid 
+[01:259] Pandameme Unlocked Flamethrower 
+[04:063] Pandameme Unlocked SpecOpsFlamethrower 
+[06:392] Pandameme Unlocked Stimpack 
+[07:850] Pandameme Unlocked BioMechanicalRepairDrone 
+[07:886] Pandameme Unlocked CombatShield 
+[09:946] Pandameme Placed/Upgraded HealingDrone 
+[10:853] Pandameme Unlocked HazmatSuit 
+[10:859] Pandameme Unlocked AdvancedHazmatSuit 
+[13:527] Pandameme Bought ShieldSuit 
+[15:629] Pandameme Unlocked FlashBang 
+[15:684] Pandameme Placed/Upgraded HealingDrone 
+[16:419] Pandameme Bought HazmatSuit 
+[16:559] Pandameme Unlocked Teleporter 
+[20:343] Pandameme Unlocked SpecOpsTeleporter 
+[21:435] Pandameme Placed/Upgraded HealingDrone 
+[21:950] Pandameme Placed/Upgraded HealingDrone 
+[22:320] Pandameme Unlocked AIAssistant 
+[22:713] Pandameme Placed/Upgraded HealingDrone 
+[22:978] Pandameme Placed/Upgraded HealingDrone 
+[23:929] Pandameme Placed/Upgraded HealingDrone 
+[25:144] Pandameme Unlocked MiningCharge 
+[25:157] Pandameme Unlocked AdvancedMiningCharge 
+[25:334] Pandameme Placed/Upgraded HealingDrone 
+[25:988] Pandameme Placed/Upgraded NukePack 
+[26:042] Pandameme Placed/Upgraded HealingDrone 
+[26:580] Pandameme Placed/Upgraded HealingDrone 
+[30:645] Pandameme Unlocked EnergyPack 
+[30:838] Pandameme Placed/Upgraded HealingDrone 
+[31:155] Pandameme Placed/Upgraded HealingDrone 
+[31:354] Pandameme Unlocked CryoFreeze 
+[31:898] Pandameme Placed/Upgraded HealingDrone 
+[32:879] Pandameme Placed/Upgraded HealingDrone 
+[35:201] Pandameme Placed/Upgraded HealingDrone 
+
+[00:572] Ascherit Unlocked AssaultRifle 
+[00:833] Ascherit Placed MiningDroid 
+[01:053] Ascherit Unlocked AdvancedDroidEngines 
+[03:473] Ascherit Unlocked SpecOpsAssaultRifle 
+[05:202] Ascherit Unlocked FragGrenade 
+[06:984] Ascherit Unlocked AutoTargetingSystem 
+[07:492] Ascherit Unlocked BioMechanicalRepairDrone 
+[07:896] Ascherit Placed HealingDrone 
+[08:167] Ascherit Placed HealingDrone 
+[08:500] Ascherit Placed HealingDrone 
+[09:363] Ascherit Unlocked ExplorationDroid 
+[09:383] Ascherit Placed ExplorationDroid 
+[09:570] Ascherit Placed ExplorationDroid 
+[09:588] Ascherit Placed ExplorationDroid 
+[10:538] Ascherit Placed MiningDroid 
+[10:854] Ascherit Bought ShieldSuit 
+[10:860] Ascherit Bought HazmatSuit 
+[12:621] Ascherit Unlocked OverloadWeapon 
+[13:661] Ascherit Unlocked HazmatSuit 
+[14:809] Ascherit Unlocked AdvancedHazmatSuit 
+[15:823] Ascherit Placed HealingDrone 
+[16:690] Ascherit Unlocked EnergyPack 
+[16:736] Ascherit Unlocked MedicShield 
+[18:263] Ascherit Placed HealingDrone 
+[19:704] Ascherit Unlocked PowerConverter 
+[20:754] Ascherit Unlocked PsiDisrupter 
+[21:742] Ascherit Placed PsiIndoctrinator 
+[23:192] Ascherit Placed HealingDrone 
+[23:691] Ascherit Placed PsiIndoctrinator 
+[24:661] Ascherit Placed HealingDrone 
+[27:974] Ascherit Placed PsiIndoctrinator 
+[28:750] Ascherit Unlocked SpecOpsPsiDisruptor 
+[30:408] Ascherit Unlocked SpecOpsPowerConverter 
+
+[00:568] csiz Bought PlayerNumber 
+[00:962] csiz Spawned MassiveCocoon 
+[02:402] csiz Spawned InfestedAbomination 
+[04:486] csiz Bought SunkenColony 
+[04:486] csiz Placed/Upgraded PrimalSunkenColony 
+[05:225] csiz Bought SunkenColony 
+[07:513] csiz Spawned MassiveCocoon 
+[08:593] csiz Spawned Underseer 
+[08:683] csiz Bought UnlockDropPods 
+[09:479] csiz Spawned MassiveCocoon 
+[10:559] csiz Spawned Underseer 
+[10:739] csiz Bought VirulentCreep 
+[10:739] csiz Bought VirulentCreep 
+[11:213] csiz Spawned MassiveCocoon 
+[11:627] csiz Bought BuildExtractorScienceLabs 
+[11:627] csiz Placed/Upgraded AutomatedExtractor 
+[12:193] csiz Placed/Upgraded Virophage 
+[12:293] csiz Spawned Underseer 
+[13:079] csiz Bought AdvancedPowerInfestation 
+[13:662] csiz Bought ShieldSuit 
+[13:664] csiz Placed/Upgraded PrimalSunkenColony 
+[13:665] csiz Bought SunkenColony 
+[14:110] csiz Spawned MassiveCocoon 
+[14:677] csiz Bought SunkenColony 
+[14:810] csiz Bought HazmatSuit 
+[14:992] csiz Bought AdvancedInfestationContainment 
+[15:190] csiz Spawned Underseer 
+[15:699] csiz Bought SpawnNydusWorm 
+[17:210] csiz Placed/Upgraded LocustNest 
+[17:483] csiz Placed/Upgraded Virophage 
+[17:834] csiz Placed/Upgraded NydusCanalCreeper 
+[18:074] csiz Bought SunkenColony 
+[18:074] csiz Placed/Upgraded PrimalSunkenColony 
+[18:476] csiz Placed/Upgraded NydusCanalCreeper 
+[19:317] csiz Bought StrainHealth 
+[19:322] csiz Bought PureStrainHealth 
+[19:328] csiz Bought TankStrain 
+[19:886] csiz Placed/Upgraded NydusCanalCreeper 
+[20:348] csiz Bought SunkenColony 
+[20:718] csiz Placed/Upgraded PrimalSunkenColony 
+[20:719] csiz Bought SunkenColony 
+[20:744] csiz Bought ConstructiveCreep 
+[20:959] csiz Placed/Upgraded LocustNest 
+[21:211] csiz Bought SunkenColony 
+[21:423] csiz Placed/Upgraded NydusCanalCreeper 
+[21:717] csiz Placed/Upgraded PrimalSunkenColony 
+[21:718] csiz Bought SunkenColony 
+[22:202] csiz Placed/Upgraded GreaterNydusWorm 
+[22:230] csiz Bought StrainVolatile 
+[22:344] csiz Bought EvolveDropPods 
+[22:456] csiz Placed/Upgraded PrimalSunkenColony 
+[22:457] csiz Bought SunkenColony 
+[22:859] csiz Placed/Upgraded NydusCanalCreeper 
+[22:970] csiz Bought SunkenColony 
+[23:152] csiz Bought SunkenColony 
+[23:728] csiz Bought EvolveDropPods 
+[23:991] csiz Placed/Upgraded PrimalSunkenColony 
+[23:992] csiz Bought SunkenColony 
+[24:064] csiz Bought SunkenColony 
+[24:107] csiz Bought EvolveDropPods 
+[24:110] csiz Bought EvolveDropPods 
+[24:185] csiz Placed/Upgraded LocustNest 
+[24:460] csiz Placed/Upgraded LocustNest 
+[24:719] csiz Bought SiphonFuel 
+[25:084] csiz Placed/Upgraded Virophage 
+[25:442] csiz Placed/Upgraded NydusCanalCreeper 
+[26:098] csiz Placed/Upgraded LesserNydusWorm 
+[26:099] csiz Bought GreaterNydus 
+[26:375] csiz Bought SunkenColony 
+[26:375] csiz Placed/Upgraded PrimalSunkenColony 
+[26:572] csiz Placed/Upgraded PrimalSunkenColony 
+[26:573] csiz Bought SunkenColony 
+[27:309] csiz Placed/Upgraded PrimalSunkenColony 
+[27:310] csiz Bought SunkenColony 
+[27:411] csiz Bought SunkenColony 
+[27:701] csiz Bought SiphonFuel 
+[27:788] csiz Placed/Upgraded PrimalSunkenColony 
+[27:789] csiz Bought SunkenColony 
+[28:191] csiz Bought SunkenColony 
+[28:291] csiz Placed/Upgraded LesserNydusWorm 
+[28:292] csiz Bought GreaterNydus 
+[28:451] csiz Placed/Upgraded NydusCanalCreeper 
+[28:785] csiz Bought BuildExtractorProcessingFacilities 
+[28:785] csiz Placed/Upgraded AutomatedExtractor 
+[28:850] csiz Placed/Upgraded NydusCanalCreeper 
+[29:370] csiz Placed/Upgraded PrimalSunkenColony 
+[29:371] csiz Bought SunkenColony 
+[29:386] csiz Bought SunkenColony 
+[29:657] csiz Bought SunkenColony 
+[29:731] csiz Bought SunkenColony 
+[29:792] csiz Placed/Upgraded GreaterNydusWorm 
+[30:177] csiz Bought PureStrainVolatile 
+[30:599] csiz Bought SiphonFuel 
+[30:727] csiz Bought GreaterNydus 
+[31:617] csiz Placed/Upgraded PrimalSunkenColony 
+[31:618] csiz Bought SunkenColony 
+[32:653] csiz Placed/Upgraded Virophage 
+[33:021] csiz Placed/Upgraded LesserNydusWorm 
+[33:022] csiz Bought GreaterNydus 
+[33:183] csiz Spawned MassiveCocoon 
+[33:205] csiz Spawned MassiveCocoon 
+[33:349] csiz Spawned MassiveCocoon 
+[33:460] csiz Placed/Upgraded NydusCanalCreeper 
+[33:547] csiz Bought SiphonFuel 
+[33:871] csiz Bought AdvancedInfestationGateControl 
+[34:205] csiz Placed/Upgraded NydusCanalCreeper 
+[34:429] csiz Spawned Underseer 
+[34:623] csiz Spawned InfestedAbomination 
+[34:645] csiz Spawned Anubalisk 
+[34:839] csiz Placed/Upgraded PrimalSunkenColony 
+[34:840] csiz Bought SunkenColony 
+[34:898] csiz Bought DropshipsFueled 
+[35:084] csiz Bought SweepingInfestation 
+[35:084] csiz Bought UltimateInfestationResearched 
+[35:207] csiz Bought SunkenColony 
+[35:207] csiz Placed/Upgraded PrimalSunkenColony 
+[35:454] csiz Bought SunkenColony 
+[36:571] csiz Bought KaboomerStrain 
+[36:679] csiz Bought EvolveDropPods 
+[36:691] csiz Bought EvolveDropPods 
+[37:156] csiz Bought SunkenColony 
+[37:199] csiz Bought GreaterNydus 
+[37:208] csiz Placed/Upgraded LesserNydusWorm 
+[37:209] csiz Bought GreaterNydus 
+[37:368] csiz Bought SunkenColony 
+[37:368] csiz Placed/Upgraded PrimalSunkenColony 
+[37:538] csiz Placed/Upgraded GreaterNydusWorm 
+[37:622] csiz Placed/Upgraded LesserNydusWorm 
+[37:623] csiz Bought GreaterNydus 
+[38:715] csiz Placed/Upgraded NydusCanalCreeper 
+[40:205] csiz Bought SunkenColony 
+
+[00:572] SkyJio Unlocked AssaultRifle 
+[00:654] SkyJio Placed/Upgraded MiningDroid 
+[00:719] SkyJio Unlocked AdvancedDroidEngines 
+[02:258] SkyJio Unlocked FragGrenade 
+[02:262] SkyJio Unlocked SpecOpsFragGrenade 
+[04:476] SkyJio Unlocked Stimpack 
+[05:800] SkyJio Unlocked EnergySuit 
+[07:574] SkyJio Unlocked ExplorationDroid 
+[07:614] SkyJio Placed/Upgraded ExplorationDroid 
+[07:623] SkyJio Placed/Upgraded ExplorationDroid 
+[07:821] SkyJio Placed/Upgraded ExplorationDroid 
+[08:266] SkyJio Unlocked AdvancedEnergySuit 
+[09:958] SkyJio Unlocked BeamRifle 
+[12:042] SkyJio Unlocked SpecOpsPlasmaRifle 
+[14:548] SkyJio Unlocked MiningCharge 
+[16:673] SkyJio Unlocked LongRangeScope 
+[17:172] SkyJio Placed/Upgraded MiningDroid 
+[19:908] SkyJio Placed/Upgraded NukePack 
+[20:679] SkyJio Placed/Upgraded NukePack 
+[22:225] SkyJio Placed/Upgraded NukePack 
+[24:721] SkyJio Placed/Upgraded MiningDroid 
+[24:842] SkyJio Unlocked PowerConverter 
+[25:450] SkyJio Placed/Upgraded NukePack 
+[27:143] SkyJio Placed/Upgraded NukePack 
+[28:775] SkyJio Placed/Upgraded NukePack 
+[28:835] SkyJio Unlocked SpecOpsPowerConverter 
+[30:511] SkyJio Placed/Upgraded NukePack 
+[36:042] SkyJio Placed/Upgraded NukePack 
+[36:518] SkyJio Placed/Upgraded NukePack 
+
+[00:572] ReturnOffer Unlocked AssaultRifle 
+[00:651] ReturnOffer Placed/Upgraded MiningDroid 
+[00:705] ReturnOffer Unlocked BeamRifle 
+[03:388] ReturnOffer Unlocked Stimpack 
+[05:801] ReturnOffer Bought ShieldSuit 
+[07:049] ReturnOffer Unlocked SuperStimpack 
+[07:465] ReturnOffer Unlocked SpecOpsPlasmaRifle 
+[08:267] ReturnOffer Bought EnergySuit 
+[10:254] ReturnOffer Unlocked LongRangeScope 
+[12:153] ReturnOffer Unlocked HazmatSuit 
+[13:945] ReturnOffer Unlocked AdvancedHazmatSuit 
+[16:843] ReturnOffer Unlocked MiningCharge 
+[16:893] ReturnOffer Placed/Upgraded NukePack 
+[29:458] ReturnOffer Placed/Upgraded NukePack 
+[33:166] ReturnOffer Placed/Upgraded NukePack 
+[35:980] ReturnOffer Placed/Upgraded NukePack 
+
+[00:572] Happyfeet Unlocked AssaultRifle 
+[01:602] Happyfeet Unlocked SpecOpsAssaultRifle 
+[12:154] Happyfeet Bought ShieldSuit 
+[13:948] Happyfeet Bought HazmatSuit 
+[16:621] Happyfeet Unlocked TitaniumBulletCasings 
+[16:880] Happyfeet Unlocked CombatSuit 
+[19:625] Happyfeet Unlocked Stimpack 
+[20:217] Happyfeet Unlocked HazmatSuit 
+[24:541] Happyfeet Unlocked AdvancedHazmatSuit 
+[24:673] Happyfeet Unlocked MedicShield 
+[30:645] Happyfeet Unlocked SuperStimpack 
+[30:673] Happyfeet Unlocked SpecOpsSuperStimpack 
+[31:155] Happyfeet Unlocked BioMechanicalRepairDrone 
+[31:174] Happyfeet Unlocked SpecOpsBioMechanicalRepairDrone 
+
+Game Ended
+ 
+STRAIN RATIO: 
+Naked Kills: 508
+T1 Speed Kills:  0 T2 Speed Kills: 0 T3 Speed Kills:  0
+T1 Health Kills: 0 T2 Health Kills: 27 T3 Health Kills: 24
+T1 Damage Kills: 0 T2 Damage Kills: 0 T3 Damage Kills: 0
+T1 Voltaile Kills: 99 T2 Voltaile Kills: 137 T3 Voltaile Kills: 1
+----------------------------------------------------------------------------
+Warpig kills : 4032
+---------------------------------------------------------
+Name: Frosky
+ 
+STRAINS: 
+Naked Kills :  736
+T1_Voltaile Kills : 19
+T2_Voltaile Kills : 47
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: Pandameme
+ 
+STRAINS: 
+Naked Kills :  738
+T1_Voltaile Kills : 56
+T2_Voltaile Kills : 29
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+Aberation/Abomination Kills : 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: Ascherit
+ 
+STRAINS: 
+Naked Kills :  482
+T1_Voltaile Kills : 19
+T2_Voltaile Kills : 15
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+Underseer/Saboteur Kills : 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: csiz
+ 
+STRAINS: 
+Naked Kills :  203
+T1_Voltaile Kills : 125
+T2_Voltaile Kills : 149
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: SkyJio
+ 
+STRAINS: 
+Naked Kills :  785
+T1_Voltaile Kills : 79
+T2_Voltaile Kills : 46
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+Aberation/Abomination Kills : 1
+Geneweaver/GeneSplicer Kills : 1
+Underseer/Saboteur Kills : 2
+END_SIGNATURE
+---------------------------------------------------------
+Name: ReturnOffer
+ 
+STRAINS: 
+Naked Kills :  426
+ 
+ALPHAS: 
+Underseer/Saboteur Kills : 2
+END_SIGNATURE
+---------------------------------------------------------
+Name: Happyfeet
+ 
+STRAINS: 
+Naked Kills :  432
+T1_Voltaile Kills : 13
+T2_Voltaile Kills : 38
+T3_Voltaile Kills : 1
+ 
+ALPHAS: 
+END_SIGNATURE
+
+CHAT MESSAGES: 
+[00:284] Pandameme: goddamn that was a good hit
+[00:353] ReturnOffer: lmao
+[00:778] ReturnOffer: bro
+[00:782] Pandameme: MY DOOR
+[00:853] ReturnOffer: i misclicked on plasma
+[01:380] Pandameme: woops i misclicked on flame :3
+[01:670] Ascherit: misclicked your mom
+[02:771] Frosky: top
+[02:830] Frosky: aber is at top
+[04:372] Frosky: plasma
+[04:412] Frosky: where did u go
+[05:375] ReturnOffer: did a frag nade just kill sunken?
+[05:395] ReturnOffer: lol
+[05:540] SkyJio: positive.
+[07:381] ReturnOffer: i gotchu bb
+[08:347] ReturnOffer: where abom
+[08:396] ReturnOffer: need to track
+[08:436] ReturnOffer: watch power
+[08:938] ReturnOffer: sky with base AR trying his best
+[09:526] ReturnOffer: need more than 1 alpha killer guys
+[09:713] SkyJio: i will grab a plas
+[09:856] ReturnOffer: ty
+[09:898] SkyJio: but i cant kill it
+[11:131] ReturnOffer: nj
+[11:361] ReturnOffer: power....
+[11:905] Pandameme: blocked by the medic?
+[12:283] SkyJio: medic can be a slut sometime
+[12:362] Frosky: salem
+[12:385] ReturnOffer: gates
+[12:396] Frosky: is he pushing u
+[12:460] ReturnOffer: yes
+[13:867] ReturnOffer: A mine safe
+[14:434] ReturnOffer: frosky stay A
+[14:872] SkyJio: i cant get to viro
+[15:074] Pandameme: fk
+[15:334] ReturnOffer: vision
+[15:574] Ascherit: salem
+[15:612] Ascherit: go downn now
+[16:170] Frosky: care back door
+[16:234] Ascherit: alpha fortress
+[16:476] ReturnOffer: frosky
+[16:507] ReturnOffer: 1 job
+[16:922] Pandameme: gj
+[17:392] ReturnOffer: gates
+[17:503] Frosky: salem
+[17:523] Frosky: drop 100
+[17:565] Frosky: for a got
+[17:578] Frosky: bot
+[17:767] ReturnOffer: dont have
+[18:340] ReturnOffer: omw
+[18:502] ReturnOffer: care
+[18:546] Pandameme: ah
+[18:958] Pandameme: shit i was farming for 150 b4 i tpd
+[19:348] Ascherit: viro at b
+[19:413] Frosky: fdc
+[19:427] Frosky: fdc
+[19:550] SkyJio: viro already killed b
+[19:896] Pandameme: does he have viro beta?
+[19:942] Ascherit: yes
+[20:008] Pandameme: fk
+[20:129] Frosky: -pp
+[20:516] ReturnOffer: got 100 sky?
+[20:678] Pandameme: i have tp
+[20:691] Ascherit: psi alpha
+[20:750] Pandameme: im just waiting
+[20:905] Pandameme: so he doesnt know
+[20:931] Pandameme: im in
+[22:324] ReturnOffer: greater'
+[22:357] ReturnOffer: sad
+[22:437] ReturnOffer: fdc lost probs
+[23:418] ReturnOffer: nj
+[23:639] Frosky: this was saveable
+[23:670] Frosky: i ahd teleport
+[23:700] Frosky: why did u lave
+[23:801] Frosky: nuke
+[23:815] Frosky: nuke
+[24:018] Frosky: nuke
+[24:030] Frosky: nuke
+[24:040] Frosky: nuke
+[24:601] ReturnOffer: sad
+[24:651] csiz: woop
+[24:703] ReturnOffer: sec
+[24:731] ReturnOffer: (sad)
+[25:107] ReturnOffer: frosky kek
+[25:409] ReturnOffer: noice
+[25:596] ReturnOffer: dont die panda
+[25:710] ReturnOffer: TP into D and i'll break in
+[25:838] Ascherit: attack it
+[26:538] Frosky: dont
+[26:575] Frosky: mcirop the aber
+[27:174] ReturnOffer: defend right side of A
+[27:268] ReturnOffer: A mine dropoff
+[27:350] ReturnOffer: its gonna die
+[27:569] SkyJio: whose nuke
+[27:621] Pandameme: mine
+[27:633] Pandameme: mb
+[27:663] ReturnOffer: frosky ill save u
+[27:698] ReturnOffer: dont break
+[27:744] Pandameme: thought u were overrun
+[27:819] SkyJio: np
+[28:011] ReturnOffer: frosky tf
+[28:181] ReturnOffer: why
+[28:296] ReturnOffer: i was right about to save
+[29:885] Pandameme: press f on me
+[29:910] Pandameme: happy
+[30:788] ReturnOffer: happy
+[30:810] ReturnOffer: go
+[30:883] ReturnOffer: there
+[31:160] ReturnOffer: how did nobody see that xD
+[31:882] ReturnOffer: abber
+[33:040] SkyJio: well, out of cards to play
+[34:065] ReturnOffer: panda tp out
+[34:096] ReturnOffer: to A
+[34:241] Pandameme: what im waiting on
+[34:317] ReturnOffer: kk
+[34:676] Pandameme: unless u know
+[34:811] ReturnOffer: u die?
+[34:881] ReturnOffer: yeah...
+[35:097] ReturnOffer: gogogo
+[35:386] ReturnOffer: frosky why
+[35:510] ReturnOffer: gimme 100
+[35:559] ReturnOffer: i gave u
+[35:586] Pandameme: im fked
+[35:718] ReturnOffer: lol
+[35:799] ReturnOffer: ty bb
+[35:909] Frosky: why
+[35:927] Frosky: go
+[35:943] Frosky: DELTA
+[35:977] Frosky: SKYJIO
+[36:002] Frosky: ITS DEAd
+[36:345] ReturnOffer: lol panda with the abber kill
+[36:457] ReturnOffer: panda die in ship
+[36:542] Pandameme: (happy)
+[36:592] ReturnOffer: i might be able to save
+[36:595] Pandameme: kk
+[37:033] SkyJio: evac
+[37:126] SkyJio: we barely delayed
+[37:131] Frosky: salem
+[37:166] Frosky: where aer u going
+[37:191] ReturnOffer: nope
+[37:210] ReturnOffer: lol
+[37:364] ReturnOffer: if panda spawned cont i coulda saved
+[37:433] ReturnOffer: but he got unlucky
+[37:746] SkyJio: happy just go D
+[37:792] ReturnOffer: anub
+[38:439] Frosky: salen
+[38:453] Frosky: door
+[38:464] Pandameme: might b able to play 1 more
+[38:563] Pandameme: dnd at 7
+[38:672] ReturnOffer: nice
+[38:729] ReturnOffer: dnd fun
+[38:730] SkyJio: haha nice
+[39:158] Frosky: salem
+[39:329] ReturnOffer: kek
+[39:554] Pandameme: sry
+[39:622] Pandameme: cleaning keyboard
+csiz First Alpha InfestedAbomination |  Loss
+
+csiz Placed 3 Greaters.
+--------------------------------

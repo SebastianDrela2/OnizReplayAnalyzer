@@ -1,0 +1,28 @@
+valkarian HumanWinsNormal 106
+valkarian ZombieRank 13.165
+valkarian VespeneHarvested 632980
+valkarian HumansRescued 168
+valkarian SecurityForcesKilled 47818
+valkarian ZombiesKilled 131888
+valkarian FuelDiverted 129
+valkarian HumanWinsInsane 0
+valkarian LeftLastGame 0
+valkarian PlayedRankedMode5.0 1
+valkarian 4:3AspectRatioSettings 0
+valkarian HumanRank 15.25
+valkarian IdleRally 1
+valkarian NumberOfTimesCaptured 411
+valkarian TurretsBuilt 817
+valkarian ZombieWins 54
+valkarian GamesLeft 7
+valkarian Host Chooses Zombie 0
+valkarian GamesPlayedAsHuman 239
+valkarian GamesPlayedAsZombie 114
+valkarian HumansCaptured 940
+valkarian HumanWinsHard 0
+valkarian Difficulty 5
+valkarian Opt In 0
+valkarian Color 1
+valkarian Chosen Zombie 2
+valkarian Host Chooses Zombie 0
+valkarian Experimental Mode 1

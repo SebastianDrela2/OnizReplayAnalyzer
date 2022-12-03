@@ -1,0 +1,167 @@
+Analyzed: Oh No It's Zombies Arctic Map (102)
+
+Date: 2022.08.09
+
+ID : 0 PlayerName: Frosky Race: Zerg
+ID : 1 PlayerName: treename Race: Terran
+ID : 2 PlayerName: Kenzze Race: Terran
+ID : 3 PlayerName: Jehoel Race: Terran
+ID : 4 PlayerName: elVagiNon Race: Terran
+ID : 5 PlayerName: Bearsaurus Race: Terran
+ID : 6 PlayerName: Stinkypssy Race: Terran
+ID : 7 PlayerName: Security Race: Terran Mengsk
+Frosky Zombie Loss
+Public Lobby
+
+Game Length:[08:960]
+Players ammount: 8
+Marine rank avg: 12,166666666666666
+Marine GrandMaster ammount: 1
+
+Bearsaurus First Gun BeamRifle
+Jehoel First Gun SpecOpsAssaultRifle
+Kenzze First Gun BeamRifle
+
+PURCHASES: 
+[01:431] Frosky Spawned MassiveCocoon 
+[02:871] Frosky Spawned Hunter 
+[03:630] Frosky Spawned MassiveCocoon 
+[05:070] Frosky Spawned Hunter 
+[05:892] Frosky Bought CreepSpeed 
+[06:559] Frosky Placed/Upgraded Virophage 
+[07:072] Frosky Placed/Upgraded PrimalSunkenColony 
+[07:073] Frosky Bought SunkenColony 
+[07:839] Frosky Bought StrainSpeed 
+
+[00:572] treename Unlocked AssaultRifle 
+[00:651] treename Placed/Upgraded MiningDroid 
+[00:731] treename Unlocked Stimpack 
+[02:527] treename Unlocked FragGrenade 
+[03:324] treename Unlocked MotionSensor 
+[04:634] treename Placed/Upgraded SensorTower 
+[04:949] treename Unlocked AdvancedDroidEngines 
+[05:152] treename Placed/Upgraded SensorTower 
+
+[00:572] Kenzze Unlocked AssaultRifle 
+[00:839] Kenzze Placed/Upgraded MiningDroid 
+[01:089] Kenzze Unlocked AdvancedDroidEngines 
+[03:560] Kenzze Unlocked TurboDroidEngines 
+[04:278] Kenzze Unlocked BeamRifle 
+[06:043] Kenzze Unlocked CombatSuit 
+[06:071] Kenzze Unlocked AdvancedCombatSuit 
+[06:332] Kenzze Unlocked MedicShield 
+
+[00:572] Jehoel Unlocked AssaultRifle 
+[00:660] Jehoel Placed/Upgraded MiningDroid 
+[00:862] Jehoel Unlocked CombatSuit 
+[02:421] Jehoel Unlocked AdvancedCombatSuit 
+[04:100] Jehoel Unlocked SpecOpsAssaultRifle 
+[05:237] Jehoel Unlocked AdvancedDroidEngines 
+[06:044] Jehoel Bought ShieldSuit 
+[06:072] Jehoel Bought CombatSuit 
+[07:619] Jehoel Unlocked TitaniumBulletCasings 
+[07:874] Jehoel Unlocked OverloadWeapon 
+
+[00:572] elVagiNon Unlocked AssaultRifle 
+[00:863] elVagiNon Bought ShieldSuit 
+[02:422] elVagiNon Bought CombatSuit 
+
+[00:572] Bearsaurus Unlocked AssaultRifle 
+[00:764] Bearsaurus Placed/Upgraded MiningDroid 
+[04:029] Bearsaurus Unlocked BeamRifle 
+[04:075] Bearsaurus Unlocked SpecOpsPlasmaRifle 
+[04:290] Bearsaurus Unlocked PlasmaRifleMod3 
+[04:405] Bearsaurus Unlocked ForceFieldGrenade 
+
+[00:572] Stinkypssy Unlocked AssaultRifle 
+[00:927] Stinkypssy Unlocked OverloadWeapon 
+[04:094] Stinkypssy Unlocked PowerConverter 
+[04:172] Stinkypssy Unlocked CombatSuit 
+[04:182] Stinkypssy Unlocked AdvancedCombatSuit 
+
+Game Ended
+ 
+STRAIN RATIO: 
+Naked Kills: 148
+T1 Speed Kills:  0 T2 Speed Kills: 0 T3 Speed Kills:  0
+T1 Health Kills: 0 T2 Health Kills: 0 T3 Health Kills: 0
+T1 Damage Kills: 0 T2 Damage Kills: 0 T3 Damage Kills: 0
+T1 Voltaile Kills: 0 T2 Voltaile Kills: 0 T3 Voltaile Kills: 0
+----------------------------------------------------------------------------
+Warpig kills : 383
+---------------------------------------------------------
+Name: Frosky
+ 
+STRAINS: 
+Naked Kills :  0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: treename
+ 
+STRAINS: 
+Naked Kills :  93
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: Kenzze
+ 
+STRAINS: 
+Naked Kills :  58
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: Jehoel
+ 
+STRAINS: 
+Naked Kills :  142
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: elVagiNon
+ 
+STRAINS: 
+Naked Kills :  26
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: Bearsaurus
+ 
+STRAINS: 
+Naked Kills :  39
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: Stinkypssy
+ 
+STRAINS: 
+Naked Kills :  25
+ 
+ALPHAS: 
+END_SIGNATURE
+
+CHAT MESSAGES: 
+[00:490] Jehoel: gl hf
+[03:440] Stinkypssy: its like the world smost extreme game of ding dong ditch
+[08:097] treename: gg
+[08:231] treename: no way to win with 4 ppl
+[08:267] Frosky: ??
+[08:362] treename: leavers
+[08:372] Frosky: ...
+[08:439] Frosky: you played feed game
+[08:490] Frosky: literally
+[08:516] Jehoel: lots of leavers
+[08:534] treename: not me
+[08:541] Frosky: game ago
+[08:656] Frosky: fllo fnoobs
+[08:741] Frosky: and now you surrender with oen mine dead
+Frosky First Alpha Hunter |  Loss
+
+Frosky Placed 0 Greaters.
+--------------------------------

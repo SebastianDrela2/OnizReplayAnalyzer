@@ -1,0 +1,360 @@
+Analyzed: Oh No It's Zombies Arctic Updated (275)
+
+Date: 2021.10.10 04:10:24
+
+ID : 0 PlayerName: Cruel Race: Terran
+ID : 1 PlayerName: Frosky Race: Terran
+ID : 2 PlayerName: hitch Race: Terran
+ID : 3 PlayerName: PhantomGuard Race: Terran
+ID : 4 PlayerName: BigNut Race: Zerg
+ID : 5 PlayerName: ArrImapirate Race: Terran
+ID : 6 PlayerName: KingKylan Race: Terran
+ID : 7 PlayerName: Security Race: Terran Horner
+BigNut Zombie Win
+Public Lobby
+
+Game Length:[27:794]
+Players ammount: 8
+Marine rank avg: 5,166666666666667
+Marine GrandMaster ammount: 2
+
+Frosky First Gun Shotgun
+Cruel First Gun ArcWelder
+ArrImapirate First Gun ArcWelder
+KingKylan First Gun Flamethrower
+PhantomGuard First Gun HellfireRocketLauncher
+
+PURCHASES: 
+[00:588] Cruel Unlocked AssaultRifle 
+[00:844] Cruel Unlocked ArcWelder 
+[01:278] Cruel Placed/Upgraded MiningDroid 
+[01:651] Cruel Unlocked BioMechanicalRepairDrone 
+[01:782] Cruel Unlocked CombatAccelerationDrone 
+[02:078] Cruel Placed/Upgraded HealingDrone 
+[02:719] Cruel Placed/Upgraded HealingDrone 
+[03:055] Cruel Placed/Upgraded HealingDrone 
+[03:507] Cruel Placed/Upgraded HealingDrone 
+[04:475] Cruel Unlocked AdvancedDroidEngines 
+[05:266] Cruel Unlocked TurboDroidEngines 
+[05:988] Cruel Unlocked Stimpack 
+[08:630] Cruel Unlocked SpecOpsArcWelder 
+[08:915] Cruel Placed/Upgraded HealingDrone 
+[09:642] Cruel Unlocked AutoTurret 
+[09:890] Cruel Placed/Upgraded AutoTurret 
+[09:994] Cruel Placed/Upgraded AutoTurret 
+[10:125] Cruel Placed/Upgraded AutoTurret 
+[10:195] Cruel Placed/Upgraded AutoTurret 
+[10:287] Cruel Placed/Upgraded AutoTurret 
+[10:361] Cruel Placed/Upgraded AutoTurret 
+[10:847] Cruel Placed/Upgraded HealingDrone 
+[11:056] Cruel Placed/Upgraded HealingDrone 
+[11:453] Cruel Unlocked QuantumBackpack 
+[12:117] Cruel Unlocked PsiDisrupter 
+[12:161] Cruel Placed/Upgraded PsiIndoctrinator 
+[12:274] Cruel Placed/Upgraded AutoTurret 
+[13:018] Cruel Placed/Upgraded PsiIndoctrinator 
+[13:133] Cruel Placed/Upgraded AutoTurret 
+[13:616] Cruel Placed/Upgraded PsiIndoctrinator 
+[14:164] Cruel Placed/Upgraded AutoTurret 
+[14:832] Cruel Unlocked MedicShield 
+[15:001] Cruel Placed/Upgraded AutoTurret 
+[15:075] Cruel Placed/Upgraded AutoTurret 
+[15:180] Cruel Placed/Upgraded AutoTurret 
+[15:254] Cruel Placed/Upgraded AutoTurret 
+[15:825] Cruel Placed/Upgraded PsiIndoctrinator 
+[16:875] Cruel Placed/Upgraded HealingDrone 
+[17:705] Cruel Placed/Upgraded PsiIndoctrinator 
+[18:136] Cruel Placed/Upgraded PsiIndoctrinator 
+[18:327] Cruel Placed/Upgraded AutoTurret 
+[18:433] Cruel Placed/Upgraded AutoTurret 
+[18:498] Cruel Placed/Upgraded AutoTurret 
+[18:589] Cruel Placed/Upgraded AutoTurret 
+[19:233] Cruel Unlocked PsiDepressor 
+[19:448] Cruel Placed/Upgraded AutoTurret 
+[19:828] Cruel Placed/Upgraded AutoTurret 
+[19:907] Cruel Placed/Upgraded AutoTurret 
+[19:974] Cruel Placed/Upgraded AutoTurret 
+[21:456] Cruel Placed/Upgraded AutoTurret 
+[21:575] Cruel Placed/Upgraded AutoTurret 
+[21:647] Cruel Placed/Upgraded AutoTurret 
+[21:755] Cruel Placed/Upgraded AutoTurret 
+[21:819] Cruel Placed/Upgraded AutoTurret 
+[26:150] Cruel Placed/Upgraded HealingDrone 
+[26:380] Cruel Placed/Upgraded AutoTurret 
+[26:449] Cruel Placed/Upgraded AutoTurret 
+[26:539] Cruel Placed/Upgraded AutoTurret 
+[26:709] Cruel Placed/Upgraded AutoTurret 
+
+[00:588] Frosky Unlocked AssaultRifle 
+[00:667] Frosky Placed/Upgraded MiningDroid 
+[00:801] Frosky Unlocked Shotgun 
+[02:435] Frosky Unlocked AdvancedDroidEngines 
+[03:987] Frosky Unlocked TurboDroidEngines 
+[05:102] Frosky Unlocked ExplorationDroid 
+[05:159] Frosky Placed/Upgraded ExplorationDroid 
+[05:219] Frosky Placed/Upgraded ExplorationDroid 
+[05:401] Frosky Placed/Upgraded ExplorationDroid 
+[05:979] Frosky Unlocked SpecOpsShotgun 
+[07:207] Frosky Unlocked Stimpack 
+[08:210] Frosky Unlocked CombatSuit 
+[08:220] Frosky Unlocked AdvancedCombatSuit 
+[10:592] Frosky Placed/Upgraded MiningDroid 
+[11:649] Frosky Unlocked IncendiaryBullets 
+[12:520] Frosky Unlocked AutoTurret 
+[12:563] Frosky Placed/Upgraded AutoTurret 
+[13:903] Frosky Unlocked BioMechanicalRepairDrone 
+[13:918] Frosky Unlocked SpecOpsBioMechanicalRepairDrone 
+[13:979] Frosky Unlocked CombatShield 
+[15:927] Frosky Placed/Upgraded HealingDrone 
+[16:342] Frosky Unlocked QuantumBackpack 
+[16:395] Frosky Unlocked AIAssistant 
+[18:148] Frosky Placed/Upgraded MiningDroid 
+[18:292] Frosky Placed/Upgraded HealingDrone 
+[18:527] Frosky Placed/Upgraded AutoTurret 
+[18:937] Frosky Placed/Upgraded AutoTurret 
+[19:441] Frosky Placed/Upgraded HealingDrone 
+[19:628] Frosky Placed/Upgraded HealingDrone 
+[20:014] Frosky Placed/Upgraded AutoTurret 
+[20:271] Frosky Placed/Upgraded AutoTurret 
+[21:482] Frosky Placed/Upgraded AutoTurret 
+[22:392] Frosky Placed/Upgraded AutoTurret 
+[22:674] Frosky Placed/Upgraded AutoTurret 
+[22:924] Frosky Placed/Upgraded AutoTurret 
+[23:512] Frosky Unlocked HeavyTurret 
+[23:801] Frosky Placed/Upgraded AutoTurret 
+[24:375] Frosky Placed/Upgraded AutoTurret 
+
+[00:588] hitch Unlocked AssaultRifle 
+[08:211] hitch Bought ShieldSuit 
+[08:221] hitch Bought CombatSuit 
+
+[00:588] PhantomGuard Unlocked AssaultRifle 
+[00:768] PhantomGuard Placed MiningDroid 
+[01:669] PhantomGuard Unlocked FragGrenade 
+[01:687] PhantomGuard Unlocked SpecOpsFragGrenade 
+[02:526] PhantomGuard Unlocked AdvancedDroidEngines 
+[04:309] PhantomGuard Unlocked TurboDroidEngines 
+[07:420] PhantomGuard Unlocked HellfireRocketLauncher 
+[07:443] PhantomGuard Unlocked SpecOpsHellfireRocketLauncher 
+[07:531] PhantomGuard Unlocked ShockwaveMissiles 
+[09:765] PhantomGuard Unlocked MedicShield 
+[10:549] PhantomGuard Placed MiningDroid 
+[15:416] PhantomGuard Unlocked OpticalVisor 
+[15:674] PhantomGuard Unlocked OverloadWeapon 
+[15:819] PhantomGuard Unlocked CombatSuit 
+[15:832] PhantomGuard Unlocked AdvancedCombatSuit 
+[19:972] PhantomGuard Unlocked PsiDisrupter 
+[20:299] PhantomGuard Unlocked PsiDepressor 
+[20:310] PhantomGuard Unlocked SpecOpsPsiDisruptor 
+[25:610] PhantomGuard Placed PsiIndoctrinator 
+
+[00:552] BigNut Bought PlayerNumber 
+[01:329] BigNut Bought CreepSpeed 
+[03:760] BigNut Spawned MassiveCocoon 
+[05:200] BigNut Spawned PrimalTownHallUprooted 
+[07:204] BigNut Bought VirulentCreep 
+[07:204] BigNut Bought VirulentCreep 
+[10:046] BigNut Bought CreepSpeed 
+[13:169] BigNut Bought UnlockDropPods 
+[13:176] BigNut Bought EvolveDropPods 
+[14:936] BigNut Spawned MassiveCocoon 
+[15:742] BigNut Bought BuildExtractorProcessingFacilities 
+[15:742] BigNut Placed/Upgraded AutomatedExtractor 
+[15:820] BigNut Bought ShieldSuit 
+[15:833] BigNut Bought CombatSuit 
+[16:374] BigNut Bought EvolveDropPods 
+[16:377] BigNut Bought EvolveDropPods 
+[16:384] BigNut Bought EvolveDropPods 
+[16:864] BigNut Bought EvolveDropPods 
+[17:261] BigNut Bought EvolveDropPods 
+[17:844] BigNut Bought SiphonFuel 
+[19:416] BigNut Bought StrainVolatile 
+[20:233] BigNut Bought BuildExtractorExcavationZone 
+[20:233] BigNut Placed/Upgraded AutomatedExtractor 
+[20:893] BigNut Bought PureStrainVolatile 
+[21:648] BigNut Bought KaboomerStrain 
+[22:750] BigNut Bought SiphonFuel 
+[23:482] BigNut Bought StrainVolatile 
+[25:099] BigNut Bought SpawnNydusWorm 
+[25:819] BigNut Bought SiphonFuel 
+
+[00:588] ArrImapirate Unlocked AssaultRifle 
+[00:708] ArrImapirate Placed/Upgraded MiningDroid 
+[00:771] ArrImapirate Unlocked AdvancedDroidEngines 
+[02:650] ArrImapirate Unlocked TurboDroidEngines 
+[04:073] ArrImapirate Unlocked ArcWelder 
+[04:931] ArrImapirate Unlocked MotionSensor 
+[05:354] ArrImapirate Placed/Upgraded SensorTower 
+[07:164] ArrImapirate Unlocked MiningCharge 
+[07:172] ArrImapirate Unlocked AdvancedMiningCharge 
+[07:738] ArrImapirate Unlocked AutoTurret 
+[07:767] ArrImapirate Unlocked HeavyTurret 
+[08:294] ArrImapirate Unlocked SpecOpsArcWelder 
+[08:502] ArrImapirate Placed/Upgraded NukePack 
+[09:009] ArrImapirate Unlocked Stimpack 
+[10:310] ArrImapirate Placed/Upgraded SensorTower 
+[10:913] ArrImapirate Placed/Upgraded NukePack 
+[11:290] ArrImapirate Placed/Upgraded NukePack 
+[11:632] ArrImapirate Placed/Upgraded AutoTurret 
+[12:942] ArrImapirate Placed/Upgraded AutoTurret 
+[13:506] ArrImapirate Placed/Upgraded AutoTurret 
+[16:039] ArrImapirate Placed/Upgraded NukePack 
+[19:379] ArrImapirate Unlocked BioMechanicalRepairDrone 
+[19:475] ArrImapirate Placed/Upgraded HealingDrone 
+[21:644] ArrImapirate Placed/Upgraded MiningDroid 
+[22:441] ArrImapirate Placed/Upgraded HealingDrone 
+
+[00:588] KingKylan Unlocked AssaultRifle 
+[00:893] KingKylan Unlocked AdvancedDroidEngines 
+[03:204] KingKylan Unlocked TurboDroidEngines 
+[04:563] KingKylan Unlocked Flamethrower 
+[05:125] KingKylan Unlocked SpecOpsFlamethrower 
+[07:725] KingKylan Unlocked ShieldSuit 
+[08:584] KingKylan Unlocked CombatShield 
+
+Game Ended
+ 
+STRAIN RATIO: 
+Naked Kills: 418
+T1 Speed Kills:  0 T2 Speed Kills: 592 T3 Speed Kills:  0
+T1 Health Kills: 0 T2 Health Kills: 28 T3 Health Kills: 0
+T1 Damage Kills: 0 T2 Damage Kills: 19 T3 Damage Kills: 0
+T1 Voltaile Kills: 34 T2 Voltaile Kills: 122 T3 Voltaile Kills: 0
+----------------------------------------------------------------------------
+Warpig kills : 1086
+---------------------------------------------------------
+Name: Cruel
+ 
+STRAINS: 
+Naked Kills :  112
+T1_Voltaile Kills : 4
+T2_Voltaile Kills : 8
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: Frosky
+ 
+STRAINS: 
+Naked Kills :  715
+T1_Voltaile Kills : 18
+T2_Voltaile Kills : 45
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: hitch
+ 
+STRAINS: 
+Naked Kills :  0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: PhantomGuard
+ 
+STRAINS: 
+Naked Kills :  247
+T1_Voltaile Kills : 5
+T2_Voltaile Kills : 5
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: BigNut
+ 
+STRAINS: 
+Naked Kills :  12
+T1_Voltaile Kills : 110
+T2_Voltaile Kills : 198
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: ArrImapirate
+ 
+STRAINS: 
+Naked Kills :  158
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: KingKylan
+ 
+STRAINS: 
+Naked Kills :  106
+ 
+ALPHAS: 
+END_SIGNATURE
+
+CHAT MESSAGES: 
+[00:433] BigNut: glhf
+[00:547] PhantomGuard: glhf
+[02:811] PhantomGuard: frosky lets not do that again
+[02:940] Frosky: y
+[04:473] Frosky: 2 arcp layers
+[04:503] Frosky: nice.
+[04:516] Frosky: lol
+[04:812] Cruel: its fine
+[05:192] ArrImapirate: i mean it could be worse
+[05:261] ArrImapirate: i could go afk
+[05:304] ArrImapirate: -afk
+[05:524] PhantomGuard:  we could make it work
+[05:759] ArrImapirate: -afk
+[06:138] ArrImapirate: -afk
+[12:089] Frosky: orange
+[12:134] Frosky: plz get turret
+[12:400] ArrImapirate: im oj
+[12:449] ArrImapirate: right
+[12:609] Frosky: yes
+[12:699] ArrImapirate: turret yes
+[12:736] ArrImapirate: i get
+[12:849] ArrImapirate: do you see 
+[13:130] Frosky: no boost turret
+[13:625] Frosky: right click
+[13:647] Frosky: hellion
+[13:746] Frosky: makes him shoot faster
+[13:935] ArrImapirate: master
+[14:017] ArrImapirate: no boost
+[14:316] Frosky: -pp
+[15:455] Frosky: he is gonna go power now
+[15:624] Frosky: i mean
+[15:635] Frosky: fdc
+[16:127] Frosky: plz make
+[16:162] Frosky: 50 turrets
+[16:182] Frosky: at fdc
+[16:625] ArrImapirate: gg kmaster
+[17:338] Frosky: you literalaly waalked
+[17:375] Frosky: by a cocoon
+[17:394] Frosky: purple
+[18:773] PhantomGuard: afk aparently
+[19:007] Cruel: im hitting my psi disrupt limit soon but if someone else can place I can keep retaking rooms
+[19:885] PhantomGuard: i'll do it
+[20:110] PhantomGuard: tell me where
+[20:532] Cruel: im going to psi there
+[20:633] Frosky: there is
+[20:640] Cruel: actually
+[20:642] Frosky: psi
+[21:165] Frosky: wtf
+[21:316] PhantomGuard: damn pathfinding
+[22:080] Cruel: lol
+[22:210] Cruel: outercontain feel and the tground infested under me
+[22:788] PhantomGuard: hes back (rofl)
+[23:352] ArrImapirate: dam
+[24:167] Frosky: a gone
+[26:648] PhantomGuard: that should not have worked
+[27:218] Cruel: rescue
+[27:342] Cruel: needed to rescue
+[27:487] Cruel: immediately
+[27:541] BigNut: gg
+[27:618] PhantomGuard: arima
+[27:732] PhantomGuard: relly
+[27:780] PhantomGuard: gg
+BigNut First Alpha PrimalTownHallUprooted |  Win
+
+BigNut Placed 0 Greaters.
+--------------------------------

@@ -1,0 +1,132 @@
+MARINES: 
+----------------------------------------------------------
+SpecOpsAssault rifle purchases: 1,094468085106383
+Flamer purchases: 0,4868085106382979
+Shotgun purchases: 0,574468085106383
+Plasma purchases: 0,5557446808510639
+Rocket purchases: 0,5208510638297872
+
+SpecOpsFlamer purchases:0,45276595744680853 
+SpecOpsShotgun purchases: 0,5242553191489362
+SpecOpsPlasma purchases:0,4723404255319149 
+SpecOpsRocket purchases: 0,4817021276595745
+
+CryoFlamer purchases:0,14297872340425533 
+LongRangeFlamer purchases: 0,1276595744680851
+FilamentsFlamer purchases:0,1574468085106383
+
+BeamsShotgun purchases:0,2970212765957447 
+ConcussiveShotgun purchases: 0,013617021276595745
+ doubleBarrelShotgun purchases:0
+
+SpeedMissiles purchases:0,11659574468085106 
+ShockWaveMissiles purchases: 0,308936170212766
+FlameMissiles purchases:0,06042553191489362
+
+LongRangePlasma purchases:0,18978723404255318 
+CorrosivePlasma purchases: 0,14212765957446807
+ConcussivePlasma purchases:0,09531914893617022
+
+ScootAndShoot purchases:0,46638297872340423 
+Bayonette purchases: 0,06042553191489362
+Titanium purchases:0,5004255319148936
+
+CloakingDevice purchases: 0,2025531914893617 
+Teleporter purchases : 0,7182978723404255
+SuperStimPack purchases: 0,8204255319148936
+PowerConverter purchases:0,24170212765957447
+SuperHealingDrone purchases:0,10553191489361702
+ArcWelder purchases:0,49872340425531914
+
+SpecOpsCloakingDevice purchases: 0,1327659574468085 
+SpecOpsTeleporter purchases 0,2995744680851064
+SpecOpsSuperStimPack purchases: 0,428936170212766
+SpecOpsPowerConverter purchases:0,15829787234042553
+SpecOpsSuperHealingDrone purchases:0,0425531914893617
+SpecOpsArcWelder purchases:0,20340425531914894
+
+Force nade purchases:0,39574468085106385
+Flame nade purchases:0,5821276595744681
+Flash nade purchases:0,308936170212766
+Frag nade purchases:0,5540425531914893
+
+
+SpecOpsForce nade purchases:0,2851063829787234
+SpecOpsFlame nade purchases:0,34808510638297874
+SpecOpsFlash nade purchases:0,2178723404255319
+SpecOpsFrag nade purchases:0,41702127659574467
+
+Exploration Droids purchases : 2,951489361702128
+Avanced Exploration Droids purchases 0,18468085106382978
+
+AdvancedMiningDrone purchases: 2,6910638297872342
+TurboDroid purchases: 1,7387234042553192
+
+MiningCharge purchases: 1,2178723404255318
+AdvancedMiningCharge purchases: 0,774468085106383
+
+Sensor Tower purchases: 0,5923404255319149
+Advanced Sensor Tower purchases: 0,12595744680851065
+
+Combat Shield purchases: 1,1148936170212767 
+Medic Shield purchases: 1,1429787234042552 
+Energy Pack purchases: 0,9472340425531914 
+Quantum Backpack purchases: 0,6170212765957447 
+Optical Visor purchases : 0,6510638297872341
+AIAsistant purchases : 0,84
+
+Overload purchases : 0,6068085106382979
+Stimpack purchases : 2,159148936170213
+DefenseMatrix purchases : 0,09191489361702128
+
+AutoTurret purchases: 2,876595744680851
+FlameTurret purchases: 0,4238297872340426
+SpecOpsTurret purchases: 0,40680851063829787
+HeavyTurret purchases: 0,7676595744680851
+
+Repair drone purchases: 2,105531914893617
+SpecOpsRepair drone purchases: 1,0851063829787233
+Energy drone purchases: 0,18723404255319148
+Acceleration drone purchases: 0,4034042553191489
+
+Psi purchases: 1,134468085106383
+SpecOpsPsi purchases: 0,28936170212765955
+SlowPsi purchases: 0,6059574468085106
+ZOMBIE: 
+----------------------------------------------------------
+Aberation purchases: 2,09009009009009
+Hunter purchases: 6,481981981981982
+Geneweaver purchases: 1,5765765765765767
+Anubalisk purchases: 2,608108108108108
+Underseer purchases: 2,5675675675675675
+Legion purchases: 0,2747747747747748
+
+AdvancedPowerInfestation purchases: 1,135135135135135
+AdvancedFDCInfestation (SiphonFuel) purchases: 3,5405405405405403
+AdvancedSecurityInfestation purchases: 0,49099099099099097
+AdvancedGatesInfestation purchases: 0,33783783783783783
+AdvancedContainmentInfestation purchases: 1,7162162162162162
+
+StrainSpeed purchases 8,306306306306306
+PureStrainSpeed purchases 3,8873873873873874
+HunterLingStrain purchases 3,0945945945945947
+
+HealthStrain purchases 4,121621621621622
+PureHealthStrain purchases 1,8423423423423424
+TankStrain purchases 1,2972972972972974
+
+DamageStrain purchases 2,828828828828829
+PureDamageStrain purchases 1,3108108108108107
+DefilerStrain purchases 0,9774774774774775
+
+VoltaileStrain purchases 5,306306306306307
+PureVoltaileStrain purchases 2,364864864864865
+KaboomerStrain purchases 1,7477477477477477
+
+Unlock pods purchases: 2,472972972972973
+Evolve pods purchases 12,157657657657658
+
+SpeedCreep purchases: 4,468468468468468
+RegenCreep purchases: 0,527027027027027
+ConstructionCreep purchases: 0,9234234234234234
+ToxicCreep purchases: 4,5225225225225225

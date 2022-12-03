@@ -1,0 +1,26 @@
+ProDem HumanWinsNormal 160
+ProDem ZombieRank 30.6667
+ProDem VespeneHarvested 1067605
+ProDem HumansRescued 199
+ProDem SecurityForcesKilled 59807
+ProDem ZombiesKilled 201322
+ProDem FuelDiverted 660
+ProDem HumanWinsInsane 0
+ProDem LeftLastGame 0
+ProDem 4:3AspectRatioSettings 0
+ProDem HumanRank 31
+ProDem IdleRally 1
+ProDem NumberOfTimesCaptured 454
+ProDem TurretsBuilt 2133
+ProDem ZombieWins 97
+ProDem GamesLeft 7
+ProDem GamesPlayedAsHuman 291
+ProDem GamesPlayedAsZombie 140
+ProDem HumansCaptured 1310
+ProDem HumanWinsHard 0
+ProDem Difficulty 5
+ProDem Opt In 1
+ProDem Color 4
+ProDem Chosen Zombie 4
+ProDem Host Chooses Zombie 0
+ProDem Experimental Mode 1

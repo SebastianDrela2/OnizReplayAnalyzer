@@ -1,0 +1,700 @@
+Analyzed: Oh No It's Zombies Arctic Map (325)
+
+Date: 2022.11.28 03:01:57
+
+ID : 0 PlayerName: BurtMacklin Race: Terran
+ID : 1 PlayerName: MarFly Race: Terran
+ID : 2 PlayerName: SkyJio Race: Terran
+ID : 3 PlayerName: BaoJio Race: Terran
+ID : 4 PlayerName: Frosky Race: Zerg
+ID : 5 PlayerName: Toxicpanda Race: Terran
+ID : 6 PlayerName: DeATH Race: Terran
+ID : 7 PlayerName: Security Race: Zerg
+Frosky Zombie Loss
+Private Lobby
+
+Game Length:[41:418]
+Players ammount: 8
+Marine rank avg: 28,833333333333332
+Marine GrandMaster ammount: 6
+
+BaoJio First Gun Flamethrower
+Toxicpanda First Gun ArcWelder
+MarFly First Gun Flamethrower
+BurtMacklin First Gun HellfireRocketLauncher
+SkyJio First Gun HellfireRocketLauncher
+DeATH First Gun BeamRifle
+
+PURCHASES: 
+[00:572] BurtMacklin Unlocked AssaultRifle 
+[00:651] BurtMacklin Placed/Upgraded MiningDroid 
+[02:500] BurtMacklin Unlocked Stimpack 
+[02:614] BurtMacklin Unlocked MedicShield 
+[04:260] BurtMacklin Unlocked HellfireRocketLauncher 
+[07:247] BurtMacklin Unlocked SpecOpsHellfireRocketLauncher 
+[08:278] BurtMacklin Unlocked MiningCharge 
+[10:527] BurtMacklin Unlocked RocketLauncherLockOnUpgrade 
+[10:527] BurtMacklin Unlocked RocketLauncherLockOnUpgradeRemove 
+[10:527] BurtMacklin Unlocked RocketLauncherLockOnUpgradeRemove 
+[10:606] BurtMacklin Unlocked RocketLauncherLockOnUpgrade 
+[10:606] BurtMacklin Unlocked RocketLauncherLockOnUpgradeRemove 
+[10:606] BurtMacklin Unlocked RocketLauncherLockOnUpgradeRemove 
+[10:823] BurtMacklin Unlocked RocketLauncherLockOnUpgrade 
+[10:823] BurtMacklin Unlocked RocketLauncherLockOnUpgradeRemove 
+[10:823] BurtMacklin Unlocked RocketLauncherLockOnUpgradeRemove 
+[11:157] BurtMacklin Unlocked RocketLauncherLockOnUpgrade 
+[11:157] BurtMacklin Unlocked RocketLauncherLockOnUpgradeRemove 
+[11:157] BurtMacklin Unlocked RocketLauncherLockOnUpgradeRemove 
+[11:323] BurtMacklin Unlocked RocketLauncherLockOnUpgrade 
+[11:323] BurtMacklin Unlocked RocketLauncherLockOnUpgradeRemove 
+[11:323] BurtMacklin Unlocked RocketLauncherLockOnUpgradeRemove 
+[11:568] BurtMacklin Placed/Upgraded NukePack 
+[11:761] BurtMacklin Placed/Upgraded NukePack 
+[13:929] BurtMacklin Unlocked ShockwaveMissiles 
+[14:354] BurtMacklin Unlocked ForceFieldGrenade 
+[14:752] BurtMacklin Unlocked RocketLauncherLockOnUpgrade 
+[14:752] BurtMacklin Unlocked RocketLauncherLockOnUpgradeRemove 
+[14:752] BurtMacklin Unlocked RocketLauncherLockOnUpgradeRemove 
+[15:498] BurtMacklin Placed/Upgraded NukePack 
+[16:380] BurtMacklin Unlocked RocketLauncherLockOnUpgrade 
+[16:380] BurtMacklin Unlocked RocketLauncherLockOnUpgradeRemove 
+[16:380] BurtMacklin Unlocked RocketLauncherLockOnUpgradeRemove 
+[17:053] BurtMacklin Placed/Upgraded NukePack 
+[17:902] BurtMacklin Unlocked ExplorationDroid 
+[18:472] BurtMacklin Placed/Upgraded ExplorationDroid 
+[19:575] BurtMacklin Placed/Upgraded MiningDroid 
+[21:850] BurtMacklin Unlocked Teleporter 
+[23:319] BurtMacklin Placed/Upgraded NukePack 
+[24:001] BurtMacklin Unlocked EnergySuit 
+[24:274] BurtMacklin Unlocked RocketLauncherLockOnUpgrade 
+[24:274] BurtMacklin Unlocked RocketLauncherLockOnUpgradeRemove 
+[24:274] BurtMacklin Unlocked RocketLauncherLockOnUpgradeRemove 
+[24:337] BurtMacklin Unlocked RocketLauncherLockOnUpgrade 
+[24:337] BurtMacklin Unlocked RocketLauncherLockOnUpgradeRemove 
+[24:337] BurtMacklin Unlocked RocketLauncherLockOnUpgradeRemove 
+[25:243] BurtMacklin Unlocked SpecOpsForcefieldGrenade 
+[25:291] BurtMacklin Unlocked QuantumBackpack 
+[26:114] BurtMacklin Unlocked RocketLauncherLockOnUpgrade 
+[26:114] BurtMacklin Unlocked RocketLauncherLockOnUpgradeRemove 
+[26:114] BurtMacklin Unlocked RocketLauncherLockOnUpgradeRemove 
+[27:233] BurtMacklin Placed/Upgraded NukePack 
+[28:170] BurtMacklin Unlocked AdvancedEnergySuit 
+[30:143] BurtMacklin Unlocked RocketLauncherLockOnUpgrade 
+[30:143] BurtMacklin Unlocked RocketLauncherLockOnUpgradeRemove 
+[30:143] BurtMacklin Unlocked RocketLauncherLockOnUpgradeRemove 
+[30:504] BurtMacklin Unlocked RocketLauncherLockOnUpgrade 
+[30:504] BurtMacklin Unlocked RocketLauncherLockOnUpgradeRemove 
+[30:504] BurtMacklin Unlocked RocketLauncherLockOnUpgradeRemove 
+[31:442] BurtMacklin Placed/Upgraded NukePack 
+[31:465] BurtMacklin Placed/Upgraded NukePack 
+[31:536] BurtMacklin Unlocked AdvancedMiningCharge 
+[31:876] BurtMacklin Unlocked RocketLauncherLockOnUpgrade 
+[31:876] BurtMacklin Unlocked RocketLauncherLockOnUpgradeRemove 
+[31:876] BurtMacklin Unlocked RocketLauncherLockOnUpgradeRemove 
+[32:183] BurtMacklin Placed/Upgraded NukePack 
+[33:786] BurtMacklin Unlocked BioMechanicalRepairDrone 
+[33:989] BurtMacklin Placed/Upgraded HealingDrone 
+[36:254] BurtMacklin Placed/Upgraded NukePack 
+[36:261] BurtMacklin Placed/Upgraded NukePack 
+[36:798] BurtMacklin Placed/Upgraded HealingDrone 
+[37:665] BurtMacklin Unlocked RocketLauncherLockOnUpgrade 
+[37:665] BurtMacklin Unlocked RocketLauncherLockOnUpgradeRemove 
+[37:665] BurtMacklin Unlocked RocketLauncherLockOnUpgradeRemove 
+[38:721] BurtMacklin Placed/Upgraded HealingDrone 
+[39:541] BurtMacklin Placed/Upgraded HealingDrone 
+[40:007] BurtMacklin Placed/Upgraded HealingDrone 
+[40:235] BurtMacklin Placed/Upgraded HealingDrone 
+[40:409] BurtMacklin Placed/Upgraded HealingDrone 
+[40:528] BurtMacklin Placed/Upgraded MiningDroid 
+
+[00:572] MarFly Unlocked AssaultRifle 
+[00:651] MarFly Placed/Upgraded MiningDroid 
+[02:254] MarFly Unlocked Flamethrower 
+[03:464] MarFly Unlocked SpecOpsFlamethrower 
+[04:832] MarFly Unlocked BioMechanicalRepairDrone 
+[06:599] MarFly Unlocked AdvancedDroidEngines 
+[06:997] MarFly Placed/Upgraded HealingDrone 
+[09:100] MarFly Unlocked CombatShield 
+[09:357] MarFly Unlocked PsiDisrupter 
+[10:109] MarFly Placed/Upgraded PsiIndoctrinator 
+[11:423] MarFly Placed/Upgraded HealingDrone 
+[11:570] MarFly Unlocked FlashBang 
+[11:578] MarFly Unlocked SpecOpsFlashbang 
+[13:035] MarFly Placed/Upgraded PsiIndoctrinator 
+[13:226] MarFly Placed/Upgraded HealingDrone 
+[13:621] MarFly Unlocked CryoFreeze 
+[14:552] MarFly Unlocked SpecOpsPsiDisruptor 
+[15:658] MarFly Placed/Upgraded HealingDrone 
+[16:018] MarFly Placed/Upgraded HealingDrone 
+[16:830] MarFly Placed/Upgraded HealingDrone 
+[17:647] MarFly Placed/Upgraded PsiIndoctrinator 
+[17:840] MarFly Placed/Upgraded HealingDrone 
+[18:050] MarFly Placed/Upgraded HealingDrone 
+[19:628] MarFly Placed/Upgraded HealingDrone 
+[20:923] MarFly Unlocked Stimpack 
+[21:708] MarFly Placed/Upgraded HealingDrone 
+[21:886] MarFly Placed/Upgraded PsiIndoctrinator 
+[21:979] MarFly Unlocked AutoTurret 
+[22:107] MarFly Placed/Upgraded AutoTurret 
+[22:286] MarFly Placed/Upgraded AutoTurret 
+[23:847] MarFly Placed/Upgraded HealingDrone 
+[24:002] MarFly Bought ShieldSuit 
+[24:047] MarFly Placed/Upgraded PsiIndoctrinator 
+[25:961] MarFly Placed/Upgraded HealingDrone 
+[26:621] MarFly Unlocked ExplorationDroid 
+[26:726] MarFly Placed/Upgraded ExplorationDroid 
+[26:863] MarFly Unlocked HazmatSuit 
+[27:086] MarFly Placed/Upgraded ExplorationDroid 
+[27:618] MarFly Unlocked AdvancedHazmatSuit 
+[28:171] MarFly Bought EnergySuit 
+[28:585] MarFly Placed/Upgraded HealingDrone 
+[29:928] MarFly Placed/Upgraded HealingDrone 
+[30:145] MarFly Placed/Upgraded PsiIndoctrinator 
+[30:331] MarFly Placed/Upgraded AutoTurret 
+[31:611] MarFly Unlocked SpecOpsBioMechanicalRepairDrone 
+[31:770] MarFly Placed/Upgraded HealingDrone 
+[33:194] MarFly Placed/Upgraded HealingDrone 
+[34:352] MarFly Unlocked MiningCharge 
+[34:377] MarFly Unlocked AdvancedMiningCharge 
+[34:486] MarFly Placed/Upgraded HealingDrone 
+[34:819] MarFly Placed/Upgraded NukePack 
+[35:106] MarFly Unlocked HeavyTurret 
+[36:359] MarFly Placed/Upgraded HealingDrone 
+[37:690] MarFly Placed/Upgraded HealingDrone 
+[37:884] MarFly Placed/Upgraded HealingDrone 
+[38:785] MarFly Placed/Upgraded HealingDrone 
+[39:088] MarFly Placed/Upgraded HealingDrone 
+
+[00:572] SkyJio Unlocked AssaultRifle 
+[01:319] SkyJio Unlocked Stimpack 
+[03:178] SkyJio Unlocked ExplorationDroid 
+[03:194] SkyJio Placed/Upgraded ExplorationDroid 
+[03:224] SkyJio Placed/Upgraded ExplorationDroid 
+[04:403] SkyJio Placed/Upgraded MiningDroid 
+[04:491] SkyJio Unlocked HellfireRocketLauncher 
+[06:441] SkyJio Unlocked SpecOpsHellfireRocketLauncher 
+[07:271] SkyJio Unlocked RocketLauncherLockOnUpgrade 
+[07:271] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[07:271] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[07:940] SkyJio Unlocked RocketLauncherMod3 
+[09:302] SkyJio Unlocked RocketLauncherLockOnUpgrade 
+[09:302] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[09:302] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[09:691] SkyJio Unlocked RocketLauncherLockOnUpgrade 
+[09:691] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[09:691] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[10:008] SkyJio Unlocked RocketLauncherLockOnUpgrade 
+[10:008] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[10:008] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[13:905] SkyJio Unlocked Teleporter 
+[13:926] SkyJio Unlocked AdvancedDroidEngines 
+[14:403] SkyJio Unlocked RocketLauncherLockOnUpgrade 
+[14:403] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[14:403] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[16:080] SkyJio Unlocked AutoTurret 
+[17:798] SkyJio Placed/Upgraded AutoTurret 
+[17:991] SkyJio Placed/Upgraded AutoTurret 
+[18:235] SkyJio Placed/Upgraded AutoTurret 
+[18:953] SkyJio Unlocked SpecOpsTeleporter 
+[20:009] SkyJio Placed/Upgraded AutoTurret 
+[20:224] SkyJio Placed/Upgraded AutoTurret 
+[20:775] SkyJio Unlocked RocketLauncherLockOnUpgrade 
+[20:775] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[20:775] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[21:064] SkyJio Placed/Upgraded MiningDroid 
+[22:491] SkyJio Unlocked RocketLauncherLockOnUpgrade 
+[22:491] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[22:491] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[22:647] SkyJio Unlocked RocketLauncherLockOnUpgrade 
+[22:647] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[22:647] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[22:900] SkyJio Unlocked FlashBang 
+[22:906] SkyJio Unlocked SpecOpsFlashbang 
+[23:008] SkyJio Unlocked EnergySuit 
+[23:196] SkyJio Unlocked RocketLauncherLockOnUpgrade 
+[23:196] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[23:196] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[23:245] SkyJio Unlocked RocketLauncherLockOnUpgrade 
+[23:245] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[23:245] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[23:450] SkyJio Placed/Upgraded AutoTurret 
+[23:652] SkyJio Unlocked RocketLauncherLockOnUpgrade 
+[23:652] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[23:652] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[23:797] SkyJio Unlocked RocketLauncherLockOnUpgrade 
+[23:797] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[23:797] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[23:859] SkyJio Unlocked RocketLauncherLockOnUpgrade 
+[23:859] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[23:859] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[24:025] SkyJio Unlocked RocketLauncherLockOnUpgrade 
+[24:025] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[24:025] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[24:126] SkyJio Unlocked RocketLauncherLockOnUpgrade 
+[24:126] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[24:126] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[24:571] SkyJio Unlocked SpecOpsTurret 
+[24:701] SkyJio Placed/Upgraded AutoTurret 
+[25:095] SkyJio Unlocked MedicShield 
+[26:864] SkyJio Bought ShieldSuit 
+[27:318] SkyJio Placed/Upgraded AutoTurret 
+[27:619] SkyJio Bought HazmatSuit 
+[27:639] SkyJio Unlocked RocketLauncherLockOnUpgrade 
+[27:639] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[27:639] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[28:090] SkyJio Unlocked BioMechanicalRepairDrone 
+[28:101] SkyJio Unlocked RechargeDrone 
+[28:246] SkyJio Placed/Upgraded HealingDrone 
+[28:416] SkyJio Unlocked QuantumBackpack 
+[28:642] SkyJio Placed/Upgraded AutoTurret 
+[28:724] SkyJio Unlocked RocketLauncherLockOnUpgrade 
+[28:724] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[28:724] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[29:255] SkyJio Unlocked AdvancedEnergySuit 
+[29:496] SkyJio Unlocked RocketLauncherLockOnUpgrade 
+[29:496] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[29:496] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[30:201] SkyJio Placed/Upgraded AutoTurret 
+[30:508] SkyJio Placed/Upgraded AutoTurret 
+[31:067] SkyJio Placed/Upgraded AutoTurret 
+[31:439] SkyJio Placed/Upgraded HealingDrone 
+[31:574] SkyJio Unlocked RocketLauncherLockOnUpgrade 
+[31:574] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[31:574] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[31:881] SkyJio Unlocked RocketLauncherLockOnUpgrade 
+[31:881] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[31:881] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[32:659] SkyJio Placed/Upgraded AutoTurret 
+[33:121] SkyJio Placed/Upgraded AutoTurret 
+[33:187] SkyJio Unlocked RocketLauncherLockOnUpgrade 
+[33:187] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[33:187] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[33:268] SkyJio Unlocked RocketLauncherLockOnUpgrade 
+[33:268] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[33:268] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[34:994] SkyJio Unlocked RocketLauncherLockOnUpgrade 
+[34:994] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[34:994] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[35:071] SkyJio Unlocked RocketLauncherLockOnUpgrade 
+[35:071] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[35:071] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[35:442] SkyJio Placed/Upgraded AutoTurret 
+[35:765] SkyJio Placed/Upgraded AutoTurret 
+[36:373] SkyJio Unlocked RocketLauncherLockOnUpgrade 
+[36:373] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[36:373] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[36:724] SkyJio Placed/Upgraded AutoTurret 
+[37:331] SkyJio Placed/Upgraded AutoTurret 
+[37:441] SkyJio Placed/Upgraded ExplorationDroid 
+[37:670] SkyJio Unlocked RocketLauncherLockOnUpgrade 
+[37:670] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[37:670] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[37:741] SkyJio Unlocked RocketLauncherLockOnUpgrade 
+[37:741] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[37:741] SkyJio Unlocked RocketLauncherLockOnUpgradeRemove 
+[37:872] SkyJio Placed/Upgraded AutoTurret 
+
+[00:572] BaoJio Unlocked AssaultRifle 
+[00:653] BaoJio Placed MiningDroid 
+[00:774] BaoJio Unlocked Flamethrower 
+[03:608] BaoJio Unlocked SpecOpsFlamethrower 
+[06:159] BaoJio Unlocked BioMechanicalRepairDrone 
+[08:020] BaoJio Unlocked AdvancedDroidEngines 
+[08:065] BaoJio Unlocked CombatShield 
+[09:985] BaoJio Unlocked Teleporter 
+[12:269] BaoJio Unlocked Stimpack 
+[12:842] BaoJio Placed HealingDrone 
+[13:895] BaoJio Placed MiningDroid 
+[14:057] BaoJio Placed HealingDrone 
+[14:870] BaoJio Placed HealingDrone 
+[16:003] BaoJio Unlocked FlashBang 
+[16:008] BaoJio Unlocked SpecOpsFlashbang 
+[16:664] BaoJio Unlocked ThermiteFilaments 
+[17:505] BaoJio Placed HealingDrone 
+[17:826] BaoJio Placed HealingDrone 
+[18:881] BaoJio Unlocked MiningCharge 
+[18:892] BaoJio Unlocked AdvancedMiningCharge 
+[18:969] BaoJio Unlocked QuantumBackpack 
+[20:586] BaoJio Placed HealingDrone 
+[21:484] BaoJio Placed NukePack 
+[22:197] BaoJio Placed HealingDrone 
+[22:258] BaoJio Unlocked SpecOpsBioMechanicalRepairDrone 
+[22:602] BaoJio Placed NukePack 
+[23:009] BaoJio Bought ShieldSuit 
+[23:473] BaoJio Placed HealingDrone 
+[24:236] BaoJio Placed HealingDrone 
+[25:587] BaoJio Unlocked HazmatSuit 
+[25:603] BaoJio Unlocked AdvancedHazmatSuit 
+[27:014] BaoJio Placed NukePack 
+[29:207] BaoJio Placed HealingDrone 
+[29:256] BaoJio Bought EnergySuit 
+[30:357] BaoJio Placed HealingDrone 
+[31:003] BaoJio Placed HealingDrone 
+[31:927] BaoJio Placed HealingDrone 
+[32:366] BaoJio Unlocked SpecOpsTeleporter 
+[35:160] BaoJio Unlocked AutoTurret 
+[35:185] BaoJio Unlocked HeavyTurret 
+[35:444] BaoJio Placed AutoTurret 
+[35:472] BaoJio Placed NukePack 
+[35:654] BaoJio Placed AutoTurret 
+[35:842] BaoJio Placed AutoTurret 
+[36:039] BaoJio Placed AutoTurret 
+[36:532] BaoJio Placed AutoTurret 
+[36:713] BaoJio Placed AutoTurret 
+[37:013] BaoJio Placed HealingDrone 
+[37:362] BaoJio Placed NukePack 
+[37:456] BaoJio Placed HealingDrone 
+[37:677] BaoJio Placed HealingDrone 
+[38:219] BaoJio Placed HealingDrone 
+[38:536] BaoJio Placed HealingDrone 
+[39:989] BaoJio Placed HealingDrone 
+
+[00:568] Frosky Bought PlayerNumber 
+[00:620] Frosky Spawned MassiveCocoon 
+[01:014] Frosky Placed/Upgraded NydusCanalCreeper 
+[02:060] Frosky Spawned Hunter 
+[05:319] Frosky Bought UnlockDropPods 
+[06:706] Frosky Spawned MassiveCocoon 
+[07:327] Frosky Bought EvolveDropPods 
+[07:834] Frosky Bought EvolveDropPods 
+[08:146] Frosky Spawned InfestedAbomination 
+[08:632] Frosky Placed/Upgraded PrimalSunkenColony 
+[08:633] Frosky Bought SunkenColony 
+[08:686] Frosky Placed/Upgraded ToxicNest 
+[08:697] Frosky Placed/Upgraded ToxicNest 
+[09:389] Frosky Placed/Upgraded ToxicNest 
+[09:822] Frosky Bought SunkenColony 
+[10:290] Frosky Placed/Upgraded PrimalSunkenColony 
+[10:291] Frosky Bought SunkenColony 
+[10:995] Frosky Bought EvolveDropPods 
+[10:998] Frosky Bought EvolveDropPods 
+[11:690] Frosky Bought EvolveDropPods 
+[13:714] Frosky Bought SunkenColony 
+[14:034] Frosky Placed/Upgraded PrimalSunkenColony 
+[14:035] Frosky Bought SunkenColony 
+[14:094] Frosky Bought EvolveDropPods 
+[14:758] Frosky Bought SunkenColony 
+[16:255] Frosky Bought StrainHealth 
+[16:265] Frosky Bought PureStrainHealth 
+[16:873] Frosky Spawned MassiveCocoon 
+[18:163] Frosky Placed/Upgraded NydusCanalCreeper 
+[18:713] Frosky Spawned MassiveCocoon 
+[19:527] Frosky Bought CreepSpeed 
+[19:793] Frosky Spawned Underseer 
+[20:714] Frosky Spawned MassiveCocoon 
+[21:206] Frosky Placed/Upgraded PrimalSunkenColony 
+[21:207] Frosky Bought SunkenColony 
+[21:447] Frosky Placed/Upgraded LocustNest 
+[21:712] Frosky Placed/Upgraded LocustNest 
+[22:154] Frosky Spawned InfestedAbomination 
+[22:740] Frosky Placed/Upgraded NydusCanalCreeper 
+[23:027] Frosky Spawned MassiveCocoon 
+[24:257] Frosky Placed/Upgraded PrimalSunkenColony 
+[24:258] Frosky Bought SunkenColony 
+[24:314] Frosky Bought SunkenColony 
+[24:467] Frosky Spawned Anubalisk 
+[25:577] Frosky Placed/Upgraded NydusCanalCreeper 
+[25:588] Frosky Bought ShieldSuit 
+[25:604] Frosky Bought HazmatSuit 
+[28:387] Frosky Placed/Upgraded NydusCanalCreeper 
+[29:124] Frosky Placed/Upgraded NydusCanalCreeper 
+[30:741] Frosky Bought SpawnNydusWorm 
+[30:756] Frosky Placed/Upgraded GreaterNydusWorm 
+[31:294] Frosky Bought DropshipsFueled 
+[31:418] Frosky Placed/Upgraded LesserNydusWorm 
+[31:419] Frosky Bought GreaterNydus 
+[31:802] Frosky Bought AdvancedInfestationContainment 
+[32:784] Frosky Spawned RoyalCocoon 
+[32:784] Frosky Bought SpawnHiveQueen 
+[32:784] Frosky Bought UltimateInfestationResearched 
+[33:476] Frosky Bought StrainVolatile 
+[33:486] Frosky Bought StrainHealth 
+[33:503] Frosky Spawned QueenCoop 
+[33:680] Frosky Placed/Upgraded NydusCanalCreeper 
+[35:101] Frosky Spawned MassiveCocoon 
+[35:604] Frosky Placed/Upgraded NydusCanalCreeper 
+[36:181] Frosky Spawned Underseer 
+[36:372] Frosky Placed/Upgraded NydusCanalCreeper 
+[36:671] Frosky Placed/Upgraded LesserNydusWorm 
+[36:672] Frosky Bought GreaterNydus 
+[37:516] Frosky Placed/Upgraded GreaterNydusWorm 
+[39:200] Frosky Placed/Upgraded PrimalSunkenColony 
+[39:201] Frosky Bought SunkenColony 
+
+[00:572] Toxicpanda Unlocked AssaultRifle 
+[00:651] Toxicpanda Placed/Upgraded MiningDroid 
+[00:814] Toxicpanda Unlocked ArcWelder 
+[02:510] Toxicpanda Unlocked Stimpack 
+[04:053] Toxicpanda Unlocked BioMechanicalRepairDrone 
+[04:062] Toxicpanda Unlocked CombatAccelerationDrone 
+[04:126] Toxicpanda Placed/Upgraded HealingDrone 
+[04:260] Toxicpanda Placed/Upgraded HealingDrone 
+[04:391] Toxicpanda Placed/Upgraded HealingDrone 
+[05:425] Toxicpanda Unlocked AdvancedDroidEngines 
+[06:061] Toxicpanda Unlocked TurboDroidEngines 
+[06:709] Toxicpanda Unlocked AIAssistant 
+[06:759] Toxicpanda Unlocked QuantumBackpack 
+[07:562] Toxicpanda Unlocked AutoTurret 
+[07:827] Toxicpanda Placed/Upgraded AutoTurret 
+[08:212] Toxicpanda Placed/Upgraded AutoTurret 
+[09:537] Toxicpanda Unlocked PsiDisrupter 
+[09:623] Toxicpanda Placed/Upgraded PsiIndoctrinator 
+[09:935] Toxicpanda Placed/Upgraded PsiIndoctrinator 
+[10:474] Toxicpanda Unlocked ExplorationDroid 
+[10:483] Toxicpanda Placed/Upgraded ExplorationDroid 
+[10:487] Toxicpanda Placed/Upgraded ExplorationDroid 
+[10:546] Toxicpanda Placed/Upgraded ExplorationDroid 
+[11:322] Toxicpanda Placed/Upgraded PsiIndoctrinator 
+[11:500] Toxicpanda Placed/Upgraded AutoTurret 
+[11:634] Toxicpanda Placed/Upgraded AutoTurret 
+[11:824] Toxicpanda Placed/Upgraded HealingDrone 
+[12:603] Toxicpanda Placed/Upgraded PsiIndoctrinator 
+[13:011] Toxicpanda Unlocked SpecOpsPsiDisruptor 
+[13:553] Toxicpanda Unlocked PsiDepressor 
+[14:514] Toxicpanda Unlocked FlameTurret 
+[14:539] Toxicpanda Unlocked SpecOpsBioMechanicalRepairDrone 
+[14:544] Toxicpanda Unlocked RechargeDrone 
+[14:771] Toxicpanda Placed/Upgraded HealingDrone 
+[16:700] Toxicpanda Unlocked SpecOpsArcWelder 
+[16:786] Toxicpanda Unlocked EnergySuit 
+[16:808] Toxicpanda Unlocked MedicShield 
+[17:477] Toxicpanda Unlocked AdvancedEnergySuit 
+[18:116] Toxicpanda Unlocked FlashBang 
+[18:219] Toxicpanda Unlocked SpecOpsFlashbang 
+[19:963] Toxicpanda Placed/Upgraded PsiIndoctrinator 
+[20:041] Toxicpanda Placed/Upgraded AutoTurret 
+[20:127] Toxicpanda Placed/Upgraded AutoTurret 
+[21:108] Toxicpanda Unlocked HeavyTurret 
+[21:231] Toxicpanda Placed/Upgraded AutoTurret 
+[21:312] Toxicpanda Placed/Upgraded AutoTurret 
+[21:419] Toxicpanda Placed/Upgraded AutoTurret 
+[21:582] Toxicpanda Placed/Upgraded HealingDrone 
+[22:376] Toxicpanda Unlocked MotionSensor 
+[23:523] Toxicpanda Placed/Upgraded SensorTower 
+[23:555] Toxicpanda Placed/Upgraded SensorTower 
+[23:632] Toxicpanda Unlocked AdvancedMotionSensor 
+[23:762] Toxicpanda Placed/Upgraded SensorTower 
+[23:925] Toxicpanda Placed/Upgraded SensorTower 
+[24:191] Toxicpanda Placed/Upgraded SensorTower 
+[24:279] Toxicpanda Placed/Upgraded SensorTower 
+[24:991] Toxicpanda Placed/Upgraded SensorTower 
+[25:632] Toxicpanda Placed/Upgraded AutoTurret 
+[25:756] Toxicpanda Placed/Upgraded HealingDrone 
+[25:833] Toxicpanda Placed/Upgraded HealingDrone 
+[26:092] Toxicpanda Placed/Upgraded AutoTurret 
+[26:275] Toxicpanda Placed/Upgraded AutoTurret 
+[26:985] Toxicpanda Placed/Upgraded SensorTower 
+[27:345] Toxicpanda Placed/Upgraded ExplorationDroid 
+[27:893] Toxicpanda Unlocked AdvancedExplorationDroid 
+[27:910] Toxicpanda Unlocked MiningCharge 
+[27:915] Toxicpanda Unlocked AdvancedMiningCharge 
+[29:771] Toxicpanda Placed/Upgraded NukePack 
+[30:062] Toxicpanda Placed/Upgraded NukePack 
+[30:284] Toxicpanda Placed/Upgraded NukePack 
+[31:701] Toxicpanda Placed/Upgraded HealingDrone 
+[32:088] Toxicpanda Placed/Upgraded AutoTurret 
+[32:190] Toxicpanda Placed/Upgraded AutoTurret 
+[32:289] Toxicpanda Placed/Upgraded AutoTurret 
+[32:442] Toxicpanda Placed/Upgraded AutoTurret 
+[32:555] Toxicpanda Placed/Upgraded AutoTurret 
+[32:898] Toxicpanda Placed/Upgraded HealingDrone 
+[32:989] Toxicpanda Placed/Upgraded HealingDrone 
+[33:655] Toxicpanda Placed/Upgraded HealingDrone 
+[33:773] Toxicpanda Placed/Upgraded HealingDrone 
+[35:066] Toxicpanda Placed/Upgraded AutoTurret 
+[35:135] Toxicpanda Placed/Upgraded AutoTurret 
+[35:211] Toxicpanda Placed/Upgraded AutoTurret 
+[35:334] Toxicpanda Placed/Upgraded AutoTurret 
+[35:406] Toxicpanda Placed/Upgraded AutoTurret 
+[35:519] Toxicpanda Placed/Upgraded AutoTurret 
+[35:633] Toxicpanda Placed/Upgraded PsiIndoctrinator 
+[35:698] Toxicpanda Placed/Upgraded NukePack 
+[35:958] Toxicpanda Placed/Upgraded HealingDrone 
+[35:997] Toxicpanda Placed/Upgraded NukePack 
+[36:018] Toxicpanda Placed/Upgraded NukePack 
+[36:310] Toxicpanda Placed/Upgraded HealingDrone 
+[36:446] Toxicpanda Placed/Upgraded HealingDrone 
+[36:790] Toxicpanda Placed/Upgraded HealingDrone 
+[36:874] Toxicpanda Placed/Upgraded HealingDrone 
+[37:192] Toxicpanda Placed/Upgraded NukePack 
+[37:483] Toxicpanda Placed/Upgraded HealingDrone 
+[37:841] Toxicpanda Placed/Upgraded NukePack 
+[39:502] Toxicpanda Placed/Upgraded SensorTower 
+
+[00:572] DeATH Unlocked AssaultRifle 
+[01:560] DeATH Unlocked Stimpack 
+[02:890] DeATH Unlocked FragGrenade 
+[03:076] DeATH Unlocked SpecOpsFragGrenade 
+[05:526] DeATH Unlocked AdvancedDroidEngines 
+[07:266] DeATH Unlocked BeamRifle 
+[08:367] DeATH Unlocked CombatSuit 
+[09:183] DeATH Unlocked ExplorationDroid 
+[12:703] DeATH Unlocked SpecOpsPlasmaRifle 
+[12:736] DeATH Unlocked LongRangeScope 
+[13:456] DeATH Unlocked CombatShield 
+[14:659] DeATH Unlocked AdvancedCombatSuit 
+[16:787] DeATH Bought ShieldSuit 
+[16:860] DeATH Unlocked TurboDroidEngines 
+[17:478] DeATH Bought EnergySuit 
+[17:546] DeATH Unlocked OverloadWeapon 
+[20:365] DeATH Unlocked PowerConverter 
+[20:376] DeATH Unlocked SpecOpsPowerConverter 
+[20:424] DeATH Unlocked HazmatSuit 
+[21:614] DeATH Unlocked AdvancedHazmatSuit 
+[22:135] DeATH Unlocked MotionSensor 
+[23:969] DeATH Unlocked AdvancedMotionSensor 
+[25:489] DeATH Unlocked BioMechanicalRepairDrone 
+[26:615] DeATH Unlocked AutoTurret 
+[26:642] DeATH Unlocked HeavyTurret 
+[26:684] DeATH Unlocked QuantumBackpack 
+[30:388] DeATH Unlocked OpticalVisor 
+[30:408] DeATH Unlocked EnergyPack 
+[34:493] DeATH Unlocked PsiDisrupter 
+[34:508] DeATH Unlocked PsiDepressor 
+[36:474] DeATH Unlocked SpecOpsBioMechanicalRepairDrone 
+
+Game Ended
+ 
+STRAIN RATIO: 
+Naked Kills: 339
+T1 Speed Kills:  0 T2 Speed Kills: 0 T3 Speed Kills:  0
+T1 Health Kills: 14 T2 Health Kills: 28 T3 Health Kills: 0
+T1 Damage Kills: 0 T2 Damage Kills: 0 T3 Damage Kills: 0
+T1 Voltaile Kills: 106 T2 Voltaile Kills: 0 T3 Voltaile Kills: 0
+----------------------------------------------------------------------------
+Warpig kills : 4010
+---------------------------------------------------------
+Name: BurtMacklin
+ 
+STRAINS: 
+Naked Kills :  596
+T1_Health Kills : 8
+T2_Health Kills : 62
+T3_Health Kills : 0
+T1_Voltaile Kills : 5
+T2_Voltaile Kills : 0
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+Aberation/Abomination Kills : 1
+Royal Queen Kills: 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: MarFly
+ 
+STRAINS: 
+Naked Kills :  598
+T1_Health Kills : 18
+T2_Health Kills : 37
+T3_Health Kills : 0
+T1_Voltaile Kills : 33
+T2_Voltaile Kills : 0
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: SkyJio
+ 
+STRAINS: 
+Naked Kills :  1029
+T1_Health Kills : 38
+T2_Health Kills : 161
+T3_Health Kills : 0
+T1_Voltaile Kills : 53
+T2_Voltaile Kills : 0
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+Underseer/Saboteur Kills : 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: BaoJio
+ 
+STRAINS: 
+Naked Kills :  976
+T1_Health Kills : 11
+T2_Health Kills : 69
+T3_Health Kills : 0
+T1_Voltaile Kills : 14
+T2_Voltaile Kills : 0
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+END_SIGNATURE
+---------------------------------------------------------
+Name: Frosky
+ 
+STRAINS: 
+Naked Kills :  0
+T1_Voltaile Kills : 132
+T2_Voltaile Kills : 0
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+QueenEgg Kills: 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: Toxicpanda
+ 
+STRAINS: 
+Naked Kills :  245
+T1_Health Kills : 118
+T2_Health Kills : 157
+T3_Health Kills : 0
+T1_Voltaile Kills : 31
+T2_Voltaile Kills : 0
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+Aberation/Abomination Kills : 1
+END_SIGNATURE
+---------------------------------------------------------
+Name: DeATH
+ 
+STRAINS: 
+Naked Kills :  963
+T1_Health Kills : 95
+T2_Health Kills : 223
+T3_Health Kills : 0
+T1_Voltaile Kills : 10
+T2_Voltaile Kills : 0
+T3_Voltaile Kills : 0
+ 
+ALPHAS: 
+Egg Kills : 1
+Aberation/Abomination Kills : 1
+Anubalisk/Anubalight Kills : 1
+Underseer/Saboteur Kills : 1
+END_SIGNATURE
+
+CHAT MESSAGES: 
+[00:091] Toxicpanda: glglgl
+[00:101] DeATH: honkhonk
+[00:154] Toxicpanda: damn burt
+[00:207] Toxicpanda: when did u derank from gm?
+[00:346] Frosky: 8 gm lobby
+[00:382] Toxicpanda: me arc
+[00:385] BurtMacklin: too many pub games lol
+[00:420] Toxicpanda: me arc
+[00:484] Toxicpanda: someoen go flamer
+[00:488] Frosky: no
+[00:518] Frosky: no no no
+[16:183] Frosky: ugh
+[37:908] Frosky: gg
+[39:098] SkyJio: no,...
+[39:236] SkyJio: nooooooooo
+[39:309] Frosky: yeyyy
+[40:615] Toxicpanda: ay
+[40:665] Toxicpanda: gg
+[41:238] DeATH: oh
+[41:238] SkyJio: rage quit
+[41:238] Toxicpanda: lmao
+[41:238] Toxicpanda: nice
+[41:238] MarFly: lol
+[41:238] DeATH: frosky shoulda get fdc
+[41:238] MarFly: nice income leaver
+Frosky First Alpha Hunter |  Loss
+
+Frosky Placed 2 Greaters.
+--------------------------------
