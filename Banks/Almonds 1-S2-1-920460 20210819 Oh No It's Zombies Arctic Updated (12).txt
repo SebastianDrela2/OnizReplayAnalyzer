@@ -1,0 +1,24 @@
+Almonds HumanWinsNormal 184
+Almonds ZombieRank 31
+Almonds VespeneHarvested 1278100
+Almonds HumansRescued 350
+Almonds SecurityForcesKilled 91017
+Almonds ZombiesKilled 245880
+Almonds FuelDiverted 1358
+Almonds HumanRank 29.1254
+Almonds NumberOfTimesCaptured 597
+Almonds TurretsBuilt 2805
+Almonds ZombieWins 121
+Almonds GamesLeft 17
+Almonds GamesPlayedAsHuman 386
+Almonds GamesPlayedAsZombie 189
+Almonds HumansCaptured 2339
+Almonds K/D Ratio 411,86
+Almonds Average Marine Winrate 48%
+Almonds Average Fuel Diverts PerGame 3,52
+Almonds Average Vespene Harvested PerGame 3311,14
+Almonds Average Zombie Winrate 64%
+Almonds Average Captures Per Game 12
+Almonds Average Security Kills Per Game 482
+Almonds Average Deaths PerGame 1,55
+Almonds Average Infestation Class Class 5

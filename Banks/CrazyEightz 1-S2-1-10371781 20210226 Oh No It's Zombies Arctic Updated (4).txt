@@ -1,0 +1,24 @@
+CrazyEightz HumanWinsNormal 10
+CrazyEightz ZombieRank 0
+CrazyEightz VespeneHarvested 45600
+CrazyEightz HumansRescued 3
+CrazyEightz SecurityForcesKilled 0
+CrazyEightz ZombiesKilled 6250
+CrazyEightz FuelDiverted 62
+CrazyEightz HumanRank 20
+CrazyEightz NumberOfTimesCaptured 5
+CrazyEightz TurretsBuilt 53
+CrazyEightz ZombieWins 0
+CrazyEightz GamesLeft 0
+CrazyEightz GamesPlayedAsHuman 10
+CrazyEightz GamesPlayedAsZombie 0
+CrazyEightz HumansCaptured 0
+CrazyEightz K/D Ratio 1250
+CrazyEightz Average Marine Winrate 100%
+CrazyEightz Average Fuel Diverts PerGame 6,2
+CrazyEightz Average Vespene Harvested PerGame 4560
+CrazyEightz Average Zombie Winrate NaN%
+CrazyEightz Average Captures Per Game NaN
+CrazyEightz Average Security Kills Per Game NaN
+CrazyEightz Average Deaths PerGame 0,5
+CrazyEightz Average Infestation Class Class 1

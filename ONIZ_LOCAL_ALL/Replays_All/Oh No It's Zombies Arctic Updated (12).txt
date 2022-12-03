@@ -1,0 +1,207 @@
+Date: 2021.08.19  12:19:12
+
+ID : 0 PlayerName: Rambo Race: Terran
+ID : 1 PlayerName: Frosky Race: Terran
+ID : 2 PlayerName: RyK Race: Terran
+ID : 3 PlayerName: FireFurry Race: Terran
+ID : 4 PlayerName: LouDawg Race: Terran
+ID : 5 PlayerName: Almonds Race: Zerg
+ID : 6 PlayerName: Velociraptor Race: Terran
+ID : 7 PlayerName: Security Race: Terran Tychus
+Almonds  Loss
+Public Lobby
+
+Game Length:[32:793]
+Players ammount: 7
+Marine rank avg: 0
+GrandMaster ammount: 0
+
+FireFurry First Gun Shotgun
+Velociraptor First Gun Shotgun
+Frosky First Gun SpecOpsAssaultRifle
+RyK First Gun SpecOpsAssaultRifle
+Rambo First Gun SpecOpsAssaultRifle
+LouDawg First Gun SpecOpsAssaultRifle
+
+PURCHASES: 
+[00:588] Rambo Unlocked AssaultRifle
+[01:734] Rambo Unlocked CombatSuit
+[01:754] Rambo Unlocked AdvancedCombatSuit
+[05:551] Rambo Placed/Upgraded MiningDroid
+[10:361] Rambo Unlocked SpecOpsAssaultRifle
+[12:546] Rambo Unlocked Teleporter
+[20:297] Rambo Unlocked TitaniumBulletCasings
+[22:413] Rambo Unlocked AutoTargetingSystem
+[00:588] Frosky Unlocked AssaultRifle
+[00:722] Frosky Placed/Upgraded MiningDroid
+[01:117] Frosky Unlocked AdvancedDroidEngines
+[01:735] Frosky Bought ShieldSuit
+[01:735] Frosky Bought CombatSuit
+[01:735] Frosky Bought HazmatSuit
+[01:735] Frosky Bought CombatSuit
+[01:755] Frosky Bought CombatSuit
+[03:241] Frosky Unlocked TurboDroidEngines
+[05:383] Frosky Unlocked SpecOpsAssaultRifle
+[08:759] Frosky Unlocked CombatShield
+[11:915] Frosky Unlocked AutoTargetingSystem
+[16:843] Frosky Unlocked Teleporter
+[00:588] RyK Unlocked AssaultRifle
+[00:669] RyK Placed/Upgraded MiningDroid
+[01:006] RyK Unlocked AdvancedDroidEngines
+[03:834] RyK Unlocked TurboDroidEngines
+[06:627] RyK Unlocked SpecOpsAssaultRifle
+[08:918] RyK Unlocked Stimpack
+[09:333] RyK Unlocked Shieldsiotunlocked
+[10:620] RyK Placed/Upgraded MiningDroid
+[13:091] RyK Unlocked AutoTargetingSystem
+[13:342] RyK Unlocked IncendiaryGrenade
+[17:155] RyK Unlocked Teleporter
+[21:138] RyK Unlocked PsiDisrupter
+[21:380] RyK Unlocked SpecOpsPsiDisruptor
+[22:495] RyK Placed/Upgraded PsiIndoctrinator
+[25:648] RyK Unlocked AutoTurret
+[25:852] RyK Unlocked SpecOpsTurret
+[00:588] FireFurry Unlocked AssaultRifle
+[00:675] FireFurry Placed/Upgraded MiningDroid
+[01:009] FireFurry Unlocked Shotgun
+[03:120] FireFurry Unlocked Stimpack
+[04:393] FireFurry Unlocked BioMechanicalRepairDrone
+[04:506] FireFurry Placed/Upgraded HealingDrone
+[08:629] FireFurry Unlocked AdvancedDroidEngines
+[09:260] FireFurry Unlocked Teleporter
+[09:334] FireFurry Bought ShieldSuit
+[09:334] FireFurry Bought CombatSuit
+[09:334] FireFurry Bought HazmatSuit
+[09:334] FireFurry Bought ShieldSuit
+[13:146] FireFurry Unlocked SpecOpsShotgun
+[13:530] FireFurry Unlocked IncendiaryBullets
+[14:670] FireFurry Unlocked MedicShield
+[14:914] FireFurry Unlocked CombatSuit
+[15:317] FireFurry Placed/Upgraded HealingDrone
+[16:441] FireFurry Placed/Upgraded HealingDrone
+[17:617] FireFurry Unlocked AdvancedCombatSuit
+[19:333] FireFurry Unlocked EnergyPack
+[20:502] FireFurry Placed/Upgraded HealingDrone
+[21:260] FireFurry Placed/Upgraded MiningDroid
+[21:924] FireFurry Placed/Upgraded HealingDrone
+[23:518] FireFurry Placed/Upgraded HealingDrone
+[23:707] FireFurry Placed/Upgraded HealingDrone
+[24:360] FireFurry Placed/Upgraded HealingDrone
+[24:627] FireFurry Unlocked HazmatSuit
+[29:304] FireFurry Unlocked AdvancedHazmatSuit
+[29:913] FireFurry Placed/Upgraded HealingDrone
+[30:713] FireFurry Placed/Upgraded HealingDrone
+[00:588] LouDawg Unlocked AssaultRifle
+[00:680] LouDawg Placed MiningDroid
+[09:018] LouDawg Unlocked MotionSensor
+[09:042] LouDawg Unlocked AdvancedDroidEngines
+[09:058] LouDawg Unlocked TurboDroidEngines
+[09:071] LouDawg Unlocked AdvancedMotionSensor
+[09:242] LouDawg Unlocked Stimpack
+[09:426] LouDawg Placed SensorTower
+[10:420] LouDawg Placed SensorTower
+[10:912] LouDawg Placed SensorTower
+[12:128] LouDawg Unlocked SpecOpsAssaultRifle
+[14:105] LouDawg Placed SensorTower
+[14:617] LouDawg Unlocked TitaniumBulletCasings
+[14:915] LouDawg Bought ShieldSuit
+[14:915] LouDawg Bought CombatSuit
+[14:915] LouDawg Bought HazmatSuit
+[14:915] LouDawg Bought CombatSuit
+[17:618] LouDawg Bought CombatSuit
+[20:564] LouDawg Placed MiningDroid
+[24:437] LouDawg Unlocked Shieldsiotunlocked
+[24:470] LouDawg Unlocked AdvancedShieldSuit
+[24:628] LouDawg Bought ShieldSuit
+[24:628] LouDawg Bought CombatSuit
+[24:628] LouDawg Bought HazmatSuit
+[24:628] LouDawg Bought HazmatSuit
+[24:785] LouDawg Unlocked CombatShield
+[26:072] LouDawg Placed MiningDroid
+[29:305] LouDawg Bought HazmatSuit
+[29:490] LouDawg Unlocked FlashBang
+[31:289] LouDawg Unlocked Teleporter
+[00:552] Almonds Bought PlayerNumber
+[01:148] Almonds Bought StrainSpeed
+[04:310] Almonds Bought PureStrainSpeed
+[05:150] Almonds Placed/Upgraded PrimalSunkenColony
+[05:151] Almonds Bought SunkenColony
+[06:445] Almonds Bought SunkenColony
+[07:078] Almonds Bought HunterlingStrain
+[07:506] Almonds Placed/Upgraded NydusCanalCreeper
+[09:335] Almonds Bought CreepSpeed
+[10:380] Almonds Bought StrainVolatile
+[11:374] Almonds Bought BuildExtractorScienceLabs
+[11:374] Almonds Placed/Upgraded AutomatedExtractor
+[12:374] Almonds Bought AdvancedInfestationContainment
+[13:518] Almonds Bought PureStrainVolatile
+[14:306] Almonds Bought AdvancedPowerInfestation
+[15:617] Almonds Bought BuildExtractorExcavationZone
+[15:617] Almonds Placed/Upgraded AutomatedExtractor
+[16:111] Almonds Placed/Upgraded PrimalSunkenColony
+[16:112] Almonds Bought SunkenColony
+[16:404] Almonds Bought SunkenColony
+[16:664] Almonds Placed/Upgraded NydusCanalCreeper
+[16:892] Almonds Bought BuildExtractorExcavationZone
+[17:067] Almonds Bought BuildExtractorProcessingFacilities
+[17:067] Almonds Placed/Upgraded AutomatedExtractor
+[17:104] Almonds Bought SiphonFuel
+[17:653] Almonds Placed/Upgraded PrimalSunkenColony
+[17:654] Almonds Bought SunkenColony
+[18:189] Almonds Bought BuildExtractorScienceLabs
+[18:331] Almonds Bought SunkenColony
+[18:425] Almonds Placed/Upgraded PrimalSunkenColony
+[18:426] Almonds Bought SunkenColony
+[18:860] Almonds Bought SunkenColony
+[18:937] Almonds Bought VirulentCreep
+[18:937] Almonds Bought VirulentCreep
+[19:875] Almonds Placed/Upgraded Virophage
+[20:471] Almonds Bought SiphonFuel
+[21:031] Almonds Placed/Upgraded LesserNydusWorm
+[21:032] Almonds Bought GreaterNydus
+[21:640] Almonds Bought KaboomerStrain
+[22:527] Almonds Placed/Upgraded NydusCanalCreeper
+[22:786] Almonds Bought BuildExtractorScienceLabs
+[22:786] Almonds Placed/Upgraded AutomatedExtractor
+[24:336] Almonds Bought SiphonFuel
+[24:438] Almonds Bought ShieldSuit
+[24:438] Almonds Bought CombatSuit
+[24:438] Almonds Bought HazmatSuit
+[24:438] Almonds Bought ShieldSuit
+[24:471] Almonds Bought ShieldSuit
+[25:302] Almonds Placed/Upgraded NydusCanalCreeper
+[26:067] Almonds Spawned MassiveCocoon
+[26:832] Almonds Placed/Upgraded LesserNydusWorm
+[26:833] Almonds Bought GreaterNydus
+[27:242] Almonds Bought SiphonFuel
+[27:507] Almonds Spawned InfestedAbomination
+[28:258] Almonds Bought ConstructiveCreep
+[28:276] Almonds Placed/Upgraded LesserNydusWorm
+[28:277] Almonds Bought GreaterNydus
+[28:448] Almonds Bought DropshipsFueled
+[30:243] Almonds Bought SweepingInfestation
+[30:243] Almonds Bought UltimateInfestationResearched
+[30:253] Almonds Bought SpawnNydusWorm
+[30:271] Almonds Placed/Upgraded GreaterNydusWorm
+[31:513] Almonds Bought AdvancedInfestationSecurity
+[31:910] Almonds Bought TrackHumans
+[00:588] Velociraptor Unlocked AssaultRifle
+[00:735] Velociraptor Unlocked AdvancedDroidEngines
+[03:335] Velociraptor Unlocked TurboDroidEngines
+[05:245] Velociraptor Unlocked Shotgun
+[08:852] Velociraptor Unlocked SpecOpsShotgun
+[09:173] Velociraptor Unlocked HighPrecisionBeams
+[09:418] Velociraptor Unlocked OverloadWeapon
+[11:817] Velociraptor Unlocked CombatShield
+[14:552] Velociraptor Unlocked Shieldsiotunlocked
+[14:574] Velociraptor Unlocked AdvancedShieldSuit
+[18:011] Velociraptor Unlocked SuperHealingDrone
+[14:553] Security Bought ShieldSuit
+[14:553] Security Bought CombatSuit
+[14:553] Security Bought HazmatSuit
+[14:553] Security Bought ShieldSuit
+[14:575] Security Bought ShieldSuit
+Almonds First Alpha InfestedAbomination |  Loss
+
+Almonds Placed 1 Greaters.
+--------------------------------

@@ -1,0 +1,26 @@
+DeadBoris HumanWinsNormal 16
+DeadBoris LeftLastGameAsZombie 0
+DeadBoris ZombieRank 0
+DeadBoris VespeneHarvested 275500
+DeadBoris HumansRescued 70
+DeadBoris SecurityForcesKilled 350
+DeadBoris ZombiesKilled 37223
+DeadBoris FuelDiverted 176
+DeadBoris PlayedRankedMode5.0 1
+DeadBoris HumanRank 6
+DeadBoris NumberOfTimesCaptured 156
+DeadBoris TurretsBuilt 549
+DeadBoris ZombieWins 0
+DeadBoris GamesLeft 8
+DeadBoris GamesPlayedAsHuman 83
+DeadBoris GamesPlayedAsZombie 1
+DeadBoris HumansCaptured 4
+DeadBoris K/D Ratio 238,61
+DeadBoris Average Marine Winrate 19%
+DeadBoris Average Fuel Diverts PerGame 2,12
+DeadBoris Average Vespene Harvested PerGame 3319,28
+DeadBoris Average Zombie Winrate 0%
+DeadBoris Average Captures Per Game  4
+DeadBoris Average Security Kills Per Game 350
+DeadBoris Average Deaths PerGame 1,88
+DeadBoris Average Infestation Class Class 4

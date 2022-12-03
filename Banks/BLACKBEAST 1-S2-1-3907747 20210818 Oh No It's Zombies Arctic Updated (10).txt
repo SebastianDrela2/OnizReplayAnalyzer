@@ -1,0 +1,24 @@
+BLACKBEAST HumanWinsNormal 15
+BLACKBEAST ZombieRank 0
+BLACKBEAST VespeneHarvested 81500
+BLACKBEAST HumansRescued 26
+BLACKBEAST SecurityForcesKilled 0
+BLACKBEAST ZombiesKilled 22134
+BLACKBEAST FuelDiverted 20
+BLACKBEAST HumanRank 0.5
+BLACKBEAST NumberOfTimesCaptured 91
+BLACKBEAST TurretsBuilt 180
+BLACKBEAST ZombieWins 0
+BLACKBEAST GamesLeft 4
+BLACKBEAST GamesPlayedAsHuman 39
+BLACKBEAST GamesPlayedAsZombie 0
+BLACKBEAST HumansCaptured 0
+BLACKBEAST K/D Ratio 243,23
+BLACKBEAST Average Marine Winrate 38%
+BLACKBEAST Average Fuel Diverts PerGame 0,51
+BLACKBEAST Average Vespene Harvested PerGame 2089,74
+BLACKBEAST Average Zombie Winrate NaN%
+BLACKBEAST Average Captures Per Game NaN
+BLACKBEAST Average Security Kills Per Game NaN
+BLACKBEAST Average Deaths PerGame 2,33
+BLACKBEAST Average Infestation Class Class 1

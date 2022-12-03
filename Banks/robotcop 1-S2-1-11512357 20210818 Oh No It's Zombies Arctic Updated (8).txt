@@ -1,0 +1,24 @@
+robotcop HumanWinsNormal 2
+robotcop ZombieRank 0
+robotcop VespeneHarvested 9400
+robotcop HumansRescued 2
+robotcop SecurityForcesKilled 1757
+robotcop ZombiesKilled 2834
+robotcop FuelDiverted 3
+robotcop HumanRank 6
+robotcop NumberOfTimesCaptured 7
+robotcop TurretsBuilt 84
+robotcop ZombieWins 2
+robotcop GamesLeft 0
+robotcop GamesPlayedAsHuman 5
+robotcop GamesPlayedAsZombie 4
+robotcop HumansCaptured 27
+robotcop K/D Ratio 404,86
+robotcop Average Marine Winrate 40%
+robotcop Average Fuel Diverts PerGame 0,6
+robotcop Average Vespene Harvested PerGame 1880
+robotcop Average Zombie Winrate 50%
+robotcop Average Captures Per Game  7
+robotcop Average Security Kills Per Game 439
+robotcop Average Deaths PerGame 1,4
+robotcop Average Infestation Class Class 5

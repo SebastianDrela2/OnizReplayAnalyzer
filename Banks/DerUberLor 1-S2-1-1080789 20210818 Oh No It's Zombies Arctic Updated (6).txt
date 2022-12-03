@@ -1,0 +1,25 @@
+DerUberLor HumanWinsNormal 3
+DerUberLor ZombieRank 0
+DerUberLor VespeneHarvested 9100
+DerUberLor HumansRescued 5
+DerUberLor SecurityForcesKilled 0
+DerUberLor ZombiesKilled 2757
+DerUberLor FuelDiverted 22
+DerUberLor PlayedRankedMode5.0 1
+DerUberLor HumanRank 1
+DerUberLor NumberOfTimesCaptured 20
+DerUberLor TurretsBuilt 17
+DerUberLor ZombieWins 0
+DerUberLor GamesLeft 0
+DerUberLor GamesPlayedAsHuman 9
+DerUberLor GamesPlayedAsZombie 0
+DerUberLor HumansCaptured 0
+DerUberLor K/D Ratio 137,85
+DerUberLor Average Marine Winrate 33%
+DerUberLor Average Fuel Diverts PerGame 2,44
+DerUberLor Average Vespene Harvested PerGame 1011,11
+DerUberLor Average Zombie Winrate NaN%
+DerUberLor Average Captures Per Game NaN
+DerUberLor Average Security Kills Per Game NaN
+DerUberLor Average Deaths PerGame 2,22
+DerUberLor Average Infestation Class Class 1

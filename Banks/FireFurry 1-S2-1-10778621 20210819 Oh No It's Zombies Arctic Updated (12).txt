@@ -1,0 +1,25 @@
+FireFurry HumanWinsNormal 2
+FireFurry ZombieRank 0
+FireFurry VespeneHarvested 19200
+FireFurry HumansRescued 3
+FireFurry SecurityForcesKilled 532
+FireFurry ZombiesKilled 4056
+FireFurry FuelDiverted 9
+FireFurry PlayedRankedMode5.0 1
+FireFurry HumanRank 3
+FireFurry NumberOfTimesCaptured 14
+FireFurry TurretsBuilt 16
+FireFurry ZombieWins 1
+FireFurry GamesLeft 0
+FireFurry GamesPlayedAsHuman 7
+FireFurry GamesPlayedAsZombie 1
+FireFurry HumansCaptured 14
+FireFurry K/D Ratio 289,71
+FireFurry Average Marine Winrate 28,999999999999996%
+FireFurry Average Fuel Diverts PerGame 1,29
+FireFurry Average Vespene Harvested PerGame 2742,86
+FireFurry Average Zombie Winrate 100%
+FireFurry Average Captures Per Game 14
+FireFurry Average Security Kills Per Game 532
+FireFurry Average Deaths PerGame 2
+FireFurry Average Infestation Class Class 6

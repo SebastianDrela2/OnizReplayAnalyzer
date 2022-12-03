@@ -1,0 +1,24 @@
+Crylexen HumanWinsNormal 1
+Crylexen ZombieRank 0
+Crylexen VespeneHarvested 2400
+Crylexen HumansRescued 1
+Crylexen SecurityForcesKilled 0
+Crylexen ZombiesKilled 628
+Crylexen FuelDiverted 0
+Crylexen HumanRank 1
+Crylexen NumberOfTimesCaptured 2
+Crylexen TurretsBuilt 14
+Crylexen ZombieWins 0
+Crylexen GamesLeft 0
+Crylexen GamesPlayedAsHuman 2
+Crylexen GamesPlayedAsZombie 0
+Crylexen HumansCaptured 0
+NeguhDrama K/D Ratio 314
+NeguhDrama Average Marine Winrate 50%
+NeguhDrama Average Fuel Diverts PerGame 0
+NeguhDrama Average Vespene Harvested PerGame 1200
+NeguhDrama Average Zombie Winrate NaN%
+NeguhDrama Average Captures Per Game NaN
+NeguhDrama Average Security Kills Per Game NaN
+NeguhDrama Average Deaths PerGame 1
+NeguhDrama Average Infestation Class Class 1
