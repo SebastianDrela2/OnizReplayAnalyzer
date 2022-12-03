@@ -4,6 +4,18 @@
         <name>s2protocol.NET</name>
     </assembly>
     <members>
+        <member name="T:s2protocol.NET.DecodeParallelResult">
+            <summary>DecodeParallelResult</summary>
+        </member>
+        <member name="P:s2protocol.NET.DecodeParallelResult.Sc2Replay">
+            <summary>Sc2Replay</summary>
+        </member>
+        <member name="P:s2protocol.NET.DecodeParallelResult.ReplayPath">
+            <summary>ReplayPath</summary>
+        </member>
+        <member name="P:s2protocol.NET.DecodeParallelResult.Exception">
+            <summary>Exception</summary>
+        </member>
         <member name="T:s2protocol.NET.EngineException">
              <summary>Engine startup Exception</summary>
             
@@ -297,7 +309,7 @@
              <summary>Record <c>GameEvents</c> GameEvents</summary>
             
         </member>
-        <member name="M:s2protocol.NET.Models.GameEvents.#ctor(System.Collections.Generic.ICollection{s2protocol.NET.Models.GameEvent},s2protocol.NET.Models.SBankKeyEvent[],s2protocol.NET.Models.SBankSignatureEvent[],s2protocol.NET.Models.STriggerSoundtrackDoneEvent[],s2protocol.NET.Models.SBankSectionEvent[],s2protocol.NET.Models.SBankFileEvent[],s2protocol.NET.Models.SBankValueEvent[],s2protocol.NET.Models.STriggerDialogControlEvent[],s2protocol.NET.Models.STriggerChatMessageEvent[])">
+        <member name="M:s2protocol.NET.Models.GameEvents.#ctor(System.Collections.Generic.ICollection{s2protocol.NET.Models.GameEvent},System.Collections.Generic.ICollection{s2protocol.NET.Models.SBankKeyEvent},System.Collections.Generic.ICollection{s2protocol.NET.Models.SBankSignatureEvent})">
              <summary>Record <c>GameEvents</c> constructor</summary>
             
         </member>
@@ -305,40 +317,16 @@
              <summary>BaseGameEvents</summary>
             
         </member>
-        <member name="M:s2protocol.NET.Models.GameEvents.GetGameEvents``1">
+        <member name="P:s2protocol.NET.Models.GameEvents.SBankKeyEvents">
              <summary>GetGameEvents of spcified Type</summary>
             
         </member>
-        <member name="P:s2protocol.NET.Models.GameEvents.SBankKeyEvents">
-             <summary>GetBankValueEvents of spcified Type</summary>
-            
-        </member>
         <member name="P:s2protocol.NET.Models.GameEvents.SBankSignatureEvents">
-             <summary>GetBankValueEvents of spcified Type</summary>
+             <summary>GetGameEvents of spcified Type</summary>
             
         </member>
-        <member name="P:s2protocol.NET.Models.GameEvents.STriggerChatMessageEvents">
-             <summary>GetBankValueEvents of spcified Type</summary>
-            
-        </member>
-        <member name="P:s2protocol.NET.Models.GameEvents.SBankSectionEvents">
-             <summary>GetBankValueEvents of spcified Type</summary>
-            
-        </member>
-        <member name="P:s2protocol.NET.Models.GameEvents.SBankFileEvents">
-             <summary>GetBankValueEvents of spcified Type</summary>
-            
-        </member>
-        <member name="P:s2protocol.NET.Models.GameEvents.SBankValueEvents">
-             <summary>GetBankValueEvents of spcified Type</summary>
-            
-        </member>
-        <member name="P:s2protocol.NET.Models.GameEvents.STriggerDialogControlEvents">
-             <summary>GetBankValueEvents of spcified Type</summary>
-            
-        </member>
-        <member name="P:s2protocol.NET.Models.GameEvents.STriggerCh2atMessageEvents">
-             <summary>GetBankValueEvents of spcified Type</summary>
+        <member name="M:s2protocol.NET.Models.GameEvents.GetGameEvents``1">
+             <summary>GetGameEvents of spcified Type</summary>
             
         </member>
         <member name="T:s2protocol.NET.Models.GameEvent">
@@ -2230,7 +2218,17 @@
             <param name="logLevel">Optional LogLevel</param>
         </member>
         <member name="M:s2protocol.NET.ReplayDecoder.DecodeParallel(System.Collections.Generic.ICollection{System.String},System.Int32,s2protocol.NET.ReplayDecoderOptions,System.Threading.CancellationToken)">
-            <summary>Decode Starcraft2 replay</summary>
+            <summary>Decode Starcraft2 replays
+            Replays replays will be skipped
+            </summary>
+            <param name="replayPaths">The paths to the Starcraft2 replays</param>
+            /// <param name="threads">Number of parallelism</param>
+            <param name="options">Optional decoding options</param>
+            <param name="token">Optional CancellationToken</param>
+        </member>
+        <member name="M:s2protocol.NET.ReplayDecoder.DecodeParallelWithErrorReport(System.Collections.Generic.ICollection{System.String},System.Int32,s2protocol.NET.ReplayDecoderOptions,System.Threading.CancellationToken)">
+            <summary>Decode Starcraft2 replays and report potential errors
+            </summary>
             <param name="replayPaths">The paths to the Starcraft2 replays</param>
             /// <param name="threads">Number of parallelism</param>
             <param name="options">Optional decoding options</param>
@@ -2278,19 +2276,11 @@
             <summary>Decode AttributeEvents</summary>
             
         </member>
-        <member name="M:s2protocol.NET.ReplayDecoderOptions.Dispose">
-             <summary>Decode AttributeEvents</summary>
-            
-        </member>
         <member name="T:s2protocol.NET.Sc2Replay">
              <summary>Record <c>Sc2Replay</c> Starcaft2 replay model</summary>
             
         </member>
         <member name="M:s2protocol.NET.Sc2Replay.#ctor(System.Object,System.String)">
-             <summary>Record <c>Sc2Replay</c> constructor</summary>
-            
-        </member>
-        <member name="M:s2protocol.NET.Sc2Replay.Dispose">
              <summary>Record <c>Sc2Replay</c> constructor</summary>
             
         </member>

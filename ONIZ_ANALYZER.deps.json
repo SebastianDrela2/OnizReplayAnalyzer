@@ -17,7 +17,7 @@
           "Microsoft.Extensions.Logging": "6.0.0",
           "Microsoft.VisualStudio.Shell.Interop.10.0": "17.4.33103.184",
           "coverlet.collector": "3.1.2",
-          "s2protocol.NET": "0.6.6"
+          "s2protocol.NET": "0.6.8"
         },
         "runtime": {
           "ONIZ_ANALYZER.dll": {}
@@ -1281,7 +1281,7 @@
           "System.Xml.ReaderWriter": "4.3.0"
         }
       },
-      "s2protocol.NET/0.6.6": {
+      "s2protocol.NET/0.6.8": {
         "dependencies": {
           "IronPython": "2.7.12",
           "IronPython.StdLib": "2.7.12",
@@ -2133,7 +2133,7 @@
       "path": "system.xml.xmldocument/4.3.0",
       "hashPath": "system.xml.xmldocument.4.3.0.nupkg.sha512"
     },
-    "s2protocol.NET/0.6.6": {
+    "s2protocol.NET/0.6.8": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
