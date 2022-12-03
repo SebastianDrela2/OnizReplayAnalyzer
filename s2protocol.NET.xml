@@ -2211,6 +2211,12 @@
              <summary>Class <c>ReplayDecoder</c> Starcaft2 replay decoding</summary>
             
         </member>
+        <member name="F:s2protocol.NET.ReplayDecoder.timer">
+            <summary>Creates the decoder</summary>
+        </member>
+        <member name="F:s2protocol.NET.ReplayDecoder.timers">
+            <summary>Creates the decoder</summary>
+        </member>
         <member name="M:s2protocol.NET.ReplayDecoder.#ctor(System.String,System.Nullable{Microsoft.Extensions.Logging.LogLevel})">
             <summary>Creates the decoder</summary>
             <param name="appPath">The path to the executing assembly</param>
