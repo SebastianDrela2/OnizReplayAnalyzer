@@ -1801,16 +1801,8 @@
              <summary>Record <c>TrackerEvents</c> TrackerEvents</summary>
             
         </member>
-        <member name="M:s2protocol.NET.Models.TrackerEvents.#ctor(s2protocol.NET.Models.SPlayerSetupEvent[],s2protocol.NET.Models.SPlayerStatsEvent[],s2protocol.NET.Models.SUnitBornEvent[],s2protocol.NET.Models.SUnitDiedEvent[],s2protocol.NET.Models.SUnitOwnerChangeEvent[],s2protocol.NET.Models.SUnitPositionsEvent[],s2protocol.NET.Models.SUnitTypeChangeEvent[],s2protocol.NET.Models.SUpgradeEvent[],s2protocol.NET.Models.SUnitInitEvent[],s2protocol.NET.Models.SUnitDoneEvent[])">
+        <member name="M:s2protocol.NET.Models.TrackerEvents.#ctor(s2protocol.NET.Models.SUnitBornEvent[],s2protocol.NET.Models.SUnitDiedEvent[],s2protocol.NET.Models.SUnitOwnerChangeEvent[],s2protocol.NET.Models.SUnitTypeChangeEvent[],s2protocol.NET.Models.SUpgradeEvent[],s2protocol.NET.Models.SUnitInitEvent[],s2protocol.NET.Models.SUnitDoneEvent[])">
              <summary>Record <c>TrackerEvents</c> constructor</summary>
-            
-        </member>
-        <member name="P:s2protocol.NET.Models.TrackerEvents.SPlayerSetupEvents">
-             <summary>Event ControlPlayerId</summary>
-            
-        </member>
-        <member name="P:s2protocol.NET.Models.TrackerEvents.SPlayerStatsEvents">
-             <summary>Event ControlPlayerId</summary>
             
         </member>
         <member name="P:s2protocol.NET.Models.TrackerEvents.SUnitBornEvents">
@@ -1822,10 +1814,6 @@
             
         </member>
         <member name="P:s2protocol.NET.Models.TrackerEvents.SUnitOwnerChangeEvents">
-             <summary>Event ControlPlayerId</summary>
-            
-        </member>
-        <member name="P:s2protocol.NET.Models.TrackerEvents.SUnitPositionsEvents">
              <summary>Event ControlPlayerId</summary>
             
         </member>
@@ -1878,7 +1866,7 @@
              <comment>NNet.Replay.Tracker.SUnitBornEvent events appear for units that are created fully constructed.</comment>
             
         </member>
-        <member name="M:s2protocol.NET.Models.SUnitBornEvent.#ctor(s2protocol.NET.Models.TrackerEvent,System.Int32,System.Int32,System.String,System.Nullable{System.Int32},System.Int32,System.Int32,System.Int32,System.Int32,System.String,System.Nullable{System.Int32})">
+        <member name="M:s2protocol.NET.Models.SUnitBornEvent.#ctor(s2protocol.NET.Models.TrackerEvent,System.Int32,System.Int32,System.Int32,System.String)">
              <summary>Record <c>SUnitBornEvent</c> constructor</summary>
             
         </member>
@@ -1935,7 +1923,7 @@
              <summary>Record <c>SUnitDiedEvent</c> SUnitDiedEvent</summary>
             
         </member>
-        <member name="M:s2protocol.NET.Models.SUnitDiedEvent.#ctor(s2protocol.NET.Models.TrackerEvent,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Nullable{System.Int32},System.Nullable{System.Int32})">
+        <member name="M:s2protocol.NET.Models.SUnitDiedEvent.#ctor(s2protocol.NET.Models.TrackerEvent,System.Int32,System.Int32,System.Int32,System.Nullable{System.Int32})">
             <summary>Record <c>SUnitDiedEvent</c> constructor</summary>
             <comment>You may receive a SUnitDiedEvent after either a UnitInit or UnitBorn event for the corresponding unit tag.</comment>
             <comment>There's a known issue where revived units are not tracked, and placeholder units track death but not birth.</comment>
@@ -2008,7 +1996,7 @@
              <summary>Record <c>SUnitInitEvent</c> SUnitInitEvent</summary>
             
         </member>
-        <member name="M:s2protocol.NET.Models.SUnitInitEvent.#ctor(s2protocol.NET.Models.TrackerEvent,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.String)">
+        <member name="M:s2protocol.NET.Models.SUnitInitEvent.#ctor(s2protocol.NET.Models.TrackerEvent,System.Int32,System.Int32,System.Int32,System.String)">
              <summary>Record <c>SUnitInitEvent</c> constructor</summary>
              <comment>NNet.Replay.Tracker.SUnitInitEvent events appear for units under construction. When complete you'll see a NNet.Replay.Tracker.SUnitDoneEvent with the same unit tag.</comment>
             
@@ -2030,20 +2018,8 @@
              <summary>Event ControlPlayerId</summary>
             
         </member>
-        <member name="P:s2protocol.NET.Models.SUnitInitEvent.Y">
-             <summary>Event Y</summary>
-            
-        </member>
-        <member name="P:s2protocol.NET.Models.SUnitInitEvent.X">
-             <summary>Event X</summary>
-            
-        </member>
-        <member name="P:s2protocol.NET.Models.SUnitInitEvent.UpkeepPlayerId">
-             <summary>Event UpkeepPlayerId</summary>
-            
-        </member>
         <member name="P:s2protocol.NET.Models.SUnitInitEvent.UnitTypeName">
-             <summary>Event UnitTypeName</summary>
+             <summary>Event Y</summary>
             
         </member>
         <member name="P:s2protocol.NET.Models.SUnitInitEvent.SUnitDoneEvent">
@@ -2178,12 +2154,10 @@
             <comment>Tracker events are new in version 2.0.8, they do not exist in replays recorded with older versions of the game.</comment>
             
         </member>
-        <member name="M:s2protocol.NET.Models.TrackerEvent.#ctor(s2protocol.NET.Models.TrackerEvent)">
+        <member name="P:s2protocol.NET.Models.TrackerEvent.PlayerId">
             <summary>Record <c>Event</c> base clone constructor</summary>
             <comment>Tracker events are new in version 2.0.8, they do not exist in replays recorded with older versions of the game.</comment>
             
-        </member>
-        <member name="P:s2protocol.NET.Models.TrackerEvent.PlayerId">
              <summary>Event PlayerId</summary>
             
         </member>

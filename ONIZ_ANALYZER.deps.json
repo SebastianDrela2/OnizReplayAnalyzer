@@ -187,6 +187,7 @@
           }
         }
       },
+      "Microsoft.CSharp/4.7.0": {},
       "Microsoft.Extensions.Configuration/6.0.0": {
         "dependencies": {
           "Microsoft.Extensions.Configuration.Abstractions": "6.0.0",
@@ -532,6 +533,18 @@
           "lib/netstandard2.0/NSubstitute.dll": {
             "assemblyVersion": "4.0.0.0",
             "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "pythonnet/3.0.1": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0",
+          "System.Reflection.Emit": "4.3.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Python.Runtime.dll": {
+            "assemblyVersion": "3.0.1.0",
+            "fileVersion": "3.0.1.0"
           }
         }
       },
@@ -1286,7 +1299,8 @@
           "IronPython": "2.7.12",
           "IronPython.StdLib": "2.7.12",
           "Microsoft.Extensions.Logging": "6.0.0",
-          "Microsoft.Extensions.Logging.Console": "6.0.0"
+          "Microsoft.Extensions.Logging.Console": "6.0.0",
+          "pythonnet": "3.0.1"
         },
         "runtime": {
           "s2protocol.NET.dll": {}
@@ -1362,6 +1376,13 @@
       "sha512": "sha512-lv6YZoK0B4yWykMq5b9grZXtIbTj+OWu4sVN9GDpdgV6zffu64m4d5CW8KSjfSl9rB8VU649x1NZvhoU67hCDg==",
       "path": "livecharts.wpf/0.9.7",
       "hashPath": "livecharts.wpf.0.9.7.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
     },
     "Microsoft.Extensions.Configuration/6.0.0": {
       "type": "package",
@@ -1516,6 +1537,13 @@
       "sha512": "sha512-CgRn/pPzB341/axAUCf+p7ZptiN1C0KJW1C412Y1OofTzEqBhV/uQBlXCzZ/XqhZF79YFpvwn2vMmZ1P3ls6kA==",
       "path": "nsubstitute/4.0.0",
       "hashPath": "nsubstitute.4.0.0.nupkg.sha512"
+    },
+    "pythonnet/3.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FYgnTnIUDE/9CC1m/046UvevJW9RYLtvyc98pycc+76lFG+MdTlwkKoG63RkvPKgbqlJJSMqu8zxeiqHS8vR9Q==",
+      "path": "pythonnet/3.0.1",
+      "hashPath": "pythonnet.3.0.1.nupkg.sha512"
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
       "type": "package",
