@@ -309,7 +309,7 @@
              <summary>Record <c>GameEvents</c> GameEvents</summary>
             
         </member>
-        <member name="M:s2protocol.NET.Models.GameEvents.#ctor(System.Collections.Generic.ICollection{s2protocol.NET.Models.GameEvent},System.Collections.Generic.ICollection{s2protocol.NET.Models.SBankKeyEvent},System.Collections.Generic.ICollection{s2protocol.NET.Models.SBankSignatureEvent})">
+        <member name="M:s2protocol.NET.Models.GameEvents.#ctor(System.Collections.Generic.ICollection{s2protocol.NET.Models.GameEvent},System.Collections.Generic.ICollection{s2protocol.NET.Models.SBankKeyEvent},System.Collections.Generic.ICollection{s2protocol.NET.Models.SBankSignatureEvent},System.Collections.Generic.ICollection{s2protocol.NET.Models.SCameraUpdateEvent},System.Collections.Generic.ICollection{s2protocol.NET.Models.STriggerSoundtrackDoneEvent},System.Collections.Generic.ICollection{s2protocol.NET.Models.STriggerChatMessageEvent})">
              <summary>Record <c>GameEvents</c> constructor</summary>
             
         </member>
@@ -322,6 +322,18 @@
             
         </member>
         <member name="P:s2protocol.NET.Models.GameEvents.SBankSignatureEvents">
+             <summary>GetGameEvents of spcified Type</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameEvents.SCameraUpdateEvents">
+             <summary>GetGameEvents of spcified Type</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameEvents.STriggerSoundtrackDoneEvents">
+             <summary>GetGameEvents of spcified Type</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.GameEvents.STriggerChatMessageEvents">
              <summary>GetGameEvents of spcified Type</summary>
             
         </member>
@@ -1801,13 +1813,23 @@
              <summary>Record <c>TrackerEvents</c> TrackerEvents</summary>
             
         </member>
-        <member name="M:s2protocol.NET.Models.TrackerEvents.#ctor(s2protocol.NET.Models.SUnitBornEvent[],s2protocol.NET.Models.SUnitDiedEvent[],s2protocol.NET.Models.SUnitOwnerChangeEvent[],s2protocol.NET.Models.SUnitTypeChangeEvent[],s2protocol.NET.Models.SUpgradeEvent[],s2protocol.NET.Models.SUnitInitEvent[],s2protocol.NET.Models.SUnitDoneEvent[])">
+        <member name="M:s2protocol.NET.Models.TrackerEvents.#ctor(s2protocol.NET.Models.SPlayerSetupEvent[],s2protocol.NET.Models.SPlayerStatsEvent[],s2protocol.NET.Models.SUnitBornEvent[],s2protocol.NET.Models.SUnitDiedEvent[],s2protocol.NET.Models.SUnitOwnerChangeEvent[],s2protocol.NET.Models.SUnitTypeChangeEvent[],s2protocol.NET.Models.SUpgradeEvent[],s2protocol.NET.Models.SUnitInitEvent[],s2protocol.NET.Models.SUnitDoneEvent[])">
              <summary>Record <c>TrackerEvents</c> constructor</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.TrackerEvents.SPlayerSetupEvents">
+             <summary>Event ControlPlayerId</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Models.TrackerEvents.SPlayerStatsEvents">
+             <summary>Event ControlPlayerId</summary>
             
         </member>
         <member name="P:s2protocol.NET.Models.TrackerEvents.SUnitBornEvents">
              <summary>Event ControlPlayerId</summary>
             
+             <summary>Event ControlPlayerId</summary>
+                
         </member>
         <member name="P:s2protocol.NET.Models.TrackerEvents.SUnitDiedEvents">
              <summary>Event ControlPlayerId</summary>
@@ -1866,7 +1888,7 @@
              <comment>NNet.Replay.Tracker.SUnitBornEvent events appear for units that are created fully constructed.</comment>
             
         </member>
-        <member name="M:s2protocol.NET.Models.SUnitBornEvent.#ctor(s2protocol.NET.Models.TrackerEvent,System.Int32,System.Int32,System.Int32,System.String)">
+        <member name="M:s2protocol.NET.Models.SUnitBornEvent.#ctor(s2protocol.NET.Models.TrackerEvent,System.Int32,System.Int32,System.Int32,System.Int32,System.String)">
              <summary>Record <c>SUnitBornEvent</c> constructor</summary>
             
         </member>
@@ -1923,7 +1945,7 @@
              <summary>Record <c>SUnitDiedEvent</c> SUnitDiedEvent</summary>
             
         </member>
-        <member name="M:s2protocol.NET.Models.SUnitDiedEvent.#ctor(s2protocol.NET.Models.TrackerEvent,System.Int32,System.Int32,System.Int32,System.Nullable{System.Int32})">
+        <member name="M:s2protocol.NET.Models.SUnitDiedEvent.#ctor(s2protocol.NET.Models.TrackerEvent,System.Int32,System.Int32,System.Int32,System.Nullable{System.Int32},System.Nullable{System.Int32})">
             <summary>Record <c>SUnitDiedEvent</c> constructor</summary>
             <comment>You may receive a SUnitDiedEvent after either a UnitInit or UnitBorn event for the corresponding unit tag.</comment>
             <comment>There's a known issue where revived units are not tracked, and placeholder units track death but not birth.</comment>
@@ -2154,10 +2176,12 @@
             <comment>Tracker events are new in version 2.0.8, they do not exist in replays recorded with older versions of the game.</comment>
             
         </member>
-        <member name="P:s2protocol.NET.Models.TrackerEvent.PlayerId">
+        <member name="M:s2protocol.NET.Models.TrackerEvent.#ctor(s2protocol.NET.Models.TrackerEvent)">
             <summary>Record <c>Event</c> base clone constructor</summary>
             <comment>Tracker events are new in version 2.0.8, they do not exist in replays recorded with older versions of the game.</comment>
             
+        </member>
+        <member name="P:s2protocol.NET.Models.TrackerEvent.PlayerId">
              <summary>Event PlayerId</summary>
             
         </member>
@@ -2185,17 +2209,18 @@
              <summary>Class <c>ReplayDecoder</c> Starcaft2 replay decoding</summary>
             
         </member>
-        <member name="F:s2protocol.NET.ReplayDecoder.timer">
-            <summary>Creates the decoder</summary>
-        </member>
         <member name="F:s2protocol.NET.ReplayDecoder.timers">
             <summary>Creates the decoder</summary>
         </member>
-        <member name="M:s2protocol.NET.ReplayDecoder.#ctor(System.String,System.Nullable{Microsoft.Extensions.Logging.LogLevel})">
+        <member name="P:s2protocol.NET.ReplayDecoder.filename">
+            <summary>
+            <summary> dang </summary>
+            </summary>
+        </member>
+        <member name="M:s2protocol.NET.ReplayDecoder.#ctor(System.String)">
             <summary>Creates the decoder</summary>
             <param name="appPath">The path to the executing assembly</param>
             <example>Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location</example>
-            <param name="logLevel">Optional LogLevel</param>
         </member>
         <member name="M:s2protocol.NET.ReplayDecoder.DecodeParallel(System.Collections.Generic.ICollection{System.String},System.Int32,s2protocol.NET.ReplayDecoderOptions,System.Threading.CancellationToken)">
             <summary>Decode Starcraft2 replays
@@ -2206,19 +2231,29 @@
             <param name="options">Optional decoding options</param>
             <param name="token">Optional CancellationToken</param>
         </member>
-        <member name="M:s2protocol.NET.ReplayDecoder.DecodeParallelWithErrorReport(System.Collections.Generic.ICollection{System.String},System.Int32,s2protocol.NET.ReplayDecoderOptions,System.Threading.CancellationToken)">
+        <member name="M:s2protocol.NET.ReplayDecoder.DecodeParallelWithErrorReport(System.Collections.Generic.ICollection{System.String},System.Int32,s2protocol.NET.ReplayDecoderOptions,System.Threading.CancellationToken,System.String)">
             <summary>Decode Starcraft2 replays and report potential errors
             </summary>
             <param name="replayPaths">The paths to the Starcraft2 replays</param>
             /// <param name="threads">Number of parallelism</param>
             <param name="options">Optional decoding options</param>
             <param name="token">Optional CancellationToken</param>
+            <param name="folderpath">Optional Path Folder</param>
         </member>
-        <member name="M:s2protocol.NET.ReplayDecoder.DecodeAsync(System.String,s2protocol.NET.ReplayDecoderOptions,System.Threading.CancellationToken)">
+        <member name="M:s2protocol.NET.ReplayDecoder.RunTrackers(System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="replay_path"></param>
+            <param name="folder_path"></param>
+            <returns></returns>
+        </member>
+        <member name="M:s2protocol.NET.ReplayDecoder.DecodeAsync(System.String,s2protocol.NET.ReplayDecoderOptions,System.String,System.Threading.CancellationToken)">
             <summary>Decode Starcraft2 replay</summary>
             <param name="replayPath">The path to the Starcraft2 replay</param>
             <param name="options">Optional decoding options</param>
             <param name="token">Optional CancellationToken</param>
+            <param name="folderpath">Optional Folder path</param>
         </member>
         <member name="M:s2protocol.NET.ReplayDecoder.Dispose">
              <summary>Shutting down Python engine and call GC.Collect()</summary>
@@ -2260,12 +2295,16 @@
              <summary>Record <c>Sc2Replay</c> Starcaft2 replay model</summary>
             
         </member>
-        <member name="M:s2protocol.NET.Sc2Replay.#ctor(System.Object,System.String)">
+        <member name="M:s2protocol.NET.Sc2Replay.#ctor(System.Object,System.String,System.String)">
              <summary>Record <c>Sc2Replay</c> constructor</summary>
             
         </member>
         <member name="P:s2protocol.NET.Sc2Replay.FileName">
              <summary>Replay FileName</summary>
+            
+        </member>
+        <member name="P:s2protocol.NET.Sc2Replay.TrackerFolderPath">
+             <summary>Replay Header infos</summary>
             
         </member>
         <member name="P:s2protocol.NET.Sc2Replay.Header">
